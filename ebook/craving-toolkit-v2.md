@@ -118,6 +118,25 @@ It means you do not have to panic.
 This is important.
 Many addictive behaviors stop being truly pleasurable long before they stop being compelling.
 
+This is one of the most confusing parts of addiction for people on the inside. They think:
+
+> If I’m not even enjoying this properly anymore, why do I still want it so much?
+
+A useful answer comes from addiction neuroscience, including writers like Anna Lembke: the brain’s reward system can become dysregulated by repeated overstimulation. In simple terms, after repeated chasing of intense reward, the brain often swings to the other side of the balance.
+
+So the person is no longer only chasing pleasure.
+They may now be chasing relief from the painful after-state of too much stimulation.
+
+That means a craving may not be saying:
+- I want joy
+
+It may really be saying:
+- I want the agitation to stop
+- I want the emptiness to stop
+- I want the restlessness to stop
+- I want the pressure to stop
+- I want to feel normal again
+
 A lot of the time, the person is not chasing joy.
 They are chasing:
 - numbness
@@ -149,6 +168,9 @@ Maybe the answer is:
 - give me a sense of control
 
 That answer matters. It helps you see the real function of the craving instead of just the surface object.
+
+It also helps explain a brutal reality of addiction:
+people often end up doing something they do not even deeply enjoy anymore, simply because their brain has learned that it offers fast relief from discomfort.
 
 ### Addiction is not one simple thing
 Different people explain addiction in different ways.
@@ -220,6 +242,12 @@ It is weaker when you are:
 - alone with access
 - already bargaining
 - already halfway into the ritual
+
+There is another reason willpower gets beaten so often: repeated overstimulation changes what feels rewarding.
+When your brain gets used to fast, intense reward, ordinary life can temporarily feel flatter by comparison. Quiet feels dull. Stillness feels irritating. Simple pleasures feel weak. The addictive option stands out in bright colors while healthier options look emotionally underpowered.
+
+That does not mean your character has disappeared.
+It means your reward system has been trained in a way that now works against you.
 
 A lot of addictive behavior happens long before the “final act.”
 It starts with smaller permissions:
@@ -1010,12 +1038,52 @@ This does not mean you must tell everyone everything.
 It means you should reduce the gap between what is real and what is spoken.
 
 The more secret the behavior, the more powerful its private gravity often becomes.
+A hidden life lets the craving grow without interruption. It protects fantasy, delays accountability, and makes the addictive behavior feel like a private escape hatch that no one can touch.
+
+This is one reason honesty matters so much in recovery. Honesty is not only morally good. It is strategically useful. It breaks the sealed environment that addiction prefers.
 
 ### Fewer triggers within reach
 If your environment is full of easy cues, access, and temptation, you are making recovery harder than it needs to be.
 
 There is nothing noble about living inside a self-made trap.
 Reduce unnecessary exposure where you can.
+
+This is where environment design matters more than ego likes to admit. Many people secretly believe that if they were truly strong, they would not need blockers, distance, accountability, or friction. But recovery often gets better when the environment does some of the work.
+
+Examples:
+- remove saved payment methods
+- delete delivery apps
+- move your phone out of the bedroom
+- block triggering sites
+- avoid carrying excess cash
+- avoid being alone with access at your worst times
+- change routes, routines, or rooms that are strongly linked to the behavior
+
+This kind of precommitment is sometimes called self-binding. The idea is simple: while calm, you make choices that protect you when you are not calm.
+
+### Reset periods and recalibration
+One useful idea from addiction treatment and modern recovery writing is that periods of abstinence or deliberate stepping back can help recalibrate the reward system.
+
+What does that mean in plain language?
+If you have spent a long time flooding your brain with a fast, intense reward, ordinary life can start to feel emotionally gray. During a reset period, people often notice the opposite of what they expected at first:
+- more irritation
+- more restlessness
+- more emptiness
+- more boredom
+- stronger urges
+
+That does not necessarily mean the reset is failing.
+It may mean your system is no longer getting the old stimulation and is temporarily protesting.
+
+If the person stays steady long enough, things often begin to shift:
+- urges become less constant
+- ordinary pleasures feel a little more available
+- the nervous system becomes less extreme
+- the addictive behavior loses some of its false shine
+
+A reset is not magic. It does not solve trauma, relationships, grief, or identity. But it can reduce noise and help a person see more clearly what the addiction has been doing.
+
+For some people, a reset means full abstinence from the problem behavior for a defined period. For others, it may mean a strong reduction plus major friction and support. In severe substance dependence, this may require medical guidance. Safety matters.
 
 ### Meaning and identity
 If your whole life becomes “not doing the bad thing,” recovery gets thin and joyless.
@@ -1299,6 +1367,7 @@ Some of the practical ideas in this guide are aligned with or inspired by establ
 - SMART Recovery tools such as delay, escape, disputing urges, substitution, and cost-benefit analysis
 - motivational interviewing’s compassionate, non-shaming approach to change
 - habit-loop and learning-based views of addiction
+- Anna Lembke’s framing of the pleasure-pain balance, overstimulation, reset periods, and self-binding in *Dopamine Nation*
 
 ---
 

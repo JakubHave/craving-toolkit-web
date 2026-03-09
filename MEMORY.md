@@ -14,3 +14,4 @@
 - First ebook manuscript draft now exists at `ebook/craving-toolkit-v1.md`.
 - Expanded second ebook manuscript draft now exists at `ebook/craving-toolkit-v2.md`.
 - Working notes from Anna Lembke's *Dopamine Nation* are saved at `research/dopamine-nation-notes.md` for strengthening the manuscript.
+- `ebook/craving-toolkit-v2.md` now includes Lembke-influenced framing on pleasure-pain balance, overstimulation, reset periods, honesty, and self-binding.
