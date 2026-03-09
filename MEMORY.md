@@ -13,3 +13,4 @@
 - Research notes for the addiction-recovery ebook now exist under `research/`, synthesizing online sources connected to key books/authors and official recovery/treatment resources.
 - First ebook manuscript draft now exists at `ebook/craving-toolkit-v1.md`.
 - Expanded second ebook manuscript draft now exists at `ebook/craving-toolkit-v2.md`.
+- Working notes from Anna Lembke's *Dopamine Nation* are saved at `research/dopamine-nation-notes.md` for strengthening the manuscript.
