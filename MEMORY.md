@@ -11,3 +11,4 @@
 - Current product idea: a website selling a practical addiction-recovery ebook/PDF, possibly with an audiobook, with Stripe payments.
 - Initial project docs now exist under `project/` covering positioning, product outline, name ideas, landing-page copy, and implementation architecture.
 - Research notes for the addiction-recovery ebook now exist under `research/`, synthesizing online sources connected to key books/authors and official recovery/treatment resources.
+- First ebook manuscript draft now exists at `ebook/craving-toolkit-v1.md`.
