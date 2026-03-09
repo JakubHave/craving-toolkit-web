@@ -9,3 +9,4 @@
 - He has been clean for 10+ years after dealing with overeating, alcohol, and drugs.
 - He wants to create paid recovery-focused materials based on lived experience, reading, and rehab/treatment background.
 - Current product idea: a website selling a practical addiction-recovery ebook/PDF, possibly with an audiobook, with Stripe payments.
+- Initial project docs now exist under `project/` covering positioning, product outline, name ideas, landing-page copy, and implementation architecture.
