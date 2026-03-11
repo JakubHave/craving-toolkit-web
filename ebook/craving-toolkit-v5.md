@@ -63,12 +63,6 @@ You do not need to feel strong.
 You just need enough honesty to admit:
 
 **I need tools for the moment when my brain stops feeling trustworthy.**
-You do not need a perfect past.
-You do not need to feel strong.
-
-You just need enough honesty to admit:
-
-**I need tools for the moment when my brain stops feeling trustworthy.**
 
 ## How to use this guide
 This is not a book you need to read in one perfect sitting.
