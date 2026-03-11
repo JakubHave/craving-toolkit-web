@@ -16,4 +16,5 @@
 - Working notes from Anna Lembke's *Dopamine Nation* are saved at `research/dopamine-nation-notes.md` for strengthening the manuscript.
 - `ebook/craving-toolkit-v2.md` now includes Lembke-influenced framing on pleasure-pain balance, overstimulation, reset periods, honesty, and self-binding.
 - `ebook/craving-toolkit-v3.md` exists as a more cohesive editorial pass of the manuscript.
+- `ebook/craving-toolkit-v4.md` now integrates both Anna Lembke (pleasure-pain balance, reset periods, self-binding) and Marc Lewis (learning model, neuroplasticity, recovery as relearning) more deeply.
 - Working notes from Marc Lewis's *The Biology of Desire* are saved at `research/the-biology-of-desire-notes.md` for later manuscript integration.
