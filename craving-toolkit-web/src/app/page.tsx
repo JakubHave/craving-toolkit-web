@@ -61,6 +61,35 @@ export default function LandingPage() {
         </div>
       </section>
 
+      
+      {/* What's Inside Section */}
+      <section className="py-20 bg-slate-50 border-y border-slate-100">
+        <div className="max-w-4xl mx-auto px-6">
+          <h2 className="text-3xl font-bold mb-8 text-center">What is inside the guide?</h2>
+          <p className="text-xl text-center text-slate-600 mb-12 max-w-2xl mx-auto">
+            A concise, fluff-free PDF packed with actionable frameworks. Here is exactly what is covered across the 15 chapters and 6 worksheets:
+          </p>
+          <div className="grid md:grid-cols-2 gap-8">
+            <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100">
+              <h3 className="font-bold text-xl mb-4 text-emerald-800">1. Emergency Tools & Craving Mechanics</h3>
+              <p className="text-slate-600 text-lg">Understand why cravings defy logic. Learn exactly what to do in the first 10 minutes, how to "urge surf," and how to shut down the addictive voice.</p>
+            </div>
+            <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100">
+              <h3 className="font-bold text-xl mb-4 text-emerald-800">2. Triggers & Personality Styles</h3>
+              <p className="text-slate-600 text-lg">Detailed breakdowns of different triggers (stress, loneliness, boredom), different addiction patterns, and how your specific personality style creates unique weak spots.</p>
+            </div>
+            <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100">
+              <h3 className="font-bold text-xl mb-4 text-emerald-800">3. Breaking the Relapse Spiral</h3>
+              <p className="text-slate-600 text-lg">How to handle shame, slips, and the dangerous "screw it" mentality. Learn the daily practices that actually weaken your cravings over the long term.</p>
+            </div>
+            <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100">
+              <h3 className="font-bold text-xl mb-4 text-emerald-800">4. Six Practical Worksheets</h3>
+              <p className="text-slate-600 text-lg">Includes the Habit Loop Mapper, Craving Log, Cost-Benefit Check, Top 5 Addictive Lies, Slip Review, and an Emergency Craving Card to build your personal plan.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Author Section */}
       <section className="py-20 bg-emerald-900 text-emerald-50">
         <div className="max-w-3xl mx-auto px-6 text-center">
