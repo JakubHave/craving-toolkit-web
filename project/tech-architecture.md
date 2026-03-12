@@ -4,97 +4,42 @@
 Build a simple, trustworthy product site that sells a PDF and optionally an audiobook, with Stripe payments and automatic fulfillment.
 
 ## Recommended Stack
-- Next.js
+- Next.js (App Router)
 - TypeScript
 - Tailwind CSS
 - Stripe Checkout
-- Stripe Webhooks
-- Postgres via Supabase or Neon (optional for V1)
-- Resend for transactional email
-- Object storage for downloadable files
 - Vercel for deployment
 
 ## V1 Principle
 Keep V1 simple. The main job is to validate demand and make delivery reliable.
 
-## V1 Functional Requirements
-- landing page
-- product page / checkout CTA
-- Stripe payment flow
-- success page
-- automatic delivery of PDF after payment
-- optional email with download link
-- simple analytics
-- legal pages: terms, privacy, disclaimer
-
 ## Simplest Implementation Path
-### Option A: Very Lean
-- static Next.js site
-- Stripe payment link or hosted Checkout
-- success redirect with signed download link
-- webhook sends email with delivery link
-- no user accounts
+### Option A: Ultra-Lean Server-Side Verification
+- static Next.js landing page
+- Stripe Checkout session
+- success redirect with secure server-side verification (`/download?session_id=...`)
+- No external email service (Stripe handles receipt, website handles instant download)
+- No user accounts or database needed for V1
 
 Pros:
 - fastest to ship
-- fewer moving parts
-
-Cons:
-- less flexible later
-
-### Option B: Slightly More Structured
-- Next.js app router
-- Stripe Checkout session
-- webhook stores purchase record in DB
-- email delivery + protected download route
-
-Pros:
-- better audit trail
-- easier to expand later
-
-Cons:
-- slightly more setup
-
-## Recommended Choice
-Start with **Option B** if you want a clean engineering foundation without overbuilding.
+- fewest moving parts (zero cost beyond domain)
+- no email deliverability headaches
 
 ## Core Pages
 - `/` landing page
-- `/buy` or checkout CTA section on homepage
-- `/success` payment success page
-- `/download/[token]` secure-ish file delivery route
+- `/success` (payment success page, verifies Stripe session and serves PDF)
 - `/privacy`
 - `/terms`
-- `/disclaimer`
-
-## Data Model (Optional V1 DB)
-### purchases
-- id
-- stripe_session_id
-- stripe_customer_email
-- product_type
-- amount
-- currency
-- status
-- created_at
-
-### download_tokens
-- id
-- purchase_id
-- token
-- expires_at
-- download_count
-- created_at
 
 ## Stripe Flow
 1. user clicks buy
-2. create Stripe Checkout session
+2. redirect to Stripe Checkout
 3. user pays
-4. Stripe webhook confirms checkout completion
-5. system stores purchase record
-6. system creates download token
-7. system emails customer the download link
-8. success page also shows access instructions
+4. Stripe redirects user to `/success?session_id=cs_live_...`
+5. Next.js server securely calls Stripe API to verify the `session_id` is paid
+6. If paid, page renders the "Download PDF" button or directly serves the file.
+7. Stripe automatically emails the receipt (which we can configure to include the same success link).
 
 ## File Delivery Options
 ### Option 1: Signed storage URLs
