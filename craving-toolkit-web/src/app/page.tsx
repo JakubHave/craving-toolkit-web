@@ -116,8 +116,14 @@ export default function LandingPage() {
             <div className="p-8">
               <h3 className="text-2xl font-bold mb-2">The Complete Guide</h3>
               <p className="text-slate-500 mb-6">Everything you need to interrupt the spiral.</p>
+              <div className="mb-3 flex items-center gap-3">
+                <span className="text-5xl font-extrabold text-slate-900">€19</span>
+                <span className="text-2xl font-bold text-slate-400 line-through">€24</span>
+              </div>
               <div className="mb-8">
-                <span className="text-5xl font-extrabold">€24</span>
+                <span className="inline-block bg-emerald-100 text-emerald-800 text-sm font-bold px-3 py-1 rounded-full border border-emerald-200">
+                  New Release Special: Price increases soon
+                </span>
               </div>
               
               <ul className="space-y-4 mb-8">
