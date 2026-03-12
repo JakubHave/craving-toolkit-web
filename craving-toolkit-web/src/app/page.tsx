@@ -134,7 +134,7 @@ export default function LandingPage() {
               </ul>
 
               <a 
-                href="https://gumroad.com" 
+                href="https://jakubhaven.gumroad.com/l/lqdlu" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="block w-full text-center bg-emerald-600 text-white rounded-xl py-4 font-bold text-xl hover:bg-emerald-700 transition shadow-lg shadow-emerald-200"
