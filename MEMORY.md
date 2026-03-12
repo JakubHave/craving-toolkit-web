@@ -19,6 +19,6 @@
 - `ebook/craving-toolkit-v4.md` now integrates both Anna Lembke (pleasure-pain balance, reset periods, self-binding) and Marc Lewis (learning model, neuroplasticity, recovery as relearning) more deeply.
 - `ebook/craving-toolkit-v5.md` is the previous draft.
 - `ebook/craving-toolkit-v6.md` is the previous synthesis.
-- `ebook/craving-toolkit-v7.md` is the final, comprehensive edition directly integrating the full text of all 5 books (Lembke, Lewis, Brewer, Maté, Duhigg) using the 1M token context window.
+- `ebook/craving-toolkit-v10.md` is the final polished draft. It uses v8 as the base, slightly tightens the prose for conciseness, and integrates the "personal bottom" and "strong counter-action" notes.
 - Working notes from Marc Lewis's *The Biology of Desire* are saved at `research/the-biology-of-desire-notes.md`.
 - Working notes from Judson Brewer's *The Craving Mind* are saved at `research/the-craving-mind-notes.md`.

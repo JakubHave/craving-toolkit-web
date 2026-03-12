@@ -25,7 +25,7 @@ export default function LandingPage() {
             Get the guide <ArrowRight className="w-5 h-5" />
           </a>
         </div>
-        <p className="mt-4 text-sm text-slate-500">Instant PDF download. Secure checkout via Stripe.</p>
+        <p className="mt-4 text-sm text-slate-500">Instant PDF download. Secure checkout via Gumroad.</p>
       </header>
 
       {/* Problem Section */}
@@ -98,12 +98,15 @@ export default function LandingPage() {
                 <li className="flex items-center gap-3 text-slate-700"><CheckCircle2 className="w-5 h-5 text-emerald-500" /> Personal anti-craving plan templates</li>
               </ul>
 
-              <form action="/api/checkout" method="POST">
-                <button type="submit" className="w-full bg-emerald-600 text-white rounded-xl py-4 font-bold text-lg hover:bg-emerald-700 transition shadow-lg shadow-emerald-200">
-                  Buy Now & Download
-                </button>
-              </form>
-              <p className="text-center text-sm text-slate-400 mt-4">Secure payment powered by Stripe.</p>
+              <a 
+                href="https://gumroad.com" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="block w-full text-center bg-emerald-600 text-white rounded-xl py-4 font-bold text-lg hover:bg-emerald-700 transition shadow-lg shadow-emerald-200"
+              >
+                Buy Now & Download
+              </a>
+              <p className="text-center text-sm text-slate-400 mt-4">Secure payment, tax, and delivery handled by Gumroad.</p>
             </div>
           </div>
         </div>
