@@ -23,7 +23,7 @@ When you are in a "hot state"—stressed, ashamed, lonely, or triggered—your b
 Instead of willpower, you need **structure and emergency tools**. Here are the most effective ways to break the automatic loop in the first 10 minutes.
 
 ### Tool 1: Delay
-Tell yourself: *"I am not deciding forever. I am waiting 10 minutes."*
+Tell yourself: "I am not deciding forever. I am waiting 10 minutes."
 
 This matters because cravings hate delay. The urge wants speed. It wants automatic action. It wants to move before your wiser, logical self catches up. Delay disrupts the automatic loop, creates space between the urge and the behavior, and lowers the chance of impulsive follow-through. It reminds you that urgency is not the same as necessity.
 
