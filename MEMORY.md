@@ -22,3 +22,9 @@
 - `ebook/craving-toolkit-v10.md` is the final polished draft. It uses v8 as the base, slightly tightens the prose for conciseness, and integrates the "personal bottom" and "strong counter-action" notes.
 - Working notes from Marc Lewis's *The Biology of Desire* are saved at `research/the-biology-of-desire-notes.md`.
 - Working notes from Judson Brewer's *The Craving Mind* are saved at `research/the-craving-mind-notes.md`.
+
+## Project Status: LAUNCHED
+- The ebook "Craving Toolkit" is finalized (v10).
+- The Next.js landing page is deployed.
+- Gumroad integration is live for global tax-compliant sales.
+- The website is officially live at **https://www.cravingtoolkit.com/**.
