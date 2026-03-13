@@ -29,27 +29,10 @@ This matters because cravings hate delay. The urge wants speed. It wants automat
 
 If 10 minutes feels impossible, start with 3 minutes. Then do another 3. Then another. A lot of recovery is built in small, repeated delays.
 
-### Tool 2: Leave the Environment
-If the trigger is around you, get out immediately. Put physical distance between yourself and the addictive behavior.
-* Leave the kitchen.
-* Step out of the bar or the room where you normally spiral.
-* Put distance between yourself and your phone or laptop.
-
-If leaving the physical space helps break the spell, leave. Do not try to sit there and "be strong."
-
-### Tool 3: The Strong Counter-Action
+### Tool 2: The Strong Counter-Action
 Another helpful strategy is to respond to an intense craving with a deliberate, strong counter-action. Instead of passively enduring the urge, actively interrupt the pattern.
 
-Use short bursts of vigorous physical activity—such as 20 squats, push-ups, or a fast sprint. The physical effort redirects attention, releases tension, and creates a clear mental break. By consistently responding to a craving with a challenging activity, you begin to change the internal association. Instead of leading toward the addictive behavior, the craving becomes linked with effort and discipline.
-
-### Tool 4: Regulate the Body
-Basic physical destabilization makes cravings significantly worse. Are you dehydrated? Are you underfed? Are you exhausted?
-Drink a large glass of water. Eat something grounding if you haven't eaten. Splash cold water on your face. 
-
-### Tool 5: Say the Truth Out Loud
-Say: *"I am craving right now. I do not trust my brain right now."*
-
-Secrecy breeds addiction; spoken truth breaks the momentum. If you have a safe person, text them immediately: *"I'm having a strong urge. Please stay with me for 10 minutes."* Once a lie or a craving becomes visible to someone else, it loses a massive amount of its power.
+Use short bursts of vigorous physical activity—such as 20 squats, push-ups, or a fast sprint. The physical effort redirects attention, releases tension, and creates a clear mental break. By consistently responding to a craving with a challenging activity, you begin to change the internal association. Instead of leading toward the addictive behavior, the craving becomes linked with something undesired.
 
 ***
 
