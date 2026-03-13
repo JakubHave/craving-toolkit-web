@@ -4,8 +4,9 @@ import Link from "next/link";
 import { ArrowLeft, BookOpen } from "lucide-react";
 import { Metadata } from "next";
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
-  const article = articles.find((a) => a.slug === params.slug);
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const resolvedParams = await params;
+  const article = articles.find((a) => a.slug === resolvedParams.slug);
   if (!article) return { title: "Article Not Found | Craving Toolkit" };
   
   return {
@@ -21,8 +22,9 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function ArticlePage({ params }: { params: { slug: string } }) {
-  const article = articles.find((a) => a.slug === params.slug);
+export default async function ArticlePage({ params }: { params: Promise<{ slug: string }> }) {
+  const resolvedParams = await params;
+  const article = articles.find((a) => a.slug === resolvedParams.slug);
   if (!article) notFound();
 
   // Simple markdown-ish parser for V1 (handles bold, italics, lists, and headers)
