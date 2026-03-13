@@ -6,7 +6,7 @@ export default function LandingPage() {
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans selection:bg-emerald-200">
       {/* Navigation */}
       <nav className="border-b border-emerald-100 bg-white/80 backdrop-blur-md sticky top-0 z-50">
-        <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
+        <div className="max-w-3xl mx-auto px-6 h-16 flex items-center justify-between">
           <div className="font-bold text-xl tracking-tight text-emerald-800">Craving Toolkit</div>
           <div className="flex gap-6">
             <Link href="/articles" className="text-sm font-medium text-slate-600 hover:text-emerald-700 transition">Articles</Link>
@@ -18,7 +18,7 @@ export default function LandingPage() {
       {/* Hero Section */}
       <header className="relative overflow-hidden bg-gradient-to-b from-emerald-50 via-white to-white pt-20 pb-24">
         <div className="absolute top-0 left-0 w-full h-full bg-[url('/noise.svg')] opacity-[0.03] mix-blend-overlay pointer-events-none"></div>
-        <div className="max-w-5xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center relative z-10">
+        <div className="max-w-3xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center relative z-10">
           <div className="text-left">
             <h1 className="text-5xl md:text-6xl font-extrabold tracking-tight text-slate-900 mb-6 leading-tight">
               Practical tools to fight cravings, <br className="hidden md:block" />
@@ -124,7 +124,7 @@ export default function LandingPage() {
 
       {/* Pricing / Product Section */}
       <section id="pricing" className="py-24 bg-slate-50">
-        <div className="max-w-5xl mx-auto px-6">
+        <div className="max-w-3xl mx-auto px-6">
           <div className="text-center mb-16">
             <h2 className="text-3xl font-bold mb-4">Get the Craving Toolkit</h2>
             <p className="text-lg text-slate-600">You do not need perfect motivation to start. You just need better tools.</p>
