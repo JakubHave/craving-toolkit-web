@@ -29,7 +29,7 @@ This matters because cravings hate delay. The urge wants speed. It wants automat
 
 If 10 minutes feels impossible, start with 3 minutes. Then do another 3. Then another. A lot of recovery is built in small, repeated delays.
 
-### Tool 2: The Strong Counter-Action
+### Tool 2: The Strong Counter-Action:
 Another helpful strategy is to respond to an intense craving with a deliberate, strong counter-action. Instead of passively enduring the urge, actively interrupt the pattern.
 
 Use short bursts of vigorous physical activity—such as 20 squats, push-ups, or a fast sprint. The physical effort redirects attention, releases tension, and creates a clear mental break. By consistently responding to a craving with a challenging activity, you begin to change the internal association. Instead of leading toward the addictive behavior, the craving becomes linked with something undesired.
