@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { CheckCircle2, ArrowRight, Shield, BookOpen, Headphones } from "lucide-react";
+import { CheckCircle2, ArrowRight, Shield, BookOpen } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -39,7 +39,7 @@ export default function LandingPage() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <p className="text-xl text-slate-600 mb-6 leading-relaxed">
-                People say things like "just stay strong" or "focus on your goals." But in a real craving spiral, that often isn't enough. Logic disappears, and old patterns take over.
+                People say things like &quot;just stay strong&quot; or &quot;focus on your goals.&quot; But in a real craving spiral, that often isn&apos;t enough. Logic disappears, and old patterns take over.
               </p>
               <p className="text-xl text-slate-600 leading-relaxed">
                 What people need is something practical for the exact moment the brain stops feeling trustworthy.
@@ -76,7 +76,7 @@ export default function LandingPage() {
           <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100">
               <h3 className="font-bold text-xl mb-4 text-emerald-800">1. Emergency Tools & Craving Mechanics</h3>
-              <p className="text-slate-600 text-lg">Understand why cravings defy logic. Learn exactly what to do in the first 10 minutes, how to "urge surf," and how to shut down the addictive voice.</p>
+              <p className="text-slate-600 text-lg">Understand why cravings defy logic. Learn exactly what to do in the first 10 minutes, how to &quot;urge surf,&quot; and how to shut down the addictive voice.</p>
             </div>
             <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100">
               <h3 className="font-bold text-xl mb-4 text-emerald-800">2. Triggers & Personality Styles</h3>
@@ -84,7 +84,7 @@ export default function LandingPage() {
             </div>
             <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100">
               <h3 className="font-bold text-xl mb-4 text-emerald-800">3. Breaking the Relapse Spiral</h3>
-              <p className="text-slate-600 text-lg">How to handle shame, slips, and the dangerous "screw it" mentality. Learn the daily practices that actually weaken your cravings over the long term.</p>
+              <p className="text-slate-600 text-lg">How to handle shame, slips, and the dangerous &quot;screw it&quot; mentality. Learn the daily practices that actually weaken your cravings over the long term.</p>
             </div>
             <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100">
               <h3 className="font-bold text-xl mb-4 text-emerald-800">4. Six Practical Worksheets</h3>
@@ -98,9 +98,9 @@ export default function LandingPage() {
       <section className="py-20 bg-emerald-900 text-emerald-50">
         <div className="max-w-3xl mx-auto px-6 text-center">
           <Shield className="w-12 h-12 mx-auto mb-6 text-emerald-400 opacity-80" />
-          <h2 className="text-3xl font-bold mb-6">I'm not writing this from theory alone.</h2>
+          <h2 className="text-3xl font-bold mb-6">I&apos;m not writing this from theory alone.</h2>
           <p className="text-xl leading-relaxed text-emerald-100 mb-6">
-            I've lived through addiction, treatment, relapse patterns, shame, and the long work of recovery. I struggled with overeating, alcohol, and drugs, and I've now been clean for over 10 years.
+            I&apos;ve lived through addiction, treatment, relapse patterns, shame, and the long work of recovery. I struggled with overeating, alcohol, and drugs, and I&apos;ve now been clean for over 10 years.
           </p>
           <p className="text-xl leading-relaxed text-emerald-100">
             This guide is my attempt to share the practical tools that actually help when cravings hit — integrating lived experience with the best modern addiction science.

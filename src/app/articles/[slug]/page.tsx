@@ -1,7 +1,7 @@
 import { articles } from "@/data/articles";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { ArrowLeft, BookOpen, CheckCircle2 } from "lucide-react";
+import { ArrowLeft, BookOpen } from "lucide-react";
 import { Metadata } from "next";
 
 export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
@@ -37,7 +37,7 @@ export default function ArticlePage({ params }: { params: { slug: string } }) {
       }
       
       // Handle bold and italic
-      let formattedHtml = paragraph
+      const formattedHtml = paragraph
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
         .replace(/\*(.*?)\*/g, '<em>$1</em>');
         
