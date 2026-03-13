@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { CheckCircle2, ArrowRight, Shield, BookOpen, Headphones } from "lucide-react";
 
 export default function LandingPage() {
@@ -6,8 +7,11 @@ export default function LandingPage() {
       {/* Navigation */}
       <nav className="border-b bg-white">
         <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
-          <div className="font-bold text-xl tracking-tight text-emerald-800">Craving Toolkit</div>
-          <a href="#pricing" className="text-base font-medium text-slate-600 hover:text-emerald-700 transition">Get the Guide</a>
+          <Link href="/" className="font-bold text-xl tracking-tight text-emerald-800">Craving Toolkit</Link>
+          <div className="flex gap-6 items-center">
+            <Link href="/articles" className="text-base font-medium text-slate-600 hover:text-emerald-700 transition">Articles</Link>
+            <Link href="/#pricing" className="text-base font-medium text-slate-600 hover:text-emerald-700 transition">Get the Guide</Link>
+          </div>
         </div>
       </nav>
 
@@ -21,9 +25,9 @@ export default function LandingPage() {
           A short, experience-based guide for people dealing with addiction urges, compulsive behavior, and relapse momentum.
         </p>
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-          <a href="#pricing" className="bg-emerald-600 text-white px-8 py-4 rounded-full font-semibold text-xl hover:bg-emerald-700 transition shadow-lg shadow-emerald-200 flex items-center gap-2">
+          <Link href="/#pricing" className="bg-emerald-600 text-white px-8 py-4 rounded-full font-semibold text-xl hover:bg-emerald-700 transition shadow-lg shadow-emerald-200 flex items-center gap-2">
             Get the guide <ArrowRight className="w-5 h-5" />
-          </a>
+          </Link>
         </div>
         <p className="mt-4 text-base text-slate-500">Instant PDF download. Secure checkout via Gumroad.</p>
       </header>
