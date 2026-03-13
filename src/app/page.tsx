@@ -39,7 +39,7 @@ export default function LandingPage() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <p className="text-xl text-slate-600 mb-6 leading-relaxed">
-                People say things like &quot;just stay strong&quot; or &quot;focus on your goals.&quot; But in a real craving spiral, that often isn&apos;t enough. Logic disappears, and old patterns take over.
+                People say things like “just stay strong” or “focus on your goals.” But in a real craving spiral, that often isn&apos;t enough. Logic disappears, and old patterns take over.
               </p>
               <p className="text-xl text-slate-600 leading-relaxed">
                 What people need is something practical for the exact moment the brain stops feeling trustworthy.
@@ -84,7 +84,7 @@ export default function LandingPage() {
             </div>
             <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100">
               <h3 className="font-bold text-xl mb-4 text-emerald-800">3. Breaking the Relapse Spiral</h3>
-              <p className="text-slate-600 text-lg">How to handle shame, slips, and the dangerous &quot;screw it&quot; mentality. Learn the daily practices that actually weaken your cravings over the long term.</p>
+              <p className="text-slate-600 text-lg">How to handle shame, slips, and the dangerous “screw it” mentality. Learn the daily practices that actually weaken your cravings over the long term.</p>
             </div>
             <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100">
               <h3 className="font-bold text-xl mb-4 text-emerald-800">4. Six Practical Worksheets</h3>
