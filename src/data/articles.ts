@@ -30,10 +30,10 @@ Tell yourself: "I am not deciding forever. I am waiting 10 minutes."
 This matters because cravings hate delay. The urge wants speed. It wants automatic action. It wants to move before your wiser, logical self catches up. 
 
 Delay is a powerful tool because it:
-* disrupts the automatic loop
-* creates space between the urge and the behavior
-* lowers the chance of impulsive follow-through
-* reminds you that urgency is not the same as necessity
+<li>disrupts the automatic loop</li>
+<li>creates space between the urge and the behavior</li>
+<li>lowers the chance of impulsive follow-through</li>
+<li>reminds you that urgency is not the same as necessity</li>
 
 If 10 minutes feels impossible, start with 3 minutes. Then do another 3. Then another. A lot of recovery is built in small, repeated delays.
 
