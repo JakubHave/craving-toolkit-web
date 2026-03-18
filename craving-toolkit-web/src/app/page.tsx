@@ -45,7 +45,7 @@ export default function LandingPage() {
               <h3 className="font-semibold text-xl mb-4">This guide helps you:</h3>
               <ul className="space-y-3">
                 {[
-                  "Know what to do in the first 5 minutes",
+                  "Know what to do in the first 10 minutes",
                   "Interrupt the routine before relapse happens",
                   "Handle stress, loneliness, shame, and boredom",
                   "Recover quickly after a slip instead of giving up"
@@ -117,8 +117,8 @@ export default function LandingPage() {
               <h3 className="text-2xl font-bold mb-2">The Complete Guide</h3>
               <p className="text-slate-500 mb-6">Everything you need to interrupt the spiral.</p>
               <div className="mb-3 flex items-center gap-3">
-                <span className="text-5xl font-extrabold text-slate-900">€19</span>
-                <span className="text-2xl font-bold text-slate-400 line-through">€24</span>
+                <span className="text-5xl font-extrabold text-slate-900">$19</span>
+                <span className="text-2xl font-bold text-slate-400 line-through">$24</span>
               </div>
               <div className="mb-8">
                 <span className="inline-block bg-emerald-100 text-emerald-800 text-sm font-bold px-3 py-1 rounded-full border border-emerald-200">
