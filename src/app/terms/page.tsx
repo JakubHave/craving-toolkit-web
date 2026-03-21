@@ -54,8 +54,8 @@ const sections = [
   {
     title: "7. Refunds",
     paragraphs: [
-      "Because this is a digital product that is typically delivered immediately after purchase, sales are generally final unless a different refund policy is expressly shown at checkout or required by applicable law.",
-      "If you need help with an order, receipt, or delivery issue, use the support or contact method provided through the checkout platform or purchase confirmation.",
+      "If you are not satisfied with your purchase, you may request a full refund within 14 days of the original purchase date. Refund requests are handled through the checkout platform used at the time of purchase.",
+      "Refunds will be processed through the original payment method. After the 14-day window, sales are final unless otherwise required by applicable law.",
     ],
   },
   {
