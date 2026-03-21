@@ -67,7 +67,7 @@ export default function LandingPage() {
               Get the guide <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-0.5" />
             </a>
           </div>
-          <p className="animate-fade-in-up-delay-3 mt-5 text-sm text-slate-400 tracking-wide">Instant PDF download. Secure checkout via Paddle.</p>
+          <p className="animate-fade-in-up-delay-3 mt-5 text-sm text-slate-400 tracking-wide">Instant PDF download. Secure checkout via Gumroad or Paddle.</p>
         </div>
       </header>
 
@@ -205,7 +205,7 @@ export default function LandingPage() {
                   >
                     Buy Now & Download
                   </a>
-                  <p className="text-center text-sm text-slate-400 mt-4">Secure payment, tax, and delivery handled by Paddle.</p>
+                  <p className="text-center text-sm text-slate-400 mt-4">Secure payment, tax, and delivery handled by Gumroad or Paddle.</p>
                 </div>
               </div>
             </div>

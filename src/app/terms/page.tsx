@@ -26,7 +26,7 @@ const sections = [
   {
     title: "3. Orders, payments, and delivery",
     paragraphs: [
-      "Checkout, payment processing, taxes, and digital delivery are handled through Paddle or another checkout platform shown at the time of purchase.",
+      "Checkout, payment processing, taxes, and digital delivery are handled through Gumroad or Paddle or another checkout platform shown at the time of purchase.",
       "By completing a purchase, you also agree to the applicable terms, policies, and checkout requirements of that third-party platform.",
     ],
   },
