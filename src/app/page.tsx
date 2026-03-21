@@ -1,9 +1,42 @@
 import Link from "next/link";
 import { CheckCircle2, ArrowRight, Shield, BookOpen } from "lucide-react";
 import NewsletterForm from "./newsletter-form";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Craving Toolkit | Practical Tools to Stop Cravings & Stay in Recovery",
+  description: "A practical, experience-based guide with emergency tools to fight addiction cravings, stop relapse spirals, and stay in recovery. 40-page PDF with actionable strategies and worksheets for managing urges from alcohol, drugs, overeating, and compulsive behaviors.",
+  alternates: {
+    canonical: "https://cravingtoolkit.com",
+  },
+};
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  name: "Craving Toolkit – Addiction Recovery Guide",
+  description: "A 40-page practical guide with emergency tools, actionable strategies, and 6 worksheets to fight addiction cravings, stop relapse spirals, and stay in recovery.",
+  image: "https://cravingtoolkit.com/cover.jpg",
+  brand: {
+    "@type": "Brand",
+    name: "Craving Toolkit",
+  },
+  offers: {
+    "@type": "Offer",
+    price: "19",
+    priceCurrency: "USD",
+    availability: "https://schema.org/InStock",
+    url: "https://cravingtoolkit.com/#pricing",
+  },
+};
 
 export default function LandingPage() {
   return (
+    <>
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+    />
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans selection:bg-emerald-200">
       {/* Navigation */}
       <nav className="sticky top-0 z-50 border-b border-slate-200/60 bg-white/80 backdrop-blur-lg">
@@ -200,5 +233,6 @@ export default function LandingPage() {
         </div>
       </footer>
     </div>
+    </>
   );
 }

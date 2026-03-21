@@ -4,8 +4,17 @@ import { ArrowRight, BookOpen } from "lucide-react";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Articles & Tools | Craving Toolkit",
-  description: "Free resources, tools, and science-backed strategies for addiction recovery, stopping cravings, and preventing relapse.",
+  title: "Addiction Recovery Articles & Craving Management Tools",
+  description: "Free evidence-based articles on how to stop cravings, prevent relapse, manage addiction urges, and build a recovery plan. Practical strategies for alcohol, drug, and compulsive behavior recovery.",
+  alternates: {
+    canonical: "https://cravingtoolkit.com/articles",
+  },
+  openGraph: {
+    title: "Addiction Recovery Articles & Craving Management Tools",
+    description: "Free evidence-based articles on how to stop cravings, prevent relapse, and manage addiction urges.",
+    url: "https://cravingtoolkit.com/articles",
+    images: [{ url: "/cover.jpg", width: 1200, height: 630, alt: "Craving Toolkit articles" }],
+  },
 };
 
 export default function ArticlesPage() {

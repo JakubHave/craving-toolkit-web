@@ -8,10 +8,29 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const resolvedParams = await params;
   const article = articles.find((a) => a.slug === resolvedParams.slug);
   if (!article) return { title: "Article Not Found | Craving Toolkit" };
-  
+
+  const url = `https://cravingtoolkit.com/articles/${article.slug}`;
   return {
-    title: `${article.title} | Craving Toolkit`,
+    title: article.title,
     description: article.description,
+    alternates: {
+      canonical: url,
+    },
+    openGraph: {
+      type: "article",
+      title: article.title,
+      description: article.description,
+      url,
+      publishedTime: article.publishedAt,
+      siteName: "Craving Toolkit",
+      images: [{ url: "/cover.jpg", width: 1200, height: 630, alt: article.title }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.title,
+      description: article.description,
+      images: ["/cover.jpg"],
+    },
   };
 }
 
@@ -19,6 +38,23 @@ export async function generateStaticParams() {
   return articles.map((article) => ({
     slug: article.slug,
   }));
+}
+
+function getArticleJsonLd(article: { title: string; description: string; slug: string; publishedAt: string }) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: article.title,
+    description: article.description,
+    datePublished: article.publishedAt,
+    image: "https://cravingtoolkit.com/cover.jpg",
+    url: `https://cravingtoolkit.com/articles/${article.slug}`,
+    publisher: {
+      "@type": "Organization",
+      name: "Craving Toolkit",
+      url: "https://cravingtoolkit.com",
+    },
+  };
 }
 
 export default async function ArticlePage({ params }: { params: Promise<{ slug: string }> }) {
@@ -57,6 +93,11 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
   };
 
   return (
+    <>
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(getArticleJsonLd(article)) }}
+    />
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans">
       <nav className="border-b bg-white">
         <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
@@ -110,5 +151,6 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         </div>
       </footer>
     </div>
+    </>
   );
 }
