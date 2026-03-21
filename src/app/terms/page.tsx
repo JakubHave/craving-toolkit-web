@@ -1,0 +1,186 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import { ArrowLeft, FileText } from "lucide-react";
+
+export const metadata: Metadata = {
+  title: "Terms of Service | Craving Toolkit",
+  description:
+    "Terms of Service for the Craving Toolkit website and digital ebook.",
+};
+
+const sections = [
+  {
+    title: "1. Acceptance of these terms",
+    paragraphs: [
+      "By accessing this website, purchasing the Craving Toolkit ebook, or using any related content, you agree to these Terms of Service. If you do not agree, do not use the site or purchase the product.",
+      "These terms apply to the website, the ebook, any included worksheets, and related digital materials made available through the Craving Toolkit storefront.",
+    ],
+  },
+  {
+    title: "2. Product description",
+    paragraphs: [
+      "Craving Toolkit is a digital educational product focused on addiction recovery, craving management, and relapse prevention. It is sold as downloadable content and may be updated over time.",
+      "The product is intended for personal use only. Purchasing the ebook gives you a limited, non-exclusive, non-transferable license to download and use it for your own private use.",
+    ],
+  },
+  {
+    title: "3. Orders, payments, and delivery",
+    paragraphs: [
+      "Checkout, payment processing, taxes, and digital delivery are handled through Gumroad or another checkout platform shown at the time of purchase.",
+      "By completing a purchase, you also agree to the applicable terms, policies, and checkout requirements of that third-party platform.",
+    ],
+  },
+  {
+    title: "4. Acceptable use and license limits",
+    paragraphs: [
+      "You may not resell, redistribute, upload, publicly share, sublicense, or commercially exploit the ebook or related materials without prior written permission.",
+      "You may not remove ownership notices, copy substantial parts into another product, or use the content in a way that is misleading, unlawful, or harmful to others.",
+    ],
+  },
+  {
+    title: "5. Educational use only",
+    paragraphs: [
+      "Craving Toolkit is educational and informational. It is based on lived experience, recovery reading, and practical treatment frameworks. It is not medical advice and is not a substitute for professional treatment, therapy, detox, diagnosis, or emergency support.",
+      "If you are in immediate danger, experiencing severe withdrawal, at risk of overdose, or may harm yourself or someone else, seek emergency help or contact local emergency services immediately.",
+    ],
+  },
+  {
+    title: "6. No guarantee of outcomes",
+    paragraphs: [
+      "Recovery outcomes vary from person to person. We do not promise that using this website or ebook will produce any specific medical, psychological, behavioral, or financial result.",
+      "Any examples, frameworks, or strategies are provided for general educational use and must be applied with personal judgment and, where appropriate, professional support.",
+    ],
+  },
+  {
+    title: "7. Refunds",
+    paragraphs: [
+      "Because this is a digital product that is typically delivered immediately after purchase, sales are generally final unless a different refund policy is expressly shown at checkout or required by applicable law.",
+      "If you need help with an order, receipt, or delivery issue, use the support or contact method provided through the checkout platform or purchase confirmation.",
+    ],
+  },
+  {
+    title: "8. Intellectual property",
+    paragraphs: [
+      "The website content, ebook text, worksheets, branding, and related materials are owned by Craving Toolkit or used with permission and are protected by applicable intellectual property laws.",
+      "No ownership rights are transferred to you by purchasing or downloading the ebook.",
+    ],
+  },
+  {
+    title: "9. Limitation of liability",
+    paragraphs: [
+      "To the maximum extent permitted by law, Craving Toolkit will not be liable for indirect, incidental, special, consequential, or punitive damages arising from your use of the website or the digital product.",
+      "Nothing in these terms limits rights that cannot be waived under applicable consumer protection law.",
+    ],
+  },
+  {
+    title: "10. Third-party links and services",
+    paragraphs: [
+      "This website may link to third-party services, including checkout providers and external resources. We are not responsible for the content, availability, or policies of third-party sites or services.",
+      "Your use of those services is governed by their own terms and policies.",
+    ],
+  },
+  {
+    title: "11. Changes to these terms",
+    paragraphs: [
+      "We may update these Terms of Service from time to time. The most current version will be posted on this page with the updated effective date.",
+      "Continuing to use the website after changes are posted means you accept the revised terms.",
+    ],
+  },
+  {
+    title: "12. Contact",
+    paragraphs: [
+      "For support relating to your purchase, delivery, or access issues, you can email jacob@cravingtoolkit.com or use the contact route provided on the checkout page or in your purchase receipt.",
+    ],
+  },
+] as const;
+
+export default function TermsPage() {
+  return (
+    <div className="min-h-screen bg-slate-50 text-slate-900 font-sans">
+      <nav className="border-b bg-white">
+        <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
+          <Link href="/" className="font-bold text-xl tracking-tight text-emerald-800">
+            Craving Toolkit
+          </Link>
+          <div className="flex gap-6">
+            <Link
+              href="/articles"
+              className="text-base font-medium text-slate-600 hover:text-emerald-700 transition"
+            >
+              Articles
+            </Link>
+            <Link
+              href="/#pricing"
+              className="text-base font-medium text-slate-600 hover:text-emerald-700 transition"
+            >
+              Get the Guide
+            </Link>
+          </div>
+        </div>
+      </nav>
+
+      <header className="max-w-4xl mx-auto px-6 pt-20 pb-10 text-center">
+        <FileText className="w-12 h-12 text-emerald-600 mx-auto mb-6" />
+        <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-slate-900 mb-6">
+          Terms of Service
+        </h1>
+        <p className="text-xl text-slate-600 max-w-3xl mx-auto leading-relaxed">
+          These terms govern use of the Craving Toolkit website and the purchase and use
+          of the Craving Toolkit ebook and related digital materials.
+        </p>
+        <p className="mt-4 text-sm font-semibold uppercase tracking-[0.2em] text-emerald-700">
+          Last updated March 21, 2026
+        </p>
+      </header>
+
+      <main className="max-w-4xl mx-auto px-6 pb-24">
+        <div className="bg-emerald-900 text-emerald-50 rounded-3xl p-8 md:p-10 mb-10 shadow-xl shadow-emerald-950/10">
+          <Link href="/" className="inline-flex items-center gap-2 text-emerald-200 hover:text-white transition mb-4">
+            <ArrowLeft className="w-4 h-4" /> Back to Home
+          </Link>
+          <div className="flex flex-wrap items-center gap-4 text-sm font-semibold text-emerald-100 mb-6">
+            <span className="text-white">Terms of Service</span>
+            <span aria-hidden="true">/</span>
+            <Link href="/privacy" className="hover:text-white transition">Privacy Policy</Link>
+          </div>
+          <p className="text-lg leading-relaxed text-emerald-100">
+            Please read these terms carefully before using the site or purchasing the
+            ebook. They are designed to clarify how the product may be used and what it
+            does and does not provide.
+          </p>
+        </div>
+
+        <div className="space-y-6">
+          {sections.map((section) => (
+            <section
+              key={section.title}
+              className="bg-white rounded-3xl border border-slate-100 shadow-sm p-8 md:p-10"
+            >
+              <h2 className="text-2xl font-bold text-slate-900 mb-5">{section.title}</h2>
+              <div className="space-y-4 text-lg leading-relaxed text-slate-600">
+                {section.paragraphs.map((paragraph) => (
+                  <p key={paragraph}>{paragraph}</p>
+                ))}
+              </div>
+            </section>
+          ))}
+        </div>
+      </main>
+
+      <footer className="bg-slate-900 text-slate-400 py-12 text-center text-base">
+        <div className="max-w-4xl mx-auto px-6">
+          <p className="mb-4">
+            <strong>Disclaimer:</strong> This guide is educational and based on lived experience. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.
+          </p>
+          <div className="flex items-center justify-center gap-4 mb-4">
+            <Link href="/terms" className="text-slate-300 hover:text-white transition">Terms of Service</Link>
+            <span aria-hidden="true" className="text-slate-500">/</span>
+            <Link href="/privacy" className="text-slate-300 hover:text-white transition">Privacy Policy</Link>
+          </div>
+          <p className="mb-4">Contact: <a href="mailto:jacob@cravingtoolkit.com" className="text-slate-300 hover:text-white transition">jacob@cravingtoolkit.com</a></p>
+          <p>© {new Date().getFullYear()} Craving Toolkit. All rights reserved.</p>
+        </div>
+      </footer>
+    </div>
+  );
+}

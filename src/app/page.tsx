@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { CheckCircle2, ArrowRight, Shield, BookOpen, Headphones } from "lucide-react";
 
 export default function LandingPage() {
@@ -6,8 +7,11 @@ export default function LandingPage() {
       {/* Navigation */}
       <nav className="border-b bg-white">
         <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
-          <div className="font-bold text-xl tracking-tight text-emerald-800">Craving Toolkit</div>
-          <a href="#pricing" className="text-base font-medium text-slate-600 hover:text-emerald-700 transition">Get the Guide</a>
+          <Link href="/" className="font-bold text-xl tracking-tight text-emerald-800">Craving Toolkit</Link>
+          <div className="flex gap-6">
+            <Link href="/articles" className="text-base font-medium text-slate-600 hover:text-emerald-700 transition">Articles</Link>
+            <a href="#pricing" className="text-base font-medium text-slate-600 hover:text-emerald-700 transition">Get the Guide</a>
+          </div>
         </div>
       </nav>
 
@@ -153,6 +157,12 @@ export default function LandingPage() {
           <p className="mb-4">
             <strong>Disclaimer:</strong> This guide is educational and based on lived experience. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.
           </p>
+          <div className="flex items-center justify-center gap-4 mb-4">
+            <Link href="/terms" className="text-slate-300 hover:text-white transition">Terms of Service</Link>
+            <span aria-hidden="true" className="text-slate-500">/</span>
+            <Link href="/privacy" className="text-slate-300 hover:text-white transition">Privacy Policy</Link>
+          </div>
+          <p className="mb-4">Contact: <a href="mailto:jacob@cravingtoolkit.com" className="text-slate-300 hover:text-white transition">jacob@cravingtoolkit.com</a></p>
           <p>© {new Date().getFullYear()} Craving Toolkit. All rights reserved.</p>
         </div>
       </footer>
