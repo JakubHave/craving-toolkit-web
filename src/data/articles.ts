@@ -24,7 +24,8 @@ Because willpower fails, you must rely on **structure**: written scripts, emerge
 
 Here are two of the most effective structural tools to break the automatic loop in those crucial first 10 minutes.
 
-### Tool 1: Delay
+### Tool 1 - Delay:
+
 Tell yourself: "I am not deciding forever. I am waiting 10 minutes."
 
 This matters because cravings hate delay. The urge wants speed. It wants automatic action. It wants to move before your wiser, logical self catches up. 
@@ -37,14 +38,21 @@ Delay is a powerful tool because it:
 
 If 10 minutes feels impossible, start with 3 minutes. Then do another 3. Then another. A lot of recovery is built in small, repeated delays.
 
-### Tool 2: The Strong Counter-Action
-Another helpful strategy is to respond to an intense craving with a deliberate, strong counter-action. Instead of passively enduring the urge, actively interrupt the pattern.
+### Tool 2 - The Strong Counter-Action
 
-For example, use short bursts of vigorous physical activity—such as push-ups, squats, or sprinting. The physical effort redirects attention, releases tension, and creates a clear mental break. By consistently responding to a craving with a challenging activity, you begin to change the internal association. Instead of leading toward the addictive behavior, the craving becomes linked with something undesired.
+Another very helpful strategy, and my favorite which I learned in rehab, is to respond to an intense craving with a deliberate, strong *counter-action*. Instead of passively enduring the urge, actively interrupt the pattern and try to build a negative emotional association with the craving.
 
-Choose an activity that is genuinely demanding or slightly unpleasant in the moment. (If you already love exercise, an unpleasant chore may be more effective.) 
+For example, use short bursts of vigorous physical activity—such as push-ups, squats, or sprinting. The physical effort redirects your attention, releases tension, and creates a clear mental break.
 
-*Example:* You notice the thought, “I would like a drink.” Instead of entertaining it, immediately do 20 squats while firmly rejecting the craving in your mind. Afterward, shift into an activity that requires attention—like cooking or working—to stabilize your mind until the urge passes.
+But temporarily escaping a craving is not the main goal. The real goal is to profoundly reshape your relationship with cravings. By consistently responding to a craving with a challenging activity, you begin to change the internal association from pleasure and relief to something unwanted and unpleasant.
+
+Choose an activity that is genuinely demanding or unpleasant at the moment. (If you already love exercise, an unpleasant chore - e.g. cleaning the toilet, may be more effective.)
+
+*Example 1:* You notice the thought, e.g. “I would like a drink.” Instead of entertaining it, immediately do 20 squats while saying to yourself something like: “This shit is trying to take control of me again. I am the boss here.” Do not be afraid to use harsh language — you really need to build a negative emotion toward the urge or craving. Afterward, shift into an engaging activity that requires your full attention so you stay in the present moment and stabilize your mind.
+
+If you are in public or at the office and cannot do squats or some other physical activity, you can use a rubber band and squeeze it until your hand starts to feel sore.
+
+At the beginning, there will be times when you need to use this strong counteraction multiple times within a short period, especially when the craving is intense. But the key to using this tool is consistency.
 
 ***
 
