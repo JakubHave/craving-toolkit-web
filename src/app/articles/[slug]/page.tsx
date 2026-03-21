@@ -145,7 +145,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
       <footer className="bg-slate-900 text-slate-400 py-12 text-center text-sm">
         <div className="max-w-4xl mx-auto px-6">
           <p className="mb-4">
-            <strong>Disclaimer:</strong> This guide is educational and based on lived experience. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.
+            <strong>Disclaimer:</strong> This guide is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.
           </p>
           <p>© {new Date().getFullYear()} Craving Toolkit. All rights reserved.</p>
         </div>

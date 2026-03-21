@@ -221,7 +221,7 @@ export default function LandingPage() {
         <div className="max-w-4xl mx-auto px-6">
           <Link href="/" className="inline-block font-semibold text-lg text-white/80 mb-6">Craving Toolkit</Link>
           <p className="mb-6 max-w-2xl mx-auto leading-relaxed text-slate-500">
-            <strong className="text-slate-400">Disclaimer:</strong> This guide is educational and based on lived experience. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.
+            <strong className="text-slate-400">Disclaimer:</strong> This guide is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.
           </p>
           <div className="flex items-center justify-center gap-4 mb-4">
             <Link href="/terms" className="text-slate-400 hover:text-white transition-colors">Terms of Service</Link>

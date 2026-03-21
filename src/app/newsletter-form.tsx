@@ -48,9 +48,20 @@ export default function NewsletterForm() {
           <Mail className="w-5 h-5 text-emerald-400" />
         </div>
         <h2 className="font-serif text-3xl md:text-4xl font-bold mb-4 text-white leading-snug">Stay updated</h2>
-        <p className="text-lg text-emerald-100/80 mb-10 leading-relaxed">
-          Get notified about guide updates and the upcoming Craving Toolkit mobile app for iOS and Android.
+        <p className="text-lg text-emerald-100/80 mb-4 leading-relaxed">
+          Get notified about guide updates and the upcoming Craving Toolkit mobile app.
         </p>
+        <div className="flex items-center justify-center gap-3 mb-10">
+          <span className="inline-flex items-center gap-1.5 text-sm text-emerald-300/80">
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
+            iOS
+          </span>
+          <span className="text-emerald-700/60">&</span>
+          <span className="inline-flex items-center gap-1.5 text-sm text-emerald-300/80">
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor"><path d="M17.523 2.226l1.392-2.092a.461.461 0 00-.152-.63.465.465 0 00-.634.152L16.7 1.834a8.982 8.982 0 00-4.7-1.313 8.982 8.982 0 00-4.7 1.313L5.871-.344a.465.465 0 00-.634-.152.461.461 0 00-.152.63l1.392 2.092C3.534 3.952 1.5 6.974 1.5 10.5h21c0-3.526-2.034-6.548-4.977-8.274zM7.5 8a1.5 1.5 0 110-3 1.5 1.5 0 010 3zm9 0a1.5 1.5 0 110-3 1.5 1.5 0 010 3zM1.5 12v7.5c0 .828.672 1.5 1.5 1.5h1.5v3a1.5 1.5 0 003 0v-3h9v3a1.5 1.5 0 003 0v-3H21c.828 0 1.5-.672 1.5-1.5V12h-21z"/></svg>
+            Android
+          </span>
+        </div>
 
         {status === "success" ? (
           <div className="bg-emerald-800/30 border border-emerald-700/40 rounded-2xl p-6">

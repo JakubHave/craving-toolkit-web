@@ -170,7 +170,7 @@ export default function PrivacyPage() {
       <footer className="bg-slate-900 text-slate-400 py-12 text-center text-base">
         <div className="max-w-4xl mx-auto px-6">
           <p className="mb-4">
-            <strong>Disclaimer:</strong> This guide is educational and based on lived experience. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.
+            <strong>Disclaimer:</strong> This guide is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.
           </p>
           <div className="flex items-center justify-center gap-4 mb-4">
             <Link href="/terms" className="text-slate-300 hover:text-white transition">Terms of Service</Link>
