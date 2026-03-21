@@ -29,7 +29,7 @@ export default function LandingPage() {
             Get the guide <ArrowRight className="w-5 h-5" />
           </a>
         </div>
-        <p className="mt-4 text-base text-slate-500">Instant PDF download. Secure checkout via Gumroad.</p>
+        <p className="mt-4 text-base text-slate-500">Instant PDF download. Secure checkout via Paddle.</p>
       </header>
 
       {/* Problem Section */}
@@ -145,7 +145,7 @@ export default function LandingPage() {
               >
                 Buy Now & Download
               </a>
-              <p className="text-center text-base text-slate-400 mt-4">Secure payment, tax, and delivery handled by Gumroad.</p>
+              <p className="text-center text-base text-slate-400 mt-4">Secure payment, tax, and delivery handled by Paddle.</p>
             </div>
           </div>
         </div>
