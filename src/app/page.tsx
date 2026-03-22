@@ -198,7 +198,7 @@ export default function LandingPage() {
                   </ul>
 
                   <a
-                    href="https://jakubhaven.gumroad.com/l/lqdlu"
+                    href="https://jacobhavelka.gumroad.com/l/lqdlu"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group block w-full text-center bg-emerald-600 text-white rounded-xl py-4 font-bold text-lg hover:bg-emerald-700 transition-all shadow-lg shadow-emerald-600/20 hover:shadow-xl hover:shadow-emerald-600/30 hover:-translate-y-0.5"
