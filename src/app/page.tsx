@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { CheckCircle2, ArrowRight, Shield, BookOpen } from "lucide-react";
+import { CheckCircle2, ArrowRight, Shield, BookOpen, Eye } from "lucide-react";
+import Image from "next/image";
 import NewsletterForm from "./newsletter-form";
 import { Metadata } from "next";
 
@@ -60,14 +61,25 @@ export default function LandingPage() {
             <span className="bg-gradient-to-r from-emerald-600 to-teal-500 bg-clip-text text-transparent">stop spirals, and stay in recovery.</span>
           </h1>
           <p className="animate-fade-in-up-delay-1 text-xl md:text-2xl text-slate-500 mb-12 max-w-2xl mx-auto leading-relaxed">
-            A short, experience-based guide for people dealing with addiction urges, compulsive behavior, and relapse momentum.
+            A 40-page action plan for the exact moment cravings take over — with emergency tools, worksheets, and strategies that work when willpower doesn&rsquo;t.
           </p>
           <div className="animate-fade-in-up-delay-2 flex flex-col sm:flex-row items-center justify-center gap-4">
             <a href="#pricing" className="group bg-emerald-600 text-white px-8 py-4 rounded-full font-semibold text-lg hover:bg-emerald-700 transition-all shadow-lg shadow-emerald-600/25 hover:shadow-xl hover:shadow-emerald-600/30 hover:-translate-y-0.5 flex items-center gap-2">
               Get the guide <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-0.5" />
             </a>
           </div>
-          <p className="animate-fade-in-up-delay-3 mt-5 text-sm text-slate-400 tracking-wide">Instant PDF download. Secure checkout via Gumroad or Paddle.</p>
+          <p className="animate-fade-in-up-delay-3 mt-5 text-sm text-slate-400 tracking-wide">Instant PDF download. Secure checkout.</p>
+
+          <div className="animate-fade-in-up-delay-3 mt-12">
+            <Image
+              src="/craving_toolkit.png"
+              alt="Craving Toolkit guide cover"
+              width={360}
+              height={480}
+              className="mx-auto rounded-2xl shadow-2xl shadow-slate-900/20"
+              priority
+            />
+          </div>
         </div>
       </header>
 
@@ -153,13 +165,36 @@ export default function LandingPage() {
           <div className="animate-subtle-float inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-emerald-800/50 border border-emerald-700/50 mb-8">
             <Shield className="w-8 h-8 text-emerald-400" />
           </div>
-          <h2 className="font-serif text-3xl md:text-4xl font-bold mb-8 text-white leading-snug">I&rsquo;m not writing this from theory alone.</h2>
+          <h2 className="font-serif text-3xl md:text-4xl font-bold mb-8 text-white leading-snug">I&rsquo;m not writing this from a distance.</h2>
           <p className="text-lg leading-relaxed text-emerald-100/90 mb-6">
-            I&rsquo;ve lived through addiction, treatment, relapse patterns, shame, and the long work of recovery. I struggled with overeating, alcohol, and drugs, and I&rsquo;ve now been clean for over 10 years.
+            I&rsquo;m an addict — alcohol, drugs, smoking, overeating, self-harm, depression, and anxiety. I spent years in treatment, rehab and psychotherapy. Today, I&rsquo;ve been clean for more than 10 years and live a stable and fulfilling life.
+          </p>
+          <p className="text-lg leading-relaxed text-emerald-100/90 mb-6">
+            I built this guide from what actually helped — my own experience combined with modern addiction science.
           </p>
           <p className="text-lg leading-relaxed text-emerald-100/90">
-            This guide is my attempt to share the practical tools that actually help when cravings hit — integrating lived experience with the best modern addiction science.
+            What I care about is not sounding impressive. It&rsquo;s giving you tools that are actually usable when things get hard.
           </p>
+        </div>
+      </section>
+
+      {/* Free Preview CTA */}
+      <section className="py-16 bg-white border-y border-slate-100">
+        <div className="max-w-2xl mx-auto px-6 text-center">
+          <div className="inline-flex items-center gap-2 bg-emerald-50 text-emerald-700 text-sm font-semibold px-4 py-1.5 rounded-full border border-emerald-200 mb-6">
+            <Eye className="w-4 h-4" />
+            Free Preview
+          </div>
+          <h2 className="font-serif text-3xl md:text-4xl font-bold mb-4 leading-snug">Not sure yet? Read it first.</h2>
+          <p className="text-lg text-slate-500 mb-8 leading-relaxed">
+            Read the first pages free — no signup, no payment.
+          </p>
+          <Link
+            href="/preview"
+            className="group inline-flex items-center gap-2 px-6 py-3 rounded-xl border-2 border-emerald-600 text-emerald-700 font-semibold hover:bg-emerald-50 transition-all text-base"
+          >
+            Read the Free Preview <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-0.5" />
+          </Link>
         </div>
       </section>
 
@@ -205,7 +240,8 @@ export default function LandingPage() {
                   >
                     Buy Now & Download
                   </a>
-                  <p className="text-center text-sm text-slate-400 mt-4">Secure payment, tax, and delivery handled by Gumroad or Paddle.</p>
+                  <p className="text-center text-sm text-slate-400 mt-4">Secure checkout. Instant delivery.</p>
+                  <p className="text-center text-sm text-emerald-600 font-medium mt-2">30-day money-back guarantee — no questions asked.</p>
                 </div>
               </div>
             </div>
