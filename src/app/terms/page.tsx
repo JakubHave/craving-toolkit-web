@@ -54,8 +54,8 @@ const sections = [
   {
     title: "7. Refunds",
     paragraphs: [
-      "If you are not satisfied with your purchase, you may request a full refund within 14 days of the original purchase date. Refund requests are handled through the checkout platform used at the time of purchase.",
-      "Refunds will be processed through the original payment method. After the 14-day window, sales are final unless otherwise required by applicable law.",
+      "If you are not satisfied with your purchase, you may request a full refund within 30 days of the original purchase date — no questions asked. Refund requests are handled through the checkout platform used at the time of purchase.",
+      "Refunds will be processed through the original payment method. After the 30-day window, sales are final unless otherwise required by applicable law.",
     ],
   },
   {

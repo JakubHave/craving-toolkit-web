@@ -26,7 +26,7 @@ const sections = [
   {
     title: "3. Purchases and checkout providers",
     paragraphs: [
-      "If you buy the ebook, checkout, payment processing, taxes, and digital delivery are handled by Paddle or another third-party checkout provider displayed at the time of purchase.",
+      "If you buy the ebook, checkout, payment processing, taxes, and digital delivery are handled by Gumroad or Paddle or another third-party checkout provider displayed at the time of purchase.",
       "That provider may collect information such as your name, email address, billing details, payment information, country, and transaction data in accordance with its own privacy policy. Craving Toolkit does not need to receive your full payment card details directly to sell the product.",
     ],
   },
