@@ -5,7 +5,7 @@ import NewsletterForm from "./newsletter-form";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Craving Toolkit | Practical Tools to Stop Cravings & Stay in Recovery",
+  title: "Craving Toolkit | Practical Tools to Stop Cravings and Stay in Recovery",
   description: "A practical, experience-based guide with emergency tools to fight addiction cravings, stop relapse spirals, and stay in recovery. 40-page PDF with actionable strategies and worksheets for managing urges from alcohol, drugs, overeating, and compulsive behaviors.",
   alternates: {
     canonical: "https://cravingtoolkit.com",
