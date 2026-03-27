@@ -29,7 +29,7 @@ export default function NewsletterForm() {
       }
 
       setStatus("success");
-      setMessage("You're in! We'll keep you posted.");
+      setMessage("You're on the list! We'll let you know when the app is ready.");
       setName("");
       setEmail("");
     } catch {
@@ -47,9 +47,12 @@ export default function NewsletterForm() {
         <div className="inline-flex items-center justify-center w-12 h-12 rounded-xl bg-emerald-800/50 border border-emerald-700/50 mb-6">
           <Mail className="w-5 h-5 text-emerald-400" />
         </div>
-        <h2 className="font-serif text-3xl md:text-4xl font-bold mb-4 text-white leading-snug">Stay updated</h2>
+        <h2 className="font-serif text-3xl md:text-4xl font-bold mb-4 text-white leading-snug">Join the waiting list</h2>
         <p className="text-lg text-emerald-100/80 mb-4 leading-relaxed">
-          Get notified about guide updates and the upcoming Craving Toolkit mobile app.
+          Your pocket-sized recovery companion — with real-time tools, exercises, sober days and craving trackers to help you break free from addiction.
+        </p>
+        <p className="text-lg text-emerald-100/80 mb-4 leading-relaxed">
+          Be the first to get it.
         </p>
         <div className="flex items-center justify-center gap-3 mb-10">
           <span className="inline-flex items-center gap-1.5 text-sm text-emerald-300/80">
@@ -89,7 +92,7 @@ export default function NewsletterForm() {
               disabled={status === "loading"}
               className="px-6 py-3 bg-white text-emerald-900 font-bold rounded-xl hover:bg-emerald-50 transition-all disabled:opacity-50 flex items-center justify-center gap-2 shrink-0 shadow-lg shadow-black/10 hover:-translate-y-0.5"
             >
-              {status === "loading" ? "..." : <>Subscribe <ArrowRight className="w-4 h-4" /></>}
+              {status === "loading" ? "..." : <>Join <ArrowRight className="w-4 h-4" /></>}
             </button>
           </form>
         )}

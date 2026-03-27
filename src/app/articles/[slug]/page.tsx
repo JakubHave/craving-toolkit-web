@@ -101,7 +101,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans">
       <nav className="border-b bg-white">
         <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
-          <div className="font-bold text-xl tracking-tight text-emerald-800">Craving Toolkit</div>
+          <Link href="/" className="font-bold text-xl tracking-tight text-emerald-800">Craving Toolkit</Link>
           <div className="flex gap-6">
             <Link href="/articles" className="text-sm font-medium text-emerald-700">Articles</Link>
             <Link href="/#pricing" className="text-sm font-medium text-slate-600 hover:text-emerald-700 transition">Get the Guide</Link>
