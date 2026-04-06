@@ -259,10 +259,15 @@ export default function LandingPage() {
           <p className="mb-6 max-w-2xl mx-auto leading-relaxed text-slate-500">
             <strong className="text-slate-400">Disclaimer:</strong> This guide is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.
           </p>
-          <div className="flex items-center justify-center gap-4 mb-4">
-            <Link href="/terms" className="text-slate-400 hover:text-white transition-colors">Terms of Service</Link>
+          <div className="flex items-center justify-center gap-4 mb-2">
+            <Link href="/terms" className="text-slate-400 hover:text-white transition-colors">Guide Terms of Service</Link>
             <span aria-hidden="true" className="text-slate-600">·</span>
-            <Link href="/privacy" className="text-slate-400 hover:text-white transition-colors">Privacy Policy</Link>
+            <Link href="/privacy" className="text-slate-400 hover:text-white transition-colors">Guide Privacy Policy</Link>
+          </div>
+          <div className="flex items-center justify-center gap-4 mb-4">
+            <Link href="/app-terms" className="text-slate-400 hover:text-white transition-colors">App Terms of Use</Link>
+            <span aria-hidden="true" className="text-slate-600">·</span>
+            <Link href="/app-privacy" className="text-slate-400 hover:text-white transition-colors">App Privacy Policy</Link>
           </div>
           <p className="mb-4">Contact: <a href="mailto:jacob@cravingtoolkit.com" className="text-slate-400 hover:text-white transition-colors">jacob@cravingtoolkit.com</a></p>
           <p className="text-slate-600">© {new Date().getFullYear()} Craving Toolkit. All rights reserved.</p>

@@ -139,9 +139,9 @@ export default function TermsPage() {
             <ArrowLeft className="w-4 h-4" /> Back to Home
           </Link>
           <div className="flex flex-wrap items-center gap-4 text-sm font-semibold text-emerald-100 mb-6">
-            <span className="text-white">Terms of Service</span>
+            <span className="text-white">Guide Terms of Service</span>
             <span aria-hidden="true">/</span>
-            <Link href="/privacy" className="hover:text-white transition">Privacy Policy</Link>
+            <Link href="/privacy" className="hover:text-white transition">Guide Privacy Policy</Link>
           </div>
           <p className="text-lg leading-relaxed text-emerald-100">
             Please read these terms carefully before using the site or purchasing the
@@ -172,10 +172,14 @@ export default function TermsPage() {
           <p className="mb-4">
             <strong>Disclaimer:</strong> This guide is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.
           </p>
-          <div className="flex items-center justify-center gap-4 mb-4">
-            <Link href="/terms" className="text-slate-300 hover:text-white transition">Terms of Service</Link>
+          <div className="flex items-center justify-center gap-4 mb-4 flex-wrap">
+            <Link href="/terms" className="text-slate-300 hover:text-white transition">Guide Terms of Service</Link>
             <span aria-hidden="true" className="text-slate-500">/</span>
-            <Link href="/privacy" className="text-slate-300 hover:text-white transition">Privacy Policy</Link>
+            <Link href="/privacy" className="text-slate-300 hover:text-white transition">Guide Privacy Policy</Link>
+            <span aria-hidden="true" className="text-slate-500">/</span>
+            <Link href="/app-terms" className="text-slate-300 hover:text-white transition">App Terms of Use</Link>
+            <span aria-hidden="true" className="text-slate-500">/</span>
+            <Link href="/app-privacy" className="text-slate-300 hover:text-white transition">App Privacy Policy</Link>
           </div>
           <p className="mb-4">Contact: <a href="mailto:jacob@cravingtoolkit.com" className="text-slate-300 hover:text-white transition">jacob@cravingtoolkit.com</a></p>
           <p>© {new Date().getFullYear()} Craving Toolkit. All rights reserved.</p>
