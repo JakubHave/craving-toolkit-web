@@ -50,6 +50,13 @@ export default function LandingPage() {
         </div>
       </nav>
 
+      {/* App Banner */}
+      <a href="#waiting-list" className="block bg-gradient-to-r from-emerald-700 to-teal-700 text-white text-center py-3.5 px-4 text-base font-medium hover:from-emerald-600 hover:to-teal-600 transition-all">
+        <span className="inline-flex items-center gap-2">
+          📱 Mobile app coming soon. <span className="underline underline-offset-2">Join the waiting list</span> <ArrowRight className="w-4 h-4" />
+        </span>
+      </a>
+
       {/* Hero Section */}
       <header className="relative overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-b from-emerald-50/80 via-white to-slate-50" />

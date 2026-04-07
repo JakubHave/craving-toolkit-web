@@ -39,7 +39,7 @@ export default function NewsletterForm() {
   }
 
   return (
-    <section className="relative py-24 overflow-hidden">
+    <section id="waiting-list" className="relative py-24 overflow-hidden">
       <div className="absolute inset-0 bg-gradient-to-br from-emerald-900 via-emerald-900 to-teal-900" />
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_70%_50%,rgba(16,185,129,0.12),transparent_60%)]" />
 
