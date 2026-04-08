@@ -1,7 +1,7 @@
 import { articlesMeta, getArticleBySlug } from "@/data/articles";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { ArrowLeft, BookOpen } from "lucide-react";
+import { BookOpen } from "lucide-react";
 import { Metadata } from "next";
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
@@ -41,7 +41,7 @@ export async function generateStaticParams() {
 }
 
 function getArticleJsonLd(article: { title: string; description: string; slug: string; publishedAt: string }) {
-  return {
+  const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: article.title,
@@ -64,6 +64,32 @@ function getArticleJsonLd(article: { title: string; description: string; slug: s
       "@id": `https://cravingtoolkit.com/articles/${article.slug}`,
     },
   };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: "https://cravingtoolkit.com",
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Articles",
+        item: "https://cravingtoolkit.com/articles",
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: article.title,
+      },
+    ],
+  };
+
+  return [articleSchema, breadcrumbSchema];
 }
 
 export default async function ArticlePage({ params }: { params: Promise<{ slug: string }> }) {
@@ -119,10 +145,16 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
       </nav>
 
       <article className="max-w-3xl mx-auto px-6 py-16">
-        <Link href="/articles" className="text-emerald-600 font-semibold flex items-center gap-2 mb-10 hover:text-emerald-700 transition">
-          <ArrowLeft className="w-4 h-4" /> Back to Articles
-        </Link>
-        
+        <nav aria-label="Breadcrumb" className="text-sm text-slate-500 mb-8">
+          <ol className="flex items-center gap-1">
+            <li><Link href="/" className="hover:text-emerald-700 transition-colors">Home</Link></li>
+            <li><span className="mx-1">›</span></li>
+            <li><Link href="/articles" className="hover:text-emerald-700 transition-colors">Articles</Link></li>
+            <li><span className="mx-1">›</span></li>
+            <li className="text-slate-700 truncate max-w-[300px]">{article.title}</li>
+          </ol>
+        </nav>
+
         <header className="mb-12">
           <time className="text-emerald-600 font-bold mb-4 block">{new Date(article.publishedAt).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</time>
           <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-slate-900 mb-6 leading-tight">

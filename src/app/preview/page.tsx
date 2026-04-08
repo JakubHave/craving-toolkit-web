@@ -13,7 +13,7 @@ export default function PreviewPage() {
       <nav className="sticky top-0 z-50 border-b border-slate-200/60 bg-white/80 backdrop-blur-lg">
         <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
           <Link href="/" className="font-semibold text-xl tracking-tight text-emerald-800">Craving Toolkit</Link>
-          <a href="https://jacobhavelka.gumroad.com/l/lqdlu" target="_blank" rel="noopener noreferrer" className="text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors">
+          <a href="https://jacobhavelka.gumroad.com/l/lqdlu" target="_blank" rel="nofollow noopener noreferrer" className="text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors">
             Get the Full Guide
           </a>
         </div>
@@ -47,7 +47,7 @@ export default function PreviewPage() {
           <a
             href="https://jacobhavelka.gumroad.com/l/lqdlu"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="nofollow noopener noreferrer"
             className="group inline-flex items-center gap-2 px-6 py-2.5 rounded-xl bg-emerald-600 text-white font-semibold hover:bg-emerald-700 transition-all shadow-md shadow-emerald-600/20 hover:-translate-y-0.5 text-sm"
           >
             Get the Full Guide <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-0.5" />

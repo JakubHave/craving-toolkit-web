@@ -64,9 +64,38 @@ export const metadata: Metadata = {
   },
 };
 
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://cravingtoolkit.com/#organization",
+  name: "Craving Toolkit",
+  url: "https://cravingtoolkit.com",
+  logo: {
+    "@type": "ImageObject",
+    url: "https://cravingtoolkit.com/icon-512.png",
+    width: 512,
+    height: 512,
+  },
+  description: "Practical tools for addiction recovery — emergency craving protocols, daily practices, and worksheets grounded in modern addiction science.",
+  foundingDate: "2025",
+  contactPoint: {
+    "@type": "ContactPoint",
+    contactType: "customer support",
+    email: "jacob@cravingtoolkit.com",
+  },
+};
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className="scroll-smooth">
+      <head>
+        <link rel="preconnect" href="https://gumroad.com" />
+        <link rel="dns-prefetch" href="https://gumroad.com" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+        />
+      </head>
       <body className={`${inter.variable} ${lora.variable} font-sans`}>{children}<Analytics /></body>
     </html>
   );
