@@ -124,28 +124,41 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         <div className="prose prose-lg prose-emerald max-w-none">
           {formatContent(article.content)}
         </div>
+
+        {!article.isExcerpt && (
+          <div className="mt-12 text-center">
+            <Link
+              href="/#pricing"
+              className="inline-block bg-emerald-600 text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-emerald-500 transition shadow-lg"
+            >
+              Get Craving Toolkit
+            </Link>
+          </div>
+        )}
       </article>
 
-      <section className="bg-emerald-900 py-16 text-emerald-50 mt-12">
-        <div className="max-w-3xl mx-auto px-6 text-center">
-          <BookOpen className="w-12 h-12 mx-auto mb-6 text-emerald-400 opacity-80" />
-          <h2 className="text-3xl font-bold mb-4">Did this tool help you?</h2>
-          <p className="text-xl leading-relaxed text-emerald-100 mb-8 max-w-2xl mx-auto">
-            This article is just one of the 15 chapters inside the Craving Toolkit. If you want the complete field manual and the 6 printable worksheets, you can download the full PDF guide today.
-          </p>
-          <Link 
-            href="/#pricing"
-            className="inline-block bg-emerald-500 text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-emerald-400 transition shadow-lg"
-          >
-            Get the Full Craving Toolkit
-          </Link>
-        </div>
-      </section>
+      {article.isExcerpt && (
+        <section className="bg-emerald-900 py-16 text-emerald-50 mt-12">
+          <div className="max-w-3xl mx-auto px-6 text-center">
+            <BookOpen className="w-12 h-12 mx-auto mb-6 text-emerald-400 opacity-80" />
+            <h2 className="text-3xl font-bold mb-4">Did this tool help you?</h2>
+            <p className="text-xl leading-relaxed text-emerald-100 mb-8 max-w-2xl mx-auto">
+              This article is just one of the 15 chapters inside the Craving Toolkit. If you want the complete field manual and the 6 printable worksheets, you can download the full PDF guide today.
+            </p>
+            <Link
+              href="/#pricing"
+              className="inline-block bg-emerald-500 text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-emerald-400 transition shadow-lg"
+            >
+              Get the Full Craving Toolkit
+            </Link>
+          </div>
+        </section>
+      )}
 
       <footer className="bg-slate-900 text-slate-400 py-12 text-center text-sm">
         <div className="max-w-4xl mx-auto px-6">
           <p className="mb-4">
-            <strong>Disclaimer:</strong> This guide is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.
+            <strong>Disclaimer:</strong> {article.disclaimer || "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."}
           </p>
           <p>© {new Date().getFullYear()} Craving Toolkit. All rights reserved.</p>
         </div>
