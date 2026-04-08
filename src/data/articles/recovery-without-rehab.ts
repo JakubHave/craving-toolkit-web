@@ -97,6 +97,7 @@ Whether you pursue that learning through a treatment program, a support group, a
 
 - Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
 - Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+- Lewis, M. *The Biology of Desire: Why Addiction Is Not a Disease*. PublicAffairs, 2015.
 
 ### About the Author
 
