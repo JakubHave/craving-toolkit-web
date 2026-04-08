@@ -3,6 +3,7 @@ export interface Article {
   title: string;
   description: string;
   publishedAt: string;
+  modifiedAt?: string;
   content: string;
   isExcerpt?: boolean;
   disclaimer?: string;

@@ -302,6 +302,10 @@ export default function LandingPage() {
             <strong className="text-slate-400">Disclaimer:</strong> This guide is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.
           </p>
           <div className="flex items-center justify-center gap-4 mb-2">
+            <Link href="/about" className="text-slate-400 hover:text-white transition-colors">About</Link>
+            <span aria-hidden="true" className="text-slate-600">·</span>
+            <Link href="/editorial-policy" className="text-slate-400 hover:text-white transition-colors">Editorial Policy</Link>
+            <span aria-hidden="true" className="text-slate-600">·</span>
             <Link href="/terms" className="text-slate-400 hover:text-white transition-colors">Guide Terms of Service</Link>
             <span aria-hidden="true" className="text-slate-600">·</span>
             <Link href="/privacy" className="text-slate-400 hover:text-white transition-colors">Guide Privacy Policy</Link>

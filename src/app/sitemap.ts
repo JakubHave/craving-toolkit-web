@@ -36,6 +36,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...paginationEntries,
     ...articleEntries,
     {
+      url: 'https://cravingtoolkit.com/about',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
+      url: 'https://cravingtoolkit.com/editorial-policy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.4,
+    },
+    {
       url: 'https://cravingtoolkit.com/privacy',
       lastModified: new Date(),
       changeFrequency: 'monthly',

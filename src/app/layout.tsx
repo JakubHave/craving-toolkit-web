@@ -78,6 +78,7 @@ const organizationSchema = {
   },
   description: "Practical tools for addiction recovery — emergency craving protocols, daily practices, and worksheets grounded in modern addiction science.",
   foundingDate: "2025",
+  publishingPrinciples: "https://cravingtoolkit.com/editorial-policy",
   contactPoint: {
     "@type": "ContactPoint",
     contactType: "customer support",

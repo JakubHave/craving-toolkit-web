@@ -27,13 +27,15 @@ function ArticleList({ page }: { page: number }) {
   return (
     <>
       <div className="space-y-8">
-        {paginatedArticles.map((article) => (
-          <Link href={`/articles/${article.slug}`} key={article.slug} className="block group bg-white p-8 rounded-2xl shadow-sm border border-slate-100 hover:border-emerald-200 hover:shadow-md transition">
-            <time className="text-sm text-emerald-600 font-bold mb-2 block">{new Date(article.publishedAt).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</time>
-            <h2 className="text-2xl font-bold mb-3 group-hover:text-emerald-700 transition">{article.title}</h2>
-            <p className="text-slate-600 text-lg mb-4 leading-relaxed">{article.description}</p>
-            <span className="text-emerald-600 font-semibold flex items-center gap-2 group-hover:translate-x-1 transition-transform">Read article <ArrowRight className="w-4 h-4" /></span>
-          </Link>
+        {paginatedArticles.map((a) => (
+          <article key={a.slug}>
+            <Link href={`/articles/${a.slug}`} className="block group bg-white p-8 rounded-2xl shadow-sm border border-slate-100 hover:border-emerald-200 hover:shadow-md transition">
+              <time dateTime={a.publishedAt} className="text-sm text-emerald-600 font-bold mb-2 block">{new Date(a.publishedAt).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</time>
+              <h2 className="text-2xl font-bold mb-3 group-hover:text-emerald-700 transition">{a.title}</h2>
+              <p className="text-slate-600 text-lg mb-4 leading-relaxed">{a.description}</p>
+              <span className="text-emerald-600 font-semibold flex items-center gap-2 group-hover:translate-x-1 transition-transform">Read article <ArrowRight className="w-4 h-4" /></span>
+            </Link>
+          </article>
         ))}
       </div>
 
@@ -99,19 +101,21 @@ export default function ArticlesPage() {
         </div>
       </nav>
 
-      <header className="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
-        <BookOpen className="w-12 h-12 text-emerald-600 mx-auto mb-6" />
-        <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-slate-900 mb-6">
-          Recovery Tools & Articles
-        </h1>
-        <p className="text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">
-          Practical strategies for the moments when willpower fails.
-        </p>
-      </header>
+      <main>
+        <header className="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
+          <BookOpen className="w-12 h-12 text-emerald-600 mx-auto mb-6" />
+          <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-slate-900 mb-6">
+            Recovery Tools & Articles
+          </h1>
+          <p className="text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">
+            Practical strategies for the moments when willpower fails.
+          </p>
+        </header>
 
-      <section className="max-w-3xl mx-auto px-6 pb-24">
-        <ArticleList page={1} />
-      </section>
+        <section className="max-w-3xl mx-auto px-6 pb-24">
+          <ArticleList page={1} />
+        </section>
+      </main>
     </div>
   );
 }
