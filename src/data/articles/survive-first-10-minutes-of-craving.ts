@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "survive-first-10-minutes-of-craving",
     title: "How to Survive the First 10 Minutes of a Craving",
     description: "When a strong urge hits, your brain stops feeling trustworthy. Here are the exact emergency tools to break the relapse spiral in the first 10 minutes.",
-    publishedAt: "2026-03-13",
+    publishedAt: "2025-12-01",
     isExcerpt: true,
     content: `When a strong urge hits, your job is not to solve your whole life. Your job is smaller, much more realistic, and highly urgent:
 

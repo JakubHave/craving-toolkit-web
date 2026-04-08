@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "why-cant-i-feel-pleasure-dopamine-deficit",
     title: "Why Can't I Feel Pleasure Anymore? Understanding the Dopamine Deficit State",
     description: "You are sober and doing everything right. And yet nothing feels good. This is the dopamine deficit state — temporary, neurochemical, and recoverable. Here is what is happening and how long it lasts.",
-    publishedAt: "2026-04-30",
+    publishedAt: "2026-02-02",
     content: `You are sober. You are doing the right things. You are eating, sleeping, exercising, showing up. And yet nothing — absolutely nothing — feels good.
 
 The food has no flavor. The music is just sound. Your friends are talking and you cannot make yourself care. Somebody tells a joke and you produce a laugh because you know it is expected, but inside there is nothing. Just a flat, colorless void where feelings used to live.

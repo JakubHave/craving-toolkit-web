@@ -1,4 +1,4 @@
-import { articles } from "@/data/articles";
+import { articlesMeta, getArticleBySlug } from "@/data/articles";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { ArrowLeft, BookOpen } from "lucide-react";
@@ -6,7 +6,7 @@ import { Metadata } from "next";
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const resolvedParams = await params;
-  const article = articles.find((a) => a.slug === resolvedParams.slug);
+  const article = getArticleBySlug(resolvedParams.slug);
   if (!article) return { title: "Article Not Found | Craving Toolkit" };
 
   const url = `https://cravingtoolkit.com/articles/${article.slug}`;
@@ -35,8 +35,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 }
 
 export async function generateStaticParams() {
-  return articles.map((article) => ({
-    slug: article.slug,
+  return articlesMeta.map((a) => ({
+    slug: a.slug,
   }));
 }
 
@@ -59,7 +59,7 @@ function getArticleJsonLd(article: { title: string; description: string; slug: s
 
 export default async function ArticlePage({ params }: { params: Promise<{ slug: string }> }) {
   const resolvedParams = await params;
-  const article = articles.find((a) => a.slug === resolvedParams.slug);
+  const article = getArticleBySlug(resolvedParams.slug);
   if (!article) notFound();
 
   const formatContent = (content: string) => {

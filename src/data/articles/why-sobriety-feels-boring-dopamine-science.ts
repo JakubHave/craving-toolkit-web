@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "why-sobriety-feels-boring-dopamine-science",
     title: "Why Sobriety Feels So Boring: The Dopamine Science No One Explains",
     description: "Saturday afternoon. House is clean. Laundry done. Now what? The suffocating boredom of early sobriety is not a character flaw — it's a neurochemical phase with a timeline.",
-    publishedAt: "2026-03-29",
+    publishedAt: "2025-12-15",
     content: `Nobody warns you about this part.
 
 They tell you about withdrawal. They tell you about cravings. They tell you about the shaky hands, the sweats, the insomnia, the emotional rollercoaster.

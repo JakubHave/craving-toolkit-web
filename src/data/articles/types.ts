@@ -7,3 +7,10 @@ export interface Article {
   isExcerpt?: boolean;
   disclaimer?: string;
 }
+
+export interface ArticleMeta {
+  slug: string;
+  title: string;
+  description: string;
+  publishedAt: string;
+}

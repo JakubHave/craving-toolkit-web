@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "the-addictive-voice-how-your-mind-talks-you-into-relapse",
     title: "The Addictive Voice: How Your Mind Talks You Into Relapse",
     description: "Most relapses don't start with a substance. They start with a sentence — a quiet permission your mind slips past your defenses. Learn to recognize the voice before it wins.",
-    publishedAt: "2026-03-17",
+    publishedAt: "2025-12-04",
     isExcerpt: true,
     content: `Most relapses do not begin with the substance or the behavior. They begin with a sentence. Sometimes not even a full sentence. More like an attitude. A permission. A quiet shift in how you talk to yourself.
 

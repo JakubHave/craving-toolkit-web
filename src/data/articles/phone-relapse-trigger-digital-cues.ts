@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "phone-relapse-trigger-digital-cues",
     title: "Your Phone Is a Relapse Trigger: How Digital Cues Hijack Recovery",
     description: "Your phone contains more triggers per square inch than any bar or neighborhood. Nobody tells you to audit it. Here's why you should — and exactly how to do it.",
-    publishedAt: "2026-04-08",
+    publishedAt: "2025-12-24",
     content: `Here is something that does not get talked about enough in recovery circles: your phone might be the most dangerous object in your house.
 
 Not because you are addicted to your phone (although you might be). But because your phone is a cue machine. It is a delivery system for the exact triggers — people, images, emotions, memories — that light up the same reward circuits your addiction exploited. And it is in your hand for hours every day, often before you are even fully awake.

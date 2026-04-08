@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "how-long-to-reset-dopamine-timeline",
     title: "How Long Does It Take to Reset Your Dopamine? The Real Timeline",
     description: "The '90 days' answer is dangerously oversimplified. Here are the real substance-specific timelines for dopamine recovery — alcohol, cannabis, stimulants, opioids, and behavioral addictions.",
-    publishedAt: "2026-04-10",
+    publishedAt: "2025-12-30",
     content: `This is probably the most-searched question in addiction recovery, and the most common answer — "about 90 days" — is both partially true and dangerously oversimplified.
 
 The real answer depends on what you were using, how long you were using it, how heavily, and what "reset" actually means to you. Are you asking when you will stop feeling withdrawal? When normal activities will feel pleasurable again? When your brain will be neurologically indistinguishable from someone who never used?

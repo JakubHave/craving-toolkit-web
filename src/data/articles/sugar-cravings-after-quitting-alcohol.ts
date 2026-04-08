@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "sugar-cravings-after-quitting-alcohol",
     title: "Sugar Cravings After Quitting Alcohol: Why It Happens and What to Do About It",
     description: "You stopped drinking and now you can't stop eating candy. It's not a character flaw — it's biochemistry. Here's why sugar is the first substitute your brain finds, and what to do about it.",
-    publishedAt: "2026-05-02",
+    publishedAt: "2026-02-07",
     content: `You stopped drinking. And now you cannot stop eating candy.
 
 It sounds almost comical — trading a bottle of vodka for a bag of gummy bears. But if you are experiencing it, you know it is not funny. The cravings are intense, relentless, and confusing. You quit alcohol to get your life together, and now you are eating an entire pint of ice cream every night and wondering what is wrong with you.

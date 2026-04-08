@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "ulysses-contract-outsmart-addiction",
     title: "The Ulysses Contract: How to Outsmart Your Future Addicted Self",
     description: "Your wise self and your triggered self are not the same person. Learn how to bind your future self with a strategy older than psychology — and far more effective than willpower.",
-    publishedAt: "2026-03-21",
+    publishedAt: "2025-12-08",
     content: `There is a moment in every recovery where you feel strong. Clear-headed. Confident. You cannot imagine why you would ever go back.
 
 And then there is the other moment — hours, days, or weeks later — when every molecule in your body screams for the old thing. In that second moment, the confident version of you does not exist. Someone else is driving.

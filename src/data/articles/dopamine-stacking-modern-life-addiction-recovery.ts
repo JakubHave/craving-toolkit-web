@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "dopamine-stacking-modern-life-addiction-recovery",
     title: "Dopamine Stacking: Why Modern Life Makes Addiction Recovery Harder Than Ever",
     description: "Before 9 AM you've hit your reward system with half a dozen dopamine triggers. This invisible stacking makes recovery harder than it needs to be. Here's how to destack.",
-    publishedAt: "2026-04-26",
+    publishedAt: "2026-01-27",
     content: `Imagine this morning routine: you wake up, immediately check your phone (dopamine), scroll social media while the coffee brews (dopamine), drink the coffee (dopamine), eat a sugary breakfast (dopamine), listen to a high-energy podcast while commuting (dopamine), and respond to a string of notifications at your desk (dopamine, dopamine, dopamine).
 
 Before 9 AM, you have hit your reward system with half a dozen overlapping dopamine triggers. Each one individually is not a problem. Stacked together, day after day, they create a chronic state of overstimulation that most people are completely unaware of — until they try to quit one specific substance and discover that their entire environment is working against them.
