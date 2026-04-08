@@ -1,10 +1,10 @@
 import { MetadataRoute } from 'next'
-import { articlesMeta } from '@/data/articles'
+import { articles } from '@/data/articles'
 
 const ARTICLES_PER_PAGE = 10;
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const totalPages = Math.ceil(articlesMeta.length / ARTICLES_PER_PAGE);
+  const totalPages = Math.ceil(articles.length / ARTICLES_PER_PAGE);
 
   const paginationEntries: MetadataRoute.Sitemap = Array.from({ length: totalPages - 1 }, (_, i) => ({
     url: `https://cravingtoolkit.com/articles/page/${i + 2}`,
@@ -13,9 +13,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  const articleEntries: MetadataRoute.Sitemap = articlesMeta.map((article) => ({
+  const articleEntries: MetadataRoute.Sitemap = articles.map((article) => ({
     url: `https://cravingtoolkit.com/articles/${article.slug}`,
-    lastModified: new Date(article.publishedAt),
+    lastModified: new Date(article.modifiedAt || article.publishedAt),
     changeFrequency: 'monthly',
     priority: 0.8,
   }))

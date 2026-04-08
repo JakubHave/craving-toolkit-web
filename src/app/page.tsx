@@ -118,6 +118,7 @@ export default function LandingPage() {
               alt="Craving Toolkit guide cover"
               width={360}
               height={480}
+              sizes="(max-width: 768px) 90vw, 360px"
               className="mx-auto rounded-2xl shadow-2xl shadow-slate-900/20"
               priority
             />
