@@ -47,7 +47,7 @@ Over time, three things happen:
 
 **The dopamine deficit state.** With chronic heavy use, the balance can get stuck tilted to the pain side. Baseline dopamine drops. Receptor density decreases. The person is now living in a chronic state of low-grade pain and inability to experience pleasure from normal activities. They're not using to get high anymore. They are using just to feel normal. And even that stops working eventually.
 
-This is addiction. Not a choice. Not a preference. A balance that has been pushed so far, so often, that it can't easily return to center.
+This is addiction. [Not a choice. Not a disease. Not a preference.](/articles/is-addiction-disease-or-learning) A balance that has been pushed so far, so often, that it can't easily return to center.
 
 ### The progressive narrowing
 

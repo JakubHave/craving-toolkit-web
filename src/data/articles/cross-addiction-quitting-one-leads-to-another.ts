@@ -39,6 +39,7 @@ Some of the most common cross-addiction patterns include:
 - Opioids to gambling or gaming
 - Stimulants to compulsive exercise or workaholism
 - Any substance to pornography or compulsive sexual behavior
+- Any substance to [compulsive romantic relationships](/articles/heartbreak-withdrawal-love-addiction)
 - Any substance to social media or phone addiction
 
 The bariatric surgery phenomenon is one of the most studied examples. Research has consistently shown that a significant percentage of patients who undergo gastric bypass surgery — which physically limits food intake — develop new addictions to alcohol, gambling, or shopping within 1–2 years after surgery. The food addiction was not eliminated. It was rerouted.

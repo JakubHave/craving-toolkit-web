@@ -87,7 +87,7 @@ If you are reading this and you have already used, the most important thing is w
 
 A slip is not a relapse. A relapse is a slip that turns into a pattern. The single most critical moment in the entire process is the 10 minutes after the first use, because this is where the shame spiral either captures you or does not.
 
-The addictive voice will say: "You already blew it. You are pathetic. Might as well keep going. Start over Monday." This is the collapse spiral, and it is more dangerous than the initial slip. The difference between one drink and a three-day binge is often decided in this exact moment.
+The addictive voice will say: "You already blew it. You are pathetic. Might as well keep going. Start over Monday." This is the [collapse spiral](/articles/screw-it-moment-all-or-nothing), and it is more dangerous than the initial slip. The difference between one drink and a three-day binge is often decided in this exact moment.
 
 Stop immediately. One use does not undo your recovery. It does not erase the days you accumulated. It does not mean you are back to zero. But continuing — using the shame of the slip to justify more use — can undo months of progress very quickly.
 

@@ -7,7 +7,7 @@ export const article: Article = {
     publishedAt: "2025-12-18",
     content: `You quit. You got through the withdrawal. You're doing everything right. And yet — nothing feels good. Food is tasteless. Music is noise. People are annoying. The things that used to bring you joy, even before the addiction, feel empty. You're not sad exactly. You're not anxious. You just feel... nothing.
 
-This has a name: anhedonia. It comes from the Greek *an-* (without) and *hēdonē* (pleasure). The inability to experience pleasure from activities that normally feel rewarding.
+This has a name: anhedonia. It comes from the Greek *an-* (without) and *hēdonē* (pleasure). The inability to experience pleasure from activities that normally feel rewarding — the endpoint of the [narrowing effect](/articles/narrowing-effect-addiction) that addiction produces.
 
 Anhedonia is one of the most common and least discussed experiences in recovery. It is also one of the most dangerous, because it makes people question whether sobriety is even worth it. If this is what "better" feels like — flat, grey, joyless — then what is the point?
 

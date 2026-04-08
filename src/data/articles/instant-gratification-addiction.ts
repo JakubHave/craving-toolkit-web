@@ -3,15 +3,15 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "instant-gratification-addiction",
     title: "Addiction and Instant Gratification: How Your Brain Is Wired to Choose Now Over Later",
-    description: "Offer someone $100 today or $200 in a year — most take the $100. In addiction, this wiring becomes a trap. Here is how 'now appeal' works and how to rebuild the bridge between now and later.",
+    description: "Your brain is wired to choose now over later. In addiction, this becomes a trap. Here's how 'now appeal' works and how to rebuild the bridge between present and future.",
     publishedAt: "2026-03-31",
     content: `Offer someone a hundred dollars today or two hundred dollars in a year. Most people take the hundred.
 
-This is not stupidity. It is not a character flaw. It is how every human brain is wired. Neuroscientists call it temporal discounting — the tendency to devalue future rewards relative to immediate ones. The further away a reward is, the less it is worth to your motivational system. A bird in the hand is worth two in the bush, and your striatum has been making that calculation since before you were born.
+This isn't stupidity. It's not a character flaw. It is how every human brain is wired. Neuroscientists call it temporal discounting — the tendency to devalue future rewards relative to immediate ones. The further away a reward is, the less it is worth to your motivational system. A bird in the hand is worth two in the bush, and your striatum has been making that calculation since before you were born.
 
 For most people, this wiring produces minor irrationalities — choosing dessert over the diet, scrolling instead of studying, hitting snooze instead of exercising. Annoying but manageable.
 
-For people with addiction, this wiring becomes a trap. Marc Lewis calls it "now appeal" — the overwhelming, circuit-level prioritization of immediate reward over everything else. And understanding how it works reveals why rational arguments about consequences so consistently fail to reach someone in active addiction.
+For people with addiction, this wiring becomes a trap. [Marc Lewis](https://memoirsofanaddictedbrain.com/) calls it "now appeal" — the overwhelming, circuit-level prioritization of immediate reward over everything else. And understanding how it works reveals why rational arguments about consequences so consistently fail to reach someone in active addiction.
 
 ### Why "now" always wins in the addicted brain
 
@@ -23,15 +23,15 @@ In chronic addiction, this communication breaks down. The synaptic connections b
 
 The result: now appeal becomes the dominant force in decision-making. The immediate reward (the substance, the behavior) is processed in high definition. The future consequences (the hangover, the shame, the damage) are processed in static. The person can intellectually know that using is destructive — and still find the immediate reward more compelling than the abstract future.
 
-This is not irrationality in the way that believing the earth is flat is irrational. It is a predictable output of a motivational system that has been progressively trained to prioritize the immediate. The person is not choosing poorly. Their decision-making system is calibrated poorly — by the addiction itself.
+This is not irrationality in the way that believing the earth is flat is irrational. It is a predictable output of a motivational system that has been progressively trained to prioritize the immediate. The person isn't choosing poorly. Their decision-making system is calibrated poorly — by the addiction itself.
 
 ### The narrowing spiral
 
 Now appeal does not operate in isolation. It interacts with two other mechanisms to create a self-reinforcing spiral.
 
-**As now appeal intensifies, the range of attractive rewards narrows.** When immediate rewards are always preferred, the brain stops investing neural resources in long-term pursuits. Career goals, relationship maintenance, health management — these require sustained effort with delayed payoff. The striatum, trained to seek immediate dopamine, progressively disengages from them. The world of rewarding possibilities shrinks to a single point: the substance.
+**As now appeal intensifies, the [range of attractive rewards narrows](/articles/narrowing-effect-addiction).** When immediate rewards are always preferred, the brain stops investing neural resources in long-term pursuits. Career goals, relationship maintenance, health management — these require sustained effort with delayed payoff. The striatum, trained to seek immediate dopamine, progressively disengages from them. The world of rewarding possibilities shrinks to a single point: the substance.
 
-**As the range narrows, ego fatigue increases.** When the only compelling reward in your life is the one you are trying to avoid, every moment of resistance costs more cognitive energy. You are not just saying no to a craving — you are saying no to the only thing your brain finds genuinely appealing. The effort required to resist escalates as alternatives lose their pull.
+**As the range narrows, [ego fatigue](/articles/why-willpower-fails-recovery) increases.** When the only compelling reward in your life is the one you are trying to avoid, every moment of resistance costs more cognitive energy. You are not just saying no to a craving — you are saying no to the only thing your brain finds genuinely appealing. The effort required to resist escalates as alternatives lose their pull.
 
 **As ego fatigue increases, now appeal gets worse.** When the prefrontal cortex is exhausted from constant resistance, its ability to project future consequences and maintain long-term goals deteriorates further. The immediate reward becomes even more dominant. The spiral tightens.
 
@@ -47,11 +47,11 @@ These appeals assume that the person's decision-making system is weighing future
 
 But the problem is not insufficient information about consequences. The problem is that the neural system responsible for processing future consequences has been functionally sidelined. The dlPFC is not receiving the signal. Or it is receiving it at such reduced volume that it cannot compete with the full-volume broadcast from the striatum.
 
-You are not arguing with a person who is making a bad choice. You are arguing with a brain architecture that has been reshaped to process the immediate as overwhelming and the future as irrelevant. No amount of logical argument changes the architecture. Only new learning does.
+You're not arguing with a person who is making a bad choice. You are arguing with a brain architecture that has been reshaped to process the immediate as overwhelming and the future as irrelevant. No amount of logical argument changes the architecture. Only new learning does.
 
 ### Rebuilding the bridge between now and later
 
-If now appeal is driven by the weakening of connections between the prefrontal cortex and the striatum, then recovery requires rebuilding those connections. This is not a metaphor — it is a literal description of what needs to happen at the synaptic level.
+If now appeal is driven by the weakening of connections between the prefrontal cortex and the striatum, then recovery requires rebuilding those connections. This isn't a metaphor — it is a literal description of what needs to happen at the synaptic level.
 
 Lewis's research shows that this rebuilding occurs through a specific process: engaging the prefrontal cortex and the striatum simultaneously around new goals. When you think about a future you genuinely desire — imagine it vividly, feel the pull of it emotionally, connect it to your present actions — both systems fire together. And what fires together, wires together. The connection strengthens.
 
@@ -67,7 +67,7 @@ The more concrete and emotionally charged the future vision, the more effectivel
 
 **Practice delayed gratification in low-stakes contexts.** The capacity for delay is trainable. Start with situations that do not involve your addiction: wait five minutes before checking your phone. Finish a task before getting coffee. Let the other person speak before you respond. Each small practice of choosing later over now strengthens the prefrontal-striatal connection without the emotional intensity of a craving.
 
-**Remove unnecessary immediate rewards.** Every low-effort dopamine hit throughout your day — social media scrolling, sugar snacks, constant entertainment — trains your brain to prefer immediacy. Reducing these inputs during recovery is not punishment. It is recalibration. You are teaching your striatum that not every desire needs to be satisfied immediately, building tolerance for delay that transfers to the moments that matter.
+**Remove unnecessary immediate rewards.** Every low-effort dopamine hit throughout your day — social media scrolling, sugar snacks, constant entertainment — trains your brain to prefer immediacy. Reducing these inputs during recovery — as part of a structured [dopamine reset](/articles/30-day-dopamine-reset-week-by-week) — isn't punishment. It's recalibration. You are teaching your striatum that not every desire needs to be satisfied immediately, building tolerance for delay that transfers to the moments that matter.
 
 ### The temporal horizon of recovery
 
@@ -85,9 +85,9 @@ Your brain was built to prefer now. But it was also built to learn. And what it 
 
 ### Sources
 
-- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
-- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
-- Lewis, M. *The Biology of Desire: Why Addiction Is Not a Disease*. PublicAffairs, 2015.
+- Lewis M. *The Biology of Desire*. PublicAffairs, 2015.
+- Lewis M. "Addiction and the Brain: Development, Not Disease." *Neuroethics*. 2017;10(1):7-18.
+- Bickel WK, et al. "Excessive discounting of delayed reinforcers as a trans-disease process contributing to addiction." *Pharmacol Ther*. 2012;134(3):287-297.
 
 ### About the Author
 

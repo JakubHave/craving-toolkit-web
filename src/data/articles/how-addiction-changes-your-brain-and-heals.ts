@@ -67,7 +67,7 @@ This is not a sentence to lifelong struggle. It is information that supports lif
 
 **Memory consolidation.** The memories of drug-taking experiences — including the procedural knowledge of how to obtain and use — are stored in long-term memory and do not erase. Recovery does not produce amnesia. You will always know what the substance felt like, how to get it, and what rituals surrounded its use. This knowledge is not dangerous on its own, but combined with sensitization, it means that the option of using always exists in the back of your mind.
 
-This is why recovery is often described as a practice rather than a destination. Not because you are permanently broken, but because the neural infrastructure of the addiction — weakened but not deleted — requires ongoing maintenance to keep dormant.
+This is why recovery is often described as a practice rather than a destination. Not because you are permanently broken — the idea that you are "[once an addict, always an addict](/articles/once-an-addict-always-an-addict)" oversimplifies the neuroscience — but because the neural infrastructure of the addiction, weakened but not deleted, requires ongoing maintenance to keep dormant.
 
 ### How to support your brain's healing
 

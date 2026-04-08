@@ -3,7 +3,7 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "narrowing-effect-addiction",
     title: "The Narrowing Effect: How Addiction Shrinks Your World (and How to Widen It Again)",
-    description: "Addiction is a progressive narrowing of the things that bring you pleasure. Food loses flavor. Friends become obligations. Only one thing stays in high definition. Here is how to reverse it.",
+    description: "Addiction progressively narrows the things that bring you pleasure. Here's the neuroscience behind the narrowing — and a practical protocol for widening your world back out.",
     publishedAt: "2026-03-04",
     content: `Addiction is a progressive narrowing of the things that bring you pleasure.
 
@@ -13,17 +13,17 @@ The narrowing is the thing nobody sees from the outside. To the people around yo
 
 Food that used to taste good now tastes like nothing. Friendships that used to feel nourishing now feel like obligations. Hobbies that used to absorb you now feel pointless. Sex, music, exercise, conversation, sunlight — all of it fading to grey while one single source of stimulation remains in high definition.
 
-This is not a metaphor. It is a neurological process with measurable mechanisms. And understanding it — really understanding it — is the key to reversing it.
+This isn't a metaphor. It's a neurological process with measurable mechanisms. And understanding it — really understanding it — is the key to reversing it.
 
 ### How the narrowing works in your brain
 
-Neuroscientist Marc Lewis describes the narrowing as a "tunnel of attention and attraction" that gets tighter with every cycle of use. The mechanism involves three interconnected brain systems working together to create a self-reinforcing loop.
+Neuroscientist [Marc Lewis](https://memoirsofanaddictedbrain.com/) describes the narrowing as a "tunnel of attention and attraction" that gets tighter with every cycle of use. The mechanism involves three interconnected brain systems working together to create a self-reinforcing loop.
 
 **The striatum becomes specialized.** The striatum is the brain's motivational core — the region that processes dopamine and generates the feeling of wanting. Under normal conditions, it responds to a wide variety of rewards: food, social connection, achievement, novelty, physical pleasure. It is a generalist.
 
 Chronic exposure to a high-dopamine substance or behavior changes this. The striatum builds increasingly efficient neural pathways for anticipating and pursuing the addictive reward, while pathways for other rewards weaken through disuse. It becomes a specialist — exquisitely tuned to one specific reward and increasingly indifferent to everything else.
 
-This is not damage. It is learning — the brain doing exactly what it does with any intensely repeated experience. A concert pianist's motor cortex becomes specialized for piano at the expense of other manual skills. An addict's striatum becomes specialized for the substance at the expense of other rewards.
+This isn't damage. It's learning — the brain doing exactly what it does with any intensely repeated experience. This is why some neuroscientists argue that [addiction is a learning process, not a disease](/articles/is-addiction-disease-or-learning). A concert pianist's motor cortex becomes specialized for piano at the expense of other manual skills. An addict's striatum becomes specialized for the substance at the expense of other rewards.
 
 **The orbitofrontal cortex narrows its evaluations.** The orbitofrontal cortex (OFC) is the brain region that assigns value to experiences — it decides what is worth pursuing and what is not. During addiction, the OFC progressively recalibrates its value assessments. The substance gets rated higher and higher. Everything else gets rated lower and lower.
 
@@ -37,7 +37,7 @@ The result: the judging system and the wanting system stop communicating effecti
 
 The neurological process described above produces a distinctive subjective experience that most people in addiction recognize but rarely have language for.
 
-It is not that you actively dislike other activities. It is that they become invisible. Your attentional system — which is tightly coupled to your dopamine system — stops flagging non-addictive rewards as noteworthy. You can look directly at a beautiful sunset, a laughing friend, a plate of excellent food, and feel nothing. Not because the experience is wrong, but because your brain has stopped allocating attentional resources to it.
+It's not that you actively dislike other activities. It is that they become invisible. Your attentional system — which is tightly coupled to your dopamine system — stops flagging non-addictive rewards as noteworthy. You can look directly at a beautiful sunset, a laughing friend, a plate of excellent food, and feel nothing. Not because the experience is wrong, but because your brain has stopped allocating attentional resources to it.
 
 Meanwhile, everything related to the substance is hyper-visible. The billboard for a liquor store. The notification from the gambling app. The route past the dealer's house. The time of day when you usually use. These cues are processed with extraordinary efficiency because your striatum has built dedicated neural infrastructure for detecting them.
 
@@ -51,7 +51,7 @@ Many discussions of addiction focus on the substance — its chemistry, its dopa
 
 A person with a rich, varied, deeply satisfying life is harder to addict than a person whose world is already narrow. This is why addiction disproportionately affects people who are isolated, bored, traumatized, or lacking in purpose — their world was already small, and the substance offered the most vivid thing in it.
 
-It is also why removing the substance, by itself, is often insufficient. If you take away the only high-definition experience in someone's grey-scale world, you do not create recovery. You create a void. And voids get filled — usually with the same substance, or with a substitute that activates the same narrowed circuits.
+It is also why removing the substance, by itself, is often insufficient. If you take away the only high-definition experience in someone's grey-scale world, you don't create recovery. You create a void. And voids get filled — usually with the same substance, or with a substitute that activates the same narrowed circuits.
 
 Real recovery is not primarily about subtracting the substance. It is about widening the world back out.
 
@@ -59,11 +59,11 @@ Real recovery is not primarily about subtracting the substance. It is about wide
 
 If the narrowing is driven by neuroplasticity — the brain's pathways strengthening with use and weakening with disuse — then widening is driven by the same mechanism in reverse. New experiences build new pathways. Repeated new experiences strengthen them. Over time, the brain's reward landscape diversifies, and the substance's monopoly on pleasure breaks.
 
-This does not happen automatically. It requires deliberate effort during a period when your brain is least equipped to appreciate the effort, because the narrowing has not yet reversed and everything still feels flat. This is the cruelest feature of early recovery: the medicine (new experiences) feels pointless because the disease (the narrowing) prevents you from enjoying it.
+This doesn't happen automatically. It requires deliberate effort during a period when your brain is least equipped to appreciate the effort, because the narrowing has not yet reversed and everything still [feels flat](/articles/anhedonia-after-quitting-how-long-it-lasts). This is the cruelest feature of early recovery: the medicine (new experiences) feels pointless because the disease (the narrowing) prevents you from enjoying it.
 
 But the medicine works anyway. The brain is changing even when you cannot feel it.
 
-**Diversify your reward sources deliberately.** List ten activities you used to enjoy before addiction — or might enjoy if your brain were working normally. Exercise, cooking, music, reading, hiking, socializing, building something, learning a skill, volunteering, playing with a pet. Now schedule three of them into your week, regardless of whether you feel like doing them. You are not doing them for enjoyment — not yet. You are doing them to give your striatum new inputs, new data, new pathways to build.
+**Diversify your reward sources deliberately.** List ten activities you used to enjoy before addiction — or might enjoy if your brain were working normally. Exercise, cooking, music, reading, hiking, socializing, building something, learning a skill, volunteering, playing with a pet. Now schedule three of them into your week, regardless of whether you feel like doing them. You're not doing them for enjoyment — not yet. You are doing them to give your striatum new inputs, new data, new pathways to build.
 
 **Pursue novelty.** Novel experiences are uniquely effective at stimulating dopamine in a depleted system because they bypass the tolerance that has built up around familiar rewards. Take a route you have never driven. Eat a cuisine you have never tried. Visit a place you have never been. Learn something completely unrelated to your life. Novelty tells the brain: something new is happening. Pay attention. Build a pathway.
 
@@ -71,7 +71,7 @@ But the medicine works anyway. The brain is changing even when you cannot feel i
 
 **Connect with people.** Social connection activates the reward system through oxytocin and natural dopamine pathways that are distinct from — and can compete with — the addictive pathways. Even brief, low-stakes social interactions (a conversation with a neighbor, a text exchange with a friend, attending a group meeting) provide neurochemical inputs that help widen the reward landscape.
 
-**Build toward a future.** Lewis's research shows that one of the most powerful widening forces is the development of a compelling future vision. People who overcome addiction consistently describe a moment when they began to see a future worth pursuing — a career, a relationship, a contribution, a version of themselves they wanted to become. This future vision engages the prefrontal cortex and reconnects it to the motivational system, creating new pathways that compete with the old narrowed ones.
+**Build toward a future.** Lewis's research shows that one of the most powerful widening forces is the development of a compelling future vision. People who overcome addiction consistently describe a moment when they began to see a future worth pursuing — a career, a relationship, a contribution, a [version of themselves they wanted to become](/articles/who-am-i-without-addiction-identity). This future vision engages the prefrontal cortex and reconnects it to the motivational system, creating new pathways that compete with the old narrowed ones.
 
 This is not "finding your passion" in the Instagram sense. It is looking at the life you have been given, seeing what needs to be done, and beginning to do it — day by day, task by task — until the accumulation of small purposeful actions creates a life that is genuinely wider than the tunnel you have been living in.
 
@@ -89,9 +89,9 @@ The narrowing was real. The widening is real too. And it is already happening �
 
 ### Sources
 
-- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
-- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
-- Lewis, M. *The Biology of Desire: Why Addiction Is Not a Disease*. PublicAffairs, 2015.
+- Lewis M. *The Biology of Desire*. PublicAffairs, 2015.
+- Lewis M. "Addiction and the Brain: Development, Not Disease." *Neuroethics*. 2017;10(1):7-18.
+- Huberman A. "Addiction is a progressive narrowing of the things that bring you pleasure." Social media post, 2022.
 
 ### About the Author
 

@@ -25,7 +25,7 @@ When the moment came, Odysseus thrashed and pleaded. He was not rational. He was
 
 This is the essence of a Ulysses contract: a decision made by your sober, clear-thinking self that binds your future, craving-driven self. You set the rules when you can think. You enforce them when you cannot.
 
-### Why willpower is not enough
+### [Why willpower is not enough](/articles/why-willpower-fails-recovery)
 
 Willpower is not a fixed resource you can just summon harder. Research shows it behaves more like a muscle — it fatigues with use, especially under stress, sleep deprivation, hunger, or emotional distress. These are exactly the conditions under which cravings tend to strike.
 
