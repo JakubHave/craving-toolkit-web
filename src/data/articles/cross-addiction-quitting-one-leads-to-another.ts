@@ -15,9 +15,9 @@ This is cross-addiction — the phenomenon where a person in recovery from one a
 
 Cross-addiction is not a coincidence and it is not a character defect. It has a clear neurological basis.
 
-All addictive substances and behaviors — alcohol, drugs, gambling, porn, food, shopping, gaming — operate through the same core reward pathway in the brain. They all increase dopamine transmission in the circuit connecting the ventral tegmental area, the nucleus accumbens, and the prefrontal cortex. The specific mechanisms differ (alcohol modulates GABA and glutamate, cocaine blocks dopamine reuptake, gambling exploits variable reward schedules), but the downstream effect is the same: a surge of dopamine in the reward pathway.
+All addictive substances and behaviors — alcohol, drugs, gambling, porn, food, shopping, gaming — operate through the same core [reward pathway](/articles/pleasure-pain-balance-explains-addiction) in the brain. They all increase dopamine transmission in the circuit connecting the ventral tegmental area, the nucleus accumbens, and the prefrontal cortex. The specific mechanisms differ (alcohol modulates GABA and glutamate, cocaine blocks dopamine reuptake, gambling exploits variable reward schedules), but the downstream effect is the same: a surge of dopamine in the reward pathway.
 
-This is why Anna Lembke uses the word "drug" to refer to both substances and behaviors. From the brain's perspective, the distinction is less meaningful than we think.
+This is why [Anna Lembke](https://profiles.stanford.edu/anna-lembke) uses the word "drug" to refer to both substances and behaviors. From the brain's perspective, the distinction is less meaningful than we think.
 
 When you become severely addicted to one substance, the neuroadaptations that develop — receptor downregulation, blunted baseline dopamine, impaired prefrontal control — are not specific to that substance. They are system-wide changes in how your brain processes reward. Your entire reward system has been altered, not just the part that responds to alcohol or cocaine or heroin.
 
@@ -35,7 +35,7 @@ But the pattern — compulsive engagement, escalating consumption, loss of contr
 
 Some of the most common cross-addiction patterns include:
 
-- Alcohol to sugar or food (extremely common — the brain substitutes one glucose-affecting substance for another)
+- Alcohol to [sugar or food](/articles/sugar-cravings-after-quitting-alcohol) (extremely common — the brain substitutes one glucose-affecting substance for another)
 - Opioids to gambling or gaming
 - Stimulants to compulsive exercise or workaholism
 - Any substance to pornography or compulsive sexual behavior
@@ -69,7 +69,7 @@ Traditional recovery programs tend to focus narrowly on the primary substance. A
 
 This creates a blind spot. A person can be celebrated for 90 days of sobriety while simultaneously developing a severe gambling problem. The gambling is not being monitored, discussed, or assessed — because it is not the thing that brought them into treatment.
 
-Some recovery communities do address this. The concept of "total sobriety" or "clean living" extends beyond the primary substance to include any compulsive behavior. But this is not universal, and many people in recovery are left to discover cross-addiction through painful experience rather than proactive education.
+Some recovery communities do address this — programs like [SMART Recovery](https://smartrecovery.org/smart-recovery-toolbox/) take a broader view, teaching tools that apply across all compulsive behaviors. The concept of "total sobriety" or "clean living" extends beyond the primary substance to include any compulsive behavior. But this is not universal, and many people in recovery are left to discover cross-addiction through painful experience rather than proactive education.
 
 ### How to protect yourself
 
@@ -90,6 +90,28 @@ Cross-addiction reveals something important about the nature of addiction itself
 Real recovery is not just about removing one drug. It is about changing your relationship with the dopamine system itself. Learning to tolerate discomfort. Building sustainable sources of reward. Developing the self-awareness to recognize when a behavior has crossed from enjoyment into compulsion.
 
 That is harder than quitting one thing. But it is also more durable. Because once you understand the pattern — not just the substance — the pattern loses much of its power to blindside you.
+
+
+
+### Frequently Asked Questions
+
+**What is cross-addiction?**
+Cross-addiction is the phenomenon where a person in recovery from one addiction develops a new compulsive relationship with a different substance or behavior — such as quitting alcohol and developing compulsive eating or gambling.
+
+**Why does cross-addiction happen?**
+All addictive substances and behaviors operate through the same core reward pathway. When you're severely addicted, the neuroadaptations are system-wide — not specific to one substance. Your entire reward system is vulnerable, not just the part that responds to your drug of choice.
+
+**How do I know if a new behavior is cross-addiction?**
+Look for: loss of control, continued use despite negative consequences, progressive escalation, preoccupation, and withdrawal-like discomfort when you stop. If three or more are present, the behavior has likely crossed from coping into compulsion.
+
+### Sources
+
+- King WC, Chen JY, Mitchell JE, et al. "Prevalence of alcohol use disorders before and after bariatric surgery." *JAMA*. 2012;307(23):2516-2525. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22710289/)
+- Lembke A. *Dopamine Nation*. Dutton, 2021.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

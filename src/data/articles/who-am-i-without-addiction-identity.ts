@@ -81,6 +81,17 @@ The grief passes — not because you forget the old self, but because the new se
 
 You are not who you were. You are who you are becoming.
 
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
+
 ***
 
 *The Craving Toolkit includes practical exercises for identity reconstruction during recovery — including narrative mapping, ritual replacement, and structured daily practices that build the new self one action at a time.*`,

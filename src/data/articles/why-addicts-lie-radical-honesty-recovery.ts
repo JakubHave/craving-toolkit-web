@@ -67,7 +67,7 @@ That moment — choosing honesty when no one was forcing it — was more signifi
 
 **Find people who can hold the truth.** Radical honesty requires a safe container. Not everyone can hold your truth without weaponizing it, minimizing it, or running from it. A therapist, a sponsor, a recovery group, or a deeply trusted friend — find at least one person with whom you can be completely honest. One is enough to start.
 
-**Expect discomfort.** Telling the truth about things you are ashamed of is painful. It activates the same brain regions as physical pain. But this is the kind of pain that tips the pleasure-pain balance in the right direction. The discomfort of honesty is followed by relief, lightness, and a quiet sense of integrity that compounds over time.
+**Expect discomfort.** Telling the truth about things you are ashamed of is painful — it means walking straight into the [shame spiral](/articles/shame-spiral-addiction-how-to-break-it) instead of running from it. It activates the same brain regions as physical pain. But this is the kind of pain that tips the pleasure-pain balance in the right direction. The discomfort of honesty is followed by relief, lightness, and a quiet sense of integrity that compounds over time.
 
 **Watch for the lying habit in recovery.** Even after you stop using, the lying habit can persist. Pay attention to automatic deflections, half-truths, and strategic omissions. These are not harmless — they maintain the neural patterns of deception and keep the door open for the addictive voice to operate in the dark.
 
@@ -75,11 +75,21 @@ That moment — choosing honesty when no one was forcing it — was more signifi
 
 It is tempting to think of honesty as a nice-to-have. Something aspirational. A bonus feature of a good recovery.
 
-It is not. It is infrastructure. It is the foundation on which every other recovery practice depends. Self-binding does not work if you secretly override your own barriers. Accountability does not work if you lie to your accountability partner. Trigger mapping does not work if you are not honest about what triggers you.
+It is not. It is infrastructure. It is the foundation on which every other recovery practice depends. [Self-binding](/articles/ulysses-contract-outsmart-addiction) does not work if you secretly override your own barriers. Accountability does not work if you lie to your accountability partner. Trigger mapping does not work if you are not honest about what triggers you.
 
 Every patient Lembke describes who achieved long-term recovery relied on truth-telling as a core practice. Not because they were naturally honest people. Because they learned — through painful experience — that dishonesty was the oxygen their addiction breathed.
 
 Cut the oxygen, and the fire starts to die.
+
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation*. Dutton, 2021.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

@@ -23,7 +23,7 @@ The first is experiential. People who have been through severe addiction know, f
 
 Sensitization is the reason a recovering alcoholic can walk into a bar ten years sober and feel a sudden, involuntary pull toward the drink menu. The neural pathway connecting that cue to the reward anticipation is still there — weakened, overgrown with newer pathways, but not erased.
 
-The second root is institutional. The disease model of addiction, as promoted by the American Medical Association and the National Institute on Drug Abuse, classifies addiction as a chronic, relapsing brain disease. Under this framework, there is no cure — only management. Just as a diabetic is always a diabetic, an addict is always an addict. The best you can hope for is sustained remission.
+The second root is institutional. The disease model of addiction, as promoted by the American Medical Association and the [National Institute on Drug Abuse](https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction), classifies addiction as a chronic, relapsing brain disease. Under this framework, there is no cure — only management. Just as a diabetic is always a diabetic, an addict is always an addict. The best you can hope for is sustained remission.
 
 Both of these roots contain real observations. Sensitization is a genuine neurological phenomenon. And chronic relapse is a genuine clinical pattern. But the conclusion drawn from them — that addiction is a permanent identity — does not follow from the evidence as cleanly as it appears.
 
@@ -37,7 +37,7 @@ But the same mechanism that carved those pathways can build new ones. When you r
 
 Marc Lewis, a neuroscientist who studies addiction through the learning model, puts it directly: what fires together, wires together — and what fires apart, wires apart. The neural connections that defined your addicted self are not permanent fixtures. They are maintained by use and degraded by disuse, like trails in a forest that become overgrown when nobody walks them.
 
-This is not theoretical. Brain imaging studies show measurable recovery of dopamine receptor density, prefrontal cortex function, and striatal connectivity in people who sustain abstinence. The brain that was changed by addiction changes again during recovery. Not back to its original state — but into something new.
+This is not theoretical. Brain imaging studies — including those compiled by the [National Institute on Drug Abuse](https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction) — show measurable recovery of dopamine receptor density, prefrontal cortex function, and striatal connectivity in people who sustain abstinence. The brain that was changed by addiction changes again during recovery. Not back to its original state — but into something new.
 
 ### The identity trap
 
@@ -90,6 +90,17 @@ The brain you have today is not the brain you had at the height of your addictio
 The person you are today is not the person who picked up the substance for the last time. You have grown. You have learned. You have built new pathways that did not exist before.
 
 Once an addict, always an addict? The neuroscience says: once a learner, always a learner. And the learning did not stop when the addiction started. It does not stop now.
+
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

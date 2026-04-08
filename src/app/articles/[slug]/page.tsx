@@ -49,10 +49,19 @@ function getArticleJsonLd(article: { title: string; description: string; slug: s
     datePublished: article.publishedAt,
     image: "https://cravingtoolkit.com/cover.jpg",
     url: `https://cravingtoolkit.com/articles/${article.slug}`,
+    author: {
+      "@type": "Person",
+      name: "Jakub Havelka",
+      description: "Software engineer, 10+ years in recovery, author of the Craving Toolkit",
+    },
     publisher: {
       "@type": "Organization",
       name: "Craving Toolkit",
       url: "https://cravingtoolkit.com",
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `https://cravingtoolkit.com/articles/${article.slug}`,
     },
   };
 }

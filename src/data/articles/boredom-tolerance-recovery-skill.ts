@@ -17,7 +17,7 @@ Boredom tolerance is a skill. Like any skill, it can be trained. And for people 
 
 Boredom is not just "having nothing to do." It is an emotional state, and a surprisingly complex one. Research identifies at least five distinct types of boredom, and several of them are directly relevant to addiction.
 
-**Apathetic boredom.** A flat, low-energy state where nothing feels interesting or worth doing. This closely mirrors anhedonia and is extremely common in early recovery. The risk here is not impulse — it is despair. The feeling that life without the substance is meaningless.
+**Apathetic boredom.** A flat, low-energy state where nothing feels interesting or worth doing. This closely mirrors anhedonia and is extremely common in early recovery — part of why [sobriety feels so boring](/articles/why-sobriety-feels-boring-dopamine-science) in the first weeks. The risk here is not impulse — it is despair. The feeling that life without the substance is meaningless.
 
 **Searching boredom.** A restless state where you actively scan your environment for stimulation. You pick up your phone, open the fridge, flip through channels — looking for something, anything, to fill the void. This is the type of boredom that leads to mindless scrolling, compulsive snacking, and "accidentally" finding yourself in a triggering situation.
 
@@ -31,7 +31,7 @@ Each of these states carries a specific relapse risk. Apathetic boredom can lead
 
 Humans have always struggled with boredom. But the modern brain is uniquely bad at tolerating it, for a reason that goes beyond addiction.
 
-We live in what Lembke calls a world of "overwhelming abundance" — an environment engineered to eliminate boredom before it even fully forms. The smartphone in your pocket guarantees that you never have to sit with an empty moment. Bored in a waiting room? Scroll. Bored at lunch? Watch something. Bored in bed? Browse.
+We live in what Lembke calls a world of "overwhelming abundance" — an environment engineered to eliminate boredom before it even fully forms, largely through [dopamine stacking](/articles/dopamine-stacking-modern-life-addiction-recovery). The smartphone in your pocket guarantees that you never have to sit with an empty moment. Bored in a waiting room? Scroll. Bored at lunch? Watch something. Bored in bed? Browse.
 
 As a result, most modern people have almost no experience of sustained boredom. The muscle has atrophied from disuse. The discomfort threshold is extraordinarily low. Even a few minutes without stimulation can feel intolerable — not because the boredom is objectively worse than it was for previous generations, but because our capacity to endure it has been systematically eroded.
 
@@ -45,7 +45,7 @@ The principle is simple: deliberate, graduated exposure to boredom, combined wit
 
 **Level 1: Micro-exposures (Week 1–2)**
 
-Start with tiny doses of deliberate boredom. These should be short enough that they are uncomfortable but not overwhelming.
+Start with tiny doses of deliberate boredom. These should be short enough that they suck but are not overwhelming.
 
 Eat one meal without any screen, podcast, music, or reading material. Just eat. Notice the food. Notice the silence. Notice the urge to reach for your phone, and do not act on it.
 
@@ -96,6 +96,17 @@ Delay technique? Requires tolerating the boring stretch between the craving and 
 Every recovery skill involves, at some point, the ability to sit with something unpleasant without reacting. That ability is boredom tolerance by another name.
 
 Train it. Start small. Get comfortable with uncomfortable. The emptiness is not the enemy. It is the space where your recovery grows.
+
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

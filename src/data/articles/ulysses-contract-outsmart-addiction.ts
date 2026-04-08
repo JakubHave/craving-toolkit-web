@@ -3,13 +3,13 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "ulysses-contract-outsmart-addiction",
     title: "The Ulysses Contract: How to Outsmart Your Future Addicted Self",
-    description: "Your wise self and your triggered self are not the same person. Learn how to bind your future self with a strategy older than psychology — and far more effective than willpower.",
+    description: "A Ulysses contract binds your future craving-driven self using decisions made by your sober self. Learn the 3 types of self-binding and how to write your own contract.",
     publishedAt: "2025-12-08",
     content: `There is a moment in every recovery where you feel strong. Clear-headed. Confident. You cannot imagine why you would ever go back.
 
 And then there is the other moment — hours, days, or weeks later — when every molecule in your body screams for the old thing. In that second moment, the confident version of you does not exist. Someone else is driving.
 
-This gap between your wise self and your triggered self is the core problem in addiction. And it is not a character flaw. It is a well-documented neurological reality. Your prefrontal cortex — the part that plans, reasons, and weighs consequences — goes offline when cravings hijack your brain's reward system.
+This gap between your wise self and your triggered self is the core problem in addiction. And it is not a character flaw. It is a well-documented neurological reality. Your prefrontal cortex — the part that plans, reasons, and weighs consequences — goes offline when cravings hijack your brain's [reward system](/articles/pleasure-pain-balance-explains-addiction).
 
 So the question becomes: how do you protect yourself from the version of you that cannot think straight?
 
@@ -43,7 +43,7 @@ This means creating literal, physical distance between you and the substance or 
 
 Examples from real recovery:
 
-- Deleting the dealer's number from your phone — and blocking the number so it cannot come back.
+- Deleting the dealer's number from your phone — and blocking the number so it cannot come back. (Your [phone is one of the most dangerous trigger sources](/articles/phone-relapse-trigger-digital-cues) in recovery.)
 - Uninstalling delivery apps or gambling apps, then setting up parental controls so you cannot reinstall them yourself.
 - Removing all alcohol from the house, including the "emergency" bottle.
 - One patient put his iPad in a safety deposit box at his bank because he could not stop watching porn at home.
@@ -97,6 +97,17 @@ This is not complicated. But it must be specific, written down, and — if possi
 Writing a Ulysses contract might feel like you are treating yourself as untrustworthy. That is not what it is. It is an act of radical honesty: admitting that there will be moments when your brain chemistry will overpower your intentions, and preparing for those moments in advance.
 
 Every recovering person who has stayed sober for years knows this. The danger is not that you want to use. The danger is the moment when wanting does not feel like wanting — it feels like needing, like breathing, like the only logical thing to do. The contract is your voice from the other side of that moment, saying: I know what is happening. I prepared for this. Hold the ropes.
+
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

@@ -93,6 +93,17 @@ Greater emotional resilience. Deeper self-awareness. Enhanced ability to delay g
 
 Your brain is not permanently damaged. It is temporarily altered. And the brain that heals may be stronger than the one you started with.
 
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
+
 ***
 
 *The Craving Toolkit is built around the neuroscience of recovery — translating what we know about dopamine, neuroplasticity, and brain healing into practical daily tools.*`,

@@ -109,6 +109,17 @@ Each stage is harder than the last. Each stage requires more energy, more suppor
 
 Check the HALT inventory every day. Maintain your sleep, your meals, your connections, your honesty. These are not extras. They are the early warning system that catches the relapse before it catches you.
 
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
+
 ***
 
 *The Craving Toolkit includes a complete relapse prevention framework — including trigger mapping, HALT assessments, and pre-scripted emergency responses for each stage of the relapse process.*`,

@@ -101,6 +101,17 @@ Your brain learned its way into addiction. It can learn its way out. But learnin
 
 Stop holding your breath. Start building something worth breathing for.
 
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
+
 ***
 
 *The Craving Toolkit includes practical strategies for replacing white-knuckle endurance with structured, sustainable recovery — including self-binding protocols, counter-action techniques, and daily practices that build competing neural pathways.*`,

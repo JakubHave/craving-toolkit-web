@@ -25,7 +25,7 @@ This is why two people can quit the same substance and have radically different 
 
 Anna Lembke makes the point clearly: we have transformed the world from a place of scarcity to a place of overwhelming abundance. Drugs, food, news, gambling, shopping, gaming, texting, sexting, streaming — the number, variety, and potency of highly rewarding stimuli available today is unprecedented in human history.
 
-The smartphone is the centerpiece of this transformation. Lembke calls it "the modern-day hypodermic needle, delivering digital dopamine 24/7 for a wired generation." But the phone is just the delivery mechanism. The stacking happens because the phone makes it possible to layer multiple dopamine sources simultaneously and continuously.
+[The smartphone](/articles/phone-relapse-trigger-digital-cues) is the centerpiece of this transformation. Lembke calls it "the modern-day hypodermic needle, delivering digital dopamine 24/7 for a wired generation." But the phone is just the delivery mechanism. The stacking happens because the phone makes it possible to layer multiple dopamine sources simultaneously and continuously.
 
 Consider what a typical evening looks like for many people: eating (dopamine) while watching a show (dopamine) while scrolling their phone (dopamine) while snacking (dopamine) while texting (dopamine). Five simultaneous dopamine streams. Our ancestors might have experienced one at a time, with long stretches of low stimulation in between.
 
@@ -35,7 +35,7 @@ But your reward system does not care about cultural norms. It registers the tota
 
 ### How stacking sabotages your reset
 
-When you commit to a 30-day abstinence period from your primary substance — the standard clinical recommendation for dopamine system recovery — you are asking your brain to downregulate and recalibrate. The goal is to give your reward system a period of reduced stimulation so that receptors can upregulate and baseline dopamine production can recover.
+When you commit to a [30-day abstinence period](/articles/30-day-dopamine-reset-week-by-week) from your primary substance — the standard clinical recommendation for dopamine system recovery — you are asking your brain to downregulate and recalibrate. The goal is to give your reward system a period of reduced stimulation so that receptors can upregulate and baseline dopamine production can recover.
 
 But if you simultaneously maintain every other high-stimulation behavior in your life — constant screen use, sugar-heavy diet, caffeine dependency, endless entertainment — you are trying to reset one circuit while keeping all the adjacent circuits at full blast. It is like trying to lower your body temperature while sitting in a sauna.
 
@@ -70,6 +70,17 @@ When you destack — when you reduce the noise, space out the pleasures, and all
 This is not a spiritual claim. It is dopamine receptor upregulation. Your brain, given a lower baseline, becomes more sensitive to normal levels of stimulation. The things that should be pleasurable become pleasurable again.
 
 This is recovery — not just from a specific substance, but from the overstimulated state that the modern world treats as normal.
+
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

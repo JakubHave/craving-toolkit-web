@@ -91,6 +91,17 @@ If you are reading this and you are struggling, know that recovery is statistica
 
 Whether you pursue that learning through a treatment program, a support group, a therapist, a book, or through the accumulation of new experiences and new choices — the mechanism is the same. Your brain is plastic. Your story is not finished. And the data is on your side.
 
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
+
 ***
 
 *The Craving Toolkit is designed to provide the practical structure that supports recovery — whether you are working with a therapist, attending meetings, or navigating your own path.*`,

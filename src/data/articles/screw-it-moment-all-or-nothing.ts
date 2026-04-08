@@ -87,6 +87,17 @@ You cannot prevent every slip. But you can prevent every slip from becoming a re
 
 Nothing is lost. You are still here. The next 10 minutes are yours.
 
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
+
 ***
 
 *The Craving Toolkit includes a full chapter on the collapse spiral — including pre-scripted responses for the "screw it" moment, a shame-interruption protocol, and practical strategies for preventing a slip from becoming a relapse.*`,

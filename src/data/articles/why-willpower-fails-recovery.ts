@@ -116,6 +116,17 @@ You do not need to be stronger. You need to be strategic. You need a recovery sy
 
 Build the system. Trust the system. Let willpower be the emergency reserve, not the engine.
 
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
+
 ***
 
 *The Craving Toolkit is built around strategies, not willpower — including self-binding protocols, pre-loaded craving responses, and daily practices that reduce the cognitive load of recovery.*`,

@@ -81,6 +81,17 @@ The craving says: now. Recovery says: not just now. Both. Now and later. The cra
 
 Your brain was built to prefer now. But it was also built to learn. And what it can learn, among other things, is that later is worth waiting for.
 
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
+
 ***
 
 *The Craving Toolkit includes practical tools for managing the "now appeal" — from delay protocols and craving timers to future-visioning exercises that give your brain something worth waiting for.*`,

@@ -3,7 +3,7 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "the-addictive-voice-how-your-mind-talks-you-into-relapse",
     title: "The Addictive Voice: How Your Mind Talks You Into Relapse",
-    description: "Most relapses don't start with a substance. They start with a sentence — a quiet permission your mind slips past your defenses. Learn to recognize the voice before it wins.",
+    description: "Most relapses start with a sentence, not a substance. Learn to recognize the addictive voice's 5 most common lies — and how to answer them.",
     publishedAt: "2025-12-04",
     isExcerpt: true,
     content: `Most relapses do not begin with the substance or the behavior. They begin with a sentence. Sometimes not even a full sentence. More like an attitude. A permission. A quiet shift in how you talk to yourself.
@@ -24,7 +24,7 @@ This is the **addictive voice**. You can call it whatever you want — the sales
 
 The addictive voice usually works because it does three things very well:
 
-**1. It minimizes the cost.** "It's not a big deal." It makes the consequences feel smaller, further away, or irrelevant right now. It edits out the regret, the shame, the wasted next morning, the damage to your body or relationships.
+**1. It minimizes the cost.** "It's not a big deal." It makes the consequences feel smaller, further away, or irrelevant right now. It edits out the regret, [the shame](/articles/shame-spiral-addiction-how-to-break-it), the wasted next morning, the damage to your body or relationships.
 
 **2. It magnifies the reward.** "This will finally make me feel okay." It makes the relief feel bigger, warmer, and more necessary than it actually is. It sells you the first five minutes and hides the next five hours.
 
@@ -58,7 +58,7 @@ When the voice starts talking, try:
 * "My brain is remembering the reward and deleting the cost."
 * "I am craving relief, not actually wanting the full consequence."
 
-These are not motivational posters. They are pre-loaded responses designed to interrupt the automatic sequence. Your calm self writes them. Your triggered self reads them. That is the whole strategy.
+These are not motivational posters. They are pre-loaded responses designed to interrupt the automatic sequence — emergency tools for [surviving the first minutes of a craving](/articles/survive-first-10-minutes-of-craving). Your calm self writes them. Your triggered self reads them. That is the whole strategy.
 
 ### Exercise: Identify your top 5 addictive lies
 
@@ -79,6 +79,17 @@ Do this for your top five lies. Be honest. Be specific. Use your own words, not 
 Once the lie becomes visible and named, it loses some of its camouflage. It is much harder for your mind to slip a thought past you when you have already written it down, studied it, and prepared an answer.
 
 A craving that has to argue against a prepared truth is weaker than a craving that operates in silence.
+
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

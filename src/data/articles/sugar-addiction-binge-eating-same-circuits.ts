@@ -97,6 +97,17 @@ The fact that you are still fighting — still reading this, still looking for t
 
 The tools work. The brain heals. The cycle can be interrupted. Not perfectly. Not all at once. But consistently, compassionately, one meal at a time.
 
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
+
 ***
 
 *The Craving Toolkit includes a dedicated section on overeating and binge eating patterns — including the restrict-binge cycle, emotional trigger mapping, and practical strategies adapted specifically for food-related compulsive behavior.*`,

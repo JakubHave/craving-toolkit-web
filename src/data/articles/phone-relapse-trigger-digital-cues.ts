@@ -21,7 +21,7 @@ Old text threads with people you used with. Contact numbers you swore you delete
 
 Your phone is an archaeological record of your addiction. And every time you scroll past a relic — an old message, a familiar name, a location notification — your brain fires off a micro-craving. You may not even consciously register it. But your reward system does.
 
-This is how conditioned cues work. Your brain formed powerful associations between specific stimuli and the dopamine rush of your substance or behavior. Those associations do not disappear just because you stopped using. They are encoded in your neural circuitry, and they can be reactivated by surprisingly small triggers — a notification sound, a name, a photo, even a specific time of day associated with use.
+This is how conditioned cues work. Your brain formed powerful associations between specific stimuli and the dopamine rush of your substance or behavior. Those associations do not disappear just because you stopped using — your brain doesn't give a damn about your sobriety date. They are encoded in your neural circuitry, and they can be reactivated by surprisingly small triggers — a notification sound, a name, a photo, even a specific time of day associated with use.
 
 Your phone serves those triggers up constantly, algorithmically, without warning.
 
@@ -33,7 +33,7 @@ Social media algorithms are optimized for engagement, which means they are optim
 
 For someone in recovery, this matters in two specific ways.
 
-First, social media keeps your dopamine system in a state of constant low-level stimulation. This interferes with the recalibration process your brain needs to go through during early recovery. Your brain is trying to upregulate its dopamine receptors — to restore sensitivity to normal, everyday sources of pleasure. But if you are scrolling for three hours a day, you are feeding it a steady drip of artificial stimulation that slows down that process. It is like trying to reset your tolerance while still microdosing.
+First, social media keeps your dopamine system in a state of constant low-level stimulation — a form of [dopamine stacking](/articles/dopamine-stacking-modern-life-addiction-recovery). This interferes with the recalibration process your brain needs to go through during early recovery. Your brain is trying to upregulate its dopamine receptors — to restore sensitivity to normal, everyday sources of pleasure. But if you are scrolling for three hours a day, you are feeding it a steady drip of artificial stimulation that slows down that process. It is like trying to reset your tolerance while still microdosing.
 
 Second, social media exposes you to content that can trigger cravings directly. Drinking culture posts. Party videos. Drug humor. Influencers glorifying behaviors you are trying to leave behind. Recovery accounts that, paradoxically, keep your mind focused on the substance rather than on building a new life. Even ads — alcohol brands, online gambling, food delivery — are precision-targeted to your demographic and browsing history.
 
@@ -69,7 +69,7 @@ This is not about becoming a digital minimalist or going off the grid. It is abo
 
 **Charging location.** Do not charge your phone on your nightstand. Charge it in another room. The first and last thing you interact with each day should not be a cue machine. This single change — phone out of the bedroom — can dramatically improve both sleep quality and morning vulnerability to craving.
 
-**Screen time limits.** Use your phone's built-in screen time controls to set daily limits on social media apps. Make someone else set the passcode so you cannot override it in a weak moment. This is the digital version of Odysseus asking his crew to tie him to the mast.
+**Screen time limits.** Use your phone's built-in screen time controls to set daily limits on social media apps. Make someone else set the passcode so you cannot override it in a weak moment. This is the digital version of a [Ulysses contract](/articles/ulysses-contract-outsmart-addiction) — Odysseus asking his crew to tie him to the mast.
 
 ### The phone is not the enemy — but it is not your friend either
 
@@ -80,6 +80,17 @@ But the same device also carries an arsenal of triggers that most recovery progr
 You do not need to throw your phone away. But you need to treat it with the same seriousness you would treat any other cue-laden environment. If you would not walk into a bar and browse the drink menu during early recovery, why would you scroll through a feed full of your old life's greatest hits?
 
 Audit the phone. Set the boundaries. Tie yourself to the mast.
+
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

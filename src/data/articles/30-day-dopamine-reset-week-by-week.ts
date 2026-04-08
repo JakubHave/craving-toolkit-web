@@ -5,7 +5,7 @@ export const article: Article = {
     title: "The 30-Day Dopamine Reset: A Week-by-Week Guide to Reclaiming Your Brain",
     description: "Thirty days is the clinically recommended minimum for dopamine recovery. Here is exactly what to expect each week — and how to survive the hardest parts.",
     publishedAt: "2026-01-31",
-    content: `Thirty days. That is the clinically recommended minimum for meaningful dopamine system recovery. Not because the number is magic, but because the research and clinical experience converge on it: roughly four weeks of sustained abstinence from a compulsive substance or behavior is what it takes for the brain to begin restoring normal reward function.
+    content: `Thirty days. That is the clinically recommended minimum for meaningful [dopamine system recovery](/articles/how-long-to-reset-dopamine-timeline). Not because the number is magic, but because the research and clinical experience converge on it: roughly four weeks of sustained abstinence from a compulsive substance or behavior is what it takes for the brain to begin restoring normal reward function.
 
 This is the reset that Anna Lembke, chief of addiction medicine at Stanford, prescribes as a first-line intervention for most patients. Not medication. Not therapy (though those may follow). An experiment: stop the behavior for 30 days and see what happens.
 
@@ -49,7 +49,7 @@ Go to bed at the same time every night, even if you cannot sleep. Lying in the d
 
 ### Week 2 (Days 8–14): The desert
 
-The acute storm passes, but what replaces it is arguably worse: flatness. The emotional volatility of week one gives way to a grey, featureless emotional landscape. This is anhedonia — the inability to experience pleasure from normal activities.
+The acute storm passes, but what replaces it is arguably worse: flatness. The emotional volatility of week one gives way to a grey, featureless emotional landscape. This is [anhedonia](/articles/anhedonia-after-quitting-how-long-it-lasts) — the inability to experience pleasure from normal activities.
 
 **What to expect:**
 
@@ -111,13 +111,24 @@ Decide what comes next. For some people, the 30 days reveal that they can return
 
 ### Day 31 and beyond
 
-The 30-day reset is not the end of recovery. It is the end of the beginning. Your dopamine system has started to heal, but full recovery — especially for heavy or long-term users — continues for months.
+The 30-day reset is not the end of recovery. It is the end of the beginning. Your dopamine system has started to heal, but full recovery — especially for heavy or long-term users who may experience [PAWS](/articles/paws-post-acute-withdrawal-month-by-month) — continues for months.
 
 The principles that got you through the 30 days are the same principles that sustain long-term recovery: structure, self-binding, honest self-assessment, daily tracking, physical activity, reduced stimulation, and at least one person who knows the truth about what you are dealing with.
 
 You proved to yourself that 30 days is survivable. That your brain heals. That the flatness passes. That normal life has more to offer than you remembered.
 
 Now the question is: what do you want to build on that foundation?
+
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

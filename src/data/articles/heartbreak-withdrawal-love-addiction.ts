@@ -87,6 +87,17 @@ Addiction is this capacity at its most destructive. Love is this capacity at its
 
 You did not become addicted because your brain is defective. You became addicted because your brain is powerfully, exquisitely, sometimes dangerously good at forming bonds. The challenge of recovery is not to suppress this capacity. It is to aim it somewhere worthy.
 
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
+
 ***
 
 *The Craving Toolkit helps you redirect your brain's bonding capacity — from the substance that was destroying you to the life you are building.*`,

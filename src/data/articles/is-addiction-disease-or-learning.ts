@@ -15,7 +15,7 @@ This is not the same as calling addiction a "choice." It is a third option that 
 
 ### What the disease model gets right
 
-The disease model of addiction has been the dominant framework for decades, championed by the National Institute on Drug Abuse (NIDA), the American Medical Association, and most treatment institutions. Its core claim: addiction is a chronic, relapsing brain disease characterized by compulsive substance use despite harmful consequences.
+The disease model of addiction has been the dominant framework for decades, championed by the [National Institute on Drug Abuse](https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction) (NIDA), the American Medical Association, and most treatment institutions. Its core claim: addiction is a chronic, relapsing brain disease characterized by compulsive substance use despite harmful consequences.
 
 The evidence it cites is real. Brain imaging studies show measurable changes in the reward system (striatum), the prefrontal cortex (decision-making and impulse control), and the stress system (amygdala) of people with chronic addiction. Dopamine receptor density decreases. The connection between the "wanting" circuits and the "judging" circuits weakens. The brain looks different.
 
@@ -59,7 +59,7 @@ This reframing has practical consequences.
 
 **It removes the "forever" sentence.** The disease model tells people they will always be addicts — "in recovery" for life, permanently vulnerable, one slip away from relapse at any moment. The learning model says something different: the neural pathways of addiction weaken with disuse and are progressively replaced by new ones. You are not managing a chronic condition. You are growing into a different person. The old pathways do not fully disappear (sensitization persists), but they lose their dominance as new learning takes hold.
 
-**It shifts the locus of change.** Under the disease model, change comes from outside — from doctors, medications, treatment programs. Under the learning model, change comes from inside — from motivation, insight, perspective shifts, and the slow accumulation of new experiences that rewire the brain. External support can be enormously helpful, but it is not the cause of recovery. The person is the cause.
+**It shifts the locus of change.** Under the disease model, change comes from outside — from doctors, medications, treatment programs. Under the learning model, change comes from inside — from motivation, insight, perspective shifts, and the slow accumulation of new experiences that rewire the brain. External support — whether from therapy, community groups, or practical toolkits like the [SMART Recovery toolbox](https://smartrecovery.org/smart-recovery-toolbox/) — can be enormously helpful, but it is not the cause of recovery. The person is the cause.
 
 **It honors the role of meaning.** Lewis's case studies consistently show that people overcome addiction when they develop a compelling vision of their future — a narrative that connects their past to a meaningful tomorrow. Natalie overcame heroin addiction when she began meditating in prison and saw, for the first time, that heroin had been serving the same function as hiding in her childhood bedroom. Brian overcame methamphetamine when therapy helped him build a bridge from his present chaos to a future as a healer. The disease model has no framework for this kind of transformation. The learning model does.
 
@@ -74,6 +74,17 @@ Calling addiction a disease acknowledges the neurological reality but misinterpr
 Lewis offers a third path: addiction as development. A destructive phase in the ongoing development of personality, shaped by the same forces that shape all human growth — desire, learning, habit formation, and the brain's relentless pursuit of reward. It is not chosen in any simple sense. But it is also not a malfunction. It is the dark side of a brain doing exactly what it was designed to do.
 
 And if the brain learned its way into addiction, it can learn its way out. Not easily. Not quickly. But through the same neuroplasticity that created the problem in the first place — redirected toward something worth growing into.
+
+
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

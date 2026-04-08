@@ -25,13 +25,13 @@ This is the dopamine deficit state. You are not experiencing the absence of plea
 
 ### How it feels from the inside
 
-The clinical term is anhedonia — the inability to experience pleasure. But clinical terms do not capture what it actually feels like.
+The clinical term is [anhedonia](/articles/anhedonia-after-quitting-how-long-it-lasts) — the inability to experience pleasure. But clinical terms do not capture what it actually feels like.
 
 It feels like being behind glass. You can see the world continuing — people laughing, sunsets happening, food being served — but none of it reaches you. There is a barrier between you and every experience that should produce an emotional response.
 
 It feels like boredom, but worse. Boredom implies that something more interesting exists and you just have not found it yet. The dopamine deficit state feels like nothing interesting exists. Anywhere. Ever.
 
-It feels like depression, and it is often misdiagnosed as depression. The symptoms overlap significantly: low mood, loss of interest, fatigue, poor concentration, sleep disturbance. But the mechanism is different. A landmark study by Schuckit and Brown took alcohol-dependent men who met criteria for major depression, hospitalized them without access to alcohol, and provided no antidepressant treatment. After four weeks, 80% no longer met criteria for depression.
+It feels like depression, and it is often misdiagnosed as depression. The symptoms overlap significantly: low mood, loss of interest, fatigue, poor concentration, sleep disturbance. But the mechanism is different. A landmark study by Brown and Schuckit took alcohol-dependent men who met criteria for major depression, hospitalized them without access to alcohol, and provided no antidepressant treatment. After four weeks, 80% no longer met criteria for depression.
 
 The depression was not a separate condition. It was the dopamine deficit state wearing a clinical mask.
 
@@ -53,13 +53,13 @@ The duration depends on what you were using, how much, and for how long.
 
 The worst of the flatness typically peaks during weeks 1–3 of abstinence. By week 4, most people experience the first reliable windows of genuine pleasure — moments where something actually feels good rather than just tolerable.
 
-For alcohol and cannabis users, meaningful recovery usually occurs within 30–90 days. For stimulant users, the timeline is longer — 3–6 months for cocaine, 6–12+ months for methamphetamine. Brain imaging shows dopamine transporter levels in meth users can take over a year to approach normal. For opioid users, the dopamine aspects may recover within 30–90 days, but endorphin system recovery can extend anhedonia to 6–18 months.
+For alcohol and cannabis users, meaningful recovery usually occurs within 30–90 days. For stimulant users, the [dopamine reset timeline](/articles/how-long-to-reset-dopamine-timeline) is longer — 3–6 months for cocaine, 6–12+ months for methamphetamine. Brain imaging shows dopamine transporter levels in meth users can take over a year to approach normal. For opioid users, the dopamine aspects may recover within 30–90 days, but endorphin system recovery can extend anhedonia to 6–18 months.
 
 These timelines are maps, not sentences. And the trajectory on every map is upward.
 
 ### What helps
 
-**Do not medicate the deficit prematurely.** If depressive symptoms persist beyond 30–60 days of sustained abstinence, discuss antidepressants with your doctor. But give your brain time to self-correct first. The Schuckit and Brown study suggests the majority of mood symptoms resolve with abstinence alone.
+**Do not medicate the deficit prematurely.** If depressive symptoms persist beyond 30–60 days of sustained abstinence, discuss antidepressants with your doctor. But give your brain time to self-correct first. The Brown and Schuckit study suggests the majority of mood symptoms resolve with abstinence alone.
 
 **Track your mood daily.** A 1–10 scale, same time each day. You will not notice gradual improvement through subjective experience — your brain is not calibrated to detect its own slow changes. But the data does not lie. After two weeks, look at the trendline.
 
@@ -82,6 +82,17 @@ This makes neurological sense. A brain that has fully recovered from downregulat
 You are not heading back to where you started. You are heading somewhere better. You just cannot see it yet.
 
 The flatness is temporary. The recovery is real. Keep going.
+
+
+
+### Sources
+
+- Brown SA, Schuckit MA. "Changes in depression among abstinent alcoholics." *J Stud Alcohol*. 1988;49(5):412-417.
+- Lembke A. *Dopamine Nation*. Dutton, 2021.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

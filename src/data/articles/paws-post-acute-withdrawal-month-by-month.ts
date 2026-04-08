@@ -19,7 +19,7 @@ Acute withdrawal is the body's immediate reaction to removing a substance it has
 
 Post-acute withdrawal is what comes after. It is the brain's longer-term adjustment period as neurochemistry gradually normalizes. Where acute withdrawal is primarily physical, PAWS is primarily psychological and emotional. The symptoms are subtler but can be more destabilizing precisely because they are harder to pin down and explain.
 
-Common PAWS symptoms include mood swings, irritability, anxiety, sleep disturbances, fatigue, poor concentration, reduced motivation, anhedonia (inability to feel pleasure), and increased sensitivity to stress.
+Common PAWS symptoms include mood swings, irritability, anxiety, sleep disturbances, fatigue, poor concentration, reduced motivation, [anhedonia](/articles/anhedonia-after-quitting-how-long-it-lasts) (inability to feel pleasure), and increased sensitivity to stress.
 
 Here is what makes PAWS particularly dangerous: it shows up after the crisis period, when everyone around you (and possibly you yourself) expects you to be "better." The support structures that were in place during acute withdrawal may have loosened. The urgency has faded. And yet you are still struggling — in ways that are hard to articulate and easy to dismiss.
 
@@ -73,7 +73,7 @@ By month 12, most people report feeling substantially different from how they fe
 
 **Beyond 12 months**
 
-For heavy, long-term users of methamphetamine or opioids, some PAWS symptoms can persist intermittently for 18–24 months. Brain imaging studies show that dopamine transporter recovery in methamphetamine users may take 14+ months.
+For heavy, long-term users of methamphetamine or opioids, some PAWS symptoms can persist intermittently for 18–24 months. Brain imaging studies show that [dopamine transporter recovery](/articles/how-long-to-reset-dopamine-timeline) in methamphetamine users may take 14+ months.
 
 This does not mean 14 months of misery. It means 14 months of gradual, cumulative improvement with occasional setbacks. The lived experience is one of a slowly brightening landscape — not a sudden switch from dark to light.
 
@@ -100,6 +100,28 @@ Recovery from PAWS is not a single moment where you wake up healed. It is a grad
 One of Lembke's patients described it as walking down a dark alley, lighting lampposts as you go. You can only see the one you are standing next to. But when you reach the end and look back, the whole alley is lit.
 
 You are lighting lampposts. Keep walking.
+
+
+
+### Frequently Asked Questions
+
+**How long does PAWS last?**
+For most substances, PAWS symptoms improve significantly within 3-6 months. For heavy stimulant or opioid users, some symptoms can persist intermittently for 12-24 months, following a "windows and waves" pattern of improvement.
+
+**What are the most common PAWS symptoms?**
+Mood swings, irritability, anxiety, sleep disturbances, fatigue, poor concentration, reduced motivation, anhedonia (inability to feel pleasure), and increased sensitivity to stress.
+
+**Is PAWS a real diagnosis?**
+PAWS is not a formal DSM diagnosis, but it is a widely recognized clinical phenomenon. The symptoms are well-documented in recovery literature and are consistent with the brain's extended neurochemical recovery process.
+
+### Sources
+
+- Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
+- Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

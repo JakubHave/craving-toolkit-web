@@ -9,7 +9,7 @@ export const article: Article = {
 
 The problem is that most people act before the wave breaks. They feel the craving rising and they respond to it while it is still gaining strength, which reinforces the brain's belief that the craving was unbearable and that the only solution was compliance. Each time you give in at the peak, you train your brain to make the next peak even stronger.
 
-Urge surfing is the opposite strategy. Instead of fighting the wave or feeding it, you ride it. You observe it, you stay present with it, and you let it pass on its own. The technique was developed by psychologist Alan Marlatt and draws on mindfulness-based approaches to craving management. It is one of the most effective tools available for anyone dealing with compulsive urges — and it can be learned in minutes.
+Urge surfing is the opposite strategy. Instead of fighting the wave or feeding it, you ride it. You observe it, you stay present with it, and you let it pass on its own. The technique was developed by psychologist G. Alan Marlatt as part of his Mindfulness-Based Relapse Prevention (MBRP) program, later refined with Sarah Bowen and colleagues. It is one of the most effective tools available for anyone dealing with compulsive urges — and it can be learned in minutes.
 
 ### Why cravings have a shelf life
 
@@ -21,7 +21,7 @@ But here is what the craving does not tell you: the neurological response has a 
 
 Most cravings peak within 15–20 minutes of onset and begin to decline after that. Some are shorter. Some, especially in early recovery, may last longer. But the trajectory is always the same: rise, peak, fall.
 
-This is not motivational rhetoric. It is neuroscience. Cravings are time-limited events. If you can survive the peak without acting, the craving will pass. Not because you conquered it through willpower, but because that is how neural signals work.
+This is not motivational rhetoric. It is neuroscience. Cravings are time-limited events. If you can [survive the peak](/articles/survive-first-10-minutes-of-craving) without acting, the craving will pass. Not because you conquered it through willpower, but because that is how neural signals work.
 
 ### The urge surfing protocol: step by step
 
@@ -75,7 +75,7 @@ Urge surfing is simple but not easy. The first few times you try it, the craving
 
 Those arguments are the craving talking. They are not separate from the wave — they are part of it. Treat them the same way you treat the physical sensations: observe them, name them, and let them pass.
 
-It is also common to feel frustration or anger during the practice, especially if the craving does not subside as quickly as you hoped. This emotional response is itself a form of discomfort that your brain wants to escape — and the escape route it suggests will be the same one it always suggests. Stay with it.
+It is also common to feel frustration or anger during the practice, especially if the craving does not subside as quickly as you hoped. This emotional response is itself a form of discomfort — closely related to [boredom tolerance](/articles/boredom-tolerance-recovery-skill) — that your brain wants to escape — and the escape route it suggests will be the same one it always suggests. Stay with it.
 
 The practice gets easier with repetition. Each successful urge surf builds evidence that cravings are survivable. After five or ten successful surfs, the craving itself begins to lose some of its power, because your brain is learning — through direct experience — that the wave always passes.
 
@@ -96,6 +96,28 @@ Every craving you surf without acting on it weakens the neural pathway between t
 Neuroscientists call this extinction learning. When a conditioned response (craving — use) is not reinforced (you do not use), the association between the cue and the reward gradually weakens. The cue still triggers a response, but the response gets smaller. The wave gets shorter. The peak gets lower.
 
 After months of consistent urge surfing, many people report that cravings still arrive — but they feel more like a memory than an emergency. The wave is still there. It is just a ripple now.
+
+
+
+### Frequently Asked Questions
+
+**What is urge surfing?**
+Urge surfing is a mindfulness-based technique developed by psychologist G. Alan Marlatt. Instead of fighting or feeding a craving, you observe it as a wave — noticing its physical sensations, breathing through the peak, and letting it pass naturally.
+
+**How long do cravings last?**
+Most cravings peak within 15-20 minutes of onset and begin to decline after that. With practice, you can learn to observe this natural cycle rather than reacting to it.
+
+**Does urge surfing actually work?**
+Research on Mindfulness-Based Relapse Prevention (MBRP) shows that urge surfing reduces craving intensity and relapse rates. Each successful surf also weakens the neural pathway between the trigger and the behavior through extinction learning.
+
+### Sources
+
+- Bowen S, Chawla N, Marlatt GA. *Mindfulness-Based Relapse Prevention for Addictive Behaviors: A Clinician's Guide*. Guilford Press, 2011.
+- Marlatt GA, Gordon JR. *Relapse Prevention: Maintenance Strategies in the Treatment of Addictive Behaviors*. Guilford Press, 1985.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

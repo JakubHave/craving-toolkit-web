@@ -19,7 +19,7 @@ The connection between alcohol and sugar is not metaphorical. It is biochemical,
 
 **Alcohol directly affects blood sugar.** Many alcoholic drinks contain significant sugar. Even spirits affect blood glucose through their metabolic pathways. When you stop drinking, blood sugar regulation is disrupted. The dips feel like hunger, and the body's instinctive response is to crave the fastest available glucose source.
 
-**Both activate the same reward pathway.** Sugar and alcohol both trigger dopamine release in the nucleus accumbens. Studies show sugar can produce dopamine surges comparable to some drugs of abuse. When the alcohol-shaped hole appears in your reward system, sugar slots into it with alarming precision.
+**Both activate the same [reward pathway](/articles/pleasure-pain-balance-explains-addiction).** Sugar and alcohol both trigger dopamine release in the nucleus accumbens. Studies show sugar can produce dopamine surges comparable to some drugs of abuse. When the alcohol-shaped hole appears in your reward system, sugar slots into it with alarming precision.
 
 **Alcohol suppresses appetite; removal reveals it.** Heavy drinkers often undereat because alcohol provides empty calories and dampens hunger signals. When alcohol is removed, appetite returns — often aggressively. The body simultaneously tries to replace missing calories, regulate blood sugar, and find a new dopamine source. Sugar satisfies all three at once.
 
@@ -35,7 +35,7 @@ But as a long-term pattern, the sugar substitution creates its own problems — 
 
 Sugar cravings are typically most intense during the first 30–60 days of sobriety, when the dopamine deficit is deepest and blood sugar regulation is most disrupted. Intensity decreases significantly by months 2–3 as the reward system recalibrates and metabolic processes stabilize. By month 6, the cravings are usually manageable.
 
-However, if sugar consumption has itself become compulsive — eating past fullness, hiding consumption, inability to stop despite consequences — it may have crossed into cross-addiction territory.
+However, if sugar consumption has itself become compulsive — eating past fullness, hiding consumption, inability to stop despite consequences — it may have crossed into [cross-addiction](/articles/cross-addiction-quitting-one-leads-to-another) territory.
 
 ### What to do about it
 
@@ -76,6 +76,28 @@ Practical approach: if you are using artificial sweeteners and cravings are stab
 Sugar cravings after quitting alcohol are not a failure of willpower. They are a predictable, neurochemically driven consequence of removing a major dopamine source from an adapted system. Understanding the mechanism takes the shame out of the experience and replaces it with actionable information.
 
 The cravings will ease. Your metabolism will stabilize. Your reward system will recalibrate. And in the meantime, every day that you reach for sugar instead of alcohol is a day that your brain is healing — imperfectly, messily, with chocolate on your shirt — but healing.
+
+
+
+### Frequently Asked Questions
+
+**Why do I crave sugar after I quit drinking?**
+Alcohol and sugar share metabolic pathways, activate the same reward circuits, and both affect blood glucose. When you remove alcohol, your body seeks the next closest dopamine source — and sugar fits neurochemically.
+
+**How long do sugar cravings last after quitting alcohol?**
+Sugar cravings are typically most intense during the first 30-60 days of sobriety and decrease significantly by months 2-3 as the reward system recalibrates and blood sugar regulation stabilizes.
+
+**Should I let myself eat sugar in early sobriety?**
+Some sugar substitution in the first 30 days is normal and preferable to drinking. After the acute phase, focus on stabilizing blood sugar with protein at every meal, regular eating, and reducing liquid sugar.
+
+### Sources
+
+- Fortuna JL. "Sweet preference, sugar addiction and the familial history of alcohol dependence." *J Psychoactive Drugs*. 2010;42(2):147-151.
+- Avena NM, Rada P, Hoebel BG. "Evidence for sugar addiction." *Nutr Neurosci*. 2008;11(3):109-117.
+
+### About the Author
+
+Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 
