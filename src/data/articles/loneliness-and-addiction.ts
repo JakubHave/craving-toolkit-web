@@ -5,6 +5,7 @@ export const article: Article = {
     title: "Loneliness and Addiction: Why Isolation Is the Most Underestimated Relapse Trigger",
     description: "Bruce Alexander's Rat Park experiment showed isolated rats consumed 20x more morphine. Here's why addiction manufactures its own loneliness — and practical ways to break the isolation trap in recovery.",
     publishedAt: "2025-12-31",
+    category: "recovery-lifestyle",
     content: `There's a line in the Craving Toolkit that I almost cut because it felt too simple: "The danger here is isolation with access. That combination is brutal."
 
 I kept it because it's the truest thing in the book. Not the most scientific. Not the most nuanced. Just the most true. Every relapse I've ever had happened when I was alone, with access, and with nothing between me and the behavior except my own thoughts — which, at that point, had already switched sides.

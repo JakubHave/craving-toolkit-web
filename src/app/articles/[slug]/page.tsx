@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { BookOpen } from "lucide-react";
 import { Metadata } from "next";
+import { RelatedArticles } from "@/components/RelatedArticles";
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const resolvedParams = await params;
@@ -219,6 +220,8 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                 <Link href="/about" className="text-emerald-700 hover:underline">Learn more</Link>
               </p>
             </section>
+
+            <RelatedArticles currentSlug={article.slug} category={article.category} />
 
             {!article.isExcerpt && (
               <div className="mt-12 text-center">

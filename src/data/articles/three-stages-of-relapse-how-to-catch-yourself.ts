@@ -5,6 +5,7 @@ export const article: Article = {
     title: "The 3 Stages of Relapse — And How to Catch Yourself Before Stage 3",
     description: "Relapse is not a moment — it is a process that starts weeks before you pick up the substance. Here are the three stages, their warning signs, and how to intervene at each one.",
     publishedAt: "2025-10-10",
+    category: "triggers-and-relapse",
     content: `Most people think relapse is a single event — the moment you pick up the drink, take the hit, open the app. One moment you are sober, the next you are not.
 
 But relapse is not a moment. It is a process. By the time you are holding the substance, the relapse has been underway for days or weeks. The actual use is just the final stage of a sequence that started long before, with signals you could have caught — if you had known what to look for.

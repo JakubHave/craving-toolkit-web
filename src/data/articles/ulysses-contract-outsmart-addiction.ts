@@ -5,6 +5,7 @@ export const article: Article = {
     title: "The Ulysses Contract: How to Outsmart Your Future Addicted Self",
     description: "A Ulysses contract binds your future craving-driven self using decisions made by your sober self. Learn the 3 types of self-binding and how to write your own contract.",
     publishedAt: "2025-08-08",
+    category: "craving-management",
     content: `There is a moment in every recovery where you feel strong. Clear-headed. Confident. You cannot imagine why you would ever go back.
 
 And then there is the other moment — hours, days, or weeks later — when every molecule in your body screams for the old thing. In that second moment, the confident version of you does not exist. Someone else is driving.

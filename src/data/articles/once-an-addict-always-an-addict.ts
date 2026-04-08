@@ -5,6 +5,7 @@ export const article: Article = {
     title: "Once an Addict, Always an Addict? Why Neuroscience Says Otherwise",
     description: "Does 'once an addict, always an addict' hold up against neuroscience? Neuroplasticity tells a different story — one where the brain that learned addiction can learn its way out.",
     publishedAt: "2025-10-29",
+    category: "understanding-addiction",
     content: `This phrase has echoed through recovery rooms for decades. It is spoken with reverence in twelve-step meetings. It is printed on medallions. It is whispered by parents, partners, and friends who love someone with addiction. And it is presented as a permanent truth about who you are.
 
 Once an addict, always an addict.

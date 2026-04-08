@@ -5,6 +5,7 @@ export const article: Article = {
     title: "High-Functioning Addiction: When Your Success Hides the Problem",
     description: "Roughly 19.5% of people with alcohol use disorder are 'functional' — employed, educated, in stable relationships. Here's why success makes addiction worse and what actually works when you don't fit the stereotypes.",
     publishedAt: "2026-01-08",
+    category: "triggers-and-relapse",
     content: `You haven't lost your job. You haven't been arrested. You haven't missed a mortgage payment. Your kids are fed, your car is clean, your performance reviews are fine. And every night, after everyone's asleep, you drink a bottle of wine alone. Or you take pills you were prescribed years ago for a pain that's long gone. Or you disappear into a screen for hours doing something you'd never tell anyone about.
 
 High-functioning addiction is the version that doesn't look like addiction — not from the outside. And that's precisely what makes it so dangerous. Because the story we tell about addiction — rock bottom, lost everything, intervention, rehab — creates a template. And if your life doesn't match the template, you conclude you don't have a problem.

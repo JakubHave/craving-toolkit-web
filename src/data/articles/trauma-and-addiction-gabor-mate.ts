@@ -5,6 +5,7 @@ export const article: Article = {
     title: "Trauma and Addiction: Why Gabor Maté Says the Question Isn't \"Why the Addiction\" but \"Why the Pain\"",
     description: "The ACE Study found that childhood trauma increases addiction risk up to tenfold. Here's how trauma rewires the developing brain — and why recovery has to address the wound, not just the symptom.",
     publishedAt: "2025-12-09",
+    category: "understanding-addiction",
     content: `Most addiction conversations start with the substance. What are you using? How much? How often? When did it start?
 
 Gabor Maté thinks that's the wrong starting point. The physician who spent over a decade working with hardcore drug users in Vancouver's Downtown Eastside asks a different question — one that changes everything about how you understand addiction:

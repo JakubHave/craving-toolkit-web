@@ -5,6 +5,7 @@ export const article: Article = {
     title: "Sleep and Addiction Recovery: The One Thing You Can't Cheat",
     description: "Sleep deprivation impairs impulse control, amplifies cravings, and downregulates the dopamine receptors you're trying to rebuild. Here's the sleep-recovery timeline and what actually helps.",
     publishedAt: "2025-12-27",
+    category: "early-recovery",
     content: `You can white-knuckle through a craving. You can force yourself to exercise when you'd rather not. You can sit through a meeting when every cell in your body wants to leave. But you can't force yourself to sleep. And that's the problem — because sleep is where your brain does the actual repair work that makes everything else in recovery possible.
 
 The relationship between sleep and addiction is vicious in both directions. Active addiction destroys sleep. And destroyed sleep makes recovery harder, cravings stronger, and relapse more likely. It's a cycle that doesn't get half the attention it deserves, probably because "sleep hygiene" sounds boring compared to neuroscience. But the neuroscience says sleep might be the single most important variable in your recovery that you're currently neglecting.

@@ -5,6 +5,7 @@ export const article: Article = {
     title: "Meditation for Addiction Recovery: Why Curiosity Beats Willpower (and What the Brain Scans Show)",
     description: "Judson Brewer's mindfulness training beat the gold-standard smoking treatment 5 to 1. Here's the specific brain mechanism — and a practical curiosity-based technique you can use during a craving.",
     publishedAt: "2025-12-16",
+    category: "craving-management",
     content: `Let's get the objection out of the way first.
 
 "Meditation? For addiction? You want me to sit cross-legged and breathe while my brain is screaming for a hit?"

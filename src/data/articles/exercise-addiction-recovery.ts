@@ -5,6 +5,7 @@ export const article: Article = {
     title: "Exercise for Addiction Recovery: The Most Underused Drug on the Planet",
     description: "Exercise increases every major neurotransmitter involved in mood regulation — all at once, from a single activity. Here's the pharmacology, the anti-craving mechanism, and a realistic protocol for early recovery.",
     publishedAt: "2025-12-23",
+    category: "recovery-lifestyle",
     content: `I'm going to tell you something your brain already knows but your body keeps forgetting: a 30-minute walk will do more for your recovery today than almost anything else you could do. More than reading about addiction. More than thinking about your triggers. More than scrolling through recovery forums.
 
 That's not motivational fluff. It's pharmacology.

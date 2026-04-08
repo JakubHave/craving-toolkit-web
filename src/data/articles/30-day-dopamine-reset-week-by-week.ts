@@ -5,6 +5,7 @@ export const article: Article = {
     title: "The 30-Day Dopamine Reset: A Week-by-Week Guide to Reclaiming Your Brain",
     description: "Thirty days is the clinically recommended minimum for dopamine recovery. Here is exactly what to expect each week — and how to survive the hardest parts.",
     publishedAt: "2025-09-30",
+    category: "early-recovery",
     content: `Thirty days. That is the clinically recommended minimum for meaningful [dopamine system recovery](/articles/how-long-to-reset-dopamine-timeline). Not because the number is magic, but because the research and clinical experience converge on it: roughly four weeks of sustained abstinence from a compulsive substance or behavior is what it takes for the brain to begin restoring normal reward function.
 
 This is the reset that Anna Lembke, chief of addiction medicine at Stanford, prescribes as a first-line intervention for most patients. Not medication. Not therapy (though those may follow). An experiment: stop the behavior for 30 days and see what happens.

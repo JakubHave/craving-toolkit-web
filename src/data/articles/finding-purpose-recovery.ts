@@ -5,6 +5,7 @@ export const article: Article = {
     title: "Finding Purpose in Recovery: Why \"Don't Use\" Is Not Enough",
     description: "Recovery defined only by avoidance has no forward momentum. Marc Lewis's research shows people who beat addiction didn't just stop — they started becoming someone. Here's how purpose actually works neurologically.",
     publishedAt: "2026-01-04",
+    category: "recovery-lifestyle",
     content: `There's a point in recovery — usually somewhere past the acute crisis, past the white-knuckling, past the first fragile weeks of not using — where a different kind of problem emerges. You've stopped the destructive behavior. You're doing what you're supposed to do. And now a question appears that nobody prepared you for:
 
 What's this all for?

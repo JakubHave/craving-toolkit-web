@@ -5,6 +5,7 @@ export const article: Article = {
     title: "Ego Depletion Is More Complicated Than You Think — And That Changes Everything About Recovery",
     description: "The science of ego depletion is more complicated than you've been told. Updated research shows willpower isn't a simple tank — and that changes how you approach recovery.",
     publishedAt: "2025-11-19",
+    category: "triggers-and-relapse",
     content: `For the past two decades, a single idea has dominated how we think about willpower and addiction: self-control is a finite resource that gets used up. Resist one temptation, and you have less fuel to resist the next. The psychological term is ego depletion, and it has been used to explain everything from late-night binge eating to relapse after months of sobriety.
 
 There's just one problem. The science behind it is crumbling.

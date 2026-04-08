@@ -5,6 +5,7 @@ export const article: Article = {
     title: "Who Am I Without Addiction? Rebuilding Identity When the Substance Was Everything",
     description: "Around month 2-3 of recovery, the question hits: who am I now? How to rebuild identity when the substance was everything — through action, ritual, and narrative.",
     publishedAt: "2025-11-16",
+    category: "recovery-lifestyle",
     content: `There is a question that hits somewhere around month two or three of recovery, after the withdrawal has passed and the acute crisis has faded. It doesn't arrive as a craving. It arrives as a void.
 
 Who am I now?

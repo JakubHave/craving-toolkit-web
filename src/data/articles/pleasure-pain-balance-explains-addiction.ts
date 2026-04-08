@@ -5,6 +5,7 @@ export const article: Article = {
     title: "The Pleasure-Pain Balance: The One Concept That Explains Every Addiction",
     description: "Your brain processes pleasure and pain in the same place — and they work like a seesaw. Once you understand this, tolerance, withdrawal, and recovery all make sense.",
     publishedAt: "2025-09-01",
+    category: "understanding-addiction",
     content: `If you understand one idea from modern addiction neuroscience, make it this one.
 
 Your brain processes pleasure and pain in the same place. Not in neighboring regions. Not in related circuits. In the exact same neural real estate. And these two experiences — pleasure and pain — work like opposite sides of a balance, a seesaw, a scale.

@@ -5,6 +5,7 @@ export const article: Article = {
     title: "Ultra-Processed Food Addiction: When What You Eat Hijacks the Same Brain Circuits as Drugs",
     description: "Brain imaging shows compulsive overeaters have the same dopamine receptor reductions as cocaine addicts. Here's why 'just eat less' fails, how the restrict-binge cycle traps you, and what actually works.",
     publishedAt: "2026-01-20",
+    category: "triggers-and-relapse",
     content: `Nobody calls themselves a food addict out loud. It sounds ridiculous compared to "real" addiction. You can't overdose on Doritos. You don't wake up in a hospital because of ice cream. Nobody stages an intervention over cereal.
 
 But if you've ever stood in front of the pantry at 11 PM, already full, already feeling sick, and eaten an entire bag of something while a voice in your head said "stop" and your hand kept reaching — you know exactly what compulsive loss of control feels like. You just don't have language for it that doesn't make you feel pathetic.

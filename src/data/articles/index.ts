@@ -102,11 +102,12 @@ export const articles: Article[] = [
   ultraProcessedFood,
 ];
 
-export const articlesMeta: ArticleMeta[] = articles.map(({ slug, title, description, publishedAt }) => ({
+export const articlesMeta: ArticleMeta[] = articles.map(({ slug, title, description, publishedAt, category }) => ({
   slug,
   title,
   description,
   publishedAt,
+  category,
 }));
 
 export function getArticleBySlug(slug: string): Article | undefined {

@@ -5,6 +5,7 @@ export const article: Article = {
     title: "Boredom Tolerance: The Recovery Skill Nobody Teaches You",
     description: "Every program teaches you to handle cravings and triggers. Almost none teach you how to be bored. Yet boredom intolerance might be the most underrated relapse trigger there is.",
     publishedAt: "2025-08-22",
+    category: "early-recovery",
     content: `Every recovery program teaches you how to handle cravings. How to manage triggers. How to navigate high-risk situations. How to call your sponsor, go to a meeting, use a coping skill.
 
 Almost none of them teach you how to be bored.

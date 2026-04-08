@@ -5,6 +5,7 @@ export const article: Article = {
     title: "Growing Out of Addiction: What Happens When Your Brain Finally Catches Up",
     description: "Most people with addiction eventually stop — often without treatment. The neuroscience of 'maturing out' reveals what recovery actually requires at the brain level.",
     publishedAt: "2025-11-13",
+    category: "understanding-addiction",
     content: `There is a phrase you hear occasionally in clinical circles, usually whispered rather than spoken aloud: "maturing out." It refers to the well-documented phenomenon of people simply growing out of their addictions — not through treatment, not through a dramatic intervention, but through the quiet accumulation of years, experience, and development. This is consistent with the broader finding that [recovery without rehab](/articles/recovery-without-rehab) is far more common than the treatment industry suggests.
 
 It sounds too simple. Almost dismissive. Like saying someone grew out of a life-threatening illness the way a child grows out of a peanut allergy. But the science behind it is robust, and understanding it reveals something profound about what addiction actually is — and what recovery actually requires.

@@ -5,6 +5,7 @@ export const article: Article = {
     title: "The Addictive Voice: How Your Mind Talks You Into Relapse",
     description: "Most relapses start with a sentence, not a substance. Learn to recognize the addictive voice's 5 most common lies — and how to answer them.",
     publishedAt: "2025-08-04",
+    category: "craving-management",
     isExcerpt: true,
     content: `Most relapses do not begin with the substance or the behavior. They begin with a sentence. Sometimes not even a full sentence. More like an attitude. A permission. A quiet shift in how you talk to yourself.
 

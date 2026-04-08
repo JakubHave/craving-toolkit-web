@@ -5,6 +5,7 @@ export const article: Article = {
     title: "Can Ozempic Help With Addiction? What the First Clinical Trial Actually Shows",
     description: "A 2025 clinical trial found semaglutide reduced alcohol cravings more than existing medications. Here's what GLP-1 drugs do to the brain's reward system — and what this doesn't mean yet.",
     publishedAt: "2025-12-12",
+    category: "understanding-addiction",
     content: `People started noticing something strange. They'd begin weekly injections of semaglutide — marketed as Ozempic for diabetes and Wegovy for weight loss — and a few weeks in, they'd realize they didn't want to drink anymore. Not "trying not to drink." Not white-knuckling through happy hour. Just... the desire had dimmed. The pull was gone.
 
 At first it was anecdotal. Reddit threads, patient reports, doctors quietly noting the pattern. Then the population studies came. A large Swedish health records analysis found that people with alcohol use disorder who were prescribed semaglutide had significantly lower hospitalization rates related to their drinking — reductions that exceeded those seen with medications actually approved for alcohol use disorder.
