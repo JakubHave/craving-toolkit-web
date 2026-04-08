@@ -260,6 +260,21 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
           <p className="mb-4">
             <strong>Disclaimer:</strong> {article.disclaimer || "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."}
           </p>
+          <nav aria-label="Footer" className="flex flex-wrap items-center justify-center gap-4 mb-4">
+            <Link href="/about" className="text-slate-400 hover:text-white transition-colors">About</Link>
+            <span aria-hidden="true" className="text-slate-600">·</span>
+            <Link href="/editorial-policy" className="text-slate-400 hover:text-white transition-colors">Editorial Policy</Link>
+            <span aria-hidden="true" className="text-slate-600">·</span>
+            <Link href="/articles" className="text-slate-400 hover:text-white transition-colors">All Articles</Link>
+            <span aria-hidden="true" className="text-slate-600">·</span>
+            <Link href="/privacy" className="text-slate-400 hover:text-white transition-colors">Privacy</Link>
+            <span aria-hidden="true" className="text-slate-600">·</span>
+            <Link href="/terms" className="text-slate-400 hover:text-white transition-colors">Terms</Link>
+          </nav>
+          <p className="text-xs text-slate-500 mb-4 max-w-2xl mx-auto">
+            The Craving Toolkit is not a substitute for professional medical advice, diagnosis, or treatment.
+            If you need help, contact <a href="https://www.samhsa.gov/find-help/national-helpline" rel="noopener" target="_blank" className="underline hover:text-slate-300">SAMHSA&rsquo;s National Helpline</a> at 1-800-662-4357.
+          </p>
           <p>© {new Date().getFullYear()} Craving Toolkit. All rights reserved.</p>
         </div>
       </footer>

@@ -302,20 +302,26 @@ export default function LandingPage() {
           <p className="mb-6 max-w-2xl mx-auto leading-relaxed text-slate-500">
             <strong className="text-slate-400">Disclaimer:</strong> This guide is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.
           </p>
-          <div className="flex items-center justify-center gap-4 mb-2">
+          <nav aria-label="Footer" className="flex flex-wrap items-center justify-center gap-4 mb-2">
             <Link href="/about" className="text-slate-400 hover:text-white transition-colors">About</Link>
+            <span aria-hidden="true" className="text-slate-600">·</span>
+            <Link href="/articles" className="text-slate-400 hover:text-white transition-colors">All Articles</Link>
             <span aria-hidden="true" className="text-slate-600">·</span>
             <Link href="/editorial-policy" className="text-slate-400 hover:text-white transition-colors">Editorial Policy</Link>
             <span aria-hidden="true" className="text-slate-600">·</span>
-            <Link href="/terms" className="text-slate-400 hover:text-white transition-colors">Guide Terms of Service</Link>
+            <Link href="/terms" className="text-slate-400 hover:text-white transition-colors">Guide Terms</Link>
             <span aria-hidden="true" className="text-slate-600">·</span>
-            <Link href="/privacy" className="text-slate-400 hover:text-white transition-colors">Guide Privacy Policy</Link>
-          </div>
+            <Link href="/privacy" className="text-slate-400 hover:text-white transition-colors">Guide Privacy</Link>
+          </nav>
           <div className="flex items-center justify-center gap-4 mb-4">
-            <Link href="/app-terms" className="text-slate-400 hover:text-white transition-colors">App Terms of Use</Link>
+            <Link href="/app-terms" className="text-slate-400 hover:text-white transition-colors">App Terms</Link>
             <span aria-hidden="true" className="text-slate-600">·</span>
-            <Link href="/app-privacy" className="text-slate-400 hover:text-white transition-colors">App Privacy Policy</Link>
+            <Link href="/app-privacy" className="text-slate-400 hover:text-white transition-colors">App Privacy</Link>
           </div>
+          <p className="text-xs text-slate-500 mb-4 max-w-2xl mx-auto">
+            The Craving Toolkit is not a substitute for professional medical advice, diagnosis, or treatment.
+            If you need help, contact <a href="https://www.samhsa.gov/find-help/national-helpline" rel="noopener" target="_blank" className="underline hover:text-slate-300">SAMHSA&rsquo;s National Helpline</a> at 1-800-662-4357.
+          </p>
           <p className="mb-4">Contact: <a href="mailto:jacob@cravingtoolkit.com" className="text-slate-400 hover:text-white transition-colors">jacob@cravingtoolkit.com</a></p>
           <p className="text-slate-600">© {new Date().getFullYear()} Craving Toolkit. All rights reserved.</p>
         </div>
