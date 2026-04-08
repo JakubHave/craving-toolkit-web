@@ -36,6 +36,18 @@ import { article as heartbreakWithdrawal } from "./heartbreak-withdrawal-love-ad
 import { article as instantGratification } from "./instant-gratification-addiction";
 import { article as screwItMoment } from "./screw-it-moment-all-or-nothing";
 import { article as narrativeIdentity } from "./rewriting-your-story-narrative-identity";
+import { article as traumaAddiction } from "./trauma-and-addiction-gabor-mate";
+import { article as ozempicAddiction } from "./ozempic-addiction-glp1-cravings";
+import { article as meditationRecovery } from "./meditation-addiction-recovery-curiosity";
+import { article as habitLoop } from "./habit-loop-addiction-cue-routine-reward";
+import { article as exerciseRecovery } from "./exercise-addiction-recovery";
+import { article as sleepRecovery } from "./sleep-addiction-recovery";
+import { article as lonelinessAddiction } from "./loneliness-and-addiction";
+import { article as findingPurpose } from "./finding-purpose-recovery";
+import { article as highFunctioning } from "./high-functioning-addiction";
+import { article as helpSomeone } from "./how-to-help-someone-with-addiction";
+import { article as addictionRelationships } from "./addiction-and-relationships";
+import { article as ultraProcessedFood } from "./ultra-processed-food-addiction";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -76,6 +88,18 @@ export const articles: Article[] = [
   instantGratification,
   screwItMoment,
   narrativeIdentity,
+  traumaAddiction,
+  ozempicAddiction,
+  meditationRecovery,
+  habitLoop,
+  exerciseRecovery,
+  sleepRecovery,
+  lonelinessAddiction,
+  findingPurpose,
+  highFunctioning,
+  helpSomeone,
+  addictionRelationships,
+  ultraProcessedFood,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(({ slug, title, description, publishedAt }) => ({

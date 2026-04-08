@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "urge-surfing-protocol-ride-out-craving",
     title: "How to Ride Out a Craving Without Giving In: The Urge Surfing Protocol",
     description: "A craving is not a command — it is a wave. It rises, peaks, and falls. Every single time. Urge surfing teaches you to ride it out instead of feeding it. Here is the step-by-step protocol.",
-    publishedAt: "2026-01-24",
+    publishedAt: "2025-09-22",
     content: `A craving is not a command. It feels like one — urgent, non-negotiable, overwhelming — but it is not. It is a wave. It rises, it peaks, and it falls. Every single time. No craving in human history has lasted forever.
 
 The problem is that most people act before the wave breaks. They feel the craving rising and they respond to it while it is still gaining strength, which reinforces the brain's belief that the craving was unbearable and that the only solution was compliance. Each time you give in at the peak, you train your brain to make the next peak even stronger.

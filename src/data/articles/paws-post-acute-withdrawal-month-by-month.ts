@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "paws-post-acute-withdrawal-month-by-month",
     title: "PAWS Month by Month: What Nobody Tells You About Post-Acute Withdrawal",
     description: "You made it through detox. So why do you still feel wrong months later? This is PAWS — and it has a predictable month-by-month timeline that nobody explains clearly.",
-    publishedAt: "2026-01-18",
+    publishedAt: "2025-09-18",
     content: `You made it through detox. The shaking stopped. The sweats dried up. The nausea passed. You white-knuckled through the worst of it, and now — weeks or even months later — you still feel wrong.
 
 Not withdrawal-level wrong. Something more subtle. A persistent low-grade fog. Mood swings that come from nowhere. Sleep that never quite restores you. Anxiety that spikes on random Tuesdays for no reason. Days where you feel almost normal, followed by days where you feel like you are back at week one.

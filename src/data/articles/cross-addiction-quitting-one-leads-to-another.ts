@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "cross-addiction-quitting-one-leads-to-another",
     title: "Cross-Addiction: Why Quitting One Thing Can Lead to Another",
     description: "You quit drinking and now you can't stop eating ice cream. This is cross-addiction — and it has a clear neurological basis. Here's why it happens and how to protect yourself.",
-    publishedAt: "2026-01-16",
+    publishedAt: "2025-09-16",
     content: `You quit drinking. Six months sober. Life is getting better. And then you notice that you are eating an entire pint of ice cream every night. Or spending three hours a day scrolling your phone. Or gambling online. Or shopping compulsively. Or exercising to the point of injury.
 
 The old substance is gone. But something new has slid into its place, and it is starting to look uncomfortably familiar.

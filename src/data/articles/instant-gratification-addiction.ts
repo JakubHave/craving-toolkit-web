@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "instant-gratification-addiction",
     title: "Addiction and Instant Gratification: How Your Brain Is Wired to Choose Now Over Later",
     description: "Your brain is wired to choose now over later. In addiction, this becomes a trap. Here's how 'now appeal' works and how to rebuild the bridge between present and future.",
-    publishedAt: "2026-03-31",
+    publishedAt: "2025-11-27",
     content: `Offer someone a hundred dollars today or two hundred dollars in a year. Most people take the hundred.
 
 This isn't stupidity. It's not a character flaw. It is how every human brain is wired. Neuroscientists call it temporal discounting — the tendency to devalue future rewards relative to immediate ones. The further away a reward is, the less it is worth to your motivational system. A bird in the hand is worth two in the bush, and your striatum has been making that calculation since before you were born.

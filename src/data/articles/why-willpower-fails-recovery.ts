@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "why-willpower-fails-recovery",
     title: "Why Willpower Fails in Recovery (and What Actually Works Instead)",
     description: "Willpower fails in addiction recovery because the prefrontal cortex tires while desire does not. Here are 5 strategies that actually work — without depleting willpower.",
-    publishedAt: "2026-03-08",
+    publishedAt: "2025-11-05",
     content: `Everyone who has tried to quit something knows this moment: you are doing fine, you are holding steady, you are resisting — and then you are not. The craving wins. You use. And afterward, the shame is doubled because you failed at the one thing recovery supposedly requires: willpower.
 
 Here's what nobody tells you: willpower was never going to be enough. Not because you are weak. Because willpower is the wrong tool for the job. It is like using a bucket to empty the ocean. The bucket is real. Your effort is real. But the ocean doesn't care.

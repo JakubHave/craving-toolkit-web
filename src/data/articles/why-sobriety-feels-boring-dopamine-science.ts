@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "why-sobriety-feels-boring-dopamine-science",
     title: "Why Sobriety Feels So Boring: The Dopamine Science No One Explains",
     description: "Early sobriety feels flat because your dopamine receptors are depleted, not because life is boring. Here's the timeline and how to survive the grey phase.",
-    publishedAt: "2025-12-15",
+    publishedAt: "2025-08-14",
     content: `Nobody warns you about this part.
 
 They tell you about withdrawal. They tell you about cravings. They tell you about the shaky hands, the sweats, the insomnia, the emotional rollercoaster.

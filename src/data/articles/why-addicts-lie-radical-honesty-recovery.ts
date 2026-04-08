@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "why-addicts-lie-radical-honesty-recovery",
     title: "Why Addicts Lie — And How Radical Honesty Rewires the Brain",
     description: "Lying is not just a moral problem in addiction — it is a neurological one. And honesty is not just a virtue — it is a recovery tool that directly affects the same brain circuits addiction disrupts.",
-    publishedAt: "2026-01-13",
+    publishedAt: "2025-09-12",
     content: `Every major religion includes honesty in its core teachings. Every recovery program puts truth-telling near the center. Every therapist who treats addiction will tell you that lying is both a symptom of the disease and a fuel that keeps it burning.
 
 But here is the part most people miss: lying is not just a moral problem. It is a neurological one. And honesty is not just a virtue. It is a recovery tool — one that directly affects the same brain circuits that addiction disrupts.

@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "survive-first-10-minutes-of-craving",
     title: "How to Survive the First 10 Minutes of a Craving",
     description: "When a craving hits, your job is to survive 10 minutes. Learn the delay technique and strong counter-action — two tools that work when willpower fails.",
-    publishedAt: "2025-12-01",
+    publishedAt: "2025-08-01",
     isExcerpt: true,
     content: `When a strong urge hits, your job is not to solve your whole life. Your job is smaller, much more realistic, and highly urgent:
 

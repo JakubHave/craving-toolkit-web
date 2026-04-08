@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "rewriting-your-story-narrative-identity",
     title: "Rewriting Your Story: How Narrative Identity Rewires the Addicted Brain",
     description: "People trapped in addiction are living in a permanent present. Recovery begins when you connect your past to a future worth pursuing. The story itself is the recovery mechanism.",
-    publishedAt: "2026-04-07",
+    publishedAt: "2025-12-04",
     content: `There is a moment in [Marc Lewis's](https://memoirsofanaddictedbrain.com/) research that haunts me.
 
 He describes a study of indigenous communities in western Canada where teen suicide rates varied wildly — from zero in some communities to over 600 per 100,000 in others. The researchers wanted to understand why. So they talked to the kids.

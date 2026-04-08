@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "narrowing-effect-addiction",
     title: "The Narrowing Effect: How Addiction Shrinks Your World (and How to Widen It Again)",
     description: "Addiction progressively narrows the things that bring you pleasure. Here's the neuroscience behind the narrowing — and a practical protocol for widening your world back out.",
-    publishedAt: "2026-03-04",
+    publishedAt: "2025-11-01",
     content: `Addiction is a progressive narrowing of the things that bring you pleasure.
 
 That sentence, first shared by neuroscientist Andrew Huberman, went viral because it captures something that every person who has experienced addiction recognizes instantly. It describes the lived experience of watching your world get smaller — not because opportunities disappear, but because your brain stops registering them as interesting.

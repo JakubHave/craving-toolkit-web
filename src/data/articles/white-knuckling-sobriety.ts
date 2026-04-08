@@ -4,7 +4,7 @@ export const article: Article = {
     slug: "white-knuckling-sobriety",
     title: "White-Knuckling Sobriety: Why Grinding Through Recovery Breaks You (and What to Do Instead)",
     description: "White-knuckling sobriety means holding on through willpower alone. Neuroscience explains why it always fails — and what to build instead of just enduring.",
-    publishedAt: "2026-02-25",
+    publishedAt: "2025-10-25",
     content: `You know the feeling. Jaw clenched. Fists tight. Every cell in your body wants the thing, and you are holding on through pure force of will. Not because you have found peace. Not because the craving has passed. But because you are too stubborn, too scared, or too proud to let go.
 
 This is white-knuckling. And for a while, it works. You are sober. You are not using. You are technically in recovery.
