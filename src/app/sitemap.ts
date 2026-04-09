@@ -4,72 +4,80 @@ import { articles } from '@/data/articles'
 const ARTICLES_PER_PAGE = 10;
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  const baseUrl = 'https://cravingtoolkit.com';
+
   const totalPages = Math.ceil(articles.length / ARTICLES_PER_PAGE);
 
   const paginationEntries: MetadataRoute.Sitemap = Array.from({ length: totalPages - 1 }, (_, i) => ({
-    url: `https://cravingtoolkit.com/articles/page/${i + 2}`,
+    url: `${baseUrl}/articles/page/${i + 2}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
-    priority: 0.7,
+    priority: 0.5,
   }));
 
   const articleEntries: MetadataRoute.Sitemap = articles.map((article) => ({
-    url: `https://cravingtoolkit.com/articles/${article.slug}`,
+    url: `${baseUrl}/articles/${article.slug}`,
     lastModified: new Date(article.modifiedAt || article.publishedAt),
-    changeFrequency: 'monthly',
+    changeFrequency: 'monthly' as const,
     priority: 0.8,
   }))
 
   return [
     {
-      url: 'https://cravingtoolkit.com',
+      url: baseUrl,
       lastModified: new Date(),
       changeFrequency: 'weekly',
-      priority: 1,
+      priority: 1.0,
     },
     {
-      url: 'https://cravingtoolkit.com/articles',
+      url: `${baseUrl}/articles`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.9,
     },
-    ...paginationEntries,
+    {
+      url: `${baseUrl}/about`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.6,
+    },
+    {
+      url: `${baseUrl}/editorial-policy`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.3,
+    },
+    {
+      url: `${baseUrl}/preview`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },
     ...articleEntries,
+    ...paginationEntries,
     {
-      url: 'https://cravingtoolkit.com/about',
+      url: `${baseUrl}/privacy`,
       lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.7,
+      changeFrequency: 'yearly',
+      priority: 0.2,
     },
     {
-      url: 'https://cravingtoolkit.com/editorial-policy',
+      url: `${baseUrl}/terms`,
       lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.4,
+      changeFrequency: 'yearly',
+      priority: 0.2,
     },
     {
-      url: 'https://cravingtoolkit.com/privacy',
+      url: `${baseUrl}/app-privacy`,
       lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.3,
+      changeFrequency: 'yearly',
+      priority: 0.2,
     },
     {
-      url: 'https://cravingtoolkit.com/terms',
+      url: `${baseUrl}/app-terms`,
       lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.3,
-    },
-    {
-      url: 'https://cravingtoolkit.com/app-terms',
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.3,
-    },
-    {
-      url: 'https://cravingtoolkit.com/app-privacy',
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.3,
+      changeFrequency: 'yearly',
+      priority: 0.2,
     },
   ]
 }
