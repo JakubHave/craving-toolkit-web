@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { CheckCircle2, ArrowRight, Shield, BookOpen, Eye } from "lucide-react";
+import { CheckCircle2, ArrowRight, BookOpen, Eye } from "lucide-react";
 import Image from "next/image";
 import NewsletterForm from "./newsletter-form";
 import { Metadata } from "next";
@@ -205,12 +205,16 @@ export default function LandingPage() {
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_50%,rgba(16,185,129,0.15),transparent_60%)]" />
 
         <div className="relative max-w-3xl mx-auto px-6 text-center">
-          <div className="animate-subtle-float inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-emerald-800/50 border border-emerald-700/50 mb-8">
-            <Shield className="w-8 h-8 text-emerald-400" />
-          </div>
+          <Image
+            src="/jakub.jpg"
+            alt="Jakub Havelka"
+            width={200}
+            height={200}
+            className="rounded-full border-2 border-emerald-400/50 mb-8 mx-auto"
+          />
           <h2 className="font-serif text-3xl md:text-4xl font-bold mb-8 text-white leading-snug">I&rsquo;m not writing this from a distance.</h2>
           <p className="text-lg leading-relaxed text-emerald-100/90 mb-6">
-            I&rsquo;m an addict — alcohol, drugs, smoking, overeating, self-harm, depression, and anxiety. I spent years in treatment, rehab and psychotherapy. Today, I&rsquo;ve been clean for more than 10 years and live a stable and fulfilling life.
+            I&rsquo;m an addict — alcohol, drugs, smoking, overeating, depression, and anxiety. I spent years in treatment, rehab and psychotherapy. Today, I&rsquo;ve been clean for more than 10 years and live a stable and fulfilling life.
           </p>
           <p className="text-lg leading-relaxed text-emerald-100/90 mb-6">
             I built this guide from what actually helped — my own experience combined with modern addiction science.

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -50,6 +51,14 @@ export default function AboutPage() {
         </nav>
 
         <main className="max-w-3xl mx-auto px-6 py-16">
+          <Image
+            src="/jakub.jpg"
+            alt="Jakub Havelka"
+            width={200}
+            height={200}
+            className="rounded-full mb-8"
+          />
+
           <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-slate-900 mb-8 leading-tight">
             About the Author
           </h1>
@@ -61,7 +70,7 @@ export default function AboutPage() {
 
             <h2 className="text-2xl font-bold mt-10 mb-4 text-slate-900">My story</h2>
             <p className="text-lg text-slate-700 leading-relaxed mb-6">
-              I struggled with alcohol, drugs, smoking, overeating, self-harm, depression, and anxiety. I spent years in treatment, rehab, and psychotherapy. I know what it feels like when cravings take over and logic disappears. I know the shame spiral, the relapses, the feeling that nothing will ever change.
+              I struggled with alcohol, drugs, smoking, overeating, depression, and anxiety. I spent years in treatment, rehab, and psychotherapy. I know what it feels like when cravings take over and logic disappears. I know the shame spiral, the relapses, the feeling that nothing will ever change.
             </p>
             <p className="text-lg text-slate-700 leading-relaxed mb-6">
               Today, I live a stable and fulfilling life. Not because I found a magic formula, but because I eventually found tools and frameworks that actually worked in the moments when willpower didn&rsquo;t. That&rsquo;s what the Craving Toolkit is — the distillation of everything that helped, organized for the exact moments when you need it most.
