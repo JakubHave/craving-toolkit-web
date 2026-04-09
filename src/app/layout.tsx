@@ -54,6 +54,8 @@ export const metadata: Metadata = {
     title: "Craving Toolkit | Practical Tools to Stop Cravings and Stay in Recovery",
     description: "Emergency tools to fight addiction cravings, stop relapse spirals, and stay in recovery. A 40-page experience-based guide with worksheets.",
     images: ["/cover.jpg"],
+    creator: "@JacobHavelka",
+    site: "@JacobHavelka",
   },
   robots: {
     index: true,
@@ -76,6 +78,10 @@ const organizationSchema = {
     width: 512,
     height: 512,
   },
+  sameAs: [
+    "https://x.com/JacobHavelka",
+    "https://www.instagram.com/havelkajacob/",
+  ],
   description: "Practical tools for addiction recovery — emergency craving protocols, daily practices, and worksheets grounded in modern addiction science.",
   foundingDate: "2025",
   publishingPrinciples: "https://cravingtoolkit.com/editorial-policy",
