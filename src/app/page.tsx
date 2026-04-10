@@ -106,7 +106,7 @@ export default function LandingPage() {
             <span className="bg-gradient-to-r from-emerald-600 to-teal-500 bg-clip-text text-transparent">stop spirals, and stay in recovery.</span>
           </h1>
           <p className="animate-fade-in-up-delay-1 text-xl md:text-2xl text-slate-500 mb-12 max-w-2xl mx-auto leading-relaxed">
-            A 40-page action plan for the exact moment cravings take over — with emergency tools, worksheets, and strategies that work when willpower doesn&rsquo;t.
+            A 40-page action plan and a mobile app for the exact moment cravings take over — with emergency tools, worksheets, and strategies that work when willpower doesn&rsquo;t.
           </p>
           <div className="animate-fade-in-up-delay-2 flex flex-col sm:flex-row items-center justify-center gap-4">
             <a href="#pricing" className="group bg-emerald-600 text-white px-8 py-4 rounded-full font-semibold text-lg hover:bg-emerald-700 transition-all shadow-lg shadow-emerald-600/25 hover:shadow-xl hover:shadow-emerald-600/30 hover:-translate-y-0.5 flex items-center gap-2">
