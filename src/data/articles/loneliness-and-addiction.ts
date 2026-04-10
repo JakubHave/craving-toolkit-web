@@ -3,7 +3,7 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "loneliness-and-addiction",
     title: "Loneliness and Addiction: Why Isolation Is the Most Underestimated Relapse Trigger",
-    description: "Bruce Alexander's Rat Park experiment showed isolated rats consumed 20x more morphine. Here's why addiction manufactures its own loneliness — and practical ways to break the isolation trap in recovery.",
+    description: "Rat Park showed isolated rats consumed 20x more morphine. Here's why addiction creates loneliness — and how to break the isolation trap.",
     publishedAt: "2025-12-31",
     category: "recovery-lifestyle",
     content: `There's a line in the Craving Toolkit that I almost cut because it felt too simple: "The danger here is isolation with access. That combination is brutal."

@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://www.cravingtoolkit.com/editorial-policy",
   },
+  openGraph: {
+    url: "https://www.cravingtoolkit.com/editorial-policy",
+  },
 };
 
 export default function EditorialPolicyPage() {

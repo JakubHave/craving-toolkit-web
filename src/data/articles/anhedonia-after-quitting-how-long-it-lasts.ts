@@ -3,7 +3,7 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "anhedonia-after-quitting-how-long-it-lasts",
     title: "Anhedonia After Quitting: Why Nothing Feels Good and How Long It Actually Lasts",
-    description: "You quit. You're doing everything right. And yet nothing feels good. This is anhedonia — a neurochemical phase with a predictable timeline for alcohol, cannabis, stimulants, opioids, and behavioral addictions.",
+    description: "You quit and nothing feels good. This is anhedonia — a neurochemical phase with a predictable timeline for alcohol, cannabis, stimulants, and opioids.",
     publishedAt: "2025-08-17",
     category: "early-recovery",
     content: `You quit. You got through the withdrawal. You're doing everything right. And yet — nothing feels good. Food is tasteless. Music is noise. People are annoying. The things that used to bring you joy, even before the addiction, feel empty. You're not sad exactly. You're not anxious. You just feel... nothing.

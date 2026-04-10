@@ -4,9 +4,12 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "About the Author",
-  description: "Jakub Havelka — software engineer with 10+ years of personal recovery experience. Author of the Craving Toolkit, a practical guide to fighting addiction cravings.",
+  description: "Jakub Havelka — software engineer with 10+ years of personal recovery experience. Author of the Craving Toolkit, a practical guide to fighting cravings.",
   alternates: {
     canonical: "https://www.cravingtoolkit.com/about",
+  },
+  openGraph: {
+    url: "https://www.cravingtoolkit.com/about",
   },
 };
 

@@ -3,7 +3,7 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "phone-relapse-trigger-digital-cues",
     title: "Your Phone Is a Relapse Trigger: How Digital Cues Hijack Recovery",
-    description: "Your phone contains more triggers per square inch than any bar or neighborhood. Nobody tells you to audit it. Here's why you should — and exactly how to do it.",
+    description: "Your phone has more triggers per square inch than any bar. Nobody tells you to audit it. Here's why you should — and how to do it.",
     publishedAt: "2025-08-25",
     category: "triggers-and-relapse",
     content: `Here is something that does not get talked about enough in recovery circles: your phone might be the most dangerous object in your house.

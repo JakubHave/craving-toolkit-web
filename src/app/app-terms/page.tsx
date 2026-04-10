@@ -3,9 +3,15 @@ import Link from "next/link";
 import { ArrowLeft, Smartphone } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "App Terms of Use | Craving Toolkit",
+  title: "App Terms of Use",
   description:
     "Terms of Use for the Craving Toolkit — Recovery Tools mobile app. Read our policies on subscriptions, content use, and acceptable conduct.",
+  alternates: {
+    canonical: "https://www.cravingtoolkit.com/app-terms",
+  },
+  openGraph: {
+    url: "https://www.cravingtoolkit.com/app-terms",
+  },
 };
 
 function Section({

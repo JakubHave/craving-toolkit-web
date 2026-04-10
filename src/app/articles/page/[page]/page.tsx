@@ -21,6 +21,9 @@ export async function generateMetadata({ params }: { params: Promise<{ page: str
     alternates: {
       canonical: `https://www.cravingtoolkit.com/articles/page/${page}`,
     },
+    openGraph: {
+      url: `https://www.cravingtoolkit.com/articles/page/${page}`,
+    },
   };
 }
 

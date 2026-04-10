@@ -78,7 +78,7 @@ export default function LandingPage() {
       <nav className="sticky top-0 z-50 border-b border-slate-200/60 bg-white/80 backdrop-blur-lg">
         <div className="max-w-5xl mx-auto px-3 sm:px-6 h-16 flex items-center justify-between">
           <Link href="/" className="flex items-center gap-1.5 sm:gap-2 font-semibold text-base sm:text-xl tracking-tight text-emerald-800 shrink-0">
-            <Image src="/icon_1024.png" alt="Craving Toolkit logo" width={32} height={32} className="rounded-lg w-7 h-7 sm:w-8 sm:h-8" />
+            <Image src="/icon_1024.webp" alt="Craving Toolkit logo" width={32} height={32} className="rounded-lg w-7 h-7 sm:w-8 sm:h-8" />
             Craving Toolkit
           </Link>
           <div className="flex items-center gap-3 sm:gap-6">
@@ -117,7 +117,7 @@ export default function LandingPage() {
 
           <div className="animate-fade-in-up-delay-3 mt-12">
             <Image
-              src="/craving_toolkit.png"
+              src="/craving_toolkit.webp"
               alt="Craving Toolkit guide cover"
               width={360}
               height={480}

@@ -3,9 +3,15 @@ import Link from "next/link";
 import { ArrowLeft, Shield } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Craving Toolkit",
+  title: "Privacy Policy",
   description:
     "Privacy Policy for the Craving Toolkit website and digital ebook. Learn how we handle your data, cookies, and payment information.",
+  alternates: {
+    canonical: "https://www.cravingtoolkit.com/privacy",
+  },
+  openGraph: {
+    url: "https://www.cravingtoolkit.com/privacy",
+  },
 };
 
 const sections = [

@@ -5,6 +5,12 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Free Preview",
   description: "Read the first pages of the Craving Toolkit free — no signup, no payment. See the emergency tools, craving strategies, and worksheets inside.",
+  alternates: {
+    canonical: "https://www.cravingtoolkit.com/preview",
+  },
+  openGraph: {
+    url: "https://www.cravingtoolkit.com/preview",
+  },
 };
 
 export default function PreviewPage() {

@@ -3,9 +3,15 @@ import Link from "next/link";
 import { ArrowLeft, FileText } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Terms of Service | Craving Toolkit",
+  title: "Terms of Service",
   description:
     "Terms of Service for the Craving Toolkit website and digital ebook. Read our policies on purchases, refunds, and acceptable use.",
+  alternates: {
+    canonical: "https://www.cravingtoolkit.com/terms",
+  },
+  openGraph: {
+    url: "https://www.cravingtoolkit.com/terms",
+  },
 };
 
 const sections = [
