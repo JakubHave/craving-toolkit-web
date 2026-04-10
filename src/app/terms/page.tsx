@@ -5,7 +5,7 @@ import { ArrowLeft, FileText } from "lucide-react";
 export const metadata: Metadata = {
   title: "Terms of Service | Craving Toolkit",
   description:
-    "Terms of Service for the Craving Toolkit website and digital ebook.",
+    "Terms of Service for the Craving Toolkit website and digital ebook. Read our policies on purchases, refunds, and acceptable use.",
 };
 
 const sections = [

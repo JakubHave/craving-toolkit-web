@@ -5,7 +5,7 @@ import { ArrowLeft, Shield } from "lucide-react";
 export const metadata: Metadata = {
   title: "Privacy Policy | Craving Toolkit",
   description:
-    "Privacy Policy for the Craving Toolkit website and digital ebook storefront.",
+    "Privacy Policy for the Craving Toolkit website and digital ebook. Learn how we handle your data, cookies, and payment information.",
 };
 
 const sections = [

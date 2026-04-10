@@ -5,7 +5,7 @@ import { ArrowLeft, ShieldCheck } from "lucide-react";
 export const metadata: Metadata = {
   title: "App Privacy Policy | Craving Toolkit",
   description:
-    "Privacy Policy for the Craving Toolkit — Recovery Tools mobile application.",
+    "Privacy Policy for the Craving Toolkit — Recovery Tools mobile app. How we handle your data, permissions, and account information.",
 };
 
 function Section({
@@ -617,7 +617,7 @@ export default function AppPrivacyPage() {
               <p>
                 <strong className="text-slate-800">Website:</strong>{" "}
                 <a
-                  href="https://cravingtoolkit.com"
+                  href="https://www.cravingtoolkit.com"
                   className="text-emerald-700 hover:text-emerald-800 underline"
                 >
                   cravingtoolkit.com

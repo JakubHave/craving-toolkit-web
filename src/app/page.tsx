@@ -5,10 +5,10 @@ import NewsletterForm from "./newsletter-form";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Craving Toolkit | Practical Tools to Stop Cravings and Stay in Recovery",
-  description: "A practical, experience-based guide with emergency tools to fight addiction cravings, stop relapse spirals, and stay in recovery. 40-page PDF with actionable strategies and worksheets for managing urges from alcohol, drugs, overeating, and compulsive behaviors.",
+  title: "Craving Toolkit | Stop Cravings & Stay in Recovery",
+  description: "Emergency tools to fight addiction cravings and stop relapse spirals. A 40-page guide with actionable strategies and worksheets for recovery.",
   alternates: {
-    canonical: "https://cravingtoolkit.com",
+    canonical: "https://www.cravingtoolkit.com",
   },
 };
 
@@ -17,7 +17,7 @@ const jsonLd = {
   "@type": "Product",
   name: "Craving Toolkit – Addiction Recovery Guide",
   description: "A 40-page practical guide with emergency tools, actionable strategies, and 6 worksheets to fight addiction cravings, stop relapse spirals, and stay in recovery.",
-  image: "https://cravingtoolkit.com/cover.jpg",
+  image: "https://www.cravingtoolkit.com/cover.jpg",
   brand: {
     "@type": "Brand",
     name: "Craving Toolkit",
@@ -27,7 +27,7 @@ const jsonLd = {
     price: "19.00",
     priceCurrency: "USD",
     availability: "https://schema.org/InStock",
-    url: "https://cravingtoolkit.com/#pricing",
+    url: "https://www.cravingtoolkit.com/#pricing",
     shippingDetails: {
       "@type": "OfferShippingDetails",
       shippingRate: {

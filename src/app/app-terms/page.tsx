@@ -5,7 +5,7 @@ import { ArrowLeft, Smartphone } from "lucide-react";
 export const metadata: Metadata = {
   title: "App Terms of Use | Craving Toolkit",
   description:
-    "Terms of Use for the Craving Toolkit — Recovery Tools mobile application.",
+    "Terms of Use for the Craving Toolkit — Recovery Tools mobile app. Read our policies on subscriptions, content use, and acceptable conduct.",
 };
 
 function Section({
@@ -885,7 +885,7 @@ export default function AppTermsPage() {
               <p>
                 <strong className="text-slate-800">Website:</strong>{" "}
                 <a
-                  href="https://cravingtoolkit.com"
+                  href="https://www.cravingtoolkit.com"
                   className="text-emerald-700 hover:text-emerald-800 underline"
                 >
                   cravingtoolkit.com

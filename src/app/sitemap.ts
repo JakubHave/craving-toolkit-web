@@ -4,7 +4,7 @@ import { articles } from '@/data/articles'
 const ARTICLES_PER_PAGE = 10;
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://cravingtoolkit.com';
+  const baseUrl = 'https://www.cravingtoolkit.com';
 
   const totalPages = Math.ceil(articles.length / ARTICLES_PER_PAGE);
 

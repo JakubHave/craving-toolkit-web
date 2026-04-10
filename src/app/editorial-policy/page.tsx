@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Editorial Policy",
   description: "How Craving Toolkit articles are created, fact-checked, and maintained. Our standards for sources, accuracy, and medical disclaimers.",
   alternates: {
-    canonical: "https://cravingtoolkit.com/editorial-policy",
+    canonical: "https://www.cravingtoolkit.com/editorial-policy",
   },
 };
 

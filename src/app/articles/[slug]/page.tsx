@@ -10,9 +10,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const article = getArticleBySlug(resolvedParams.slug);
   if (!article) return { title: "Article Not Found | Craving Toolkit" };
 
-  const url = `https://cravingtoolkit.com/articles/${article.slug}`;
+  const url = `https://www.cravingtoolkit.com/articles/${article.slug}`;
   return {
-    title: article.title,
+    title: { absolute: article.title },
     description: article.description,
     alternates: {
       canonical: url,
@@ -47,19 +47,19 @@ function getArticleJsonLd(article: { title: string; description: string; slug: s
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "@id": `https://cravingtoolkit.com/articles/${article.slug}#article`,
+    "@id": `https://www.cravingtoolkit.com/articles/${article.slug}#article`,
     headline: article.title,
     description: article.description,
     datePublished: article.publishedAt,
     dateModified: article.modifiedAt || article.publishedAt,
     isAccessibleForFree: true,
-    image: "https://cravingtoolkit.com/cover.jpg",
-    url: `https://cravingtoolkit.com/articles/${article.slug}`,
+    image: "https://www.cravingtoolkit.com/cover.jpg",
+    url: `https://www.cravingtoolkit.com/articles/${article.slug}`,
     author: {
       "@type": "Person",
-      "@id": "https://cravingtoolkit.com/about#author",
+      "@id": "https://www.cravingtoolkit.com/about#author",
       name: "Jakub Havelka",
-      url: "https://cravingtoolkit.com/about",
+      url: "https://www.cravingtoolkit.com/about",
       sameAs: [
         "https://x.com/JacobHavelka",
         "https://www.instagram.com/havelkajacob/",
@@ -75,16 +75,16 @@ function getArticleJsonLd(article: { title: string; description: string; slug: s
     },
     publisher: {
       "@type": "Organization",
-      "@id": "https://cravingtoolkit.com/#organization",
+      "@id": "https://www.cravingtoolkit.com/#organization",
       name: "Craving Toolkit",
       logo: {
         "@type": "ImageObject",
-        url: "https://cravingtoolkit.com/icon-512.png",
+        url: "https://www.cravingtoolkit.com/icon-512.png",
       },
     },
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://cravingtoolkit.com/articles/${article.slug}`,
+      "@id": `https://www.cravingtoolkit.com/articles/${article.slug}`,
     },
   };
 
@@ -96,13 +96,13 @@ function getArticleJsonLd(article: { title: string; description: string; slug: s
         "@type": "ListItem",
         position: 1,
         name: "Home",
-        item: "https://cravingtoolkit.com",
+        item: "https://www.cravingtoolkit.com",
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Articles",
-        item: "https://cravingtoolkit.com/articles",
+        item: "https://www.cravingtoolkit.com/articles",
       },
       {
         "@type": "ListItem",

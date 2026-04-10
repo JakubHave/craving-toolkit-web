@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://cravingtoolkit.com/sitemap.xml',
+    sitemap: 'https://www.cravingtoolkit.com/sitemap.xml',
   }
 }

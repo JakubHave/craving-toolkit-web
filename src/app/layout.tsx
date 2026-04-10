@@ -6,15 +6,15 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const lora = Lora({ subsets: ["latin"], variable: "--font-lora" });
 
-const siteUrl = "https://cravingtoolkit.com";
+const siteUrl = "https://www.cravingtoolkit.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Craving Toolkit | Practical Tools to Stop Cravings and Stay in Recovery",
+    default: "Craving Toolkit | Stop Cravings & Stay in Recovery",
     template: "%s | Craving Toolkit",
   },
-  description: "A practical, experience-based guide with emergency tools to fight addiction cravings, stop relapse spirals, and stay in recovery. 40-page PDF with actionable strategies and worksheets for managing urges from alcohol, drugs, overeating, and compulsive behaviors.",
+  description: "Emergency tools to fight addiction cravings, stop relapse spirals, and stay in recovery. A 40-page PDF guide with strategies and worksheets.",
   keywords: [
     "addiction recovery tools",
     "how to stop cravings",
@@ -38,8 +38,8 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: siteUrl,
     siteName: "Craving Toolkit",
-    title: "Craving Toolkit | Practical Tools to Stop Cravings and Stay in Recovery",
-    description: "A practical, experience-based guide with emergency tools to fight addiction cravings, stop relapse spirals, and stay in recovery. 40-page PDF with actionable strategies and worksheets.",
+    title: "Craving Toolkit | Stop Cravings & Stay in Recovery",
+    description: "Emergency tools to fight addiction cravings, stop relapse spirals, and stay in recovery. A 40-page guide with strategies and worksheets.",
     images: [
       {
         url: "/cover.jpg",
@@ -51,8 +51,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Craving Toolkit | Practical Tools to Stop Cravings and Stay in Recovery",
-    description: "Emergency tools to fight addiction cravings, stop relapse spirals, and stay in recovery. A 40-page experience-based guide with worksheets.",
+    title: "Craving Toolkit | Stop Cravings & Stay in Recovery",
+    description: "Emergency tools to fight addiction cravings, stop relapse spirals, and stay in recovery. A 40-page guide with strategies and worksheets.",
     images: ["/cover.jpg"],
     creator: "@JacobHavelka",
     site: "@JacobHavelka",
@@ -69,12 +69,12 @@ export const metadata: Metadata = {
 const organizationSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "https://cravingtoolkit.com/#organization",
+  "@id": "https://www.cravingtoolkit.com/#organization",
   name: "Craving Toolkit",
-  url: "https://cravingtoolkit.com",
+  url: "https://www.cravingtoolkit.com",
   logo: {
     "@type": "ImageObject",
-    url: "https://cravingtoolkit.com/icon-512.png",
+    url: "https://www.cravingtoolkit.com/icon-512.png",
     width: 512,
     height: 512,
   },
@@ -84,7 +84,7 @@ const organizationSchema = {
   ],
   description: "Practical tools for addiction recovery — emergency craving protocols, daily practices, and worksheets grounded in modern addiction science.",
   foundingDate: "2025",
-  publishingPrinciples: "https://cravingtoolkit.com/editorial-policy",
+  publishingPrinciples: "https://www.cravingtoolkit.com/editorial-policy",
   contactPoint: {
     "@type": "ContactPoint",
     contactType: "customer support",

@@ -6,16 +6,16 @@ export const metadata: Metadata = {
   title: "About the Author",
   description: "Jakub Havelka — software engineer with 10+ years of personal recovery experience. Author of the Craving Toolkit, a practical guide to fighting addiction cravings.",
   alternates: {
-    canonical: "https://cravingtoolkit.com/about",
+    canonical: "https://www.cravingtoolkit.com/about",
   },
 };
 
 const personSchema = {
   "@context": "https://schema.org",
   "@type": "Person",
-  "@id": "https://cravingtoolkit.com/about#author",
+  "@id": "https://www.cravingtoolkit.com/about#author",
   name: "Jakub Havelka",
-  url: "https://cravingtoolkit.com/about",
+  url: "https://www.cravingtoolkit.com/about",
   description: "Software engineer, 10+ years in recovery, author of the Craving Toolkit",
   knowsAbout: [
     "addiction recovery",

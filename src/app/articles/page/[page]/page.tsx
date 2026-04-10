@@ -17,9 +17,9 @@ export async function generateMetadata({ params }: { params: Promise<{ page: str
   const { page } = await params;
   return {
     title: `Recovery Articles – Page ${page}`,
-    description: "Free evidence-based articles on how to stop cravings, prevent relapse, and manage addiction urges.",
+    description: "Free evidence-based articles on stopping cravings, preventing relapse, and managing addiction urges. Practical recovery strategies that work.",
     alternates: {
-      canonical: `https://cravingtoolkit.com/articles/page/${page}`,
+      canonical: `https://www.cravingtoolkit.com/articles/page/${page}`,
     },
   };
 }
