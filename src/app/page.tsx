@@ -77,7 +77,10 @@ export default function LandingPage() {
       {/* Navigation */}
       <nav className="sticky top-0 z-50 border-b border-slate-200/60 bg-white/80 backdrop-blur-lg">
         <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
-          <Link href="/" className="font-semibold text-xl tracking-tight text-emerald-800">Craving Toolkit</Link>
+          <Link href="/" className="flex items-center gap-2 font-semibold text-xl tracking-tight text-emerald-800">
+            <Image src="/icon_1024.png" alt="Craving Toolkit logo" width={32} height={32} className="rounded-lg" />
+            Craving Toolkit
+          </Link>
           <div className="flex items-center gap-6">
             <Link href="/articles" className="text-sm font-medium text-slate-500 hover:text-emerald-700 transition-colors">Articles</Link>
             <a href="#pricing" className="text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors">Get the Guide</a>
