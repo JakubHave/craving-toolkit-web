@@ -156,13 +156,13 @@ export default async function MoneySavedPage({
           <div className="flex items-center gap-3 sm:gap-6">
             <Link
               href="/articles"
-              className="text-sm font-medium text-slate-500 hover:text-emerald-700 transition-colors"
+              className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition-colors"
             >
               Articles
             </Link>
             <Link
               href="/calculators"
-              className="text-sm font-medium text-slate-500 hover:text-emerald-700 transition-colors"
+              className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition-colors"
             >
               Calculators
             </Link>

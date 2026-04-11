@@ -52,9 +52,9 @@ export default function ArticlesPage() {
           <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
             <Link href="/" className="font-bold text-xl tracking-tight text-emerald-800">Craving Toolkit</Link>
             <div className="flex gap-6">
-              <Link href="/articles" className="text-sm font-medium text-emerald-700">Articles</Link>
-              <Link href="/calculators" className="text-sm font-medium text-slate-600 hover:text-emerald-700 transition">Calculators</Link>
-              <Link href="/#pricing" className="text-sm font-medium text-slate-600 hover:text-emerald-700 transition">Get the Guide</Link>
+              <Link href="/articles" className="text-base font-semibold text-emerald-700">Articles</Link>
+              <Link href="/calculators" className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition">Calculators</Link>
+              <Link href="/#pricing" className="text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors whitespace-nowrap">Get the Guide</Link>
             </div>
           </div>
         </nav>

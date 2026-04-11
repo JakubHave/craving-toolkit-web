@@ -82,8 +82,8 @@ export default function LandingPage() {
             Craving Toolkit
           </Link>
           <div className="flex items-center gap-3 sm:gap-6">
-            <Link href="/articles" className="text-sm font-medium text-slate-500 hover:text-emerald-700 transition-colors">Articles</Link>
-            <Link href="/calculators" className="text-sm font-medium text-slate-500 hover:text-emerald-700 transition-colors ">Calculators</Link>
+            <Link href="/articles" className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition-colors">Articles</Link>
+            <Link href="/calculators" className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition-colors">Calculators</Link>
             <a href="#pricing" className="hidden sm:inline-block text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors whitespace-nowrap">Get the Guide</a>
           </div>
         </div>
