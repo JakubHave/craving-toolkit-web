@@ -255,7 +255,7 @@ export default function LandingPage() {
       </section>
 
       {/* Pricing / Product Section */}
-      <section id="pricing" className="relative py-28 bg-slate-50">
+      <section id="pricing" className="relative pt-28 pb-16 bg-slate-50">
         <div className="absolute inset-0 bg-gradient-to-b from-white via-slate-50 to-slate-50" />
 
         <div className="relative max-w-5xl mx-auto px-6">
