@@ -117,7 +117,7 @@ export default function ResultsCard({ result, substance, daysSober, investmentRe
       <LiveTicker perSecond={result.perSecond} totalSaved={result.totalSaved} />
 
       {/* Share */}
-      <ShareButtons substance={substance} annualCost={result.annualCost} />
+      <ShareButtons annualCost={result.annualCost} />
 
       {/* CTA */}
       <div className="bg-gradient-to-br from-emerald-50 to-teal-50 border border-emerald-200 rounded-2xl p-6 sm:p-8 text-center">
