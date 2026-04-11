@@ -54,7 +54,7 @@ export default function ArticlesPage() {
             <div className="flex gap-6">
               <Link href="/articles" className="text-base font-semibold text-emerald-700">Articles</Link>
               <Link href="/calculators" className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition">Calculators</Link>
-              <Link href="/#pricing" className="text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors whitespace-nowrap">Get the Guide</Link>
+              <Link href="/#pricing" className="hidden sm:inline-block text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors whitespace-nowrap">Get the Guide</Link>
             </div>
           </div>
         </nav>

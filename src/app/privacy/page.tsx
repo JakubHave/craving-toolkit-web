@@ -123,7 +123,7 @@ export default function PrivacyPage() {
             </Link>
             <Link
               href="/#pricing"
-              className="text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors whitespace-nowrap"
+              className="hidden sm:inline-block text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors whitespace-nowrap"
             >
               Get the Guide
             </Link>
