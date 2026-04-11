@@ -6,7 +6,7 @@ interface Props {
   annualCost: number;
 }
 
-export default function ShareButtons({ substance, annualCost }: Props) {
+export default function ShareButtons({ annualCost }: Props) {
   const [copied, setCopied] = useState(false);
   const shareUrl = "https://www.cravingtoolkit.com/calculators/money-saved";
   const copyUrl = typeof window !== "undefined" ? window.location.href : shareUrl;
