@@ -327,11 +327,12 @@ export default function MoneyCalculator() {
                   type="date"
                   value={soberDate}
                   max={todayString()}
+                  onClick={(e) => (e.target as HTMLInputElement).showPicker?.()}
                   onChange={(e) => {
                     setSoberDate(e.target.value);
                     setDateSource("date");
                   }}
-                  className="w-full px-4 py-2.5 rounded-lg border border-slate-200 text-slate-800 focus:outline-none focus:ring-2 focus:ring-emerald-500/40 focus:border-emerald-400 transition"
+                  className="w-full px-4 py-2.5 rounded-lg border border-slate-200 text-slate-800 focus:outline-none focus:ring-2 focus:ring-emerald-500/40 focus:border-emerald-400 transition cursor-pointer"
                 />
               </div>
               <div className="flex items-center gap-3">

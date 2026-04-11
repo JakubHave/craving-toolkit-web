@@ -1,7 +1,7 @@
 "use client";
 
 import { getMilestones, type SubstanceId } from "@/lib/calculator-data";
-import { Check } from "lucide-react";
+import { Check, Info } from "lucide-react";
 
 interface Props {
   substance: SubstanceId;
@@ -9,7 +9,7 @@ interface Props {
 }
 
 export default function HealthTimeline({ substance, daysSober }: Props) {
-  const milestones = getMilestones(substance);
+  const { milestones, disclaimer } = getMilestones(substance);
   const nextIndex = milestones.findIndex((m) => m.days > daysSober);
   const visibleMilestones =
     nextIndex === -1 ? milestones : milestones.slice(0, nextIndex + 1);
@@ -19,6 +19,14 @@ export default function HealthTimeline({ substance, daysSober }: Props) {
       <h3 className="font-semibold text-xl text-slate-800 mb-6">
         Your Health Recovery Timeline
       </h3>
+
+      {disclaimer && (
+        <div className="flex gap-3 bg-amber-50 border border-amber-200 rounded-xl p-4 mb-6">
+          <Info className="w-5 h-5 text-amber-600 shrink-0 mt-0.5" />
+          <p className="text-sm text-amber-800 leading-relaxed">{disclaimer}</p>
+        </div>
+      )}
+
       <div className="space-y-0">
         {visibleMilestones.map((milestone, i) => {
           const achieved = daysSober >= milestone.days;
@@ -50,7 +58,7 @@ export default function HealthTimeline({ substance, daysSober }: Props) {
               </div>
               <div className={`pb-6 ${!achieved ? "opacity-50" : ""}`}>
                 <p className="font-semibold text-sm text-slate-700">
-                  {milestone.label}
+                  {milestone.title}
                   {!achieved && (
                     <span className="ml-2 text-xs font-normal text-slate-400">
                       upcoming
