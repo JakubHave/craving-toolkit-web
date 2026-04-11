@@ -48,6 +48,7 @@ export default function AboutPage() {
             <Link href="/" className="font-bold text-xl tracking-tight text-emerald-800">Craving Toolkit</Link>
             <div className="flex gap-6">
               <Link href="/articles" className="text-sm font-medium text-slate-600 hover:text-emerald-700 transition">Articles</Link>
+              <Link href="/calculators" className="text-sm font-medium text-slate-600 hover:text-emerald-700 transition">Calculators</Link>
               <Link href="/#pricing" className="text-sm font-medium text-slate-600 hover:text-emerald-700 transition">Get the Guide</Link>
             </div>
           </div>

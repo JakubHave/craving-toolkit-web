@@ -116,6 +116,12 @@ export default function TermsPage() {
               Articles
             </Link>
             <Link
+              href="/calculators"
+              className="text-base font-medium text-slate-600 hover:text-emerald-700 transition"
+            >
+              Calculators
+            </Link>
+            <Link
               href="/#pricing"
               className="text-base font-medium text-slate-600 hover:text-emerald-700 transition"
             >

@@ -83,6 +83,7 @@ export default function LandingPage() {
           </Link>
           <div className="flex items-center gap-3 sm:gap-6">
             <Link href="/articles" className="text-sm font-medium text-slate-500 hover:text-emerald-700 transition-colors">Articles</Link>
+            <Link href="/calculators" className="text-sm font-medium text-slate-500 hover:text-emerald-700 transition-colors hidden sm:inline">Calculators</Link>
             <a href="#pricing" className="text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-3 sm:px-4 py-1.5 rounded-full transition-colors whitespace-nowrap">Get the Guide</a>
           </div>
         </div>
@@ -198,6 +199,25 @@ export default function LandingPage() {
                 <p className="text-slate-500 text-base leading-relaxed">{card.desc}</p>
               </div>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Calculator CTA Banner */}
+      <section className="py-12 bg-white border-y border-slate-200/60">
+        <div className="max-w-3xl mx-auto px-6 text-center">
+          <div className="bg-slate-50 border border-slate-200 rounded-2xl p-8 sm:p-10">
+            <p className="text-2xl mb-2">🧮</p>
+            <h2 className="font-serif text-2xl sm:text-3xl font-bold text-slate-900 mb-3">Free Recovery Calculators</h2>
+            <p className="text-slate-500 text-lg mb-6 max-w-md mx-auto">
+              Find out what your habit really costs &mdash; and what recovery is worth in dollars, time, and health.
+            </p>
+            <Link
+              href="/calculators/money-saved"
+              className="inline-flex items-center gap-2 border-2 border-emerald-600 text-emerald-700 hover:bg-emerald-50 font-semibold px-6 py-3 rounded-full transition-colors"
+            >
+              Try the Money Saved Calculator <ArrowRight className="w-4 h-4" />
+            </Link>
           </div>
         </div>
       </section>
@@ -326,6 +346,8 @@ export default function LandingPage() {
             <Link href="/about" className="text-slate-400 hover:text-white transition-colors">About</Link>
             <span aria-hidden="true" className="text-slate-600">·</span>
             <Link href="/articles" className="text-slate-400 hover:text-white transition-colors">All Articles</Link>
+            <span aria-hidden="true" className="text-slate-600">·</span>
+            <Link href="/calculators" className="text-slate-400 hover:text-white transition-colors">Calculators</Link>
             <span aria-hidden="true" className="text-slate-600">·</span>
             <Link href="/editorial-policy" className="text-slate-400 hover:text-white transition-colors">Editorial Policy</Link>
             <span aria-hidden="true" className="text-slate-600">·</span>
