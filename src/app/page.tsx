@@ -301,6 +301,13 @@ export default function LandingPage() {
                 </div>
               </div>
             </div>
+
+            <div className="flex justify-center mt-8">
+              <a href="https://fazier.com/launches/www.cravingtoolkit.com" target="_blank" rel="noopener">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src="https://fazier.com/api/v1//public/badges/launch_badges.svg?badge_type=featured&theme=neutral" width={250} alt="Featured on Fazier" />
+              </a>
+            </div>
           </div>
         </div>
       </section>
