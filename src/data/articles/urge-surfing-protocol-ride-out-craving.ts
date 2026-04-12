@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "urge-surfing-protocol-ride-out-craving",
-    title: "How to Ride Out a Craving Without Giving In: The Urge Surfing Protocol",
-    description: "A craving is not a command — it is a wave. It rises, peaks, and falls. Every single time. Urge surfing teaches you to ride it out instead of feeding it. Here is the step-by-step protocol.",
+    title: "Urge Surfing: How to Ride Out a Craving",
+    description: "A craving is not a command — it's a wave. It rises, peaks, and falls. Every time. Urge surfing teaches you to ride it out. Here's the protocol.",
     publishedAt: "2025-09-22",
     category: "craving-management",
     content: `A craving is not a command. It feels like one — urgent, non-negotiable, overwhelming — but it is not. It is a wave. It rises, it peaks, and it falls. Every single time. No craving in human history has lasted forever.

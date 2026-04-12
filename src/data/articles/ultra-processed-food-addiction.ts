@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "ultra-processed-food-addiction",
-    title: "Ultra-Processed Food Addiction: When What You Eat Hijacks the Same Brain Circuits as Drugs",
-    description: "Brain imaging shows compulsive overeaters have the same dopamine receptor reductions as cocaine addicts. Here's why 'just eat less' fails, how the restrict-binge cycle traps you, and what actually works.",
+    title: "Ultra-Processed Food Addiction: The Brain Science",
+    description: "Brain imaging shows compulsive overeaters have the same dopamine reductions as cocaine addicts. Here's why 'just eat less' fails and what actually works.",
     publishedAt: "2026-01-20",
     category: "triggers-and-relapse",
     content: `Nobody calls themselves a food addict out loud. It sounds ridiculous compared to "real" addiction. You can't overdose on Doritos. You don't wake up in a hospital because of ice cream. Nobody stages an intervention over cereal.

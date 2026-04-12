@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "rewriting-your-story-narrative-identity",
-    title: "Rewriting Your Story: How Narrative Identity Rewires the Addicted Brain",
-    description: "People trapped in addiction are living in a permanent present. Recovery begins when you connect your past to a future worth pursuing. The story itself is the recovery mechanism.",
+    title: "Rewriting Your Story: Narrative Identity in Recovery",
+    description: "People trapped in addiction live in a permanent present. Recovery begins when you connect past to future. The story itself is the mechanism.",
     publishedAt: "2025-12-04",
     category: "recovery-lifestyle",
     content: `There is a moment in [Marc Lewis's](https://memoirsofanaddictedbrain.com/) research that haunts me.

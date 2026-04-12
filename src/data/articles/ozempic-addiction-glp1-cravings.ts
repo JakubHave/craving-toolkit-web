@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "ozempic-addiction-glp1-cravings",
-    title: "Can Ozempic Help With Addiction? What the First Clinical Trial Actually Shows",
-    description: "A 2025 clinical trial found semaglutide reduced alcohol cravings more than existing medications. Here's what GLP-1 drugs do to the brain's reward system — and what this doesn't mean yet.",
+    title: "Can Ozempic Help With Addiction?",
+    description: "Semaglutide reduced alcohol cravings more than existing meds in a clinical trial. Here's what GLP-1 drugs do to the reward system — and the caveats.",
     publishedAt: "2025-12-12",
     category: "understanding-addiction",
     content: `People started noticing something strange. They'd begin weekly injections of semaglutide — marketed as Ozempic for diabetes and Wegovy for weight loss — and a few weeks in, they'd realize they didn't want to drink anymore. Not "trying not to drink." Not white-knuckling through happy hour. Just... the desire had dimmed. The pull was gone.

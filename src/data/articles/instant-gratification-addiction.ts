@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "instant-gratification-addiction",
-    title: "Addiction and Instant Gratification: How Your Brain Is Wired to Choose Now Over Later",
-    description: "Your brain is wired to choose now over later. In addiction, this becomes a trap. Here's how 'now appeal' works and how to rebuild the bridge between present and future.",
+    title: "Addiction and Instant Gratification: Why You Choose Now",
+    description: "Your brain is wired to choose now over later. In addiction, this becomes a trap. Here's how instant gratification works and how to bridge the gap.",
     publishedAt: "2025-11-27",
     category: "triggers-and-relapse",
     content: `Offer someone a hundred dollars today or two hundred dollars in a year. Most people take the hundred.

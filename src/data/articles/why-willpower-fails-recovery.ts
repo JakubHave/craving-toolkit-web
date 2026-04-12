@@ -2,7 +2,7 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "why-willpower-fails-recovery",
-    title: "Why Willpower Fails in Recovery (and What Actually Works Instead)",
+    title: "Why Willpower Fails in Recovery (and What Works)",
     description: "Willpower fails in addiction because the prefrontal cortex tires while desire does not. Here are 5 strategies that actually work instead.",
     publishedAt: "2025-11-05",
     category: "triggers-and-relapse",

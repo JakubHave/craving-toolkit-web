@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "how-long-to-reset-dopamine-timeline",
-    title: "How Long Does It Take to Reset Your Dopamine? The Real Timeline",
-    description: "The '90 days' answer is dangerously oversimplified. Here are the real substance-specific timelines for dopamine recovery — alcohol, cannabis, stimulants, opioids, and behavioral addictions.",
+    title: "How Long Does It Take to Reset Your Dopamine?",
+    description: "The '90 days' answer is dangerously oversimplified. Here are real dopamine recovery timelines for alcohol, cannabis, stimulants, and opioids.",
     publishedAt: "2025-08-28",
     category: "early-recovery",
     content: `This is probably the most-searched question in addiction recovery, and the most common answer — "about 90 days" — is both partially true and dangerously oversimplified.

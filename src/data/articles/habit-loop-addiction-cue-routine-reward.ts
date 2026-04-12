@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "habit-loop-addiction-cue-routine-reward",
-    title: "The Habit Loop in Addiction: How Cue-Routine-Reward Keeps You Stuck (and How to Rewire It)",
-    description: "Charles Duhigg's habit loop explains why you can't just 'stop.' Here's the 4-step diagnostic method to identify your cues, find your real reward, and replace the routine without willpower.",
+    title: "The Habit Loop in Addiction: How to Rewire It",
+    description: "The habit loop explains why you can't just 'stop.' Here's a 4-step method to identify your cues, find your real reward, and replace the routine.",
     publishedAt: "2025-12-19",
     category: "craving-management",
     content: `There's a rat named Julio who understands your addiction better than most therapists do.

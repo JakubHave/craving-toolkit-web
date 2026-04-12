@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "screw-it-moment-all-or-nothing",
-    title: "The \"Screw It\" Moment: How All-or-Nothing Thinking Destroys Recovery",
-    description: "One drink becomes six. One slip becomes a relapse. The 'screw it' moment is driven by all-or-nothing thinking — and the 10 minutes after a slip are the most important in recovery.",
+    title: "The \"Screw It\" Moment: All-or-Nothing in Recovery",
+    description: "One drink becomes six. One slip becomes a relapse. The 'screw it' moment is all-or-nothing thinking — and the 10 minutes after a slip decide everything.",
     publishedAt: "2025-12-01",
     category: "triggers-and-relapse",
     content: `You know the moment. You have been sober for three weeks. Maybe three months. You are doing well. And then something breaks. A fight with your partner. A terrible day at work. A slip — one drink, one scroll, one bite past the plan.

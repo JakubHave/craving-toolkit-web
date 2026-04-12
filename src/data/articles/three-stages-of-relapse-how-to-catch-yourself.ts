@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "three-stages-of-relapse-how-to-catch-yourself",
-    title: "The 3 Stages of Relapse — And How to Catch Yourself Before Stage 3",
-    description: "Relapse is not a moment — it is a process that starts weeks before you pick up the substance. Here are the three stages, their warning signs, and how to intervene at each one.",
+    title: "The 3 Stages of Relapse and How to Catch Yourself",
+    description: "Relapse is not a moment — it's a process that starts weeks before you pick up. Here are the three stages, warning signs, and how to intervene at each.",
     publishedAt: "2025-10-10",
     category: "triggers-and-relapse",
     content: `Most people think relapse is a single event — the moment you pick up the drink, take the hit, open the app. One moment you are sober, the next you are not.

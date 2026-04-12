@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "recovery-without-rehab",
-    title: "Can You Recover From Addiction Without Rehab? What 60 Years of Data Shows",
-    description: "Can you recover from addiction without rehab? 60 years of epidemiological data shows most people do. Here's what the research says — and when you DO need professional help.",
+    title: "Can You Recover From Addiction Without Rehab?",
+    description: "Can you recover from addiction without rehab? 60 years of data shows most people do. Here's what research says — and when you need help.",
     publishedAt: "2025-11-08",
     category: "recovery-lifestyle",
     content: `This is the question nobody in the addiction industry wants you to ask. And the answer, based on six decades of epidemiological research, might surprise you.

@@ -2,7 +2,7 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "anhedonia-after-quitting-how-long-it-lasts",
-    title: "Anhedonia After Quitting: Why Nothing Feels Good and How Long It Actually Lasts",
+    title: "Anhedonia After Quitting: Why Nothing Feels Good",
     description: "You quit and nothing feels good. This is anhedonia — a neurochemical phase with a predictable timeline for alcohol, cannabis, stimulants, and opioids.",
     publishedAt: "2025-08-17",
     category: "early-recovery",

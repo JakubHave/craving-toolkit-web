@@ -2,7 +2,7 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "why-sobriety-feels-boring-dopamine-science",
-    title: "Why Sobriety Feels So Boring: The Dopamine Science No One Explains",
+    title: "Why Sobriety Feels So Boring: The Dopamine Science",
     description: "Early sobriety feels flat because your dopamine receptors are depleted, not because life is boring. Here's the timeline and how to survive the grey phase.",
     publishedAt: "2025-08-14",
     category: "early-recovery",

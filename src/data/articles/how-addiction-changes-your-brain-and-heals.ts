@@ -3,7 +3,7 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "how-addiction-changes-your-brain-and-heals",
     title: "How Addiction Changes Your Brain — And How Your Brain Heals",
-    description: "Did I break my brain permanently? No. Addiction produces measurable brain changes across three systems — but they are largely reversible. Here is what changed, and how it changes back.",
+    description: "Did addiction break your brain permanently? No. The changes are measurable but largely reversible. Here's what changed and how it heals.",
     publishedAt: "2025-10-14",
     category: "understanding-addiction",
     content: `There is a question that haunts almost everyone in recovery at some point: did I break my brain permanently?

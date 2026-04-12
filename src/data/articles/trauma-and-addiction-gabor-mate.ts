@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "trauma-and-addiction-gabor-mate",
-    title: "Trauma and Addiction: Why Gabor Maté Says the Question Isn't \"Why the Addiction\" but \"Why the Pain\"",
-    description: "The ACE Study found that childhood trauma increases addiction risk up to tenfold. Here's how trauma rewires the developing brain — and why recovery has to address the wound, not just the symptom.",
+    title: "Trauma and Addiction: Not Why the Addiction, Why the Pain",
+    description: "The ACE Study found childhood trauma increases addiction risk tenfold. Here's how trauma rewires the brain — and why recovery must address the wound first.",
     publishedAt: "2025-12-09",
     category: "understanding-addiction",
     content: `Most addiction conversations start with the substance. What are you using? How much? How often? When did it start?

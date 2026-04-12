@@ -2,7 +2,7 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "exercise-addiction-recovery",
-    title: "Exercise for Addiction Recovery: The Most Underused Drug on the Planet",
+    title: "Exercise for Addiction Recovery: An Underused Tool",
     description: "Exercise boosts every neurotransmitter involved in mood regulation. Here's the anti-craving mechanism and a realistic protocol for early recovery.",
     publishedAt: "2025-12-23",
     category: "recovery-lifestyle",

@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "dopamine-fasting-does-it-work",
-    title: "Does Dopamine Fasting Actually Work? What Science Says vs. What TikTok Claims",
-    description: "Dopamine fasting went from legitimate clinical advice to viral nonsense. Here's what the original concept actually was, what the neuroscience supports, and what to actually do.",
+    title: "Does Dopamine Fasting Actually Work?",
+    description: "Dopamine fasting went from legitimate clinical advice to viral nonsense. Here's what the original concept was, what neuroscience supports, and what to do.",
     publishedAt: "2025-09-04",
     category: "craving-management",
     content: `Dopamine fasting is one of those ideas that started as legitimate clinical advice, got filtered through Silicon Valley productivity culture, went viral on social media, and ended up so distorted that even the scientist who coined the term had to publicly correct the record.

@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "why-cant-i-feel-pleasure-dopamine-deficit",
-    title: "Why Can't I Feel Pleasure Anymore? Understanding the Dopamine Deficit State",
-    description: "You are sober and doing everything right. And yet nothing feels good. This is the dopamine deficit state — temporary, neurochemical, and recoverable. Here is what is happening and how long it lasts.",
+    title: "Why Can't I Feel Pleasure? The Dopamine Deficit State",
+    description: "Sober and doing everything right, yet nothing feels good. This is the dopamine deficit state — temporary and recoverable. Here's how long it lasts.",
     publishedAt: "2025-10-03",
     category: "early-recovery",
     content: `You are sober. You are doing the right things. You are eating, sleeping, exercising, showing up. And yet nothing — absolutely nothing — feels good.

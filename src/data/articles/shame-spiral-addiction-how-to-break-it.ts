@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "shame-spiral-addiction-how-to-break-it",
-    title: "The Shame Spiral: How Toxic Shame Keeps You Trapped in Addiction",
-    description: "You use. You feel shame. You use to escape the shame. Round and round. Here's how the shame spiral works, why it's so powerful, and how to break it with one honest conversation.",
+    title: "The Shame Spiral: How Shame Traps You in Addiction",
+    description: "You use. You feel shame. You use to escape the shame. Round and round. Here's how the shame spiral works — and how to break it with one conversation.",
     publishedAt: "2025-09-09",
     category: "triggers-and-relapse",
     content: `Here is a cycle that most people in recovery know by heart, even if they have never seen it written down:

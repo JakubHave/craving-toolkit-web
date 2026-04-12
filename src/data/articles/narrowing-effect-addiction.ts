@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "narrowing-effect-addiction",
-    title: "The Narrowing Effect: How Addiction Shrinks Your World (and How to Widen It Again)",
-    description: "Addiction progressively narrows the things that bring you pleasure. Here's the neuroscience behind the narrowing — and a practical protocol for widening your world back out.",
+    title: "The Narrowing Effect: How Addiction Shrinks Your World",
+    description: "Addiction progressively narrows what brings you pleasure. Here's the neuroscience behind the narrowing — and a protocol for widening your world back out.",
     publishedAt: "2025-11-01",
     category: "understanding-addiction",
     content: `Addiction is a progressive narrowing of the things that bring you pleasure.

@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "high-functioning-addiction",
-    title: "High-Functioning Addiction: When Your Success Hides the Problem",
-    description: "Roughly 19.5% of people with alcohol use disorder are 'functional' — employed, educated, in stable relationships. Here's why success makes addiction worse and what actually works when you don't fit the stereotypes.",
+    title: "High-Functioning Addiction: When Success Hides It",
+    description: "19.5% of people with alcohol use disorder are 'functional' — employed, educated, stable. Here's why success makes addiction worse and what actually works.",
     publishedAt: "2026-01-08",
     category: "triggers-and-relapse",
     content: `You haven't lost your job. You haven't been arrested. You haven't missed a mortgage payment. Your kids are fed, your car is clean, your performance reviews are fine. And every night, after everyone's asleep, you drink a bottle of wine alone. Or you take pills you were prescribed years ago for a pain that's long gone. Or you disappear into a screen for hours doing something you'd never tell anyone about.

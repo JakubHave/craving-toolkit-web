@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "addiction-and-relationships",
-    title: "Addiction and Relationships: What Happens to Love When One Person Can't Stop",
-    description: "Addiction doesn't just affect the person using — it rewires the entire relationship. Here's how trust collapses, codependency forms, and what rebuilding actually requires from both partners.",
+    title: "Addiction and Relationships: What Happens to Love",
+    description: "Addiction doesn't just affect the person using — it rewires the whole relationship. How trust collapses, codependency forms, and what rebuilding requires.",
     publishedAt: "2026-01-16",
     category: "recovery-lifestyle",
     content: `Addiction doesn't happen in isolation. It happens inside relationships — and it reshapes them in ways that both people feel but neither fully understands. The person using loses the ability to be present, honest, and emotionally available. The person watching loses trust, then patience, then sometimes themselves.

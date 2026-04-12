@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "sugar-addiction-binge-eating-same-circuits",
-    title: "Sugar Addiction and Binge Eating: When Food Hijacks the Same Circuits as Drugs",
-    description: "PET scans of compulsive overeaters show the same diminished dopamine receptors as cocaine users. Sugar addiction is real, binge eating is not a character flaw, and the tools that work for drugs work here too.",
+    title: "Sugar Addiction and Binge Eating: The Brain Science",
+    description: "PET scans of compulsive overeaters show the same dopamine receptor changes as cocaine users. Sugar addiction is real — and the same tools work here.",
     publishedAt: "2025-10-17",
     category: "triggers-and-relapse",
     content: `Nobody takes sugar addiction seriously. Not really.

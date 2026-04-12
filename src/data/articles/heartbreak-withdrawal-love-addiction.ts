@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "heartbreak-withdrawal-love-addiction",
-    title: "Why Heartbreak Feels Like Withdrawal: The Neuroscience of Love and Addiction",
-    description: "Romantic love and addiction use the same brain circuits, neurochemistry, and behavioral patterns. Understanding this parallel reveals something important about what addiction actually is.",
+    title: "Why Heartbreak Feels Like Withdrawal",
+    description: "Romantic love and addiction use the same brain circuits and neurochemistry. This parallel reveals something important about what addiction really is.",
     publishedAt: "2025-11-24",
     category: "triggers-and-relapse",
     content: `You have probably heard someone describe a breakup as "going through withdrawal." Maybe you said it yourself. You could not eat. You could not sleep. You checked your phone compulsively for a message that was not coming. You replayed memories on a loop. You felt a physical ache in your chest that no amount of reasoning could quiet.

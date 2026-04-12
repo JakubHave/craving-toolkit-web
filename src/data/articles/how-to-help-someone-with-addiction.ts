@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "how-to-help-someone-with-addiction",
-    title: "How to Help Someone With Addiction (Without Destroying Yourself in the Process)",
-    description: "You can't make someone recover. But you can change the environment they're recovering in. Here's what actually works — boundaries vs. ultimatums, when to stop enabling, and how to take care of yourself.",
+    title: "How to Help Someone With Addiction",
+    description: "You can't make someone recover. But you can change the environment. Here's what works — boundaries vs. ultimatums, when to stop enabling, and self-care.",
     publishedAt: "2026-01-13",
     category: "recovery-lifestyle",
     content: `You've watched someone you love disappear into a substance or behavior. You've tried everything — begging, threatening, bargaining, crying, ignoring, enabling, ultimatums. Some of it worked for a day. None of it worked for long. And now you're exhausted, confused, and terrified that the next call will be the one you've been dreading.

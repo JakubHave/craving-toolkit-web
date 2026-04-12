@@ -2,7 +2,7 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "30-day-dopamine-reset-week-by-week",
-    title: "The 30-Day Dopamine Reset: A Week-by-Week Guide to Reclaiming Your Brain",
+    title: "The 30-Day Dopamine Reset: A Week-by-Week Guide",
     description: "Thirty days is the clinically recommended minimum for dopamine recovery. Here is exactly what to expect each week — and how to survive the hardest parts.",
     publishedAt: "2025-09-30",
     category: "early-recovery",

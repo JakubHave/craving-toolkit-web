@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "meditation-addiction-recovery-curiosity",
-    title: "Meditation for Addiction Recovery: Why Curiosity Beats Willpower (and What the Brain Scans Show)",
-    description: "Judson Brewer's mindfulness training beat the gold-standard smoking treatment 5 to 1. Here's the specific brain mechanism — and a practical curiosity-based technique you can use during a craving.",
+    title: "Meditation for Addiction Recovery: Why It Works",
+    description: "Judson Brewer's mindfulness training beat the gold-standard smoking treatment 5 to 1. Here's the brain mechanism and a curiosity technique for cravings.",
     publishedAt: "2025-12-16",
     category: "craving-management",
     content: `Let's get the objection out of the way first.

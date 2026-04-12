@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "ulysses-contract-outsmart-addiction",
-    title: "The Ulysses Contract: How to Outsmart Your Future Addicted Self",
-    description: "A Ulysses contract binds your future craving-driven self using decisions made by your sober self. Learn the 3 types of self-binding and how to write your own contract.",
+    title: "The Ulysses Contract: Outsmart Your Addicted Self",
+    description: "A Ulysses contract binds your future craving-driven self using decisions made sober. Learn the 3 types of self-binding and how to write your own.",
     publishedAt: "2025-08-08",
     category: "craving-management",
     content: `There is a moment in every recovery where you feel strong. Clear-headed. Confident. You cannot imagine why you would ever go back.

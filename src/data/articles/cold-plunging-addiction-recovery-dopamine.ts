@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "cold-plunging-addiction-recovery-dopamine",
-    title: "Cold Plunging for Addiction Recovery: What a 250% Dopamine Spike Actually Means",
-    description: "Cold water immersion produces a dopamine response comparable to cocaine — but with a slow rise and long tail instead of a crash. Here's the science and a practical protocol for recovery.",
+    title: "Cold Plunging for Addiction Recovery: The Science",
+    description: "Cold water immersion produces a dopamine spike comparable to cocaine — but with a slow rise and long tail. Here's the science and a protocol for recovery.",
     publishedAt: "2025-08-10",
     category: "recovery-lifestyle",
     content: `One of the most counterintuitive findings in addiction science is this: deliberately doing something uncomfortable can produce a cleaner, longer-lasting high than most drugs.

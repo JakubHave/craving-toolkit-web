@@ -6,7 +6,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Addiction Recovery Articles",
-  description: "Free evidence-based articles on stopping cravings, preventing relapse, and managing addiction urges. Practical strategies for alcohol, drug, and compulsive behavior recovery.",
+  description: "Evidence-based articles on stopping cravings and preventing relapse. Practical strategies for alcohol, drug, and behavioral addiction.",
   alternates: {
     canonical: "https://www.cravingtoolkit.com/articles",
   },

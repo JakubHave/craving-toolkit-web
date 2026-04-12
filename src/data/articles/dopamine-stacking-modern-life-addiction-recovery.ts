@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "dopamine-stacking-modern-life-addiction-recovery",
-    title: "Dopamine Stacking: Why Modern Life Makes Addiction Recovery Harder Than Ever",
-    description: "Before 9 AM you've hit your reward system with half a dozen dopamine triggers. This invisible stacking makes recovery harder than it needs to be. Here's how to destack.",
+    title: "Dopamine Stacking: Why Modern Life Makes Recovery Harder",
+    description: "Before 9 AM you've hit your reward system with half a dozen dopamine triggers. This invisible stacking makes recovery harder. Here's how to destack.",
     publishedAt: "2025-09-25",
     category: "understanding-addiction",
     content: `Imagine this morning routine: you wake up, immediately check your phone (dopamine), scroll social media while the coffee brews (dopamine), drink the coffee (dopamine), eat a sugary breakfast (dopamine), listen to a high-energy podcast while commuting (dopamine), and respond to a string of notifications at your desk (dopamine, dopamine, dopamine).

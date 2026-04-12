@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "sugar-cravings-after-quitting-alcohol",
-    title: "Sugar Cravings After Quitting Alcohol: Why It Happens and What to Do About It",
-    description: "You stopped drinking and now you can't stop eating candy. It's not a character flaw — it's biochemistry. Here's why sugar is the first substitute your brain finds, and what to do about it.",
+    title: "Sugar Cravings After Quitting Alcohol: Why It Happens",
+    description: "You stopped drinking and now you can't stop eating candy. It's not a character flaw — it's biochemistry. Here's why sugar cravings hit and what to do.",
     publishedAt: "2025-10-07",
     category: "early-recovery",
     content: `You stopped drinking. And now you cannot stop eating candy.

@@ -3,7 +3,7 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "sleep-addiction-recovery",
     title: "Sleep and Addiction Recovery: The One Thing You Can't Cheat",
-    description: "Sleep deprivation impairs impulse control, amplifies cravings, and downregulates the dopamine receptors you're trying to rebuild. Here's the sleep-recovery timeline and what actually helps.",
+    description: "Sleep deprivation impairs impulse control, amplifies cravings, and downregulates dopamine receptors you're rebuilding. Here's the timeline and what helps.",
     publishedAt: "2025-12-27",
     category: "early-recovery",
     content: `You can white-knuckle through a craving. You can force yourself to exercise when you'd rather not. You can sit through a meeting when every cell in your body wants to leave. But you can't force yourself to sleep. And that's the problem — because sleep is where your brain does the actual repair work that makes everything else in recovery possible.

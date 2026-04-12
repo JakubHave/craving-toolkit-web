@@ -2,7 +2,7 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "white-knuckling-sobriety",
-    title: "White-Knuckling Sobriety: Why Grinding Through Recovery Breaks You (and What to Do Instead)",
+    title: "White-Knuckling Sobriety: Why It Breaks You",
     description: "White-knuckling sobriety means holding on through willpower alone. Neuroscience explains why it always fails — and what to build instead of just enduring.",
     publishedAt: "2025-10-25",
     category: "early-recovery",

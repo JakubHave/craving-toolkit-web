@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "paws-post-acute-withdrawal-month-by-month",
-    title: "PAWS Month by Month: What Nobody Tells You About Post-Acute Withdrawal",
-    description: "You made it through detox. So why do you still feel wrong months later? This is PAWS — and it has a predictable month-by-month timeline that nobody explains clearly.",
+    title: "PAWS Month by Month: The Post-Acute Withdrawal Guide",
+    description: "You made it through detox. So why do you still feel wrong months later? This is PAWS — and it has a predictable month-by-month timeline nobody explains.",
     publishedAt: "2025-09-18",
     category: "early-recovery",
     content: `You made it through detox. The shaking stopped. The sweats dried up. The nausea passed. You white-knuckled through the worst of it, and now — weeks or even months later — you still feel wrong.

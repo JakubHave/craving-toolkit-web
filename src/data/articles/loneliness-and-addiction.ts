@@ -2,7 +2,7 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "loneliness-and-addiction",
-    title: "Loneliness and Addiction: Why Isolation Is the Most Underestimated Relapse Trigger",
+    title: "Loneliness and Addiction: Why Isolation Triggers Relapse",
     description: "Rat Park showed isolated rats consumed 20x more morphine. Here's why addiction creates loneliness — and how to break the isolation trap.",
     publishedAt: "2025-12-31",
     category: "recovery-lifestyle",

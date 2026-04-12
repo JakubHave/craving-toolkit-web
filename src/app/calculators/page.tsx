@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   description:
     "Calculate how much money and time you save in recovery. Free interactive tools for anyone quitting smoking, drinking, drugs, or gambling.",
   alternates: { canonical: "https://www.cravingtoolkit.com/calculators" },
+  openGraph: {
+    url: "https://www.cravingtoolkit.com/calculators",
+  },
 };
 
 const calculators = [

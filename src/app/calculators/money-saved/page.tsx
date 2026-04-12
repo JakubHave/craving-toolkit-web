@@ -7,9 +7,9 @@ import FAQ from "@/components/calculators/FAQ";
 import { FAQ_ITEMS } from "@/lib/calculator-data";
 
 export const metadata: Metadata = {
-  title: "Addiction Cost Calculator: How Much Money Are You Saving in Recovery?",
+  title: { absolute: "Addiction Cost Calculator | Craving Toolkit" },
   description:
-    "Calculate the real cost of smoking, drinking, vaping, drugs, or gambling — and see how much you save every day, month, and year in recovery. Free, private, no signup.",
+    "Calculate the real cost of smoking, drinking, vaping, drugs, or gambling. See how much you save per day, month, and year in recovery. Free and private.",
   alternates: {
     canonical: "https://www.cravingtoolkit.com/calculators/money-saved",
   },

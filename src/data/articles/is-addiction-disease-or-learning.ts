@@ -2,8 +2,8 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "is-addiction-disease-or-learning",
-    title: "Is Addiction a Disease — or a Learning Process? What Neuroscience Actually Says",
-    description: "Is addiction a brain disease, a choice, or something else entirely? Neuroscientist Marc Lewis argues it's a learning process — and that changes everything about recovery.",
+    title: "Is Addiction a Disease or a Learning Process?",
+    description: "Is addiction a brain disease, a choice, or something else? Marc Lewis argues it's a learning process — and that changes everything about recovery.",
     publishedAt: "2025-10-22",
     category: "understanding-addiction",
     content: `Ask a room full of doctors whether addiction is a disease, and most will say yes. Ask a room full of people in recovery, and the answer splits. Some find the disease label liberating — it removes the moral judgment, it explains the loss of control, it validates the struggle. Others find it suffocating — it tells them they are permanently broken, that they will always be "in recovery," that their brain is damaged in a way that only experts can manage.
