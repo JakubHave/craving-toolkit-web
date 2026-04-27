@@ -29,8 +29,8 @@ export const metadata: Metadata = {
     title: "Links — Craving Toolkit",
     description: "All the Craving Toolkit links in one place — the guide, the mobile app waitlist, a free sample, and articles for recovery.",
     images: ["/cover.jpg"],
-    creator: "@JacobHavelka",
-    site: "@JacobHavelka",
+    creator: "@cravingtoolkit",
+    site: "@cravingtoolkit",
   },
 };
 
@@ -142,7 +142,7 @@ export default function LinksPage() {
               </h2>
               <div className="flex items-center justify-center gap-3">
                 <a
-                  href="https://x.com/JacobHavelka"
+                  href="https://x.com/cravingtoolkit"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Follow on X (Twitter)"
@@ -153,7 +153,7 @@ export default function LinksPage() {
                   </svg>
                 </a>
                 <a
-                  href="https://instagram.com/havelkajacob"
+                  href="https://instagram.com/craving.toolkit"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Follow on Instagram"
@@ -212,7 +212,7 @@ export default function LinksPage() {
           <p className="mb-4">Contact: <a href="mailto:jacob@cravingtoolkit.com" className="text-slate-400 hover:text-white transition-colors">jacob@cravingtoolkit.com</a></p>
           <div className="flex items-center justify-center gap-4 mt-3 mb-4">
             <a
-              href="https://x.com/JacobHavelka"
+              href="https://x.com/cravingtoolkit"
               target="_blank"
               rel="noopener"
               aria-label="Follow on X (Twitter)"
@@ -223,7 +223,7 @@ export default function LinksPage() {
               </svg>
             </a>
             <a
-              href="https://www.instagram.com/havelkajacob/"
+              href="https://www.instagram.com/craving.toolkit/"
               target="_blank"
               rel="noopener"
               aria-label="Follow on Instagram"

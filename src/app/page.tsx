@@ -247,9 +247,9 @@ export default function LandingPage() {
           </p>
           <p className="text-sm text-emerald-300/70 mt-4">
             Follow my journey:
-            <a href="https://x.com/JacobHavelka" target="_blank" rel="noopener" className="text-emerald-300 hover:text-emerald-200 ml-2">X/Twitter</a>
+            <a href="https://x.com/cravingtoolkit" target="_blank" rel="noopener" className="text-emerald-300 hover:text-emerald-200 ml-2">X/Twitter</a>
             <span className="mx-1">·</span>
-            <a href="https://www.instagram.com/havelkajacob/" target="_blank" rel="noopener" className="text-emerald-300 hover:text-emerald-200">Instagram</a>
+            <a href="https://www.instagram.com/craving.toolkit/" target="_blank" rel="noopener" className="text-emerald-300 hover:text-emerald-200">Instagram</a>
           </p>
         </div>
       </section>
@@ -367,7 +367,7 @@ export default function LandingPage() {
           <p className="mb-4">Contact: <a href="mailto:jacob@cravingtoolkit.com" className="text-slate-400 hover:text-white transition-colors">jacob@cravingtoolkit.com</a></p>
           <div className="flex items-center justify-center gap-4 mt-3 mb-4">
             <a
-              href="https://x.com/JacobHavelka"
+              href="https://x.com/cravingtoolkit"
               target="_blank"
               rel="noopener"
               aria-label="Follow on X (Twitter)"
@@ -378,7 +378,7 @@ export default function LandingPage() {
               </svg>
             </a>
             <a
-              href="https://www.instagram.com/havelkajacob/"
+              href="https://www.instagram.com/craving.toolkit/"
               target="_blank"
               rel="noopener"
               aria-label="Follow on Instagram"
