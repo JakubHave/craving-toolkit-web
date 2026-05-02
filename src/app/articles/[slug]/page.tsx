@@ -4,6 +4,8 @@ import Link from "next/link";
 import { BookOpen } from "lucide-react";
 import { Metadata } from "next";
 import { RelatedArticles } from "@/components/RelatedArticles";
+import SiteNav from "@/components/SiteNav";
+import SiteFooter from "@/components/SiteFooter";
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const resolvedParams = await params;
@@ -145,7 +147,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         return <hr key={idx} className="my-10 border-slate-200" />;
       }
 
-      let formattedHtml = paragraph
+      const formattedHtml = paragraph
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
         .replace(/\*(.*?)\*/g, '<em>$1</em>');
 
@@ -160,16 +162,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
       dangerouslySetInnerHTML={{ __html: JSON.stringify(getArticleJsonLd(article)) }}
     />
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans">
-      <nav aria-label="Main navigation" className="border-b bg-white">
-        <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
-          <Link href="/" className="font-bold text-xl tracking-tight text-emerald-800">Craving Toolkit</Link>
-          <div className="flex gap-6">
-            <Link href="/articles" className="text-base font-semibold text-emerald-700">Articles</Link>
-            <Link href="/calculators" className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition">Calculators</Link>
-            <Link href="/#pricing" className="hidden sm:inline-block text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors whitespace-nowrap">Get the Guide</Link>
-          </div>
-        </div>
-      </nav>
+      <SiteNav />
 
       <main>
         <article className="max-w-3xl mx-auto px-6 py-16">
@@ -240,10 +233,10 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
             {!article.isExcerpt && (
               <div className="mt-12 text-center">
                 <Link
-                  href="/#pricing"
+                  href="/guide#pricing"
                   className="inline-block bg-emerald-600 text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-emerald-500 transition shadow-lg"
                 >
-                  Get Craving Toolkit
+                  Get the Craving Toolkit Guide
                 </Link>
               </div>
             )}
@@ -259,47 +252,17 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                 This article is just one of the 15 chapters inside the Craving Toolkit. If you want the complete field manual and the 6 printable worksheets, you can download the full PDF guide today.
               </p>
               <Link
-                href="/#pricing"
+                href="/guide#pricing"
                 className="inline-block bg-emerald-500 text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-emerald-400 transition shadow-lg"
               >
-                Get the Full Craving Toolkit
+                Get the Full Craving Toolkit Guide
               </Link>
             </div>
           </section>
         )}
       </main>
 
-      <footer className="bg-slate-900 text-slate-400 py-12 text-center text-sm">
-        <div className="max-w-4xl mx-auto px-6">
-          <p className="mb-4">
-            <strong>Disclaimer:</strong> {article.disclaimer || "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."}
-          </p>
-          <nav aria-label="Footer" className="flex flex-wrap items-center justify-center gap-4 mb-4">
-            <Link href="/about" className="text-slate-400 hover:text-white transition-colors">About</Link>
-            <span aria-hidden="true" className="text-slate-600">·</span>
-            <Link href="/editorial-policy" className="text-slate-400 hover:text-white transition-colors">Editorial Policy</Link>
-            <span aria-hidden="true" className="text-slate-600">·</span>
-            <Link href="/articles" className="text-slate-400 hover:text-white transition-colors">All Articles</Link>
-            <span aria-hidden="true" className="text-slate-600">·</span>
-            <Link href="/privacy" className="text-slate-400 hover:text-white transition-colors">Privacy</Link>
-            <span aria-hidden="true" className="text-slate-600">·</span>
-            <Link href="/terms" className="text-slate-400 hover:text-white transition-colors">Terms</Link>
-          </nav>
-          <p className="text-xs text-slate-500 mb-4 max-w-2xl mx-auto">
-            The Craving Toolkit is not a substitute for professional medical advice, diagnosis, or treatment.
-            If you need help, contact <a href="https://www.samhsa.gov/find-help/national-helpline" rel="noopener" target="_blank" className="underline hover:text-slate-300">SAMHSA&rsquo;s National Helpline</a> at 1-800-662-4357.
-          </p>
-          <div className="flex items-center justify-center gap-4 mt-3 mb-4">
-            <a href="https://x.com/cravingtoolkit" target="_blank" rel="noopener" aria-label="Follow on X (Twitter)" className="text-slate-400 hover:text-slate-300 transition-colors">
-              <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-            </a>
-            <a href="https://www.instagram.com/craving.toolkit/" target="_blank" rel="noopener" aria-label="Follow on Instagram" className="text-slate-400 hover:text-slate-300 transition-colors">
-              <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>
-            </a>
-          </div>
-          <p>© {new Date().getFullYear()} Craving Toolkit. All rights reserved.</p>
-        </div>
-      </footer>
+      <SiteFooter />
     </div>
     </>
   );

@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useReducer } from "react";
 
 interface Props {
   perSecond: number;
@@ -8,15 +8,14 @@ interface Props {
 }
 
 export default function LiveTicker({ perSecond, totalSaved }: Props) {
-  const [current, setCurrent] = useState(totalSaved);
+  const [secondsSinceMount, tick] = useReducer((s: number) => s + 1, 0);
 
   useEffect(() => {
-    setCurrent(totalSaved);
-    const interval = setInterval(() => {
-      setCurrent((prev) => prev + perSecond);
-    }, 1000);
+    const interval = setInterval(tick, 1000);
     return () => clearInterval(interval);
-  }, [perSecond, totalSaved]);
+  }, []);
+
+  const current = totalSaved + secondsSinceMount * perSecond;
 
   return (
     <div className="bg-emerald-50 border border-emerald-200 rounded-xl p-5 text-center">

@@ -3,6 +3,8 @@ import Link from "next/link";
 import { ArrowRight, BookOpen, ChevronLeft, ChevronRight } from "lucide-react";
 import { Metadata } from "next";
 import { notFound, redirect } from "next/navigation";
+import SiteNav from "@/components/SiteNav";
+import SiteFooter from "@/components/SiteFooter";
 
 const ARTICLES_PER_PAGE = 10;
 const totalPages = Math.ceil(articlesMeta.length / ARTICLES_PER_PAGE);
@@ -40,16 +42,7 @@ export default async function PaginatedArticlesPage({ params }: { params: Promis
 
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans">
-      <nav className="border-b bg-white">
-        <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
-          <Link href="/" className="font-bold text-xl tracking-tight text-emerald-800">Craving Toolkit</Link>
-          <div className="flex gap-6">
-            <Link href="/articles" className="text-base font-semibold text-emerald-700">Articles</Link>
-            <Link href="/calculators" className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition">Calculators</Link>
-            <Link href="/#pricing" className="hidden sm:inline-block text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors whitespace-nowrap">Get the Guide</Link>
-          </div>
-        </div>
-      </nav>
+      <SiteNav />
 
       <main>
       <header className="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
@@ -123,6 +116,7 @@ export default async function PaginatedArticlesPage({ params }: { params: Promis
         )}
       </section>
       </main>
+      <SiteFooter />
     </div>
   );
 }

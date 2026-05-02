@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import Image from "next/image";
 import { ArrowRight } from "lucide-react";
+import SiteNav from "@/components/SiteNav";
+import SiteFooter from "@/components/SiteFooter";
 
 export const metadata: Metadata = {
   title: "Free Recovery Calculators",
@@ -40,43 +41,7 @@ const calculators = [
 export default function CalculatorsPage() {
   return (
     <div className="min-h-screen bg-slate-50">
-      <nav className="border-b bg-white">
-        <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
-          <Link
-            href="/"
-            className="flex items-center gap-2 font-semibold text-xl tracking-tight text-emerald-800"
-          >
-            <Image
-              src="/icon_1024.webp"
-              alt="Craving Toolkit logo"
-              width={32}
-              height={32}
-              className="rounded-lg w-8 h-8"
-            />
-            Craving Toolkit
-          </Link>
-          <div className="flex gap-6">
-            <Link
-              href="/articles"
-              className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition"
-            >
-              Articles
-            </Link>
-            <Link
-              href="/calculators"
-              className="text-base font-semibold text-emerald-700"
-            >
-              Calculators
-            </Link>
-            <Link
-              href="/#pricing"
-              className="hidden sm:inline-block text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors whitespace-nowrap"
-            >
-              Get the Guide
-            </Link>
-          </div>
-        </div>
-      </nav>
+      <SiteNav />
 
       <section className="max-w-4xl mx-auto px-6 py-16 sm:py-24">
         <div className="text-center mb-12">
@@ -132,12 +97,7 @@ export default function CalculatorsPage() {
         </div>
       </section>
 
-      <footer className="border-t border-slate-200 bg-white">
-        <div className="max-w-5xl mx-auto px-6 py-8 text-center text-sm text-slate-400">
-          &copy; {new Date().getFullYear()} Craving Toolkit. All rights
-          reserved.
-        </div>
-      </footer>
+      <SiteFooter />
     </div>
   );
 }

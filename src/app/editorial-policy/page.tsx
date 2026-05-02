@@ -1,5 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "next";
+import SiteNav from "@/components/SiteNav";
+import SiteFooter from "@/components/SiteFooter";
 
 export const metadata: Metadata = {
   title: "Editorial Policy",
@@ -15,16 +17,7 @@ export const metadata: Metadata = {
 export default function EditorialPolicyPage() {
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans">
-      <nav aria-label="Main navigation" className="border-b bg-white">
-        <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
-          <Link href="/" className="font-bold text-xl tracking-tight text-emerald-800">Craving Toolkit</Link>
-          <div className="flex gap-6">
-            <Link href="/articles" className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition">Articles</Link>
-            <Link href="/calculators" className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition">Calculators</Link>
-            <Link href="/#pricing" className="hidden sm:inline-block text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors whitespace-nowrap">Get the Guide</Link>
-          </div>
-        </div>
-      </nav>
+      <SiteNav />
 
       <main className="max-w-3xl mx-auto px-6 py-16">
         <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-slate-900 mb-8 leading-tight">
@@ -83,11 +76,7 @@ export default function EditorialPolicyPage() {
         </div>
       </main>
 
-      <footer className="bg-slate-900 text-slate-400 py-12 text-center text-sm">
-        <div className="max-w-4xl mx-auto px-6">
-          <p>© {new Date().getFullYear()} Craving Toolkit. All rights reserved.</p>
-        </div>
-      </footer>
+      <SiteFooter />
     </div>
   );
 }

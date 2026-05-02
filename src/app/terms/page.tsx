@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowLeft, FileText } from "lucide-react";
+import SiteNav from "@/components/SiteNav";
+import SiteFooter from "@/components/SiteFooter";
 
 export const metadata: Metadata = {
   title: "Terms of Service",
@@ -103,33 +105,7 @@ const sections = [
 export default function TermsPage() {
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans">
-      <nav className="border-b bg-white">
-        <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
-          <Link href="/" className="font-bold text-xl tracking-tight text-emerald-800">
-            Craving Toolkit
-          </Link>
-          <div className="flex gap-6">
-            <Link
-              href="/articles"
-              className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition"
-            >
-              Articles
-            </Link>
-            <Link
-              href="/calculators"
-              className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition"
-            >
-              Calculators
-            </Link>
-            <Link
-              href="/#pricing"
-              className="hidden sm:inline-block text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors whitespace-nowrap"
-            >
-              Get the Guide
-            </Link>
-          </div>
-        </div>
-      </nav>
+      <SiteNav />
 
       <header className="max-w-4xl mx-auto px-6 pt-20 pb-10 text-center">
         <FileText className="w-12 h-12 text-emerald-600 mx-auto mb-6" />
@@ -179,24 +155,7 @@ export default function TermsPage() {
         </div>
       </main>
 
-      <footer className="bg-slate-900 text-slate-400 py-12 text-center text-base">
-        <div className="max-w-4xl mx-auto px-6">
-          <p className="mb-4">
-            <strong>Disclaimer:</strong> This guide is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.
-          </p>
-          <div className="flex items-center justify-center gap-4 mb-4 flex-wrap">
-            <Link href="/terms" className="text-slate-300 hover:text-white transition">Guide Terms of Service</Link>
-            <span aria-hidden="true" className="text-slate-500">/</span>
-            <Link href="/privacy" className="text-slate-300 hover:text-white transition">Guide Privacy Policy</Link>
-            <span aria-hidden="true" className="text-slate-500">/</span>
-            <Link href="/app-terms" className="text-slate-300 hover:text-white transition">App Terms of Use</Link>
-            <span aria-hidden="true" className="text-slate-500">/</span>
-            <Link href="/app-privacy" className="text-slate-300 hover:text-white transition">App Privacy Policy</Link>
-          </div>
-          <p className="mb-4">Contact: <a href="mailto:jacob@cravingtoolkit.com" className="text-slate-300 hover:text-white transition">jacob@cravingtoolkit.com</a></p>
-          <p>© {new Date().getFullYear()} Craving Toolkit. All rights reserved.</p>
-        </div>
-      </footer>
+      <SiteFooter />
     </div>
   );
 }

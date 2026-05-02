@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import type { CalculatorResult } from "@/lib/calculator-logic";
 import type { SubstanceId } from "@/lib/calculator-data";
 import { getEquivalents, SUBSTANCE_DEFAULTS } from "@/lib/calculator-data";
@@ -137,18 +138,18 @@ export default function ResultsCard({ result, substance, daysSober, investmentRe
           &mdash; including the emergency tools that work in the first 10
           minutes of a craving.
         </p>
-        <a
-          href="/#pricing"
+        <Link
+          href="/guide#pricing"
           className="inline-block bg-emerald-600 hover:bg-emerald-700 text-white font-semibold px-8 py-3.5 rounded-full shadow-lg shadow-emerald-600/25 transition-colors text-lg mb-3"
         >
           Get the Guide
-        </a>
+        </Link>
         <p className="text-sm text-slate-500">
           Or{" "}
-          <a href="/#waiting-list" className="text-emerald-600 hover:text-emerald-700 underline underline-offset-2">
-            join the app waitlist
-          </a>{" "}
-          for a free Craving Toolkit mobile app.
+          <Link href="/#download" className="text-emerald-600 hover:text-emerald-700 underline underline-offset-2">
+            download the free app
+          </Link>
+          .
         </p>
       </div>
     </div>

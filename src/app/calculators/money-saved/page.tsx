@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import Image from "next/image";
 import { ChevronRight } from "lucide-react";
 import MoneyCalculator from "@/components/calculators/MoneyCalculator";
 import FAQ from "@/components/calculators/FAQ";
 import { FAQ_ITEMS } from "@/lib/calculator-data";
+import SiteNav from "@/components/SiteNav";
+import SiteFooter from "@/components/SiteFooter";
 
 export const metadata: Metadata = {
   title: { absolute: "Addiction Cost Calculator | Craving Toolkit" },
@@ -137,44 +138,7 @@ export default async function MoneySavedPage({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
 
-      {/* Nav */}
-      <nav className="sticky top-0 z-50 border-b border-slate-200/60 bg-white/80 backdrop-blur-lg">
-        <div className="max-w-5xl mx-auto px-3 sm:px-6 h-16 flex items-center justify-between">
-          <Link
-            href="/"
-            className="flex items-center gap-1.5 sm:gap-2 font-semibold text-base sm:text-xl tracking-tight text-emerald-800 shrink-0"
-          >
-            <Image
-              src="/icon_1024.webp"
-              alt="Craving Toolkit logo"
-              width={32}
-              height={32}
-              className="rounded-lg w-7 h-7 sm:w-8 sm:h-8"
-            />
-            Craving Toolkit
-          </Link>
-          <div className="flex items-center gap-3 sm:gap-6">
-            <Link
-              href="/articles"
-              className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition-colors"
-            >
-              Articles
-            </Link>
-            <Link
-              href="/calculators"
-              className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition-colors"
-            >
-              Calculators
-            </Link>
-            <a
-              href="/#pricing"
-              className="hidden sm:inline-block text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors whitespace-nowrap"
-            >
-              Get the Guide
-            </a>
-          </div>
-        </div>
-      </nav>
+      <SiteNav />
 
       {/* Breadcrumb */}
       <div className="max-w-4xl mx-auto px-6 pt-6">
@@ -328,7 +292,7 @@ export default async function MoneySavedPage({
               },
               {
                 title: "Get the Complete Craving Toolkit Guide",
-                href: "/#pricing",
+                href: "/guide#pricing",
               },
             ].map((link) => (
               <li key={link.href}>
@@ -385,46 +349,7 @@ export default async function MoneySavedPage({
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="bg-slate-900 text-slate-400">
-        <div className="max-w-5xl mx-auto px-6 py-12">
-          <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
-            <Link
-              href="/"
-              className="font-semibold text-white tracking-tight"
-            >
-              Craving Toolkit
-            </Link>
-            <div className="flex flex-wrap gap-6 text-sm">
-              <Link href="/about" className="hover:text-white transition">
-                About
-              </Link>
-              <Link href="/articles" className="hover:text-white transition">
-                Articles
-              </Link>
-              <Link href="/calculators" className="hover:text-white transition">
-                Calculators
-              </Link>
-              <Link
-                href="/editorial-policy"
-                className="hover:text-white transition"
-              >
-                Editorial Policy
-              </Link>
-              <Link href="/terms" className="hover:text-white transition">
-                Terms
-              </Link>
-              <Link href="/privacy" className="hover:text-white transition">
-                Privacy
-              </Link>
-            </div>
-          </div>
-          <p className="text-xs text-slate-500 mt-8 text-center">
-            &copy; {new Date().getFullYear()} Craving Toolkit. All rights
-            reserved.
-          </p>
-        </div>
-      </footer>
+      <SiteFooter />
     </div>
   );
 }

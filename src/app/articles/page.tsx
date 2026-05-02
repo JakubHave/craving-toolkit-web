@@ -3,6 +3,8 @@ import type { ArticleCategory } from "@/data/articles/types";
 import Link from "next/link";
 import { ArrowRight, BookOpen } from "lucide-react";
 import { Metadata } from "next";
+import SiteNav from "@/components/SiteNav";
+import SiteFooter from "@/components/SiteFooter";
 
 export const metadata: Metadata = {
   title: "Addiction Recovery Articles",
@@ -48,16 +50,7 @@ export default function ArticlesPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
       />
       <div className="min-h-screen bg-slate-50 text-slate-900 font-sans">
-        <nav aria-label="Main navigation" className="border-b bg-white">
-          <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
-            <Link href="/" className="font-bold text-xl tracking-tight text-emerald-800">Craving Toolkit</Link>
-            <div className="flex gap-6">
-              <Link href="/articles" className="text-base font-semibold text-emerald-700">Articles</Link>
-              <Link href="/calculators" className="text-base font-semibold text-slate-700 hover:text-emerald-700 transition">Calculators</Link>
-              <Link href="/#pricing" className="hidden sm:inline-block text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors whitespace-nowrap">Get the Guide</Link>
-            </div>
-          </div>
-        </nav>
+        <SiteNav />
 
         <main>
           <header className="max-w-4xl mx-auto px-6 pt-20 pb-8 text-center">
@@ -113,6 +106,7 @@ export default function ArticlesPage() {
             })}
           </div>
         </main>
+        <SiteFooter />
       </div>
     </>
   );

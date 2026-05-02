@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { ArrowRight, Download } from "lucide-react";
 import { Metadata } from "next";
+import SiteNav from "@/components/SiteNav";
+import SiteFooter from "@/components/SiteFooter";
 
 export const metadata: Metadata = {
   title: "Free Preview",
@@ -16,14 +18,7 @@ export const metadata: Metadata = {
 export default function PreviewPage() {
   return (
     <div className="min-h-screen bg-slate-50 font-sans">
-      <nav className="sticky top-0 z-50 border-b border-slate-200/60 bg-white/80 backdrop-blur-lg">
-        <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
-          <Link href="/" className="font-semibold text-xl tracking-tight text-emerald-800">Craving Toolkit</Link>
-          <a href="https://jacobhavelka.gumroad.com/l/lqdlu" target="_blank" rel="nofollow noopener noreferrer" className="text-sm font-medium text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-1.5 rounded-full transition-colors">
-            Get the Full Guide
-          </a>
-        </div>
-      </nav>
+      <SiteNav />
 
       <div className="max-w-4xl mx-auto px-6 py-12">
         <div className="text-center mb-10">
@@ -76,6 +71,7 @@ export default function PreviewPage() {
           </p>
         </section>
       </div>
+      <SiteFooter />
     </div>
   );
 }
