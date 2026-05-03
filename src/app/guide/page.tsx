@@ -26,48 +26,11 @@ export const metadata: Metadata = {
   },
 };
 
-const offer = {
-  "@type": "Offer",
-  "@id": "https://www.cravingtoolkit.com/guide#offer",
-  price: "19.00",
-  priceCurrency: "USD",
-  availability: "https://schema.org/InStock",
-  url: "https://www.cravingtoolkit.com/guide#pricing",
-  shippingDetails: {
-    "@type": "OfferShippingDetails",
-    shippingRate: { "@type": "MonetaryAmount", value: "0", currency: "USD" },
-    shippingDestination: { "@type": "DefinedRegion", addressCountry: "US" },
-    deliveryTime: {
-      "@type": "ShippingDeliveryTime",
-      handlingTime: { "@type": "QuantitativeValue", minValue: 0, maxValue: 0, unitCode: "DAY" },
-      transitTime: { "@type": "QuantitativeValue", minValue: 0, maxValue: 0, unitCode: "DAY" },
-    },
-  },
-  hasMerchantReturnPolicy: {
-    "@type": "MerchantReturnPolicy",
-    applicableCountry: "US",
-    returnPolicyCategory: "https://schema.org/MerchantReturnFiniteReturnWindow",
-    merchantReturnDays: 30,
-    returnMethod: "https://schema.org/ReturnByMail",
-    returnFees: "https://schema.org/FreeReturn",
-  },
-};
-
-const productSchema = {
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "@id": "https://www.cravingtoolkit.com/guide#product",
-  name: "Craving Toolkit – Addiction Recovery Guide",
-  description:
-    "A 40-page practical guide with emergency tools, actionable strategies, and 6 worksheets to fight addiction cravings, stop relapse spirals, and stay in recovery.",
-  image: "https://www.cravingtoolkit.com/cover.jpg",
-  brand: { "@id": "https://www.cravingtoolkit.com/#organization" },
-  // Person → use "@id" only (canonical Person definition lives on /about)
-  // but Product.author can be Person OR Organization; use Person here for E-E-A-T.
-  author: { "@id": "https://www.cravingtoolkit.com/about#author" },
-  offers: offer,
-};
-
+// Book schema only — Product schema was removed because it triggered Google
+// Search Console warnings for missing aggregateRating / review fields, and
+// per CLAUDE.md §14 we don't fabricate ratings or reviews. Book + an inline
+// Offer keeps the $19 price discoverable to crawlers without inheriting the
+// Product rich-result requirements.
 const bookSchema = {
   "@context": "https://schema.org",
   "@type": "Book",
@@ -81,14 +44,20 @@ const bookSchema = {
   publisher: { "@id": "https://www.cravingtoolkit.com/#organization" },
   description:
     "A 40-page practical, experience-based guide with emergency tools to fight addiction cravings, stop relapse spirals, and stay in recovery.",
-  // Reuse the same offer via @id rather than redefining price.
-  offers: { "@id": "https://www.cravingtoolkit.com/guide#offer" },
+  offers: {
+    "@type": "Offer",
+    "@id": "https://www.cravingtoolkit.com/guide#offer",
+    price: "19.00",
+    priceCurrency: "USD",
+    availability: "https://schema.org/InStock",
+    url: "https://www.cravingtoolkit.com/guide#pricing",
+  },
 };
 
 export default function GuidePage() {
   return (
     <>
-    <JsonLd data={[productSchema, bookSchema]} />
+    <JsonLd data={bookSchema} />
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans selection:bg-emerald-200">
       <SiteNav />
       <main>

@@ -218,9 +218,11 @@ Articles emit BreadcrumbList automatically. To add elsewhere, use the visible br
 
 Includes `@id`, url, screenshot array (auto-built from the `screens` array), downloadUrl, installUrl, creator and publisher via `@id`, offers, featureList. Update the `screens` array to add or remove app screenshots — the schema and the visible grid both update from the same source.
 
-### 6.8 Book + Product (`/guide`)
+### 6.8 Book (`/guide`)
 
-The guide page emits both `Product` (for offer-rich-results eligibility) and `Book` (for entity recognition). They share the same offer via `@id` to avoid duplication.
+The guide page emits **only** `Book` schema with an inline `Offer` (price, currency, availability, url). The `Book` provides entity recognition; the `Offer` keeps the $19 price discoverable.
+
+> **Do NOT add `Product` schema to `/guide`.** Google Search Console flags `Product` without `aggregateRating` or `review` as a structural defect, and per §14 we do not fabricate ratings or reviews. The previous Product+Book pattern was removed for this reason. If we ever collect real, verifiable reviews and want product rich results, the schema can be reintroduced — but only with genuine `aggregateRating` / `review` data.
 
 ### 6.9 WebSite (homepage)
 
@@ -379,8 +381,8 @@ Homepage description trimmed to 144 chars. Article titles and descriptions have 
 
 - Homepage: Organization (in layout) + WebSite + MobileApplication ✅
 - /about: Person ✅
-- /guide: Product + Book ✅
-- /articles/*: Article + BreadcrumbList ✅; FAQPage ⚠️ emitted only when the article has a `faqs` field (currently no articles do — opt-in)
+- /guide: Book (with inline Offer) ✅ — Product schema removed; see §6.8
+- /articles/*: Article + BreadcrumbList + FAQPage ✅ (all articles now ship with `faqs`)
 
 ### 10.5 No `llms.txt` — ✅ resolved
 

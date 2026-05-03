@@ -118,7 +118,7 @@ function pageRules(url: string): { mustHave: string[]; description: string } {
   const path = new URL(url).pathname;
   if (path === "/") return { mustHave: ["Organization", "WebSite", "MobileApplication"], description: "homepage" };
   if (path === "/about") return { mustHave: ["Person"], description: "/about" };
-  if (path === "/guide") return { mustHave: ["Product", "Book"], description: "/guide" };
+  if (path === "/guide") return { mustHave: ["Book"], description: "/guide" };
   if (path.startsWith("/articles/") && !path.startsWith("/articles/page/") && path !== "/articles") {
     return { mustHave: ["Article", "BreadcrumbList"], description: "article slug" };
   }
