@@ -3,14 +3,32 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "dopamine-fasting-does-it-work",
     title: "Does Dopamine Fasting Actually Work?",
-    description: "Dopamine fasting went from legitimate clinical advice to viral nonsense. Here's what the original concept was, what neuroscience supports, and what to do.",
+    description:
+      "Dopamine fasting went from clinical advice to viral nonsense. What the original concept was, what the neuroscience supports, and what actually works.",
     publishedAt: "2025-09-04",
+    modifiedAt: "2026-05-03",
     category: "craving-management",
+    quickAnswer:
+      "Dopamine fasting as it spread on social media — sit in the dark, deplete and refill — is not how the brain works. Dopamine isn't a tank of gas. What does work is the original idea: a structured 30-day break from a specific compulsive behavior. That allows receptor downregulation to reverse and reward sensitivity to recover.",
+    faqs: [
+      {
+        q: "Is dopamine fasting scientifically proven?",
+        a: "The viral version (sitting in a dark room to \"refill\" dopamine) is not supported by neuroscience. The original concept by Dr. Cameron Sepah — structured breaks from specific compulsive behaviors — is a well-established form of cognitive behavioral therapy.",
+      },
+      {
+        q: "Can you actually deplete dopamine?",
+        a: "No. Dopamine is a neurotransmitter your brain produces continuously. You cannot deplete it through overstimulation. What does happen is receptor downregulation — your brain becomes less sensitive to dopamine, which resolves with sustained abstinence.",
+      },
+      {
+        q: "How long should a dopamine fast last?",
+        a: "Clinically, 30 days of abstinence from a specific substance or behavior is the recommended minimum for meaningful dopamine system recovery.",
+      },
+    ],
     content: `Dopamine fasting is one of those ideas that started as legitimate clinical advice, got filtered through Silicon Valley productivity culture, went viral on social media, and ended up so distorted that even the scientist who coined the term had to publicly correct the record.
 
 So let us sort through the mess. What is dopamine fasting? Does it work? And what does the actual neuroscience support?
 
-### What people think dopamine fasting is
+## What people think dopamine fasting is
 
 If you search "dopamine fasting" on TikTok or YouTube, you will find a version of the concept that goes roughly like this: deprive yourself of all pleasurable stimulation for a day or a weekend — no phone, no food (or only bland food), no music, no social interaction, no entertainment — and your dopamine will "reset," making everything feel more pleasurable afterward.
 
@@ -22,7 +40,7 @@ You can't literally fast from dopamine. Dopamine isn't a resource that gets used
 
 The idea that a single weekend of reduced stimulation can "reset" a dopamine system that has been chronically dysregulated by months or years of substance use is also not supported by the research. Neuroadaptation — the downregulation of receptors, the suppression of baseline production — takes time to develop and time to reverse. A 24-hour fast doesn't meaningfully change receptor density.
 
-### What the original concept actually was
+## What the original concept actually was
 
 The term "dopamine fasting" was introduced by Dr. Cameron Sepah, a psychiatrist at UCSF, in 2019. And his actual proposal was far more modest and more useful than what went viral.
 
@@ -34,7 +52,7 @@ This is standard behavioral psychology dressed in trendy language. And in this f
 
 The key difference between Sepah's actual proposal and the viral version: Sepah was targeting specific problematic behaviors, not all sources of pleasure. He explicitly stated that you should still eat normally, exercise, talk to people, and go about your life. You're not supposed to sit in a dark room.
 
-### What actually works: the 30-day abstinence reset
+## What actually works: the 30-day abstinence reset
 
 Here is where the science is much clearer.
 
@@ -48,7 +66,7 @@ This is not a "fast" in the trendy sense. It is a clinically appropriate abstine
 
 The process is uncomfortable. The first two weeks tend to be the hardest, as the brain's compensatory mechanisms are still active even though the substance is gone. Most people feel worse before they feel better. But by week three to four, the balance begins to shift. Normal activities start to feel rewarding again. The progressive narrowing of pleasure begins to reverse.
 
-### The grain of truth in the viral version
+## The grain of truth in the viral version
 
 Despite its scientific inaccuracies, the popular version of dopamine fasting gets something right: most people in the modern world are chronically overstimulated, and reducing overall stimulation can improve well-being.
 
@@ -58,7 +76,7 @@ Lembke describes a Stanford undergraduate who spent every waking moment plugged 
 
 That is not a dopamine reset. That is what happens when you give your attention back to the world instead of outsourcing it to a screen. And it doesn't require a formal "fast." It requires regular, recurring periods of reduced stimulation — walks without earbuds, meals without screens, mornings without phones.
 
-### What to actually do
+## What to actually do
 
 If you are dealing with a genuine addiction or compulsive behavior, the evidence supports a structured abstinence period of at least 30 days from the specific substance or behavior. This is not a trend. It is a clinically supported intervention with measurable outcomes.
 
@@ -74,7 +92,7 @@ If you are not dealing with addiction but feel overstimulated, unfocused, or una
 
 **If you feel significantly better after 30 days of abstinence from a specific behavior, pay attention to that.** It means that behavior was likely causing more neurochemical disruption than you realized. The "experiment," as Lembke frames it, has given you diagnostic information about your own brain.
 
-### The bottom line
+## The bottom line
 
 Dopamine fasting as presented on social media — sitting in a dark room to "refill" your dopamine — is not how neuroscience works. But the core intuition is valid: chronic overstimulation impairs your brain's reward system — tipping the [pleasure-pain balance](/articles/pleasure-pain-balance-explains-addiction) — and structured breaks allow it to recalibrate.
 
@@ -82,31 +100,15 @@ The most effective version of this idea is not a trendy weekend ritual. It is a 
 
 Your brain doesn't need a fast. It needs a break from the specific thing that broke the balance.
 
-
-
-### Frequently Asked Questions
-
-**Is dopamine fasting scientifically proven?**
-The viral version (sitting in a dark room to "refill" dopamine) is not supported by neuroscience. The original concept by Dr. Cameron Sepah — structured breaks from specific compulsive behaviors — is a well-established form of cognitive behavioral therapy.
-
-**Can you actually deplete dopamine?**
-No. Dopamine is a neurotransmitter your brain produces continuously. You cannot deplete it through overstimulation. What does happen is receptor downregulation — your brain becomes less sensitive to dopamine, which resolves with sustained abstinence.
-
-**How long should a dopamine fast last?**
-Clinically, 30 days of abstinence from a specific substance or behavior is the recommended minimum for meaningful dopamine system recovery.
-
-### Sources
+## Sources
 
 - Sepah CJ. "The Definitive Guide to Dopamine Fasting 2.0." LinkedIn, 2019.
 - Lembke A. *Dopamine Nation*. Dutton, 2021.
 - Brown SA, Schuckit MA. "Changes in depression among abstinent alcoholics." *J Stud Alcohol*. 1988;49(5):412-417.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit provides a structured framework for exactly this kind of targeted reset — including protocols for the critical first 30 days and strategies for managing the discomfort that comes with it.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
   };

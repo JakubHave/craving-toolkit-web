@@ -5,7 +5,24 @@ export const article: Article = {
     title: "Why Heartbreak Feels Like Withdrawal",
     description: "Romantic love and addiction use the same brain circuits and neurochemistry. This parallel reveals something important about what addiction really is.",
     publishedAt: "2025-11-24",
+    modifiedAt: "2026-05-03",
     category: "triggers-and-relapse",
+    quickAnswer:
+      "Romantic love and drug addiction run on the same circuitry — dopamine in the nucleus accumbens, the same opioid systems, the same tolerance, dependence, withdrawal, and cue-triggered relapse patterns. Brain imaging confirms it. Heartbreak isn't a metaphor for withdrawal — it is withdrawal. Addiction isn't a disease of broken brains; it's the same bonding capacity that makes us human.",
+    faqs: [
+      {
+        q: "Why does heartbreak feel like drug withdrawal?",
+        a: "Because romantic love and drug addiction activate the same brain circuits — the nucleus accumbens, the dopamine reward pathway, and the opioid system. When a relationship ends, the neurochemical supply your brain calibrated to is abruptly cut off, producing symptoms neurologically identical to substance withdrawal: anxiety, insomnia, intrusive thinking, physical pain.",
+      },
+      {
+        q: "Is love addiction a real thing?",
+        a: "Yes. The same dopamine-driven compulsive seeking, tolerance, dependence, and withdrawal patterns observed in substance addiction can develop around romantic relationships. Brain imaging studies show identical reward-circuit activation in people experiencing intense romantic love and in people using drugs. The pattern can become genuinely compulsive.",
+      },
+      {
+        q: "Can falling in love trigger a relapse?",
+        a: "It can. People in early recovery are vulnerable to intense new relationships because the depleted reward system craves the dopamine surge that new romance provides. Most recovery programs advise against new romantic relationships during the first year of sobriety — your reward system needs time to recalibrate before redirecting onto a new target.",
+      },
+    ],
     content: `You have probably heard someone describe a breakup as "going through withdrawal." Maybe you said it yourself. You could not eat. You could not sleep. You checked your phone compulsively for a message that was not coming. You replayed memories on a loop. You felt a physical ache in your chest that no amount of reasoning could quiet.
 
 At the time, it probably felt like an exaggeration — a dramatic metaphor borrowed from addiction to describe ordinary heartache.
@@ -14,7 +31,7 @@ It wasn't a metaphor. It was neuroscience.
 
 Romantic love and addiction operate through the same brain circuits, use the same neurochemistry, and produce the same patterns of compulsive behavior. The parallel is not poetic. It is biological. And understanding it reveals something important about the nature of addiction itself — it is not a foreign invader hijacking a healthy brain. It is the brain's most human capacity, turned destructive.
 
-### The same circuitry, the same chemistry
+## The same circuitry, the same chemistry
 
 Falling in love triggers a cascade of neurochemical events that is remarkably similar to what happens when someone takes a hit of cocaine.
 
@@ -26,7 +43,7 @@ Neuroscientist Marc Lewis, drawing on research by James Burkett and Larry Young,
 
 The mechanism is identical to drug addiction: dopamine in the nucleus accumbens creates a powerful association between a specific stimulus (a partner, a drug) and the experience of reward. That association, reinforced through repetition, becomes a compulsive drive to seek the stimulus again.
 
-### Tolerance, withdrawal, and relapse — in love
+## Tolerance, withdrawal, and relapse — in love
 
 The parallels do not stop at the neurochemistry. The behavioral patterns of love follow the same trajectory as addiction.
 
@@ -42,7 +59,7 @@ The "I just need to hear their voice" feeling after a breakup isn't romantic wea
 
 This is cue-triggered relapse. The same mechanism that causes a recovering alcoholic to crave a drink when they smell bourbon causes a heartbroken person to crave their ex when they encounter a reminder. The neural pathways that encoded the association between the cue and the reward are still intact. They fire, and desire floods in.
 
-### What this tells us about addiction
+## What this tells us about addiction
 
 The love-addiction parallel is not just an interesting factoid. It reshapes how we think about addiction itself.
 
@@ -58,7 +75,7 @@ The implications are significant:
 
 **Recovery involves the same process as getting over a breakup.** The heartbroken person eventually heals — not by forgetting their ex, but by building new connections, new sources of reward, new identity that no longer revolves around the lost relationship. The recovering addict heals the same way. Not by erasing the addictive pathways, but by building new ones that gradually become more compelling.
 
-### Why some people become "addicted" to love
+## Why some people become "addicted" to love
 
 If love and addiction share the same circuitry, it is not surprising that some people develop compulsive patterns around relationships themselves. Love addiction — the pattern of obsessively pursuing romantic intensity, tolerating destructive relationships because leaving triggers withdrawal, and relapsing into toxic partnerships — follows the same neurological trajectory as substance addiction.
 
@@ -66,7 +83,7 @@ People who are vulnerable to love addiction often share traits with those vulner
 
 The recovery process is also similar: recognizing the compulsive pattern, tolerating the withdrawal of breaking the pattern, building alternative sources of meaning and reward, and developing the self-regulation capacity that the compulsive relationship was substituting for.
 
-### Practical applications
+## Practical applications
 
 Understanding the love-addiction parallel has practical value for anyone in recovery from substance addiction.
 
@@ -80,7 +97,7 @@ Most recovery programs advise against new romantic relationships during the firs
 
 **Apply breakup recovery strategies to substance recovery.** The strategies that help people recover from heartbreak — no contact, removing reminders, building new routines, reconnecting with friends, investing in personal growth, giving yourself time — are structurally identical to the strategies that help people recover from substance addiction. Self-binding (no contact with the dealer), environmental restructuring (removing reminders), routine replacement, social reconnection, and patience. The parallel is not metaphorical. It is neurological.
 
-### The most human capacity
+## The most human capacity
 
 There is something oddly beautiful in the love-addiction parallel. It means that the capacity for addiction is inseparable from the capacity for love — for deep, consuming, devoted attachment to something or someone outside yourself.
 
@@ -90,27 +107,12 @@ You didn't become addicted because your brain is defective. You became addicted 
 
 
 
-### Frequently Asked Questions
-
-**Why does heartbreak feel like drug withdrawal?**
-Because romantic love and drug addiction activate the same brain circuits — the nucleus accumbens, the dopamine reward pathway, and the opioid system. When a relationship ends, the neurochemical supply your brain calibrated to is abruptly cut off, producing symptoms neurologically identical to substance withdrawal.
-
-**Is love addiction a real thing?**
-Yes. The same dopamine-driven compulsive seeking, tolerance, dependence, and withdrawal patterns observed in substance addiction can develop around romantic relationships. Brain imaging studies show identical reward-circuit activation in people experiencing intense romantic love and in people using drugs.
-
-**Can falling in love trigger a relapse?**
-It can. People in early recovery are vulnerable to intense new relationships because the depleted reward system craves the dopamine surge that new romance provides. Most recovery programs advise against new romantic relationships during the first year of sobriety for this reason.
-
-### Sources
+## Sources
 
 - Burkett JP, Young LJ. "The behavioral, anatomical and pharmacological parallels between social attachment, love and addiction." *Psychopharmacology*. 2012;224(1):1-26. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22885871/)
 - Fisher HE, et al. "Reward, addiction, and emotion regulation systems associated with rejection in love." *J Neurophysiol*. 2010;104(1):51-60.
 - Marazziti D, et al. "Alteration of the platelet serotonin transporter in romantic love." *Psychol Med*. 1999;29(3):741-745.
 - Lewis M. *The Biology of Desire*. PublicAffairs, 2015.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

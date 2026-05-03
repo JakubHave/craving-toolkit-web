@@ -5,7 +5,24 @@ export const article: Article = {
     title: "Sugar Addiction and Binge Eating: The Brain Science",
     description: "PET scans of compulsive overeaters show the same dopamine receptor changes as cocaine users. Sugar addiction is real — and the same tools work here.",
     publishedAt: "2025-10-17",
+    modifiedAt: "2026-05-03",
     category: "triggers-and-relapse",
+    quickAnswer:
+      "PET imaging of compulsive overeaters shows the same diminished dopamine receptor pattern as cocaine and meth users — researchers describe a \"common neuroanatomic and neurochemical basis.\" Sugar hijacks the reward and opioid systems, produces tolerance and withdrawal, and ultra-processed foods are engineered to maximize this. The unique cruelty: you can't abstain from food. Recovery requires breaking the restrict-binge cycle.",
+    faqs: [
+      {
+        q: "Is sugar addiction a real thing?",
+        a: "Yes, neurologically. PET scans of compulsive overeaters show the same diminished dopamine receptor density as cocaine and methamphetamine users. Sugar triggers dopamine release in the same reward pathway as drugs, activates the brain's opioid system, and produces tolerance and withdrawal. The mechanisms differ, but the addictive pattern is real.",
+      },
+      {
+        q: "What causes the binge eating cycle?",
+        a: "Restriction. The cycle starts with rigid food rules that create deprivation. Deprivation builds physiological pressure (hunger hormones rise, dopamine sensitivity to food cues heightens). A trigger breaks the dam. Shame floods in after the binge and convinces the person they need more restriction — which reloads the next binge. Stop the restriction and the cycle loses its primary fuel.",
+      },
+      {
+        q: "Why is food addiction harder than other addictions?",
+        a: "Because total abstinence isn't possible. With alcohol or drugs you can remove the substance from your life. With food you have to face it three or more times a day, every day, for life. There's no clean sobriety date — recovery means establishing a sustainable, non-compulsive relationship with something you need to survive.",
+      },
+    ],
     content: `Nobody takes sugar addiction seriously. Not really.
 
 You mention cocaine addiction and people nod solemnly. You mention alcohol addiction and they understand. You mention sugar addiction and binge eating and something shifts — the conversation gets lighter, the concern turns to amusement. Everybody loves sugar. Everybody overeats sometimes. How bad can it be?
@@ -14,7 +31,7 @@ Here is how bad: PET imaging studies of compulsive overeaters show the exact sam
 
 Sugar addiction and binge eating are not character flaws. They are not a lack of discipline. They are the same reward system dysfunction that drives every other addiction — wearing a disguise that society refuses to recognize as dangerous.
 
-### Why sugar is genuinely addictive
+## Why sugar is genuinely addictive
 
 The idea that food can be addictive was controversial for decades. It is less controversial now. Here is what the science shows.
 
@@ -28,7 +45,7 @@ In animal studies, when researchers gave rats a choice between sugar water and c
 
 **Ultra-processed food is engineered for addiction.** Modern food science has created products with precise ratios of sugar, salt, and fat that maximize dopamine release and override natural satiety signals. These are not foods in the way that an apple or a piece of chicken is food. They are delivery systems designed to hijack your reward circuitry — the nutritional equivalent of freebase cocaine compared to chewing coca leaves.
 
-### Binge eating: the cycle that feeds itself
+## Binge eating: the cycle that feeds itself
 
 Binge eating is not overeating. Everyone overeats occasionally — a holiday meal, a celebration, an unusually good restaurant. Binge eating is compulsive, distressing, and characterized by a loss of control that the person experiencing it finds frightening.
 
@@ -46,7 +63,7 @@ The binge eating cycle typically follows a pattern that is painfully predictable
 
 This is the loop that the Craving Toolkit describes directly: the person eats, feels ashamed, restricts hard, feels deprived, then binges again. A lot of food-related recovery gets wrecked by self-hatred.
 
-### Why food addiction is uniquely cruel
+## Why food addiction is uniquely cruel
 
 Every other addiction allows for complete abstinence from the substance. You can remove all alcohol from your life. You can avoid all drugs. You can block gambling websites and delete porn.
 
@@ -58,7 +75,7 @@ It is as if an alcoholic were required to drink three measured glasses of wine p
 
 This is why food addiction often goes unrecognized and untreated for decades. The person cannot point to a clear "I quit" moment. There is no sobriety date, no chip to collect, no binary of clean versus using. Recovery from food addiction is not abstinence — it is the much harder task of establishing a sustainable, non-compulsive relationship with something you need to survive.
 
-### What actually helps
+## What actually helps
 
 The tools that work for food addiction and binge eating are the same tools that work for any addiction — adapted to the unique constraint that total abstinence is not possible.
 
@@ -86,7 +103,7 @@ Pause. Breathe. Say to yourself: "That happened. It does not have to continue. T
 
 This is not about eliminating pleasure from eating. It is about disentangling the survival function from the addictive function, so that reaching for food because you are hungry and reaching for food because you need to numb a feeling become two clearly distinguishable experiences.
 
-### The compassion piece
+## The compassion piece
 
 There is something that has to be said about food addiction that does not need to be said about most other addictions.
 
@@ -100,14 +117,10 @@ The tools work. The brain heals. The cycle can be interrupted. Not perfectly. No
 
 
 
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
 - Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

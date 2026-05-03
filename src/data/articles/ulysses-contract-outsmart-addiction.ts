@@ -3,9 +3,31 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "ulysses-contract-outsmart-addiction",
     title: "The Ulysses Contract: Outsmart Your Addicted Self",
-    description: "A Ulysses contract binds your future craving-driven self using decisions made sober. Learn the 3 types of self-binding and how to write your own.",
+    description:
+      "A Ulysses contract binds your future craving-driven self using decisions made sober. Learn the 3 types of self-binding and how to write your own.",
     publishedAt: "2025-08-08",
+    modifiedAt: "2026-05-03",
     category: "craving-management",
+    quickAnswer:
+      "A Ulysses contract is a decision your sober self makes to bind your future, craving-driven self. You set the rules when you can think; the rules hold when you can't. The three forms are physical (delete the dealer's number), chronological (no phone in the bedroom after 9 PM), and categorical (\"I do not drink. Period\").",
+    faqs: [
+      {
+        q: "What is a Ulysses contract in addiction recovery?",
+        a: "A Ulysses contract is a pre-committed decision your sober self makes to bind your future, craving-driven self. Like Odysseus tying himself to the mast before passing the Sirens, you set the rules and barriers when you can think clearly so they hold when you cannot.",
+      },
+      {
+        q: "Why does self-binding work better than willpower?",
+        a: "Willpower behaves like a muscle — it fatigues with use and especially under stress, hunger, or sleep deprivation, which is exactly when cravings strike. Self-binding does not fatigue. A blocked number stays blocked. An empty house stays empty. The barrier holds whether or not your prefrontal cortex is online.",
+      },
+      {
+        q: "What are the three types of self-binding?",
+        a: "Physical (creating real distance from the substance — deleting numbers, removing alcohol from the house, uninstalling apps), chronological (rules tied to time — no phone in bedroom after 9 PM, scheduled commitments in danger windows), and categorical (closing the negotiation by drawing an absolute line — \"I do not drink, period\").",
+      },
+      {
+        q: "Does writing a Ulysses contract mean I don't trust myself?",
+        a: "It means you trust the science. Brain imaging shows your prefrontal cortex goes offline when cravings hijack the reward system — in the moment, you literally are not the one deciding. The contract is not distrust. It is honesty about what your brain does under pressure.",
+      },
+    ],
     content: `There is a moment in every recovery where you feel strong. Clear-headed. Confident. You cannot imagine why you would ever go back.
 
 And then there is the other moment — hours, days, or weeks later — when every molecule in your body screams for the old thing. In that second moment, the confident version of you does not exist. Someone else is driving.
@@ -16,7 +38,7 @@ So the question becomes: how do you protect yourself from the version of you tha
 
 The answer is older than psychology. It is older than neuroscience. It comes from a Greek myth.
 
-### The original Ulysses contract
+## The original Ulysses contract
 
 In Homer's *Odyssey*, Odysseus needed to sail past the Sirens — creatures whose song was so beautiful that every sailor who heard it steered toward the rocks and died. No one had the willpower to resist.
 
@@ -26,15 +48,15 @@ When the moment came, Odysseus thrashed and pleaded. He was not rational. He was
 
 This is the essence of a Ulysses contract: a decision made by your sober, clear-thinking self that binds your future, craving-driven self. You set the rules when you can think. You enforce them when you cannot.
 
-### [Why willpower is not enough](/articles/why-willpower-fails-recovery)
+## Why willpower is not enough
 
-Willpower is not a fixed resource you can just summon harder. Research shows it behaves more like a muscle — it fatigues with use, especially under stress, sleep deprivation, hunger, or emotional distress. These are exactly the conditions under which cravings tend to strike.
+[Willpower is not a fixed resource](/articles/why-willpower-fails-recovery) you can just summon harder. Research shows it behaves more like a muscle — it fatigues with use, especially under stress, sleep deprivation, hunger, or emotional distress. These are exactly the conditions under which cravings tend to strike.
 
 Psychiatrist Anna Lembke, who runs the addiction medicine clinic at Stanford, describes this plainly: "In the throes of desire, there is no deciding." When the craving is live, you are not making a rational choice. You are reacting. The decision was already made, or it was not made at all.
 
 This is why self-binding — creating real barriers between yourself and the behavior *before* the craving arrives — is so much more effective than relying on in-the-moment resistance.
 
-### The three types of self-binding
+## The three types of self-binding
 
 Lembke organizes self-binding into three categories. Each one targets a different dimension of access.
 
@@ -79,7 +101,7 @@ Categorical binding eliminates the negotiation. When the craving whispers, "just
 
 This is what makes the difference between "I am trying to drink less" and "I do not drink." The first leaves room for the addictive voice to negotiate. The second does not.
 
-### How to write your own Ulysses contract
+## How to write your own Ulysses contract
 
 This is not complicated. But it must be specific, written down, and — if possible — witnessed by someone you trust.
 
@@ -93,25 +115,20 @@ This is not complicated. But it must be specific, written down, and — if possi
 
 **Step 5: Review and update.** Your triggers change. Your weak points shift. The contract is a living document, not a one-time exercise.
 
-### The contract is not about distrust — it is about honesty
+## The contract is not about distrust — it is about honesty
 
 Writing a Ulysses contract might feel like you are treating yourself as untrustworthy. That is not what it is. It is an act of radical honesty: admitting that there will be moments when your brain chemistry will overpower your intentions, and preparing for those moments in advance.
 
 Every recovering person who has stayed sober for years knows this. The danger is not that you want to use. The danger is the moment when wanting does not feel like wanting — it feels like needing, like breathing, like the only logical thing to do. The contract is your voice from the other side of that moment, saying: I know what is happening. I prepared for this. Hold the ropes.
 
-
-
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
 - Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit includes a printable Ulysses Contract worksheet along with 5 other recovery worksheets.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
   };

@@ -5,7 +5,24 @@ export const article: Article = {
     title: "Rewriting Your Story: Narrative Identity in Recovery",
     description: "People trapped in addiction live in a permanent present. Recovery begins when you connect past to future. The story itself is the mechanism.",
     publishedAt: "2025-12-04",
+    modifiedAt: "2026-05-03",
     category: "recovery-lifestyle",
+    quickAnswer:
+      "People in active addiction live in a permanent present — past unexamined, future unimaginable. Constructing a coherent narrative (a reckoning with the past, a reinterpretation of the present, a vision of the future) physically rebuilds the prefrontal-striatum-hippocampus connections that addiction weakened. Chandler & Lalonde's study found narrative coherence was among the strongest predictors of teen survival. The story is the recovery.",
+    faqs: [
+      {
+        q: "Why does telling your recovery story matter?",
+        a: "Constructing a life narrative — connecting past experiences to present circumstances and projecting them toward future possibilities — is a prefrontal cortex function that physically reconnects the brain systems addiction weakened. The integrative work of building a coherent story is itself a mechanism of neuroplasticity, not just an emotional exercise.",
+      },
+      {
+        q: "What are the parts of a recovery narrative?",
+        a: "Three components: a reckoning with the past (understanding what function the addiction served, what need it was meeting), a reinterpretation of the present (the addiction as a pattern with identifiable roots rather than a mysterious defect), and a vision of the future (a vivid, emotionally specific projection of who you're becoming).",
+      },
+      {
+        q: "Do I need a therapist to rewrite my story?",
+        a: "No, but it accelerates the work. Writing the origin story alone forces the prefrontal cortex to organize memories and construct meaning — that's the intervention. Sharing it with one person (therapist, sponsor, trusted friend) makes the story more solid by giving it a witness, but the act of writing it is itself the load-bearing work.",
+      },
+    ],
     content: `There is a moment in [Marc Lewis's](https://memoirsofanaddictedbrain.com/) research that haunts me.
 
 He describes a study of indigenous communities in western Canada where teen suicide rates varied wildly — from zero in some communities to over 600 per 100,000 in others. The researchers wanted to understand why. So they talked to the kids.
@@ -20,7 +37,7 @@ Lewis draws a direct line from this research to addiction. People trapped in add
 
 Recovery, Lewis argues, begins when that loop opens into a line. When the person can connect their past to their present and extend that connection toward a future worth pursuing. When the story starts moving forward again.
 
-### Why narrative matters neurologically
+## Why narrative matters neurologically
 
 This isn't just psychology. It has a specific neurological basis.
 
@@ -32,7 +49,7 @@ When a person begins to construct a narrative — to examine their past, make se
 
 This is why therapy works when it works — not because the therapist has special knowledge, but because the therapeutic relationship provides a context for narrative construction. The patient tells their story to another person. In the telling, the story becomes coherent. In the coherence, the brain reconnects. And in the reconnection, the future becomes visible.
 
-### The three components of a recovery narrative
+## The three components of a recovery narrative
 
 Lewis's case studies reveal that effective recovery narratives share three components: a reckoning with the past, a reinterpretation of the present, and a vision of the future.
 
@@ -52,7 +69,7 @@ Lewis's subjects did not recover by simply avoiding their drug. They recovered b
 
 Without a future vision, recovery is just endurance — holding on until you cannot hold on anymore. With one, recovery is pursuit — moving toward something that matters, powered by the same motivational engine that addiction hijacked.
 
-### How to build your recovery narrative
+## How to build your recovery narrative
 
 You don't need a therapist to begin this work, although therapy can accelerate it. Here is a practical framework.
 
@@ -78,7 +95,7 @@ This isn't confession. It's narrative construction in a social context. The list
 
 Each revision is an act of neuroplasticity — the brain updating its self-model, strengthening new connections, weakening old ones. The narrative isn't just a story about recovery. It's a mechanism of recovery.
 
-### The story is the recovery
+## The story is the recovery
 
 There is a patient in Lewis's book — Maria, a recovering alcoholic — who described recovery with a metaphor that captures everything about narrative identity in a single image:
 
@@ -92,16 +109,12 @@ The story is not a byproduct of recovery. The story is the recovery.
 
 
 
-### Sources
+## Sources
 
 - Lewis M. *The Biology of Desire*. PublicAffairs, 2015.
 - Chandler MJ, Lalonde CE. "Cultural continuity as a hedge against suicide in Canada's First Nations." *Transcult Psychiatry*. 1998;35(2):191-219.
 - McAdams DP. "The psychology of life stories." *Rev Gen Psychol*. 2001;5(2):100-122.
 - Lembke A. *Dopamine Nation*. Dutton, 2021.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

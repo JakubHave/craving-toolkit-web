@@ -3,16 +3,34 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "sugar-cravings-after-quitting-alcohol",
     title: "Sugar Cravings After Quitting Alcohol: Why It Happens",
-    description: "You stopped drinking and now you can't stop eating candy. It's not a character flaw — it's biochemistry. Here's why sugar cravings hit and what to do.",
+    description:
+      "Why you crave sugar after quitting alcohol — the biochemistry, the timeline, and what to do without trading one addiction for another.",
     publishedAt: "2025-10-07",
+    modifiedAt: "2026-05-03",
     category: "early-recovery",
+    quickAnswer:
+      "Sugar cravings after quitting alcohol are biochemistry, not weakness. Alcohol shares metabolic pathways with glucose and triggers the same dopamine circuits, so your brain reaches for sugar to fill the gap. Cravings peak in the first 30–60 days and ease by months two to three as the reward system recalibrates.",
+    faqs: [
+      {
+        q: "Why do I crave sugar after I quit drinking?",
+        a: "Alcohol and sugar share metabolic pathways, activate the same reward circuits, and both affect blood glucose. When you remove alcohol, your body seeks the next closest dopamine source — and sugar fits neurochemically.",
+      },
+      {
+        q: "How long do sugar cravings last after quitting alcohol?",
+        a: "Sugar cravings are typically most intense during the first 30–60 days of sobriety and decrease significantly by months 2–3 as the reward system recalibrates and blood sugar regulation stabilizes.",
+      },
+      {
+        q: "Should I let myself eat sugar in early sobriety?",
+        a: "Some sugar substitution in the first 30 days is normal and preferable to drinking. After the acute phase, focus on stabilizing blood sugar with protein at every meal, regular eating, and reducing liquid sugar.",
+      },
+    ],
     content: `You stopped drinking. And now you cannot stop eating candy.
 
 It sounds almost comical — trading a bottle of vodka for a bag of gummy bears. But if you are experiencing it, you know it is not funny. The cravings are intense, relentless, and confusing. You quit alcohol to get your life together, and now you are eating an entire pint of ice cream every night and wondering what is wrong with you.
 
 Nothing is wrong with you. Your brain is doing exactly what depleted brains do when their primary dopamine source disappears: it hunts for the next closest thing. And for neurochemical reasons that are more specific than most people realize, sugar is almost always what it finds.
 
-### Why sugar specifically
+## Why sugar specifically — and not just any food?
 
 The connection between alcohol and sugar is not metaphorical. It is biochemical, and it runs through at least four distinct pathways.
 
@@ -24,7 +42,7 @@ The connection between alcohol and sugar is not metaphorical. It is biochemical,
 
 **Alcohol suppresses appetite; removal reveals it.** Heavy drinkers often undereat because alcohol provides empty calories and dampens hunger signals. When alcohol is removed, appetite returns — often aggressively. The body simultaneously tries to replace missing calories, regulate blood sugar, and find a new dopamine source. Sugar satisfies all three at once.
 
-### How common is this
+## How common is this?
 
 Extremely common. Studies of people in early alcohol recovery consistently find elevated sugar consumption. The phenomenon is so well-recognized that many AA meetings serve cookies, cake, and candy — an unspoken acknowledgment that, in the short term, sugar is preferable to alcohol.
 
@@ -32,13 +50,13 @@ Some treatment professionals take a pragmatic view: if a bag of Skittles keeps y
 
 But as a long-term pattern, the sugar substitution creates its own problems — weight gain, metabolic disruption, mood instability from blood sugar spikes and crashes, and the nagging sense that you have redirected the compulsive pattern rather than resolved it.
 
-### The timeline
+## How long do sugar cravings last?
 
 Sugar cravings are typically most intense during the first 30–60 days of sobriety, when the dopamine deficit is deepest and blood sugar regulation is most disrupted. Intensity decreases significantly by months 2–3 as the reward system recalibrates and metabolic processes stabilize. By month 6, the cravings are usually manageable.
 
 However, if sugar consumption has itself become compulsive — eating past fullness, hiding consumption, inability to stop despite consequences — it may have crossed into [cross-addiction](/articles/cross-addiction-quitting-one-leads-to-another) territory.
 
-### What to do about it
+## What can you do about it?
 
 The strategy depends on where you are in recovery.
 
@@ -66,42 +84,26 @@ If sugar consumption is still elevated and compulsive at month three, apply the 
 
 If yes, this is the reward system finding the next available source. The same tools that work for alcohol cravings — delay, counter-action, urge surfing, self-binding — work for sugar cravings. The neurology is identical.
 
-### What about artificial sweeteners?
+## What about artificial sweeteners?
 
 Contested topic. Some people find artificial sweeteners satisfy the craving without metabolic consequences. Others find they maintain the brain's association between sweet taste and reward, keeping the circuit active.
 
 Practical approach: if you are using artificial sweeteners and cravings are stable or decreasing, they are probably fine. If cravings are persistent or escalating, try eliminating them for two weeks and see if the pattern changes.
 
-### The bigger picture
+## The bigger picture
 
 Sugar cravings after quitting alcohol are not a failure of willpower. They are a predictable, neurochemically driven consequence of removing a major dopamine source from an adapted system. Understanding the mechanism takes the shame out of the experience and replaces it with actionable information.
 
 The cravings will ease. Your metabolism will stabilize. Your reward system will recalibrate. And in the meantime, every day that you reach for sugar instead of alcohol is a day that your brain is healing — imperfectly, messily, with chocolate on your shirt — but healing.
 
-
-
-### Frequently Asked Questions
-
-**Why do I crave sugar after I quit drinking?**
-Alcohol and sugar share metabolic pathways, activate the same reward circuits, and both affect blood glucose. When you remove alcohol, your body seeks the next closest dopamine source — and sugar fits neurochemically.
-
-**How long do sugar cravings last after quitting alcohol?**
-Sugar cravings are typically most intense during the first 30-60 days of sobriety and decrease significantly by months 2-3 as the reward system recalibrates and blood sugar regulation stabilizes.
-
-**Should I let myself eat sugar in early sobriety?**
-Some sugar substitution in the first 30 days is normal and preferable to drinking. After the acute phase, focus on stabilizing blood sugar with protein at every meal, regular eating, and reducing liquid sugar.
-
-### Sources
+## Sources
 
 - Fortuna JL. "Sweet preference, sugar addiction and the familial history of alcohol dependence." *J Psychoactive Drugs*. 2010;42(2):147-151.
 - Avena NM, Rada P, Hoebel BG. "Evidence for sugar addiction." *Nutr Neurosci*. 2008;11(3):109-117.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit covers the full spectrum of craving triggers and substitution patterns, including the cross-addiction dynamics that emerge in early recovery.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or nutritional counseling."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or nutritional counseling.",
   };

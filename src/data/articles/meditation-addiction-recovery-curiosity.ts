@@ -3,9 +3,31 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "meditation-addiction-recovery-curiosity",
     title: "Meditation for Addiction Recovery: Why It Works",
-    description: "Judson Brewer's mindfulness training beat the gold-standard smoking treatment 5 to 1. Here's the brain mechanism and a curiosity technique for cravings.",
+    description:
+      "Judson Brewer's mindfulness training beat the gold-standard smoking treatment 5 to 1. The brain mechanism — and a curiosity technique for cravings.",
     publishedAt: "2025-12-16",
+    modifiedAt: "2026-05-03",
     category: "craving-management",
+    quickAnswer:
+      "Meditation works for addiction because of what it trains: the ability to observe a craving in the body without reacting to it. Judson Brewer's clinical trial showed mindfulness training quitting smoking five times as well as the gold-standard program. The mechanism is curiosity — turning toward the felt sense of the craving instead of fighting or feeding it.",
+    faqs: [
+      {
+        q: "Does meditation actually help with addiction?",
+        a: "Yes. A clinical trial led by Judson Brewer found that mindfulness training achieved a 31% quit rate for smoking — five times higher than the gold-standard behavioral treatment. Brain imaging shows that meditation shifts craving processing from reactive brain regions to observational ones, weakening the automatic cue-to-behavior loop.",
+      },
+      {
+        q: "How does meditation reduce cravings?",
+        a: "Meditation trains you to observe cravings with curiosity rather than reacting to them automatically. This shifts brain activation from the posterior cingulate cortex (associated with getting \"caught up\" in experience) to the prefrontal cortex and insula (associated with observation and body awareness), weakening the conditioned craving response over time.",
+      },
+      {
+        q: "How much meditation do you need for addiction recovery?",
+        a: "Even 10 minutes daily of focused breathing practice builds the neural infrastructure for craving management. The critical skill — noticing a craving without automatically reacting — can then be deployed in real time during actual craving episodes.",
+      },
+      {
+        q: "Can you use meditation during a craving?",
+        a: "Yes — the curiosity-based technique (notice, locate in body, describe, watch it change) can be used in the moment and typically takes 90 seconds to disrupt the automatic craving response. However, the skill is much more effective if you've been practicing formal meditation regularly beforehand.",
+      },
+    ],
     content: `Let's get the objection out of the way first.
 
 "Meditation? For addiction? You want me to sit cross-legged and breathe while my brain is screaming for a hit?"
@@ -18,7 +40,7 @@ Judson Brewer — a psychiatrist, neuroscientist, and director of research and i
 
 That got my attention.
 
-### The craving loop Brewer discovered
+## The craving loop Brewer discovered
 
 Brewer's framework starts with a simple observation: cravings aren't the problem. Your reaction to cravings is the problem.
 
@@ -32,7 +54,7 @@ When you observe a craving with curiosity — "what does this actually feel like
 
 That shift — from identification to observation — is the entire mechanism. And it's not philosophical. Brewer's lab has imaged it happening in real time.
 
-### The smoking study that proved it works
+## The smoking study that proved it works
 
 In Brewer's most cited clinical trial, his team compared Mindfulness Training for smoking cessation against the American Lung Association's Freedom From Smoking program — the gold-standard behavioral treatment.
 
@@ -42,7 +64,7 @@ The results: the mindfulness group achieved a 31% quit rate compared to 6% for t
 
 What made it work wasn't the meditation itself. It was the specific skill the meditation trained: the ability to experience a craving without automatically reacting to it. Brewer calls this "stepping out of the habit loop."
 
-### The habit loop — and the missing piece
+## The habit loop — and the missing piece
 
 Brewer's framework builds on Charles Duhigg's [habit loop model](/articles/habit-loop-addiction-cue-routine-reward) (cue — routine — reward) but adds a critical missing piece: the feeling that connects the cue to the routine.
 
@@ -52,7 +74,7 @@ That felt sense — the tightness in the chest, the restlessness in the legs, th
 
 Meditation trains you to tolerate that sensation without executing the response. Not by fighting it. By being curious about it. By turning toward it instead of away.
 
-### What "curiosity" actually means in practice
+## What "curiosity" actually means in practice
 
 This isn't about sitting in a monastery. Brewer's approach is designed for people who've never meditated and don't want to.
 
@@ -70,7 +92,7 @@ When a craving hits:
 
 The entire process can take as little as 90 seconds. Most cravings peak within 15-20 minutes. If you can observe the first 90 seconds without reacting, you've already disrupted the automatic loop.
 
-### Why this works when willpower doesn't
+## Why this works when willpower doesn't
 
 Willpower and curiosity look similar from the outside — in both cases, you don't use. But neurologically, they're opposites.
 
@@ -82,7 +104,7 @@ Over time, this isn't just managing cravings. It's rewiring how your brain respo
 
 Willpower suppresses the response (temporarily). Curiosity extinguishes it (progressively).
 
-### Formal meditation isn't required — but it helps
+## Formal meditation isn't required — but it helps
 
 Brewer's approach works as a craving-management tool even if you never sit on a cushion. The curiosity technique can be deployed in real time, in the middle of a craving, in any setting.
 
@@ -94,7 +116,7 @@ Sit comfortably. Close your eyes or lower your gaze. For 10 minutes, focus on th
 
 That's it. You aren't trying to clear your mind. You aren't trying to feel calm. You're practicing the exact skill that craving management requires: noticing when your attention has been hijacked and redirecting it without judgment. Every time you catch your mind wandering and bring it back, you're doing one rep of the mental muscle that will eventually help you catch a craving before it catches you.
 
-### What meditation won't do
+## What meditation won't do
 
 It won't eliminate cravings. Nothing does — not medication, not therapy, not ten years of sobriety. Cravings are a feature of a brain that learned something intensely rewarding. They may diminish in frequency and intensity, but they don't disappear.
 
@@ -106,23 +128,7 @@ And it won't fix the underlying conditions that may be driving your addiction �
 
 But what it can do — reliably, measurably, with brain scans to prove it — is change your relationship with cravings from a war you're losing to a wave you can ride. And that change, practiced consistently, is one of the most durable recovery tools available.
 
-
-
-### Frequently Asked Questions
-
-**Does meditation actually help with addiction?**
-Yes. A clinical trial led by Judson Brewer found that mindfulness training achieved a 31% quit rate for smoking — five times higher than the gold-standard behavioral treatment. Brain imaging shows that meditation shifts craving processing from reactive brain regions to observational ones, weakening the automatic cue-to-behavior loop.
-
-**How does meditation reduce cravings?**
-Meditation trains you to observe cravings with curiosity rather than reacting to them automatically. This shifts brain activation from the posterior cingulate cortex (associated with getting "caught up" in experience) to the prefrontal cortex and insula (associated with observation and body awareness), weakening the conditioned craving response over time.
-
-**How much meditation do you need for addiction recovery?**
-Even 10 minutes daily of focused breathing practice builds the neural infrastructure for craving management. The critical skill — noticing a craving without automatically reacting — can then be deployed in real time during actual craving episodes.
-
-**Can you use meditation during a craving?**
-Yes — the curiosity-based technique (notice, locate in body, describe, watch it change) can be used in the moment and typically takes 90 seconds to disrupt the automatic craving response. However, the skill is much more effective if you've been practicing formal meditation regularly beforehand.
-
-### Sources
+## Sources
 
 - Brewer JA, et al. "Mindfulness training for smoking cessation: Results from a randomized controlled trial." *Drug Alcohol Depend*. 2011;119(1-2):72-80. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21723049/)
 - Brewer JA, et al. "Craving to quit: Psychological models and neurobiological mechanisms of mindfulness training as treatment for addictions." *Psychol Addict Behav*. 2013;27(2):366-379.
@@ -130,12 +136,9 @@ Yes — the curiosity-based technique (notice, locate in body, describe, watch i
 - Bowen S, Chawla N, Marlatt GA. *Mindfulness-Based Relapse Prevention for Addictive Behaviors*. Guilford Press, 2011.
 - Garland EL, et al. "Mindfulness-Oriented Recovery Enhancement for chronic pain and prescription opioid misuse." *J Consult Clin Psychol*. 2014;82(3):448-459.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit includes a full chapter on [urge surfing](/articles/urge-surfing-protocol-ride-out-craving) and curiosity-based craving management, with step-by-step scripts, a printable emergency craving card, and a daily practice protocol.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
   };

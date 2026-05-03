@@ -3,16 +3,34 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "dopamine-stacking-modern-life-addiction-recovery",
     title: "Dopamine Stacking: Why Modern Life Makes Recovery Harder",
-    description: "Before 9 AM you've hit your reward system with half a dozen dopamine triggers. This invisible stacking makes recovery harder. Here's how to destack.",
+    description:
+      "Before 9 AM you've hit your reward system with half a dozen dopamine triggers. This invisible stacking makes recovery harder — here's how to destack.",
     publishedAt: "2025-09-25",
+    modifiedAt: "2026-05-03",
     category: "understanding-addiction",
+    quickAnswer:
+      "Dopamine stacking is layering multiple dopamine-releasing activities on top of each other — phone, coffee, sugar, podcast, notifications — creating a chronic state of overstimulation. When you remove one source for recovery, the gap feels excruciating because your brain has calibrated to the combined load. Destacking means single-tasking pleasures and protecting daily low-stimulation windows.",
+    faqs: [
+      {
+        q: "What is dopamine stacking?",
+        a: "Dopamine stacking is the compounding effect of layering multiple dopamine-releasing activities — coffee, phone, sugar, music, notifications — on top of each other. The combined elevation becomes your brain's new normal, which makes removing any single source (like alcohol or another addiction) feel disproportionately punishing.",
+      },
+      {
+        q: "Why does dopamine stacking make recovery harder?",
+        a: "Because your brain processes the combined dopamine load as one elevated baseline, not as separate sources. When you remove your primary substance, you are not just losing one input — you are pulling the biggest pillar from a structure your brain has calibrated to expect a certain total stimulation level.",
+      },
+      {
+        q: "How do I destack my dopamine?",
+        a: "Single-task your pleasures (eat without scrolling, walk without headphones), audit your morning routine to delay screens and caffeine, build daily 30–60 minute low-stimulation windows, batch your notifications instead of letting them ping continuously, and simplify your food away from ultra-processed engineered products.",
+      },
+    ],
     content: `Imagine this morning routine: you wake up, immediately check your phone (dopamine), scroll social media while the coffee brews (dopamine), drink the coffee (dopamine), eat a sugary breakfast (dopamine), listen to a high-energy podcast while commuting (dopamine), and respond to a string of notifications at your desk (dopamine, dopamine, dopamine).
 
 Before 9 AM, you have hit your reward system with half a dozen overlapping dopamine triggers. Each one individually is not a problem. Stacked together, day after day, they create a chronic state of overstimulation that most people are completely unaware of — until they try to quit one specific substance and discover that their entire environment is working against them.
 
 This is dopamine stacking: the compounding effect of layering multiple dopamine-releasing activities on top of each other, creating an artificially elevated baseline that makes normal life feel unbearably flat when any single source is removed.
 
-### Why stacking matters for recovery
+## Why stacking matters for recovery
 
 When a person in recovery removes their primary substance, they expect the withdrawal to be hard. What they do not expect is how much harder it feels when every other part of their life is also tuned to high stimulation.
 
@@ -22,7 +40,7 @@ When you remove the substance — alcohol, drugs, gambling, whatever it was — 
 
 This is why two people can quit the same substance and have radically different recovery experiences. The person whose daily life is otherwise low-stimulation — simple meals, time in nature, limited screen use — may find the adjustment uncomfortable but manageable. The person whose daily life is saturated with stacked dopamine triggers may find the same adjustment excruciating, because the contrast between their remaining stimulation level and the missing substance creates a larger perceived gap.
 
-### The modern environment is a stacking machine
+## The modern environment is a stacking machine
 
 Anna Lembke makes the point clearly: we have transformed the world from a place of scarcity to a place of overwhelming abundance. Drugs, food, news, gambling, shopping, gaming, texting, sexting, streaming — the number, variety, and potency of highly rewarding stimuli available today is unprecedented in human history.
 
@@ -34,7 +52,7 @@ This matters for recovery because the stacked environment is the water you swim 
 
 But your reward system does not care about cultural norms. It registers the total dopamine load and adapts accordingly.
 
-### How stacking sabotages your reset
+## How stacking sabotages your reset
 
 When you commit to a [30-day abstinence period](/articles/30-day-dopamine-reset-week-by-week) from your primary substance — the standard clinical recommendation for dopamine system recovery — you are asking your brain to downregulate and recalibrate. The goal is to give your reward system a period of reduced stimulation so that receptors can upregulate and baseline dopamine production can recover.
 
@@ -44,7 +62,7 @@ The abstinence still helps. Removing the primary substance is the single most im
 
 This is why clinical researchers increasingly talk about "total load reduction" rather than single-substance abstinence. The idea is that recovery benefits from reducing overall stimulation levels, not just eliminating one source.
 
-### Practical destacking: what to do about it
+## Practical destacking: what to do about it
 
 You do not need to become a monk. The goal is not to eliminate all pleasure from your life. The goal is to stop stacking dopamine sources unconsciously and to create periods of genuine low stimulation that allow your brain to heal.
 
@@ -60,7 +78,7 @@ You do not need to become a monk. The goal is not to eliminate all pleasure from
 
 **Batch your notifications.** Instead of receiving notifications continuously throughout the day — each one a micro-dopamine hit and a cue for a scrolling session — check your phone at scheduled intervals (every 2 hours, for example). Between checks, the phone is in another room, face down, or in a drawer. This single change can dramatically reduce your daily dopamine load without requiring you to quit any app or platform.
 
-### The paradox of less
+## The paradox of less
 
 There is a paradox at the heart of destacking that most people only discover through experience: reducing overall stimulation does not make life less enjoyable. After a recalibration period that lasts a few weeks, it makes life more enjoyable.
 
@@ -72,19 +90,14 @@ This is not a spiritual claim. It is dopamine receptor upregulation. Your brain,
 
 This is recovery — not just from a specific substance, but from the overstimulated state that the modern world treats as normal.
 
-
-
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
 - Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit includes a complete framework for understanding and managing your relationship with reward — including practical strategies for reducing your total dopamine load while building sustainable sources of satisfaction.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
   };

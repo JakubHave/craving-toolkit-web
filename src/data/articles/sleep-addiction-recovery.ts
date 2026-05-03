@@ -2,15 +2,37 @@ import { Article } from "./types";
 
 export const article: Article = {
     slug: "sleep-addiction-recovery",
-    title: "Sleep and Addiction Recovery: The One Thing You Can't Cheat",
-    description: "Sleep deprivation impairs impulse control, amplifies cravings, and downregulates dopamine receptors you're rebuilding. Here's the timeline and what helps.",
+    title: "Sleep in Recovery: The One Thing You Can't Cheat",
+    description:
+      "Sleep deprivation impairs impulse control, amplifies cravings, and slows dopamine receptor recovery. The sleep-recovery timeline and what actually helps.",
     publishedAt: "2025-12-27",
+    modifiedAt: "2026-05-03",
     category: "early-recovery",
+    quickAnswer:
+      "Sleep is the single most important variable in recovery that most people neglect. Sleep deprivation impairs impulse control, amplifies cravings, downregulates the dopamine receptors you're trying to rebuild, and keeps cortisol elevated — exactly the neurological setup for relapse. Sleep architecture typically takes 1–3 months to recover after quitting, and improving it makes everything else in recovery easier.",
+    faqs: [
+      {
+        q: "Why can't I sleep in early recovery?",
+        a: "Virtually every substance of abuse disrupts sleep architecture. When you quit, the disruption continues as the brain recalibrates — insomnia, vivid dreams, and fragmented nights are normal features of early recovery that typically resolve over weeks to months.",
+      },
+      {
+        q: "Does poor sleep cause relapse?",
+        a: "Sleep deprivation increases relapse risk through multiple mechanisms: it impairs prefrontal cortex function (reducing impulse control), amplifies emotional reactivity, downregulates dopamine receptors (intensifying cravings), and keeps stress hormones elevated. One night of poor sleep produces measurable craving increases.",
+      },
+      {
+        q: "How long does it take for sleep to normalize after quitting?",
+        a: "For most substances, sleep onset improves within 2–4 weeks. Full sleep architecture recovery (including normal deep sleep and REM cycling) typically takes 1–3 months. Heavy stimulant and opioid users may experience persistent sleep abnormalities for 6–12 months.",
+      },
+      {
+        q: "What's the best sleep aid for people in recovery?",
+        a: "Non-pharmacological approaches — consistent wake time, morning light exposure, stimulus control, and CBT-I techniques — are first-line. If supplements are needed, low-dose melatonin (0.3–1mg) and magnesium glycinate are lower-risk options. Benzodiazepine and Z-drug sleep aids carry addiction risk and should be discussed with a physician familiar with your recovery history.",
+      },
+    ],
     content: `You can white-knuckle through a craving. You can force yourself to exercise when you'd rather not. You can sit through a meeting when every cell in your body wants to leave. But you can't force yourself to sleep. And that's the problem — because sleep is where your brain does the actual repair work that makes everything else in recovery possible.
 
 The relationship between sleep and addiction is vicious in both directions. Active addiction destroys sleep. And destroyed sleep makes recovery harder, cravings stronger, and relapse more likely. It's a cycle that doesn't get half the attention it deserves, probably because "sleep hygiene" sounds boring compared to neuroscience. But the neuroscience says sleep might be the single most important variable in your recovery that you're currently neglecting.
 
-### How addiction wrecks sleep
+## How addiction wrecks sleep
 
 Every major substance of abuse disrupts sleep architecture — and the disruption doesn't stop when you quit.
 
@@ -24,7 +46,7 @@ Every major substance of abuse disrupts sleep architecture — and the disruptio
 
 **Behavioral addictions** (phone, gaming, porn, gambling) disrupt sleep primarily through timing — the behavior tends to extend into the night, blue light suppresses melatonin, and the dopaminergic arousal from the activity keeps the brain in a state incompatible with sleep initiation.
 
-### Why sleep deprivation is a relapse trigger
+## Why sleep deprivation is a relapse trigger
 
 This isn't a metaphor. Sleep deprivation directly increases craving through measurable neurological mechanisms.
 
@@ -38,7 +60,7 @@ This isn't a metaphor. Sleep deprivation directly increases craving through meas
 
 Add these effects together and you get a person who is more impulsive, more emotionally reactive, less able to think long-term, more craving-prone, and less capable of managing the craving once it arrives. That's not a bad day. That's a neurological setup for relapse.
 
-### The sleep-recovery timeline nobody explains
+## The sleep-recovery timeline nobody explains
 
 Just as [dopamine recovery follows a timeline](/articles/how-long-to-reset-dopamine-timeline), so does sleep recovery. And they're intertwined — you can't fully restore one without the other.
 
@@ -50,7 +72,7 @@ Just as [dopamine recovery follows a timeline](/articles/how-long-to-reset-dopam
 
 **Months 3-6:** Sleep architecture approaches normal for most substances. Heavy stimulant and opioid users may take longer. Some studies show persistent sleep abnormalities in methamphetamine users for up to 12 months.
 
-### What actually helps
+## What actually helps
 
 **Anchor your wake time, not your bedtime.** The most effective sleep intervention isn't going to bed earlier — it's waking up at the same time every day, including weekends. This anchors your circadian rhythm and builds consistent sleep pressure that makes falling asleep at night easier. Pick a wake time and hold it. Let your bedtime find its natural point.
 
@@ -66,7 +88,7 @@ Just as [dopamine recovery follows a timeline](/articles/how-long-to-reset-dopam
 
 **Be extremely cautious with sleep medications.** In recovery, sleep medications carry specific risks. Benzodiazepine sleep aids (temazepam, etc.) are themselves addictive. Z-drugs (zolpidem/Ambien) have abuse potential. Even over-the-counter antihistamines (Benadryl) can interfere with REM sleep. If sleep problems persist beyond the first month, discuss non-addictive options with a physician who knows your recovery history. Melatonin (0.3-1mg, not the commonly sold 5-10mg doses) and magnesium glycinate are lower-risk options worth trying first.
 
-### Sleep as recovery infrastructure
+## Sleep as recovery infrastructure
 
 Think of sleep not as a reward for a good day but as the foundation that determines whether good days are possible. Your brain does its most intensive repair during sleep — receptor upregulation, synaptic consolidation, emotional processing, memory integration, cortisol clearance. Every recovery mechanism you're investing in — exercise, therapy, meditation, social connection — produces its long-term benefits during sleep.
 
@@ -74,35 +96,16 @@ A person who's doing everything right in recovery but sleeping 5 hours a night i
 
 This isn't glamorous recovery advice. It doesn't make for a compelling story at a meeting. Nobody's recovery memoir opens with "First, I fixed my sleep schedule." But if you're stuck — if the cravings aren't getting better, if the [anhedonia](/articles/anhedonia-after-quitting-how-long-it-lasts) won't lift, if the emotional swings keep blindsiding you — look at your sleep before you look at anything else. It might be the weakest link in the chain.
 
-
-
-### Frequently Asked Questions
-
-**Why can't I sleep in early recovery?**
-Virtually every substance of abuse disrupts sleep architecture. When you quit, the disruption continues as the brain recalibrates — insomnia, vivid dreams, and fragmented nights are normal features of early recovery that typically resolve over weeks to months.
-
-**Does poor sleep cause relapse?**
-Sleep deprivation increases relapse risk through multiple mechanisms: it impairs prefrontal cortex function (reducing impulse control), amplifies emotional reactivity, downregulates dopamine receptors (intensifying cravings), and keeps stress hormones elevated. One night of poor sleep produces measurable craving increases.
-
-**How long does it take for sleep to normalize after quitting?**
-For most substances, sleep onset improves within 2-4 weeks. Full sleep architecture recovery (including normal deep sleep and REM cycling) typically takes 1-3 months. Heavy stimulant and opioid users may experience persistent sleep abnormalities for 6-12 months.
-
-**What's the best sleep aid for people in recovery?**
-Non-pharmacological approaches — consistent wake time, morning light exposure, stimulus control, and CBT-I techniques — are first-line. If supplements are needed, low-dose melatonin (0.3-1mg) and magnesium glycinate are lower-risk options. Benzodiazepine and Z-drug sleep aids carry addiction risk and should be discussed with a physician familiar with your recovery history.
-
-### Sources
+## Sources
 
 - Walker M. *Why We Sleep: Unlocking the Power of Sleep and Dreams*. Scribner, 2017.
 - Brower KJ. "Insomnia, alcoholism and relapse." *Sleep Med Rev*. 2003;7(6):523-539. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15018094/)
 - Angarita GA, et al. "Sleep abnormalities associated with alcohol, cannabis, cocaine, and opiate use: A comprehensive review." *Addict Sci Clin Pract*. 2016;11(1):9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27117064/)
 - Lembke A. *Dopamine Nation*. Dutton, 2021.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit includes daily structure protocols for early recovery — including morning and evening routines designed to protect sleep, reduce nighttime craving vulnerability, and support neurochemical repair.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice. If you are experiencing severe insomnia or sleep disruption in recovery, please consult a healthcare provider."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice. If you are experiencing severe insomnia or sleep disruption in recovery, please consult a healthcare provider.",
   };

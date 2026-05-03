@@ -5,7 +5,24 @@ export const article: Article = {
     title: "Cold Plunging for Addiction Recovery: The Science",
     description: "Cold water immersion produces a dopamine spike comparable to cocaine — but with a slow rise and long tail. Here's the science and a protocol for recovery.",
     publishedAt: "2025-08-10",
+    modifiedAt: "2026-05-03",
     category: "recovery-lifestyle",
+    quickAnswer:
+      "A 2000 Charles University study found one hour at 14°C raised plasma dopamine by ~250% — comparable to cocaine — but with the opposite curve: slow rise, long elevated tail, no crash. Cold exposure presses on the pain side of the pleasure-pain balance, triggering your brain's own dopamine production while it heals. Start with 30 seconds at the end of a shower.",
+    faqs: [
+      {
+        q: "Does cold water therapy help with addiction recovery?",
+        a: "Research suggests yes. A study at Charles University in Prague found that cold water immersion at 14°C increased plasma dopamine by approximately 250%, with levels remaining elevated for over an hour. It provides a clean dopamine source without the addictive crash cycle, which is why it pairs well with the dopamine-deficit state of early recovery.",
+      },
+      {
+        q: "How cold does the water need to be for dopamine benefits?",
+        a: "The Prague study used 14°C (57°F). Practical protocols suggest starting with cold shower finishes (30 seconds) and progressing to 2-5 minutes of full cold immersion. Even brief cold exposure produces measurable neurochemical effects. Consistency matters more than intensity — a daily 2-minute cold shower beats a weekly 10-minute ice bath.",
+      },
+      {
+        q: "Is cold plunging safe during recovery?",
+        a: "For most people, yes — but consult a physician first, especially if you have cardiovascular conditions. Start gradually with cold shower finishes before progressing to full immersion, and never immerse alone in very cold water. The cold shock can stress the cardiovascular system, so build tolerance progressively.",
+      },
+    ],
     content: `One of the most counterintuitive findings in addiction science is this: deliberately doing something uncomfortable can produce a cleaner, longer-lasting high than most drugs.
 
 Not a metaphorical high. An actual, measurable increase in the same neurotransmitter — dopamine — that drugs hijack.
@@ -22,7 +39,7 @@ For context, here is how that compares to dopamine increases measured in other s
 
 Read that again. Cold water — something freely available to anyone with a shower — produces a dopamine response comparable to cocaine. Except with one critical difference that changes everything about its usefulness in recovery.
 
-### The difference: slow rise, long tail
+## The difference: slow rise, long tail
 
 Cocaine spikes dopamine fast and crashes hard. The entire cycle — surge, peak, crash — happens in minutes. That fast spike is precisely what makes it addictive. The faster dopamine rises, the harder it falls, and the more your brain craves the next hit.
 
@@ -32,7 +49,7 @@ This is the key principle from addiction neuroscience that psychiatrist [Anna Le
 
 Pain leads to pleasure through the body's own regulatory mechanisms. Pleasure leads to pain through tolerance and withdrawal. The direction matters.
 
-### How this works in recovery: a real example
+## How this works in recovery: a real example
 
 In *Dopamine Nation*, Lembke describes a patient named Michael — a former cocaine and alcohol user who discovered cold water immersion by accident during early recovery.
 
@@ -44,7 +61,7 @@ He described the experience bluntly: "For the first five to ten seconds, my body
 
 Michael maintained this practice daily for three years. He credits it as a key pillar of his recovery.
 
-### The neuroscience: why pain can heal a broken reward system
+## The neuroscience: why pain can heal a broken reward system
 
 When you abuse substances for a long time, your brain down-regulates its own dopamine production — a process well documented by the [National Institute on Drug Abuse](https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction). It has been getting so much artificial dopamine that it dials back the natural supply. This is what creates the dopamine deficit state — the flatness, the inability to enjoy normal things, the sensation that nothing is interesting or pleasurable anymore. (The full [dopamine recovery timeline](/articles/how-long-to-reset-dopamine-timeline) depends on your substance and history of use.)
 
@@ -54,7 +71,7 @@ Over time, with repeated exposure, something remarkable happens. The initial pai
 
 This is the exact opposite of what happens with addictive drugs, where the pleasure gets shorter and weaker while the pain gets longer and stronger.
 
-### A practical protocol for recovery
+## A practical protocol for recovery
 
 If you want to try cold exposure as a recovery tool, here is a realistic starting protocol. This isn't medical advice — talk to your doctor first, especially if you have cardiovascular conditions.
 
@@ -72,7 +89,7 @@ If you want to try cold exposure as a recovery tool, here is a realistic startin
 - Don't use a hot shower immediately after — warming up gradually allows the neurochemical effects to build.
 - Track your mood before and after for the first two weeks. Most people notice a clear pattern within days.
 
-### What cold exposure is not
+## What cold exposure is not
 
 It is important to be honest about what cold water therapy can and cannot do.
 
@@ -82,7 +99,7 @@ What it can do is give your damaged reward system a clean source of dopamine whi
 
 And it is free. It requires no prescription, no appointment, no equipment beyond a shower.
 
-### The deeper principle
+## The deeper principle
 
 The cold plunge works because it embodies a principle that runs through all of recovery: the willingness to move toward discomfort rather than away from it. Every addictive behavior is, at its root, an attempt to escape pain. Recovery asks you to do the opposite — to face the pain, sit with it, and discover that on the other side of it, your brain's natural reward system is still there, still working, waiting to come back online.
 
@@ -90,26 +107,11 @@ The cold water is just one way to practice that principle with your whole body.
 
 
 
-### Frequently Asked Questions
-
-**Does cold water therapy help with addiction recovery?**
-Research suggests yes. A study at Charles University in Prague found that cold water immersion at 14°C increased plasma dopamine by approximately 250%, with levels remaining elevated for over an hour — providing a clean dopamine source without the addictive crash cycle.
-
-**How cold does the water need to be for dopamine benefits?**
-The Prague study used 14°C (57°F). Practical protocols suggest starting with cold shower finishes (30 seconds) and progressing to 2-5 minutes of full cold immersion. Even brief cold exposure produces measurable neurochemical effects.
-
-**Is cold plunging safe during recovery?**
-For most people, yes — but consult a physician first, especially if you have cardiovascular conditions. Start gradually and never immerse alone in very cold water.
-
-### Sources
+## Sources
 
 - Šrámek P, Šimečková M, Janský L, Šavlíková J, Vybíral S. "Human physiological responses to immersion into water of different temperatures." *Eur J Appl Physiol*. 2000;81(5):436-442. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10751106/)
 - Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
 - Di Chiara G, Imperato A. "Drugs abused by humans preferentially increase synaptic dopamine concentrations in the mesolimbic system of freely moving rats." *Proc Natl Acad Sci USA*. 1988;85(14):5274-5278.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

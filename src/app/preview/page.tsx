@@ -13,6 +13,10 @@ export const metadata: Metadata = {
   openGraph: {
     url: "https://www.cravingtoolkit.com/preview",
   },
+  robots: {
+    index: false,
+    follow: true,
+  },
 };
 
 export default function PreviewPage() {

@@ -3,9 +3,27 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "boredom-tolerance-recovery-skill",
     title: "Boredom Tolerance: The Recovery Skill Nobody Teaches You",
-    description: "Every program teaches you to handle cravings. Almost none teach you how to be bored. Boredom intolerance is the most underrated relapse trigger.",
+    description:
+      "Every program teaches you to handle cravings. Almost none teach you how to be bored. Boredom intolerance is the most underrated relapse trigger.",
     publishedAt: "2025-08-22",
+    modifiedAt: "2026-05-03",
     category: "early-recovery",
+    quickAnswer:
+      "Every recovery program teaches you to handle cravings. Almost none teach you how to be bored — and boredom intolerance is one of the most underrated relapse triggers. Boredom tolerance is a trainable skill. Build it the same way you build physical endurance: deliberate, graduated exposure to empty time without reaching for a stimulation escape.",
+    faqs: [
+      {
+        q: "Why is boredom such a strong relapse trigger?",
+        a: "Because boredom does not announce itself like a craving — it just sits there, quietly corroding your resolve. There are several flavors (apathetic, searching, reactant, calibrating) and each carries a specific risk: from giving up entirely, to mindlessly scrolling into a triggering situation, to the \"screw it, I deserve something\" attitude that precedes use.",
+      },
+      {
+        q: "Can you actually train boredom tolerance?",
+        a: "Yes. Start with micro-exposures: eat one meal with no screen, wait in a line without your phone, sit in your car for two minutes after parking. Increase to longer unstimulated walks, then half-mornings without planned activity. The mechanics are identical to urge surfing — observe, breathe, let it pass.",
+      },
+      {
+        q: "Why are modern brains especially boredom-intolerant?",
+        a: "Because the smartphone in your pocket guarantees no moment goes un-stimulated. Most people now have almost no experience of sustained boredom — the muscle has atrophied. Recovery requires extended low-stimulation periods while your dopamine system recalibrates, which feels excruciating to a nervous system that has never developed the tolerance for empty time.",
+      },
+    ],
     content: `Every recovery program teaches you how to handle cravings. How to manage triggers. How to navigate high-risk situations. How to call your sponsor, go to a meeting, use a coping skill.
 
 Almost none of them teach you how to be bored.
@@ -14,7 +32,7 @@ And yet boredom — specifically, the inability to tolerate it — might be the 
 
 Boredom tolerance is a skill. Like any skill, it can be trained. And for people in recovery, it may be the most important skill that nobody thinks to develop.
 
-### Why boredom is so dangerous in recovery
+## Why boredom is so dangerous in recovery
 
 Boredom is not just "having nothing to do." It is an emotional state, and a surprisingly complex one. Research identifies at least five distinct types of boredom, and several of them are directly relevant to addiction.
 
@@ -28,7 +46,7 @@ Boredom is not just "having nothing to do." It is an emotional state, and a surp
 
 Each of these states carries a specific relapse risk. Apathetic boredom can lead to giving up entirely. Searching boredom leads to impulsive exposure to triggers. Reactant boredom produces the "I don't care anymore" attitude that precedes use. Calibrating boredom creates a vacuum that the addictive voice is eager to fill.
 
-### Why modern brains are especially boredom-intolerant
+## Why modern brains are especially boredom-intolerant
 
 Humans have always struggled with boredom. But the modern brain is uniquely bad at tolerating it, for a reason that goes beyond addiction.
 
@@ -38,7 +56,7 @@ As a result, most modern people have almost no experience of sustained boredom. 
 
 For someone in recovery, this is a serious problem. Recovery involves extended periods of low stimulation while your dopamine system recalibrates. If you have spent years ensuring that no moment goes un-stimulated, those periods will feel excruciating — not because of the addiction specifically, but because you have never developed the tolerance for empty time that recovery demands.
 
-### Boredom tolerance as a trainable skill
+## Boredom tolerance as a trainable skill
 
 The good news: boredom tolerance responds to training, just like physical endurance. You would not run a marathon without training. You should not expect to sit with extended discomfort without building up to it.
 
@@ -76,7 +94,7 @@ Designate one day per week (or per month) as a low-stimulation day. Minimal scre
 
 When boredom arises — and it will — practice sitting with it for at least five minutes before responding. Not fighting it. Not analyzing it. Just allowing it to exist without reacting. This builds the same distress tolerance muscle that urge surfing builds for cravings. The mechanics are identical: observe, breathe, let it pass.
 
-### What happens on the other side of boredom
+## What happens on the other side of boredom
 
 Here is the part that surprises almost everyone who actually trains boredom tolerance: what comes after the discomfort is not more boredom. It is something else entirely.
 
@@ -88,7 +106,7 @@ Another patient, Muhammad, was hiking at Point Reyes during a cannabis abstinenc
 
 These are not feel-good anecdotes. They are descriptions of what happens when a recalibrated dopamine system encounters the world without a filter of overstimulation. The world does not change. Your ability to perceive its richness does.
 
-### The skill underneath all the other skills
+## The skill underneath all the other skills
 
 Boredom tolerance is not just one more coping technique to add to the list. It is the foundation that makes all the other techniques possible.
 
@@ -98,19 +116,14 @@ Every recovery skill involves, at some point, the ability to sit with something 
 
 Train it. Start small. Get comfortable with uncomfortable. The emptiness is not the enemy. It is the space where your recovery grows.
 
-
-
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
 - Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit includes practical tools for building distress tolerance, managing boredom-triggered cravings, and navigating the empty stretches of early recovery when nothing feels worth doing.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
   };

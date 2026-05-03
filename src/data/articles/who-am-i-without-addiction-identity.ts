@@ -5,7 +5,24 @@ export const article: Article = {
     title: "Who Am I Without Addiction? Rebuilding Identity",
     description: "Around month 2-3, the question hits: who am I now? How to rebuild identity when the substance was everything — through action, ritual, and narrative.",
     publishedAt: "2025-11-16",
+    modifiedAt: "2026-05-03",
     category: "recovery-lifestyle",
+    quickAnswer:
+      "Around month 2-3, after the acute crisis fades, an identity vacuum opens. Addiction wasn't something you had — it was something you became, woven into rituals, social life, and self-concept through thousands of repetitions. Identity rebuilds through action, not thinking. Build new daily rituals, accept being a beginner at something, and connect with people who reflect the self you're building.",
+    faqs: [
+      {
+        q: "Why does recovery feel like losing yourself?",
+        a: "Because it is. Identity is built from repetition, and addiction is repetition on steroids — thousands of reinforced cycles that wove the substance into your daily rituals, social life, internal narrative, and self-concept. When you remove the substance, the entire scaffold organized around it collapses. The grief is real and proportional to how central the addiction became.",
+      },
+      {
+        q: "How long does the identity crisis last in recovery?",
+        a: "It typically peaks around month 2-3, after acute withdrawal has passed but before the new identity has formed. The vacuum can last months — sometimes longer — because identity reconstruction requires repeated new experiences, not just time. The pull to relapse during this phase is often less about craving and more about wanting to be someone again.",
+      },
+      {
+        q: "How do you rebuild identity after addiction?",
+        a: "Through action, not belief. Start with new daily rituals (morning routine, evening structure). Pick one thing you're willing to be bad at and commit to it. Tell a new story about who you're becoming. Spend time with people who embody the qualities you want. Each new repetition strengthens the neural pathways encoding the new self until doing becomes being.",
+      },
+    ],
     content: `There is a question that hits somewhere around month two or three of recovery, after the withdrawal has passed and the acute crisis has faded. It doesn't arrive as a craving. It arrives as a void.
 
 Who am I now?
@@ -16,7 +33,7 @@ And now it is gone. You took it out. And where it used to be, there is a space s
 
 This isn't boredom. It's not anhedonia. It's an identity crisis. And almost nobody in recovery talks about it, because the recovery world is focused on stopping the behavior, not on answering the question that the stopping reveals.
 
-### How addiction becomes identity
+## How addiction becomes identity
 
 Identity is built from repetition. The things you do every day, the way you spend your time, the people you associate with, the stories you tell about yourself — these accumulate into a sense of self that feels stable and real.
 
@@ -28,7 +45,7 @@ This is why quitting feels like losing a part of yourself. Because you are.
 
 The drinking self knew how to walk into a party and be charming. The sober self doesn't know what to do with their hands. The using self had rituals — preparation, anticipation, consumption, comedown — that structured every evening. The clean self has empty evenings that stretch like deserts. The addicted self had a community, even if it was a destructive one. The recovering self looks around and sees no one who understands.
 
-### The identity vacuum
+## The identity vacuum
 
 The period after acute recovery — when the physical crisis has passed but the new life has not yet formed — is psychologically one of the most dangerous phases. Not because of cravings (though those persist), but because of the vacuum.
 
@@ -38,7 +55,7 @@ During active addiction, that thread was the substance. It provided continuity a
 
 This is when people are most vulnerable to relapse — not from the neurochemistry of craving, but from the psychology of identity. The addicted self, for all its destructiveness, was a complete self. It had answers to the basic questions: what do I do, who am I with, what do I care about, what am I good at. The recovering self has none of those answers yet. And the pull to go back to the old self is not about wanting the substance. It is about wanting to be someone again.
 
-### What the neuroscience says about identity change
+## What the neuroscience says about identity change
 
 The good news — and there is genuinely good news here — is that identity is not permanent. It is a neural construction. And neural constructions can be rebuilt.
 
@@ -52,7 +69,7 @@ Brian, another of Lewis's subjects, overcame methamphetamine addiction by develo
 
 The transformation was not instantaneous. It was a developmental process, unfolding over years. But the direction was clear: from a narrowed self organized around a substance to an expanded self organized around meaning.
 
-### How to rebuild identity in practice
+## How to rebuild identity in practice
 
 Identity reconstruction doesn't happen by thinking about it. It happens by doing things — repeatedly, consistently, until the doing becomes being.
 
@@ -70,7 +87,7 @@ This is where courage matters. Pick one thing — learning to cook, returning to
 
 **Connect with people who reflect the self you are building.** Identity is social. You become who you spend time with — not because of peer pressure, but because mirror neurons and social reinforcement shape your self-concept. Surround yourself with people who embody the qualities you want to develop. This might be a recovery community, a sports group, a professional network, a volunteer organization, or simply one or two friends whose lives reflect the direction you want to move.
 
-### The grief is real
+## The grief is real
 
 One more thing that needs to be said: losing your addicted identity involves grief. Real grief. Not for the substance — for the self.
 
@@ -84,14 +101,10 @@ You are not who you were. You are who you are becoming.
 
 
 
-### Sources
+## Sources
 
 - Lewis M. *The Biology of Desire*. PublicAffairs, 2015.
 - Oyserman D, Elmore K, Smith G. "Self, self-concept, and identity." In: Leary MR, Tangney JP, eds. *Handbook of Self and Identity*. 2012.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

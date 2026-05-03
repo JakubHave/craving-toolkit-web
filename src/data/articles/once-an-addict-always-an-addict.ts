@@ -3,9 +3,27 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "once-an-addict-always-an-addict",
     title: "Once an Addict, Always an Addict? Not Quite",
-    description: "Does 'once an addict, always an addict' hold up? Neuroplasticity tells a different story — the brain that learned addiction can learn its way out.",
+    description:
+      "Does 'once an addict, always an addict' hold up? Neuroplasticity tells a different story — the brain that learned addiction can learn its way out.",
     publishedAt: "2025-10-29",
+    modifiedAt: "2026-05-03",
     category: "understanding-addiction",
+    quickAnswer:
+      "The neuroscience tells a more nuanced story than the slogan. Sensitization — a heightened cue response — does persist long-term, so vigilance is reasonable. But the brain that was reshaped by addiction continues to reshape itself during recovery. Most people who meet addiction criteria eventually achieve stable remission. You are not a permanent identity. You are a learner whose pathways are still being rewritten.",
+    faqs: [
+      {
+        q: "Is addiction permanent?",
+        a: "The neural pathways formed during addiction do not fully erase — sensitization to cues persists long-term. However, these pathways weaken with sustained disuse while new pathways strengthen, meaning addiction's grip progressively loosens. Most people who meet addiction criteria eventually achieve stable recovery.",
+      },
+      {
+        q: "Should I call myself an addict?",
+        a: "That is a personal decision. For some people, the identity provides vigilance and community. For others, it limits their self-concept and creates a self-fulfilling prophecy. The neuroscience suggests you are not permanently defined by your worst habit — but respecting the residual vulnerability is wise.",
+      },
+      {
+        q: "Can the brain fully heal from addiction?",
+        a: "Dopamine receptors regenerate, prefrontal connections rebuild, and the reward system rebalances with sustained abstinence. Some cue sensitivity persists permanently, but the overall brain configuration changes significantly during recovery. Many people in long-term recovery describe functioning better than before the addiction.",
+      },
+    ],
     content: `This phrase has echoed through recovery rooms for decades. It is spoken with reverence in twelve-step meetings. It is printed on medallions. It is whispered by parents, partners, and friends who love someone with addiction. And it is presented as a permanent truth about who you are.
 
 Once an addict, always an addict.
@@ -16,7 +34,7 @@ For others, it becomes a prison. A sentence without a release date. A label that
 
 So which is it? Is the identity useful or harmful? And what does the neuroscience actually say about whether addiction is permanent?
 
-### Where the "always" comes from
+## Where the "always" comes from
 
 The "once an addict, always an addict" belief has two roots.
 
@@ -28,7 +46,7 @@ The second root is institutional. The disease model of addiction, as promoted by
 
 Both of these roots contain real observations. Sensitization is a genuine neurological phenomenon. And chronic relapse is a genuine clinical pattern. But the conclusion drawn from them — that addiction is a permanent identity — does not follow from the evidence as cleanly as it appears.
 
-### What neuroplasticity actually says
+## What neuroplasticity actually says
 
 The human brain is not static. It is the most adaptable organ in the body, capable of profound structural reorganization in response to new experiences. This is neuroplasticity, and it's not a fringe concept — it's the foundational principle of modern neuroscience.
 
@@ -40,7 +58,7 @@ But the same mechanism that carved those pathways can build new ones. When you r
 
 This is not theoretical. Brain imaging studies — including those compiled by the [National Institute on Drug Abuse](https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction) — show measurable recovery of dopamine receptor density, prefrontal cortex function, and striatal connectivity in people who sustain abstinence. The brain that was [changed by addiction changes again during recovery](/articles/how-addiction-changes-your-brain-and-heals). Not back to its original state — but into something new.
 
-### The identity trap
+## The identity trap
 
 The "once an addict, always an addict" framework does something subtle and potentially damaging: it fuses your identity with your addiction.
 
@@ -52,7 +70,7 @@ Lewis's research shows that people who successfully overcome addiction often und
 
 That framing misses something. It is development. The same brain that grew into addiction can grow beyond it, and that growth often includes a new sense of self that is incompatible with the old behavior. When your identity changes, the behavioral gravity shifts with it.
 
-### What the data actually shows about permanence
+## What the data actually shows about permanence
 
 The "chronic, relapsing" label suggests that addiction is a life sentence. But the epidemiological data tells a more nuanced story.
 
@@ -62,7 +80,7 @@ This phenomenon is sometimes called "natural recovery" or "[maturing out](/artic
 
 This doesn't mean addiction is trivial or that everyone recovers. Some people die from their addiction. Some struggle for decades. The severe end of the spectrum is real and devastating. But the "once an addict, always an addict" framing overgeneralizes from the most severe cases to the entire population, creating a narrative of permanence that doesn't match the data for most people.
 
-### Sensitization is real — but it is not identity
+## Sensitization is real — but it is not identity
 
 The most honest version of "once an addict, always an addict" is really about sensitization: the conditioned response to addiction-related cues does not fully extinguish. A person who was addicted to alcohol may always have a stronger cue response to the sight and smell of beer than someone who was never addicted.
 
@@ -72,7 +90,7 @@ But sensitization is a neurological feature, not an identity. Having a sensitize
 
 The distinction matters because identity drives behavior. If you believe you are permanently an addict, you may treat every moment of temptation as evidence that the disease is winning. If you understand that you have a sensitized neural pathway that occasionally fires in response to old cues — and that this firing is a manageable neurological event, not a verdict on your character — you respond to it differently. With less fear. With more competence. With the knowledge that the wave will pass, as it always does, and that you are more than the pathway.
 
-### What to do with this information
+## What to do with this information
 
 You don't need to choose between "once an addict, always an addict" and "I'm completely cured." Both extremes are inaccurate.
 
@@ -84,7 +102,7 @@ You don't need to choose between "once an addict, always an addict" and "I'm com
 
 **Use the past as data, not as destiny.** Your history with addiction gives you information — about your triggers, your vulnerabilities, your patterns, your needs. Use that information strategically. It is the most valuable data you have about your own brain. But data is not destiny. Knowing that you are vulnerable to a pattern is not the same as being condemned to repeat it.
 
-### You are not who you were
+## You are not who you were
 
 The brain you have today is not the brain you had at the height of your addiction. It has been reshaped by every day of abstinence, every new habit, every honest conversation, every difficult emotion you sat with instead of numbing. It is a different brain. Not perfect. Not invulnerable. But different.
 
@@ -92,31 +110,15 @@ The person you are today is not the person who picked up the substance for the l
 
 Once an addict, always an addict? The neuroscience says: once a learner, always a learner. And the learning did not stop when the addiction started. It does not stop now.
 
-
-
-### Frequently Asked Questions
-
-**Is addiction permanent?**
-The neural pathways formed during addiction do not fully erase — sensitization to cues persists long-term. However, these pathways weaken with sustained disuse while new pathways strengthen, meaning addiction's grip progressively loosens. Most people who meet addiction criteria eventually achieve stable recovery.
-
-**Should I call myself an addict?**
-That is a personal decision. For some people, the identity provides vigilance and community. For others, it limits their self-concept and creates a self-fulfilling prophecy. The neuroscience suggests you are not permanently defined by your worst habit — but respecting the residual vulnerability is wise.
-
-**Can the brain fully heal from addiction?**
-Dopamine receptors regenerate, prefrontal connections rebuild, and the reward system rebalances with sustained abstinence. Some cue sensitivity persists permanently, but the overall brain configuration changes significantly during recovery. Many people in long-term recovery describe functioning better than before the addiction.
-
-### Sources
+## Sources
 
 - Lewis M. *The Biology of Desire*. PublicAffairs, 2015.
 - Grant BF, et al. "Epidemiology of DSM-5 Alcohol Use Disorder." *JAMA Psychiatry*. 2015;72(8):757-766.
 - Heyman GM. *Addiction: A Disorder of Choice*. Harvard University Press, 2009.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit is built for the person you are becoming — not the person you were. It provides practical tools for every stage of recovery, from the first 10 minutes of a craving to the long-term work of building a life that makes the old patterns irrelevant.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
 };

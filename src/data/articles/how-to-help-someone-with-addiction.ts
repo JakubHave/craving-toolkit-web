@@ -5,14 +5,35 @@ export const article: Article = {
     title: "How to Help Someone With Addiction",
     description: "You can't make someone recover. But you can change the environment. Here's what works — boundaries vs. ultimatums, when to stop enabling, and self-care.",
     publishedAt: "2026-01-13",
+    modifiedAt: "2026-05-03",
     category: "recovery-lifestyle",
+    quickAnswer:
+      "You can't make someone recover. You can change the environment they're recovering in. Logic fails because their prefrontal cortex is sidelined; anger triggers shame, which triggers more use; enabling absorbs the consequences that motivate change. What works: educate yourself about the neuroscience, set boundaries (what you'll do) instead of ultimatums, stop shielding them from natural consequences, and get your own support.",
+    faqs: [
+      {
+        q: "How do you help an addict who doesn't want help?",
+        a: "You can't force recovery. But you can change the conditions: stop enabling (don't shield them from consequences), set clear boundaries (define what you will and won't accept), stay connected without participating in the addiction, and offer information and options without demanding action. Seeds planted now may matter later, even if nothing visibly changes today.",
+      },
+      {
+        q: "Should I give an ultimatum to someone with addiction?",
+        a: "Ultimatums (\"if you use again, I'm leaving\") put the power in their hands and often fail because you may not follow through — which teaches them your words don't mean anything. Boundaries (\"I won't be present when you're intoxicated\") put the power in your hands and can be enforced consistently. Boundaries are generally more effective.",
+      },
+      {
+        q: "Is enabling an addict harmful?",
+        a: "Yes. Shielding someone from the natural consequences of their addiction — covering at work, paying debts, making excuses — removes the accumulated cost that often motivates change. It transfers pain from the person who needs to feel it to you. Stopping enabling isn't punishment. It's allowing reality to do the work your arguments can't.",
+      },
+      {
+        q: "How do I take care of myself while supporting an addict?",
+        a: "Seek your own support: Al-Anon, therapy, SMART Recovery Family & Friends. Maintain your own routines, relationships, and health. Set boundaries and enforce them. Remember that your needs are not selfish — they're essential. You can't sustain support for someone else if you're depleted yourself.",
+      },
+    ],
     content: `You've watched someone you love disappear into a substance or behavior. You've tried everything — begging, threatening, bargaining, crying, ignoring, enabling, ultimatums. Some of it worked for a day. None of it worked for long. And now you're exhausted, confused, and terrified that the next call will be the one you've been dreading.
 
 This article isn't going to give you a script that magically fixes them. That script doesn't exist. What does exist is a set of principles — grounded in what addiction actually is, neurologically — that can help you stop doing the things that make it worse and start doing the things that create conditions for change.
 
 The hardest part to accept is the part you need to hear first: you cannot make someone recover. You can only change the environment they're recovering in. And sometimes the most important part of that environment is you.
 
-### Why the things you've tried don't work
+## Why the things you've tried don't work
 
 Before you can help effectively, you need to understand why the obvious strategies fail.
 
@@ -24,7 +45,7 @@ Before you can help effectively, you need to understand why the obvious strategi
 
 **Withdrawing love entirely confirms the addictive voice.** The addictive voice tells the person they're worthless, unlovable, beyond help. When you cut contact completely — "I'm done, don't call me" — you're confirming the voice's narrative. This doesn't mean you should accept abuse or sacrifice your own wellbeing. It means that total emotional withdrawal, without nuance, can deepen the [isolation that fuels addiction](/articles/loneliness-and-addiction).
 
-### What actually helps
+## What actually helps
 
 **Educate yourself about what addiction actually is.** This sounds basic, but it changes everything. When you understand that addiction involves measurable brain changes — [dopamine system dysregulation](/articles/how-long-to-reset-dopamine-timeline), weakened prefrontal-striatal connections, hijacked [habit loops](/articles/habit-loop-addiction-cue-routine-reward) — you stop interpreting the behavior as a choice and start seeing it as a condition. Not a condition that removes responsibility, but one that explains why willpower alone keeps failing.
 
@@ -60,7 +81,7 @@ Plant seeds. Don't force blooms.
 
 You need support too. Al-Anon, Nar-Anon, [SMART Recovery Family & Friends](https://smartrecovery.org/family/), or individual therapy with someone who understands addiction. Not because you're broken, but because you're carrying something too heavy to carry alone. And because the best thing you can do for the person you love is to be stable, clear-headed, and emotionally resourced enough to hold a boundary when it matters.
 
-### What recovery looks like from the outside
+## What recovery looks like from the outside
 
 If your loved one does begin recovery, be prepared for it to look nothing like you expected.
 
@@ -72,7 +93,7 @@ They may become a different person than you remember — because they were a dif
 
 They will probably slip at least once. A slip is not a relapse unless the [screw-it moment](/articles/screw-it-moment-all-or-nothing) wins. Your response to the slip matters enormously. If you react with "I knew you couldn't do it," you reinforce the all-or-nothing thinking that turns slips into binges. If you react with "that happened, and you're still here, and what do we do now?" — you model the flexible, non-catastrophic thinking that recovery requires.
 
-### The question nobody asks you
+## The question nobody asks you
 
 Everyone asks about them. How are they doing? Are they sober? Are they in treatment? Are they okay?
 
@@ -86,31 +107,13 @@ You can't fix them. You can refuse to break yourself trying.
 
 
 
-### Frequently Asked Questions
-
-**How do you help an addict who doesn't want help?**
-You can't force recovery. But you can change the conditions: stop enabling (don't shield them from consequences), set clear boundaries (define what you will and won't accept), stay connected without participating in the addiction, and offer information and options without demanding action. Seeds planted now may matter later.
-
-**Should I give an ultimatum to someone with addiction?**
-Ultimatums ("if you use again, I'm leaving") put the power in their hands and often fail because you may not follow through. Boundaries ("I won't be present when you're intoxicated") put the power in your hands and can be enforced consistently. Boundaries are generally more effective than ultimatums.
-
-**Is enabling an addict harmful?**
-Yes. Shielding someone from the natural consequences of their addiction — covering at work, paying debts, making excuses — removes the accumulated cost that often motivates change. It transfers pain from the person who needs to feel it to you. Stopping enabling isn't punishment. It's allowing reality to do the work your arguments can't.
-
-**How do I take care of myself while supporting an addict?**
-Seek your own support: Al-Anon, therapy, SMART Recovery Family & Friends. Maintain your own routines, relationships, and health. Set boundaries and enforce them. Remember that your needs are not selfish — they're essential. You can't sustain support for someone else if you're depleted yourself.
-
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation*. Dutton, 2021.
 - Maté G. *In the Realm of Hungry Ghosts*. Vintage Canada, 2008.
 - Meyers RJ, Wolfe BL. *Get Your Loved One Sober: Alternatives to Nagging, Pleading, and Threatening*. Hazelden, 2004.
 - Miller WR, Rollnick S. *Motivational Interviewing: Helping People Change*. 3rd ed. Guilford Press, 2012.
 - [SMART Recovery Family & Friends](https://smartrecovery.org/family/)
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

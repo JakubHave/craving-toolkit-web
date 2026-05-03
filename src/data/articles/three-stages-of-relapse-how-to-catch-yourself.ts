@@ -5,14 +5,31 @@ export const article: Article = {
     title: "The 3 Stages of Relapse and How to Catch Yourself",
     description: "Relapse is not a moment — it's a process that starts weeks before you pick up. Here are the three stages, warning signs, and how to intervene at each.",
     publishedAt: "2025-10-10",
+    modifiedAt: "2026-05-03",
     category: "triggers-and-relapse",
+    quickAnswer:
+      "Relapse runs in three stages: emotional (HALT — Hungry, Angry, Lonely, Tired; isolation, neglecting self-care), mental (active conflict — romanticizing, bargaining, looking for opportunities, lying), and physical (the use itself). By the time you're holding the substance, the process started weeks earlier with signals you could have caught. Each stage is harder to interrupt than the one before, which is why daily HALT checks are non-negotiable.",
+    faqs: [
+      {
+        q: "What are the three stages of relapse?",
+        a: "Emotional relapse (your emotional state deteriorates — isolation, bottling feelings, neglecting sleep/food/exercise — without conscious thought of using), mental relapse (active internal conflict — romanticizing past use, bargaining, looking for opportunities, lying or omitting), and physical relapse (the act of using). The earlier you catch yourself in the sequence, the easier it is to stop.",
+      },
+      {
+        q: "What is HALT in addiction recovery?",
+        a: "HALT stands for Hungry, Angry, Lonely, Tired — the four emotional/physical states most likely to set up a relapse. Each has a simple immediate response: eat, talk through it, connect with someone, sleep. Checking HALT daily is one of the most reliable early-warning systems for catching emotional relapse before it progresses.",
+      },
+      {
+        q: "What should I do if I've already slipped?",
+        a: "The 10 minutes after the first use are the most critical moment in the entire process. Stop immediately — one use does not undo your recovery. Tell someone immediately, not tomorrow. The addictive voice will say \"you already blew it, might as well keep going\" — that's the collapse spiral. The difference between a slip and a relapse is decided in this exact window.",
+      },
+    ],
     content: `Most people think relapse is a single event — the moment you pick up the drink, take the hit, open the app. One moment you are sober, the next you are not.
 
 But relapse is not a moment. It is a process. By the time you are holding the substance, the relapse has been underway for days or weeks. The actual use is just the final stage of a sequence that started long before, with signals you could have caught — if you had known what to look for.
 
 Understanding the three stages of relapse is not just academic. It is practical, potentially life-saving information, because each stage has different warning signs and different interventions. And the earlier you catch yourself in the sequence, the easier it is to stop.
 
-### Stage 1: Emotional relapse
+## Stage 1: Emotional relapse
 
 In emotional relapse, you are not thinking about using. You are not planning to use. You might not even be craving. But you are creating the internal conditions that make using increasingly likely.
 
@@ -42,7 +59,7 @@ Restore your routine. Emotional relapse often begins with the routine slipping �
 
 Be honest with yourself about how you feel. Emotional relapse thrives on the denial that anything is wrong. Naming the state — "I am in emotional relapse right now" — can be enough to disrupt the autopilot.
 
-### Stage 2: Mental relapse
+## Stage 2: Mental relapse
 
 If emotional relapse is not addressed, it progresses to mental relapse. This is where the conscious struggle begins. Part of you wants to use. Part of you does not. The two are in active conflict.
 
@@ -76,7 +93,7 @@ Use the delay technique. You do not have to win forever. You have to win the nex
 
 Surf the urge. If the craving has a physical component — tightness in the chest, restlessness, a buzzing energy — use the urge surfing technique. Observe the sensation. Breathe into it. Watch it peak and fall.
 
-### Stage 3: Physical relapse
+## Stage 3: Physical relapse
 
 Physical relapse is the act of using. By this point, the emotional foundation has eroded, the mental battle has been lost, and the behavior follows.
 
@@ -96,7 +113,7 @@ Tell someone immediately. Not tomorrow. Now. The shame wants you to hide. Hiding
 
 Analyze what happened. Once the immediate crisis is over, walk backward through the three stages. Where did the emotional relapse begin? What was the first HALT signal you ignored? When did the mental relapse start? What bargains did you make? This analysis is not about self-punishment — it is about updating your relapse prevention plan with real data from a real experience.
 
-### The earlier, the easier
+## The earlier, the easier
 
 Here is the most important takeaway: the three stages are a gradient of difficulty.
 
@@ -112,14 +129,10 @@ Check the HALT inventory every day. Maintain your sleep, your meals, your connec
 
 
 
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
 - Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

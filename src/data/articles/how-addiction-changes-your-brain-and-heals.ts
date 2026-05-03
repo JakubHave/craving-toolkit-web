@@ -3,9 +3,27 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "how-addiction-changes-your-brain-and-heals",
     title: "How Addiction Changes Your Brain — And How Your Brain Heals",
-    description: "Did addiction break your brain permanently? No. The changes are measurable but largely reversible. Here's what changed and how it heals.",
+    description:
+      "Did addiction break your brain permanently? No. The changes are measurable but largely reversible. Here's what changed and how it heals.",
     publishedAt: "2025-10-14",
+    modifiedAt: "2026-05-03",
     category: "understanding-addiction",
+    quickAnswer:
+      "Addiction produces measurable changes in three brain systems: the reward system (dopamine receptors and baseline production drop), the prefrontal cortex (impulse control and decision-making weaken), and the stress system (chronic anxiety and hyperactivation). All three are largely reversible. The same property that allowed addiction to develop — neuroplasticity — is what allows the brain to heal.",
+    faqs: [
+      {
+        q: "Does addiction permanently damage your brain?",
+        a: "No. Addiction produces measurable changes in brain structure and function, but the changes are largely reversible. Dopamine receptor density recovers within 30–90 days for most substances. Prefrontal cortex function takes 6–18 months. Some sensitization to old cues persists long-term, but it does not amount to permanent damage.",
+      },
+      {
+        q: "Which brain systems does addiction affect?",
+        a: "Three interconnected systems: the reward system (nucleus accumbens, where dopamine downregulation occurs), the prefrontal cortex (decision-making and impulse control, which becomes functionally weakened), and the stress system (amygdala, which becomes hyperactivated and produces chronic anxiety).",
+      },
+      {
+        q: "How long does it take for the brain to heal from addiction?",
+        a: "Reward system: 30–90 days for most substances; up to 12–14 months for heavy methamphetamine use. Prefrontal cortex: 6–18 months for full executive function recovery. Stress system: 3–6 months for many people, longer for those with significant trauma histories.",
+      },
+    ],
     content: `There is a question that haunts almost everyone in recovery at some point: did I break my brain permanently?
 
 The short answer: no. The longer answer explains why it feels like you did, what specifically changed, and how long it takes to change back.
@@ -14,7 +32,7 @@ Addiction is not a matter of weak character or poor decisions. It is a condition
 
 Your brain changed to accommodate the addiction. Given time and sustained abstinence, it changes back.
 
-### What changes: the three systems
+## What changes: the three systems
 
 Addiction affects three interconnected brain systems. Understanding which ones are altered — and how — makes the recovery process less mysterious and more navigable.
 
@@ -46,7 +64,7 @@ This hyperactivated stress system is one of the primary drivers of relapse. Even
 
 **Recovery timeline:** Stress system normalization is variable and depends heavily on whether the person has co-occurring trauma, anxiety disorders, or chronic stress. For many people, significant improvement occurs within 3–6 months. For others, particularly those with extensive trauma histories, the stress system may require ongoing work through therapy, mindfulness practices, or medication.
 
-### The neuroplasticity factor
+## The neuroplasticity factor
 
 Here is the single most important fact about addiction and the brain: the same property that allows addiction to develop is the property that allows recovery.
 
@@ -58,7 +76,7 @@ Recovery is the process of letting those pathways weaken while building new ones
 
 This process is slow. Neural pathways that were built over months or years of repetition do not disappear in weeks. But they do weaken with sustained disuse, and the competing pathways do strengthen with sustained practice. This is why recovery often feels imperceptibly gradual — and why people who have been sober for a year look back and are stunned by how much has changed.
 
-### What does not fully reverse
+## What does not fully reverse
 
 Honesty requires acknowledging that some changes may not fully reverse, particularly in cases of very severe, very long-term addiction.
 
@@ -70,7 +88,7 @@ This is not a sentence to lifelong struggle. It is information that supports lif
 
 This is why recovery is often described as a practice rather than a destination. Not because you are permanently broken — the idea that you are "[once an addict, always an addict](/articles/once-an-addict-always-an-addict)" oversimplifies the neuroscience — but because the neural infrastructure of the addiction, weakened but not deleted, requires ongoing maintenance to keep dormant.
 
-### How to support your brain's healing
+## How to support your brain's healing
 
 The brain heals itself. You cannot force neuroplasticity. But you can create the conditions in which it occurs most efficiently.
 
@@ -86,7 +104,7 @@ The brain heals itself. You cannot force neuroplasticity. But you can create the
 
 **Nutrition.** Your brain needs raw materials: tyrosine (a dopamine precursor found in protein), omega-3 fatty acids (structural components of neural membranes), and basic vitamins and minerals. This is not about supplements or superfoods — it is about not trying to rebuild a brain on a diet of processed food and caffeine.
 
-### The brain that heals is not the brain that broke
+## The brain that heals is not the brain that broke
 
 Here is something that rarely gets mentioned in clinical discussions but that people in long-term recovery consistently report: the brain that emerges from addiction recovery is not just a restored version of the pre-addicted brain. It is, in some ways, a different brain — one that has been through a profound neurological restructuring and has developed capacities that were not there before.
 
@@ -94,19 +112,14 @@ Greater emotional resilience. Deeper self-awareness. Enhanced ability to delay g
 
 Your brain is not permanently damaged. It is temporarily altered. And the brain that heals may be stronger than the one you started with.
 
-
-
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
 - Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit is built around the neuroscience of recovery — translating what we know about dopamine, neuroplasticity, and brain healing into practical daily tools.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
   };

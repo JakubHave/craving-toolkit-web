@@ -3,16 +3,38 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "ozempic-addiction-glp1-cravings",
     title: "Can Ozempic Help With Addiction?",
-    description: "Semaglutide reduced alcohol cravings more than existing meds in a clinical trial. Here's what GLP-1 drugs do to the reward system — and the caveats.",
+    description:
+      "Semaglutide reduced alcohol cravings more than existing meds in a clinical trial. Here's what GLP-1 drugs do to the reward system — and the caveats.",
     publishedAt: "2025-12-12",
+    modifiedAt: "2026-05-03",
     category: "understanding-addiction",
+    quickAnswer:
+      "A 2025 randomized clinical trial in JAMA Psychiatry found that low-dose semaglutide reduced alcohol craving, drinks per drinking day, and heavy drinking days in adults with alcohol use disorder — with effects exceeding those typically seen with existing AUD medications. GLP-1 receptors sit in the brain's reward circuitry, so the drug appears to dim the compulsive \"wanting\" signal. Promising. Not yet a cure.",
+    faqs: [
+      {
+        q: "Does Ozempic reduce alcohol cravings?",
+        a: "A 2025 clinical trial published in JAMA Psychiatry found that low-dose semaglutide (the active ingredient in Ozempic) reduced alcohol craving, drinks per drinking day, and heavy drinking days in adults with alcohol use disorder. The effects exceeded those typically seen with existing AUD medications, though larger trials are still needed.",
+      },
+      {
+        q: "Can Ozempic help with drug addiction?",
+        a: "The clinical evidence so far is specific to alcohol and, in a small subgroup, nicotine. Animal studies suggest GLP-1 receptor agonists may reduce the rewarding effects of other substances including cocaine and opioids, but human clinical trials for these substances haven't been completed yet.",
+      },
+      {
+        q: "How does Ozempic affect the brain's reward system?",
+        a: "GLP-1 receptors are present in brain regions central to reward and motivation, including the nucleus accumbens and ventral tegmental area. Semaglutide appears to modulate dopamine signaling in these areas, reducing the compulsive \"wanting\" signal without eliminating the capacity to experience pleasure.",
+      },
+      {
+        q: "Is Ozempic approved for treating addiction?",
+        a: "No. As of 2026, semaglutide is FDA-approved only for type 2 diabetes (Ozempic) and obesity (Wegovy). Any use for addiction is off-label. Several larger clinical trials are underway to determine whether FDA approval for alcohol use disorder may be warranted.",
+      },
+    ],
     content: `People started noticing something strange. They'd begin weekly injections of semaglutide — marketed as Ozempic for diabetes and Wegovy for weight loss — and a few weeks in, they'd realize they didn't want to drink anymore. Not "trying not to drink." Not white-knuckling through happy hour. Just... the desire had dimmed. The pull was gone.
 
 At first it was anecdotal. Reddit threads, patient reports, doctors quietly noting the pattern. Then the population studies came. A large Swedish health records analysis found that people with alcohol use disorder who were prescribed semaglutide had significantly lower hospitalization rates related to their drinking — reductions that exceeded those seen with medications actually approved for alcohol use disorder.
 
 In early 2025, the first randomized, placebo-controlled clinical trial confirmed what the anecdotes had been suggesting. The results, published in JAMA Psychiatry, are preliminary but striking — and they raise a question that could reshape addiction treatment: what if one of the most effective tools against cravings was already sitting in millions of people's refrigerators?
 
-### What the trial found
+## What the trial found
 
 The study, led by Christian Hendershot at USC's Institute for Addiction Science and Klara Klein at UNC School of Medicine, recruited 48 adults who met criteria for alcohol use disorder but weren't actively seeking treatment for it. Half received weekly injections of semaglutide at low doses (starting at 0.25 mg/week, increasing to 0.5 mg, then 1.0 mg in the final week). The other half received placebo.
 
@@ -29,7 +51,7 @@ An unexpected bonus: among a small subgroup of smokers in the trial, those on se
 
 Semaglutide didn't reduce the number of days people chose to drink — it reduced how much they drank when they did, and how much they craved it in between. That distinction matters. As one addiction psychiatrist noted, most people seeking treatment don't want lifelong abstinence as their goal. They want control. Semaglutide seems to offer something closer to that — a dimming of the compulsive pull rather than a forced stop.
 
-### How GLP-1 drugs might affect addiction
+## How GLP-1 drugs might affect addiction
 
 GLP-1 receptor agonists like semaglutide were designed to mimic a natural hormone called glucagon-like peptide-1, which regulates blood sugar, slows stomach emptying, and reduces appetite. Their popularity for weight loss is based on this appetite-suppression mechanism.
 
@@ -39,7 +61,7 @@ The researchers think — and this is still being investigated — that GLP-1 re
 
 Think of it this way: the drug doesn't block your ability to enjoy things. It turns down the volume on the compulsive wanting — the "I need this now" signal that addiction amplifies beyond reason. The substance still registers, but the desperate pull weakens. For someone who's spent years feeling like a puppet controlled by their cravings, that shift in volume can be transformative.
 
-### What this doesn't mean
+## What this doesn't mean
 
 Before anyone calls their doctor demanding a prescription, some critical context:
 
@@ -53,7 +75,7 @@ Before anyone calls their doctor demanding a prescription, some critical context
 
 **It doesn't address the underlying causes.** Even if semaglutide reduces craving, it doesn't resolve the [trauma](/articles/trauma-and-addiction-gabor-mate), the unprocessed emotions, the environmental triggers, or the identity crisis that often drive addiction. A medication that quiets the craving without addressing what created it may be useful as a bridge — but it's unlikely to be sufficient as a standalone treatment.
 
-### Where this fits in the bigger picture
+## Where this fits in the bigger picture
 
 What's most interesting about the Ozempic-addiction connection isn't the specific drug. It's what it reveals about the nature of craving itself.
 
@@ -65,34 +87,15 @@ For now, the practical takeaway is cautious optimism. Semaglutide isn't a cure f
 
 The cravings were never a sign of weakness. They were always neurochemistry. And neurochemistry can be changed.
 
-
-
-### Frequently Asked Questions
-
-**Does Ozempic reduce alcohol cravings?**
-A 2025 clinical trial published in JAMA Psychiatry found that low-dose semaglutide (the active ingredient in Ozempic) reduced alcohol craving, drinks per drinking day, and heavy drinking days in adults with alcohol use disorder. The effects exceeded those typically seen with existing AUD medications, though larger trials are still needed.
-
-**Can Ozempic help with drug addiction?**
-The clinical evidence so far is specific to alcohol and, in a small subgroup, nicotine. Animal studies suggest GLP-1 receptor agonists may reduce the rewarding effects of other substances including cocaine and opioids, but human clinical trials for these substances haven't been completed yet.
-
-**How does Ozempic affect the brain's reward system?**
-GLP-1 receptors are present in brain regions central to reward and motivation, including the nucleus accumbens and ventral tegmental area. Semaglutide appears to modulate dopamine signaling in these areas, reducing the compulsive "wanting" signal without eliminating the capacity to experience pleasure.
-
-**Is Ozempic approved for treating addiction?**
-No. As of 2026, semaglutide is FDA-approved only for type 2 diabetes (Ozempic) and obesity (Wegovy). Any use for addiction is off-label. Several larger clinical trials are underway to determine whether FDA approval for alcohol use disorder may be warranted.
-
-### Sources
+## Sources
 
 - Hendershot CS, Bremmer MP, Paladino MB, et al. "Once-Weekly Semaglutide in Adults With Alcohol Use Disorder: A Randomized Clinical Trial." *JAMA Psychiatry*. 2025;82(4):395-405. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39937469/)
 - Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
 - Klausen MK, et al. "GLP-1 receptor agonists and alcohol use disorder." *JCI Insight*. 2022;7(19):e159953.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit provides the behavioral and psychological tools for managing cravings — from the [10-minute emergency protocol](/articles/survive-first-10-minutes-of-craving) to daily practices that rebuild your reward system. Medication and behavioral strategies aren't competing approaches — they're complementary.*`,
-    disclaimer: "This article is educational and based on published research. It is not medical advice. Do not start, stop, or change any medication without consulting your physician. Semaglutide is not approved for addiction treatment and should only be used under medical supervision."
+    disclaimer:
+      "This article is educational and based on published research. It is not medical advice. Do not start, stop, or change any medication without consulting your physician. Semaglutide is not approved for addiction treatment and should only be used under medical supervision.",
   };

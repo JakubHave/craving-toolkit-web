@@ -5,12 +5,33 @@ export const article: Article = {
     title: "Addiction and Relationships: What Happens to Love",
     description: "Addiction doesn't just affect the person using — it rewires the whole relationship. How trust collapses, codependency forms, and what rebuilding requires.",
     publishedAt: "2026-01-16",
+    modifiedAt: "2026-05-03",
     category: "recovery-lifestyle",
+    quickAnswer:
+      "Addiction reshapes the whole relationship — the substance becomes a third partner, honesty collapses, emotional intimacy is replaced by management and hypervigilance, and roles calcify into \"problem\" and \"caretaker.\" Recovery doesn't restore the old relationship; it builds a new one, which is disorienting for both people. Trust repair takes months to years and requires sustained trustworthy behavior, not just absence of the bad behavior. Both partners need separate support.",
+    faqs: [
+      {
+        q: "How does addiction affect relationships?",
+        a: "Addiction restructures relationships around the substance: honesty collapses, emotional intimacy is replaced by monitoring and management, roles calcify into \"problem\" and \"caretaker,\" and both partners lose access to the authentic version of each other. The relationship develops a new operating system organized around the addiction.",
+      },
+      {
+        q: "Can a relationship survive addiction?",
+        a: "Many do, but it requires active work from both partners — not just the addicted person's sobriety, but the non-addicted person's own healing, professional support through couple's therapy, and a willingness to build a new relationship rather than returning to the old one. Some relationships shouldn't survive, especially where abuse predates the addiction.",
+      },
+      {
+        q: "How long does it take to rebuild trust after addiction?",
+        a: "Months at minimum, often years. Trust isn't restored by the absence of bad behavior but by the sustained presence of trustworthy behavior — transparency, follow-through, emotional availability, and honesty about small things. The timeline is almost always longer than the recovering person hopes.",
+      },
+      {
+        q: "What is codependency in addiction?",
+        a: "Codependency describes a pattern where the non-addicted partner's identity and emotional state become organized around managing the addiction — monitoring, enabling, controlling, sacrificing their own needs. It's love distorted by crisis into a management strategy that harms both people. Recovery for the non-addicted partner often requires giving up the caretaker role.",
+      },
+    ],
     content: `Addiction doesn't happen in isolation. It happens inside relationships — and it reshapes them in ways that both people feel but neither fully understands. The person using loses the ability to be present, honest, and emotionally available. The person watching loses trust, then patience, then sometimes themselves.
 
 This article is for both of you. Whether you're the one struggling with addiction or the one loving someone who is, the dynamics described here are probably already running in your relationship. Naming them is the first step toward changing them.
 
-### How addiction rewires the relationship
+## How addiction rewires the relationship
 
 When one partner develops addiction, the relationship doesn't just acquire a problem. It develops a new operating system — a set of patterns that organize around the addiction the way a solar system organizes around a sun.
 
@@ -22,7 +43,7 @@ When one partner develops addiction, the relationship doesn't just acquire a pro
 
 **Roles calcify.** Over time, both partners settle into rigid roles. The addicted partner becomes "the problem." The non-addicted partner becomes "the caretaker" or "the enforcer." These roles feel permanent and exhausting. The addicted person feels infantilized and controlled. The non-addicted person feels burdened and unappreciated. Neither can see the other as a full person anymore — only as a function of the addiction dynamic.
 
-### What codependency actually looks like
+## What codependency actually looks like
 
 Codependency gets thrown around loosely, so let's be specific. In the context of addiction, codependency describes a pattern where the non-addicted partner's identity, emotional state, and daily functioning become organized around the addicted partner's behavior.
 
@@ -38,7 +59,7 @@ Signs:
 
 Codependency isn't love. It's love distorted by crisis into a management strategy. And it's as harmful to you as the addiction is to them — because it erases your personhood just as thoroughly as the substance erases theirs.
 
-### The trust damage — and what repair actually requires
+## The trust damage — and what repair actually requires
 
 Of all the things addiction destroys in a relationship, trust is the most difficult to rebuild. And both partners often misunderstand what trust repair actually involves.
 
@@ -48,7 +69,7 @@ Of all the things addiction destroys in a relationship, trust is the most diffic
 
 Trust repair is a gradual, reciprocal process. The addicted partner provides consistent, transparent behavior. The non-addicted partner notices it and slowly loosens the hypervigilance. Both partners communicate about the process — not just "are you sober?" but "what do you need from me right now?" and "what would help you feel safer?"
 
-### Recovery changes the relationship — and that's disorienting
+## Recovery changes the relationship — and that's disorienting
 
 Here's the part nobody warns you about: recovery doesn't return the relationship to its pre-addiction state. It creates a new relationship — and both partners have to figure out who they are inside it.
 
@@ -60,13 +81,13 @@ Here's the part nobody warns you about: recovery doesn't return the relationship
 
 **Old patterns surface.** Many relationships had problems before the addiction — communication issues, mismatched needs, unresolved conflicts. The addiction buried them. Recovery digs them back up. "Now that you're sober, I realize we still fight about money / sex / in-laws / priorities" is not a failure of recovery. It's recovery revealing what was always there.
 
-### When the relationship shouldn't survive
+## When the relationship shouldn't survive
 
 Not every relationship should survive addiction. Some relationships were abusive before the addiction and will be abusive after. Some partners are too damaged by the experience to trust again, and forcing it causes more harm. Some addictions caused harm — financial devastation, infidelity, violence, trauma to children — that doesn't resolve with sobriety.
 
 If the relationship is actively harmful to your safety, your mental health, or your children's wellbeing, leaving isn't failure. It's protection. You can love someone and also recognize that the relationship cannot continue. Those aren't contradictory positions.
 
-### If you're in this together
+## If you're in this together
 
 If both of you are committed to staying and rebuilding, a few things make the difference:
 
@@ -80,31 +101,13 @@ If both of you are committed to staying and rebuilding, a few things make the di
 
 
 
-### Frequently Asked Questions
-
-**How does addiction affect relationships?**
-Addiction restructures relationships around the substance: honesty collapses, emotional intimacy is replaced by monitoring and management, roles calcify into "problem" and "caretaker," and both partners lose access to the authentic version of each other.
-
-**Can a relationship survive addiction?**
-Many do, but it requires active work from both partners — not just the addicted person's sobriety, but the non-addicted person's own healing, professional support through couple's therapy, and a willingness to build a new relationship rather than returning to the old one.
-
-**How long does it take to rebuild trust after addiction?**
-Months at minimum, often years. Trust isn't restored by the absence of bad behavior but by the sustained presence of trustworthy behavior — transparency, follow-through, emotional availability, and honesty about small things. The timeline is almost always longer than the recovering person hopes.
-
-**What is codependency in addiction?**
-Codependency describes a pattern where the non-addicted partner's identity and emotional state become organized around managing the addiction — monitoring, enabling, controlling, sacrificing their own needs. It's love distorted by crisis into a management strategy that harms both people.
-
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation*. Dutton, 2021.
 - Maté G. *In the Realm of Hungry Ghosts*. Vintage Canada, 2008.
 - Meyers RJ, Wolfe BL. *Get Your Loved One Sober*. Hazelden, 2004.
 - Beattie M. *Codependent No More: How to Stop Controlling Others and Start Caring for Yourself*. Hazelden, 1986.
 - O'Farrell TJ, Clements K. "Review of outcome research on marital and family therapy in treatment for alcoholism." *J Marital Fam Ther*. 2012;38(1):122-144.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

@@ -3,9 +3,39 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "habit-loop-addiction-cue-routine-reward",
     title: "The Habit Loop in Addiction: How to Rewire It",
-    description: "The habit loop explains why you can't just 'stop.' Here's a 4-step method to identify your cues, find your real reward, and replace the routine.",
+    description:
+      "The habit loop explains why you can't just stop. A 4-step method to find your cue, identify the real reward, and replace the autopilot routine.",
     publishedAt: "2025-12-19",
+    modifiedAt: "2026-05-03",
     category: "craving-management",
+    quickAnswer:
+      "You can't just stop a habit, because the cue still fires and the craving still surges. Habits are loops: cue → craving → routine → reward. To rewire an addiction, identify the specific cue, find the real reward you're actually chasing, and replace the routine while keeping the cue and the reward in place.",
+    faqs: [
+      {
+        q: "What is the habit loop in addiction?",
+        a: "The habit loop is a three-part neurological cycle — cue, routine, reward — that underlies all habitual behavior. In addiction, the loop is reinforced by a powerful fourth element: craving, which fires when the cue appears and drives the automatic execution of the routine before conscious decision-making can intervene.",
+      },
+      {
+        q: "Can you break an addiction habit loop?",
+        a: "You can't eliminate a habit loop — the neural pathway persists. But you can replace the routine while keeping the same cue and delivering the same type of reward through a less destructive behavior. Over time, the new routine becomes automatic and the old one weakens through disuse.",
+      },
+      {
+        q: "What are the most common addiction cues?",
+        a: "Addiction cues fall into five categories: time of day, location, emotional state, the presence of specific people, and the action that immediately preceded the craving. Tracking these categories for a week typically reveals clear patterns that can then be addressed with specific response plans.",
+      },
+      {
+        q: "How do I find my own cue?",
+        a: "When the craving hits, write down five things: what time it is, where you are, what your emotional state is, who else is around, and what action immediately preceded the craving. Do this for a week. Patterns emerge fast — usually a specific time window, location, or emotion that triggers the loop almost every time.",
+      },
+      {
+        q: "What's the difference between a habit loop and a craving?",
+        a: "The craving is the middle of the loop, not the whole thing. A habit loop is the full sequence: cue → craving → routine → reward. The craving is the anticipatory pull that fires when the cue appears, before the routine starts. You can't disable the craving directly, but you can intervene at the cue (avoidance) or at the routine (substitution).",
+      },
+      {
+        q: "How long does it take to replace a habit?",
+        a: "There's no universal timeline. The commonly cited \"21 days\" is a myth. Research suggests habit formation takes anywhere from 18 to 254 days depending on complexity and intensity. For addiction, where the original loop was carved by neurochemically powerful rewards, building a competing loop typically takes months of consistent practice.",
+      },
+    ],
     content: `There's a rat named Julio who understands your addiction better than most therapists do.
 
 Julio lives in a neuroscience lab at MIT. Researchers put him in a T-shaped maze with a piece of chocolate at the end. The first few times, Julio wandered aimlessly, sniffing walls, pausing at corners. His brain was firing everywhere — processing, evaluating, deciding.
@@ -16,7 +46,7 @@ The behavior hadn't just become automatic. It had become a different kind of bra
 
 This is the habit loop. And it's the same mechanism driving your 11 PM scroll, your after-work drink, your third trip to the kitchen, and your relapse at three months sober.
 
-### Cue — Routine — Reward (and the part nobody mentions)
+## What are the cue, routine, and reward?
 
 Charles Duhigg, in *The Power of Habit*, describes the neurological loop that underlies all habitual behavior. It has three components:
 
@@ -34,7 +64,7 @@ Sound familiar?
 
 The craving isn't a response to deprivation. It's a response to the cue. Your brain learned that this cue predicts this reward, and now the cue itself triggers a want so powerful that the routine feels inevitable. You aren't choosing to drink after a bad day at work. Your brain hears "bad day" and fires a dopamine signal that says "you know what fixes this" — and the drink is halfway to your mouth before the prefrontal cortex even gets a vote.
 
-### Why the routine isn't the problem
+## Why doesn't "just stop the behavior" work?
 
 Most recovery strategies focus on stopping the routine. Don't drink. Don't use. Don't gamble. Don't eat the thing. White-knuckle through it. Resist.
 
@@ -44,7 +74,7 @@ This is why [willpower-based recovery fails](/articles/why-willpower-fails-recov
 
 Duhigg's insight is that habits can't be eliminated. They can only be replaced. And replacement requires understanding all four components — not just the routine.
 
-### How to actually diagnose your habit loop
+## How do I diagnose my own habit loop?
 
 Duhigg describes a practical diagnostic method that I've found more useful than anything I encountered in a decade of trying to quit things. It has four steps.
 
@@ -76,7 +106,7 @@ Do this for a week. Patterns emerge fast. Maybe it's always between 5:30 and 6:0
 
 The plan must be written down. It must be specific. And it must be rehearsed mentally before the cue arrives. You're not trying to decide in the moment — you're pre-loading the decision so it's already made when the cue fires. This is the same principle behind the [Ulysses contract](/articles/ulysses-contract-outsmart-addiction) — your clear-headed self making decisions for your triggered self.
 
-### Where addiction makes the loop harder to break
+## Why is the loop harder to break in addiction than in everyday habits?
 
 Duhigg's framework was developed for everyday habits — cookie binges, exercise avoidance, nail-biting. Addiction adds several layers of difficulty that his original model underestimates.
 
@@ -88,7 +118,7 @@ Duhigg's framework was developed for everyday habits — cookie binges, exercise
 
 **Identity reinforces the loop.** After years of running the same habit loop, the behavior becomes part of [who you are](/articles/who-am-i-without-addiction-identity). "I'm a drinker." "I'm the person who does this." The identity layer makes substitution feel like betrayal rather than growth. You aren't just changing a habit. You're changing a self.
 
-### The golden rule of habit change
+## What's the golden rule of habit change?
 
 Despite these complications, Duhigg's core insight holds for addiction as strongly as it holds for cookie habits: **you can't eliminate a habit. You can only replace the routine while keeping the cue and delivering the reward.**
 
@@ -102,7 +132,7 @@ The substitution doesn't need to be permanent. It needs to hold long enough for 
 
 That's not willpower. That's neuroplasticity. And it works in the same direction that addiction worked — except now it's building something instead of destroying it.
 
-### Start with one loop
+## Where should I start?
 
 Don't try to rewire everything at once. Pick the one habit loop that causes the most damage or the most frequent relapses. Diagnose it using the four steps above. Write the plan. Run it for two weeks. Adjust based on what happens.
 
@@ -110,23 +140,7 @@ One loop at a time. One cue mapped. One reward identified. One new routine pract
 
 That's not dramatic. It's not cinematic. It's not the kind of recovery story that gets shared at meetings. But it's how habits actually change — in the brain, at the synaptic level, one loop at a time.
 
-
-
-### Frequently Asked Questions
-
-**What is the habit loop in addiction?**
-The habit loop is a three-part neurological cycle — cue, routine, reward — that underlies all habitual behavior. In addiction, the loop is reinforced by a powerful fourth element: craving, which fires when the cue appears and drives the automatic execution of the routine before conscious decision-making can intervene.
-
-**Can you break an addiction habit loop?**
-You can't eliminate a habit loop — the neural pathway persists. But you can replace the routine while keeping the same cue and delivering the same type of reward through a less destructive behavior. Over time, the new routine becomes automatic and the old one weakens through disuse.
-
-**What are the most common addiction cues?**
-Addiction cues fall into five categories: time of day, location, emotional state, the presence of specific people, and the action that immediately preceded the craving. Tracking these categories for a week typically reveals clear patterns that can then be addressed with specific response plans.
-
-**How long does it take to replace a habit?**
-There's no universal timeline. The commonly cited "21 days" is a myth. Research suggests habit formation takes anywhere from 18 to 254 days depending on complexity and intensity. For addiction, where the original loop was carved by neurochemically powerful rewards, building a competing loop typically takes months of consistent practice.
-
-### Sources
+## Sources
 
 - Duhigg C. *The Power of Habit: Why We Do What We Do in Life and Business*. Random House, 2012.
 - Graybiel AM. "Habits, rituals, and the evaluative brain." *Annu Rev Neurosci*. 2008;31:359-387. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18558860/)
@@ -134,12 +148,9 @@ There's no universal timeline. The commonly cited "21 days" is a myth. Research 
 - Lally P, et al. "How are habits formed: Modelling habit formation in the real world." *Eur J Soc Psychol*. 2010;40(6):998-1009.
 - Wood W, Neal DT. "Healthy through habit: Interventions for initiating & maintaining health behavior change." *Behav Sci Policy*. 2016;2(1):71-83.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit includes a printable Habit Loop Mapper worksheet adapted from Duhigg and Brewer's frameworks — plus a Craving Log, Emergency Card, and five other worksheets designed to turn vague struggle into usable data.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
   };

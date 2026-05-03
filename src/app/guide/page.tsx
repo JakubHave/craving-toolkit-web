@@ -5,9 +5,10 @@ import { Metadata } from "next";
 import SiteNav from "@/components/SiteNav";
 import SiteFooter from "@/components/SiteFooter";
 import AppStoreBadges from "@/components/AppStoreBadges";
+import { JsonLd } from "@/components/seo/JsonLd";
 
 export const metadata: Metadata = {
-  title: "Craving Toolkit Guide | Stop Cravings & Stay in Recovery",
+  title: { absolute: "Craving Toolkit Guide | Stop Cravings & Stay in Recovery" },
   description: "Emergency tools to fight addiction cravings and stop relapse spirals. A 40-page guide with actionable strategies and worksheets for recovery.",
   alternates: {
     canonical: "https://www.cravingtoolkit.com/guide",
@@ -25,66 +26,69 @@ export const metadata: Metadata = {
   },
 };
 
-const jsonLd = {
+const offer = {
+  "@type": "Offer",
+  "@id": "https://www.cravingtoolkit.com/guide#offer",
+  price: "19.00",
+  priceCurrency: "USD",
+  availability: "https://schema.org/InStock",
+  url: "https://www.cravingtoolkit.com/guide#pricing",
+  shippingDetails: {
+    "@type": "OfferShippingDetails",
+    shippingRate: { "@type": "MonetaryAmount", value: "0", currency: "USD" },
+    shippingDestination: { "@type": "DefinedRegion", addressCountry: "US" },
+    deliveryTime: {
+      "@type": "ShippingDeliveryTime",
+      handlingTime: { "@type": "QuantitativeValue", minValue: 0, maxValue: 0, unitCode: "DAY" },
+      transitTime: { "@type": "QuantitativeValue", minValue: 0, maxValue: 0, unitCode: "DAY" },
+    },
+  },
+  hasMerchantReturnPolicy: {
+    "@type": "MerchantReturnPolicy",
+    applicableCountry: "US",
+    returnPolicyCategory: "https://schema.org/MerchantReturnFiniteReturnWindow",
+    merchantReturnDays: 30,
+    returnMethod: "https://schema.org/ReturnByMail",
+    returnFees: "https://schema.org/FreeReturn",
+  },
+};
+
+const productSchema = {
   "@context": "https://schema.org",
   "@type": "Product",
   "@id": "https://www.cravingtoolkit.com/guide#product",
   name: "Craving Toolkit – Addiction Recovery Guide",
-  description: "A 40-page practical guide with emergency tools, actionable strategies, and 6 worksheets to fight addiction cravings, stop relapse spirals, and stay in recovery.",
+  description:
+    "A 40-page practical guide with emergency tools, actionable strategies, and 6 worksheets to fight addiction cravings, stop relapse spirals, and stay in recovery.",
   image: "https://www.cravingtoolkit.com/cover.jpg",
   brand: { "@id": "https://www.cravingtoolkit.com/#organization" },
+  // Person → use "@id" only (canonical Person definition lives on /about)
+  // but Product.author can be Person OR Organization; use Person here for E-E-A-T.
   author: { "@id": "https://www.cravingtoolkit.com/about#author" },
-  offers: {
-    "@type": "Offer",
-    price: "19.00",
-    priceCurrency: "USD",
-    availability: "https://schema.org/InStock",
-    url: "https://www.cravingtoolkit.com/guide#pricing",
-    shippingDetails: {
-      "@type": "OfferShippingDetails",
-      shippingRate: {
-        "@type": "MonetaryAmount",
-        value: "0",
-        currency: "USD",
-      },
-      shippingDestination: {
-        "@type": "DefinedRegion",
-        addressCountry: "US",
-      },
-      deliveryTime: {
-        "@type": "ShippingDeliveryTime",
-        handlingTime: {
-          "@type": "QuantitativeValue",
-          minValue: 0,
-          maxValue: 0,
-          unitCode: "DAY",
-        },
-        transitTime: {
-          "@type": "QuantitativeValue",
-          minValue: 0,
-          maxValue: 0,
-          unitCode: "DAY",
-        },
-      },
-    },
-    hasMerchantReturnPolicy: {
-      "@type": "MerchantReturnPolicy",
-      applicableCountry: "US",
-      returnPolicyCategory: "https://schema.org/MerchantReturnFiniteReturnWindow",
-      merchantReturnDays: 30,
-      returnMethod: "https://schema.org/ReturnByMail",
-      returnFees: "https://schema.org/FreeReturn",
-    },
-  },
+  offers: offer,
+};
+
+const bookSchema = {
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://www.cravingtoolkit.com/guide#book",
+  name: "The Craving Toolkit",
+  bookFormat: "https://schema.org/EBook",
+  numberOfPages: 40,
+  inLanguage: "en",
+  image: "https://www.cravingtoolkit.com/cover.jpg",
+  author: { "@id": "https://www.cravingtoolkit.com/about#author" },
+  publisher: { "@id": "https://www.cravingtoolkit.com/#organization" },
+  description:
+    "A 40-page practical, experience-based guide with emergency tools to fight addiction cravings, stop relapse spirals, and stay in recovery.",
+  // Reuse the same offer via @id rather than redefining price.
+  offers: { "@id": "https://www.cravingtoolkit.com/guide#offer" },
 };
 
 export default function GuidePage() {
   return (
     <>
-    <script
-      type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-    />
+    <JsonLd data={[productSchema, bookSchema]} />
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans selection:bg-emerald-200">
       <SiteNav />
       <main>

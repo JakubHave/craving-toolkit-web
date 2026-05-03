@@ -3,10 +3,28 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "the-addictive-voice-how-your-mind-talks-you-into-relapse",
     title: "The Addictive Voice: How Your Mind Talks You Into Relapse",
-    description: "Most relapses start with a sentence, not a substance. Learn to recognize the addictive voice's 5 most common lies — and how to answer them.",
+    description:
+      "Most relapses start with a sentence, not a substance. Learn to recognize the addictive voice's 5 most common lies — and how to answer them.",
     publishedAt: "2025-08-04",
+    modifiedAt: "2026-05-03",
     category: "craving-management",
     isExcerpt: true,
+    quickAnswer:
+      "Most relapses don't begin with the substance. They begin with a sentence — \"just once,\" \"I've earned it,\" \"I'm already off track.\" That's the addictive voice. It minimizes the cost, magnifies the reward, and erases the future. You answer it not with a brilliant comeback but with a practiced one — pre-loaded sentences your calm self wrote for your triggered self.",
+    faqs: [
+      {
+        q: "What is the addictive voice?",
+        a: "The addictive voice is the internal narration that talks you into a relapse — sentences like \"just once,\" \"I've earned it,\" or \"I'm already off track.\" It works by minimizing the cost of using, magnifying the reward, and collapsing your timeline into the current moment of discomfort.",
+      },
+      {
+        q: "Why is the addictive voice so persuasive?",
+        a: "Because it is personalized. The voice learns your weak points and speaks your specific language — \"you deserve a break,\" \"you can control it now,\" \"just get through tonight.\" It uses the language of urgency, comfort, and exception, so it sounds like common sense rather than self-destruction.",
+      },
+      {
+        q: "How do I respond to the addictive voice?",
+        a: "With pre-written, practiced answers — not brilliant ones. Phrases like \"that is the urge talking, not wisdom\" or \"short relief, long pain.\" Your calm self writes the responses. Your triggered self reads them. The point is to interrupt the automatic sequence with a sentence that is already loaded.",
+      },
+    ],
     content: `Most relapses do not begin with the substance or the behavior. They begin with a sentence. Sometimes not even a full sentence. More like an attitude. A permission. A quiet shift in how you talk to yourself.
 
 It might sound like:
@@ -21,7 +39,7 @@ It might sound like:
 
 This is the **addictive voice**. You can call it whatever you want — the salesman, the trickster, the bargaining voice, the lying voice. The label does not matter. Recognizing the pattern does.
 
-### Why this voice is so persuasive
+## Why this voice is so persuasive
 
 The addictive voice usually works because it does three things very well:
 
@@ -33,7 +51,7 @@ The addictive voice usually works because it does three things very well:
 
 That is why the voice can sound intelligent in the moment. It speaks the language of urgency, comfort, and exception. It does not sound like self-destruction. It sounds like common sense.
 
-### The voice is personalized to you
+## The voice is personalized to you
 
 This is what makes it dangerous. The addictive voice does not use the same script for everyone. It learns your weak points and speaks your language.
 
@@ -47,7 +65,7 @@ For another: *"Just get through tonight. Deal with it tomorrow."*
 
 Your version of the voice knows exactly which buttons to press. That is why vague recovery plans fail — they are not specific enough to counter a voice that is deeply specific.
 
-### How to answer it
+## How to answer it
 
 You do not need a brilliant response. You need a **practiced** one.
 
@@ -61,7 +79,7 @@ When the voice starts talking, try:
 
 These are not motivational posters. They are pre-loaded responses designed to interrupt the automatic sequence — emergency tools for [surviving the first minutes of a craving](/articles/survive-first-10-minutes-of-craving). Your calm self writes them. Your triggered self reads them. That is the whole strategy.
 
-### Exercise: Identify your top 5 addictive lies
+## Exercise: Identify your top 5 addictive lies
 
 This is one of the most useful exercises you can do right now. Write down:
 
@@ -81,18 +99,12 @@ Once the lie becomes visible and named, it loses some of its camouflage. It is m
 
 A craving that has to argue against a prepared truth is weaker than a craving that operates in silence.
 
-
-
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
 - Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
-*This article is an excerpt from Chapter 5 of the **Craving Toolkit**.*`
+*This article is an excerpt from Chapter 5 of the **Craving Toolkit**.*`,
   };

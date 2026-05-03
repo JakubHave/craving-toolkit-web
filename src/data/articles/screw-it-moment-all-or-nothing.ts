@@ -5,7 +5,24 @@ export const article: Article = {
     title: "The \"Screw It\" Moment: All-or-Nothing in Recovery",
     description: "One drink becomes six. One slip becomes a relapse. The 'screw it' moment is all-or-nothing thinking — and the 10 minutes after a slip decide everything.",
     publishedAt: "2025-12-01",
+    modifiedAt: "2026-05-03",
     category: "triggers-and-relapse",
+    quickAnswer:
+      "A slip and a relapse aren't the same thing. They're separated by what you do in the 10 minutes after the slip. The \"screw it\" voice runs on all-or-nothing thinking: one drink \"ruined\" the streak, so might as well go. Pre-script the response now: \"A slip is not a relapse. One mistake does not erase my progress. I am stopping now.\"",
+    faqs: [
+      {
+        q: "What is the \"screw it\" moment in addiction?",
+        a: "It's the cognitive collapse that turns a single slip into a full relapse. After one drink or one use, all-or-nothing thinking convinces you that \"I already blew it, might as well keep going\" — transforming a manageable mistake into an extended binge. The collapse is driven by depleted prefrontal resources and shame, not rational decision-making.",
+      },
+      {
+        q: "Is a slip the same as a relapse?",
+        a: "No. A slip is a single instance of the old behavior. A relapse is what happens when you interpret the slip through all-or-nothing thinking and use it as permission to abandon recovery entirely. The 10 minutes after a slip are the most critical in determining which one it becomes.",
+      },
+      {
+        q: "How do I stop all-or-nothing thinking in recovery?",
+        a: "Pre-script your response before a slip happens (when your prefrontal cortex is calm and clear). Write down: \"A slip is not a relapse. One mistake does not erase my progress. I am stopping now.\" Keep it accessible. Tell someone immediately. Track progress as percentage-days-clean rather than streak-based counting that resets to zero on a single slip.",
+      },
+    ],
     content: `You know the moment. You have been sober for three weeks. Maybe three months. You are doing well. And then something breaks. A fight with your partner. A terrible day at work. A slip — one drink, one scroll, one bite past the plan.
 
 And instead of pausing, assessing, and continuing forward, a switch flips in your brain. A voice that is not rational but feels absolutely certain says:
@@ -16,7 +33,7 @@ What follows is not a decision. It is a collapse. One drink becomes six. One coo
 
 This is the "screw it" moment. It is one of the most destructive patterns in addiction and recovery, and it is driven by a specific cognitive distortion that most people never learn to recognize: all-or-nothing thinking.
 
-### What all-or-nothing thinking actually is
+## What all-or-nothing thinking actually is
 
 All-or-nothing thinking — sometimes called black-and-white thinking or dichotomous thinking — is the tendency to see things in only two categories: perfect or ruined. On track or off the rails. Clean or dirty. Success or failure.
 
@@ -24,7 +41,7 @@ There's no middle ground. No partial credit. No "I slipped but I can course-corr
 
 This cognitive pattern is not unique to addiction. It shows up in dieting (one slice of pizza and the whole diet is "ruined"), in exercise (miss one workout and you "might as well" skip the rest of the week), and in perfectionism of all kinds. But in addiction, the consequences of this thinking pattern are catastrophic — because the difference between a slip and a full relapse — which unfolds across the [three stages of relapse](/articles/three-stages-of-relapse-how-to-catch-yourself) — is often decided in the "screw it" window.
 
-### Why addicted brains are especially vulnerable
+## Why addicted brains are especially vulnerable
 
 All-or-nothing thinking is amplified by the same brain mechanisms that drive addiction.
 
@@ -40,7 +57,7 @@ Continuing after a slip requires cognitive effort — reassessing, recommitting,
 
 This is the collapse spiral — a variation of the [shame spiral](/articles/shame-spiral-addiction-how-to-break-it): slip — shame — "I already blew it" — more use — more shame — "might as well keep going" — full relapse. That's the addictive voice's bullshit — dressed up as common sense. The all-or-nothing framework provides the logical architecture for the spiral. The shame provides the emotional fuel. Together, they turn a single slip into a multi-day catastrophe.
 
-### The slip is not the problem — the interpretation is
+## The slip is not the problem — the interpretation is
 
 But here's what matters: a slip and a relapse are not the same thing. They are separated by one variable — what you do in the ten minutes after the slip.
 
@@ -50,7 +67,7 @@ A relapse is what happens when you interpret the slip through the all-or-nothing
 
 That transformation isn't inevitable. It's a cognitive habit. And cognitive habits can be interrupted.
 
-### How to interrupt the "screw it" moment
+## How to interrupt the "screw it" moment
 
 **Pre-script the response.** The "screw it" moment arrives when your prefrontal cortex is depleted and your capacity for nuanced thinking is lowest. You can't rely on in-the-moment reasoning. You need a pre-loaded script — tools like those in the [SMART Recovery toolbox](https://smartrecovery.org/smart-recovery-toolbox/) can help you build one, written during a calm moment — that you can deploy automatically when the slip happens.
 
@@ -76,7 +93,7 @@ Recovery is not a straight line. It is a trend line with noise. The trend matter
 
 Flexible guidelines create room for imperfection: "My goal is to not drink. If I slip, I will stop immediately, tell someone, and review what happened." The guideline includes a contingency for failure — which is not defeatism, but realism. It gives you a path forward from the place you are most likely to find yourself.
 
-### The most dangerous 10 minutes in recovery
+## The most dangerous 10 minutes in recovery
 
 The [10 minutes after a slip](/articles/survive-first-10-minutes-of-craving) are the most important 10 minutes in recovery. More important than the first day. More important than any milestone. Because those 10 minutes are where the all-or-nothing voice either wins or loses.
 
@@ -90,26 +107,11 @@ Nothing is lost. You are still here. The next 10 minutes are yours.
 
 
 
-### Frequently Asked Questions
-
-**What is the "screw it" moment in addiction?**
-It is the cognitive collapse that turns a single slip into a full relapse. After one drink or one use, all-or-nothing thinking convinces you that "I already blew it, might as well keep going" — transforming a manageable mistake into an extended binge.
-
-**Is a slip the same as a relapse?**
-No. A slip is a single instance of the old behavior. A relapse is what happens when you interpret the slip through all-or-nothing thinking and use it as permission to abandon recovery entirely. The 10 minutes after a slip are the most critical in determining which one it becomes.
-
-**How do I stop all-or-nothing thinking in recovery?**
-Pre-script your response before a slip happens. Write down: "A slip is not a relapse. One mistake does not erase my progress. I am stopping now." Keep it accessible. Tell someone immediately. Track your progress as percentage-days-clean rather than streak-based counting.
-
-### Sources
+## Sources
 
 - Lewis M. *The Biology of Desire*. PublicAffairs, 2015.
 - Marlatt GA, Gordon JR. *Relapse Prevention*. Guilford Press, 1985.
 - Beck AT. *Cognitive Therapy and the Emotional Disorders*. Penguin, 1979.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

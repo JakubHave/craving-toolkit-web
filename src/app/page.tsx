@@ -5,19 +5,20 @@ import { Metadata } from "next";
 import SiteNav from "@/components/SiteNav";
 import SiteFooter from "@/components/SiteFooter";
 import AppStoreBadges from "@/components/AppStoreBadges";
+import { JsonLd } from "@/components/seo/JsonLd";
 
 const HOMEPAGE_DESCRIPTION =
   "Addiction recovery tools for the moment cravings take over. Counter-action, breathing, urge surfing, voice of truth. Offline, no account, no ads.";
 
 export const metadata: Metadata = {
-  title: "Craving Toolkit — Recovery tools for the moment cravings take over",
+  title: "Craving Toolkit — Addiction recovery tools",
   description: HOMEPAGE_DESCRIPTION,
   alternates: {
     canonical: "https://www.cravingtoolkit.com",
   },
   openGraph: {
     url: "https://www.cravingtoolkit.com",
-    title: "Craving Toolkit — Recovery tools for the moment cravings take over",
+    title: "Craving Toolkit — Addiction recovery tools",
     description: HOMEPAGE_DESCRIPTION,
     images: [
       {
@@ -30,7 +31,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Craving Toolkit — Recovery tools for the moment cravings take over",
+    title: "Craving Toolkit — Addiction recovery tools",
     description: HOMEPAGE_DESCRIPTION,
     images: ["/og-image-1200x630.png"],
   },
@@ -49,7 +50,7 @@ const screens = [
 
 const SITE_URL = "https://www.cravingtoolkit.com";
 
-const jsonLd = {
+const mobileAppSchema = {
   "@context": "https://schema.org",
   "@type": "MobileApplication",
   "@id": `${SITE_URL}/#app`,
@@ -57,6 +58,7 @@ const jsonLd = {
   url: SITE_URL,
   description: HOMEPAGE_DESCRIPTION,
   applicationCategory: "HealthApplication",
+  applicationSubCategory: "Addiction recovery",
   operatingSystem: "iOS, Android",
   inLanguage: "en",
   downloadUrl: "https://apps.apple.com/app/id6761936946",
@@ -64,11 +66,27 @@ const jsonLd = {
   screenshot: screens.map((s) => `${SITE_URL}${s.src}`),
   creator: { "@id": `${SITE_URL}/about#author` },
   publisher: { "@id": `${SITE_URL}/#organization` },
-  offers: {
-    "@type": "Offer",
-    price: "0",
-    priceCurrency: "USD",
-  },
+  offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
+  featureList: [
+    "10-minute emergency timer",
+    "Guided breathing",
+    "Urge surfing",
+    "Counter-action",
+    "Addictive Voice exercise",
+    "My Voice of Truth (your own pre-recorded voice)",
+    "Daily check-in",
+    "Craving log",
+  ],
+};
+
+const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": `${SITE_URL}/#website`,
+  url: `${SITE_URL}/`,
+  name: "Craving Toolkit",
+  publisher: { "@id": `${SITE_URL}/#organization` },
+  inLanguage: "en",
 };
 
 // At lg, the screen grid is 6 columns with each card spanning 2 (i.e. 3 cards
@@ -108,10 +126,7 @@ const differentiators = [
 export default function LandingPage() {
   return (
     <>
-    <script
-      type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-    />
+    <JsonLd data={[mobileAppSchema, websiteSchema]} />
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans selection:bg-emerald-200">
       <SiteNav />
       <main>

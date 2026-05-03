@@ -5,14 +5,31 @@ export const article: Article = {
     title: "High-Functioning Addiction: When Success Hides It",
     description: "19.5% of people with alcohol use disorder are 'functional' — employed, educated, stable. Here's why success makes addiction worse and what actually works.",
     publishedAt: "2026-01-08",
+    modifiedAt: "2026-05-03",
     category: "triggers-and-relapse",
+    quickAnswer:
+      "About 19.5% of people with alcohol use disorder are \"functional\" — employed, educated, in stable relationships, no visible crisis. Success protects the addiction by hiding the costs and providing constant rationalization. The clinical criteria don't include lost jobs or arrests; they include using more than intended, failing to cut down, and continuing despite consequences. Three or more = the diagnosis applies.",
+    faqs: [
+      {
+        q: "What is high-functioning addiction?",
+        a: "High-functioning addiction describes someone who meets clinical criteria for substance use disorder — compulsive use, loss of control, continued use despite consequences — while maintaining the external appearance of a functional life (job, relationships, finances). Roughly 19.5% of people with alcohol use disorder fit this profile.",
+      },
+      {
+        q: "How do I know if I'm a high-functioning addict?",
+        a: "The clinical markers aren't about consequences you've experienced but patterns you exhibit: using more than intended, wanting to cut down but failing, continuing despite awareness that it's causing problems. If you regularly drink or use in ways you hide from others, and you've tried to moderate without success, the pattern is significant regardless of your professional performance.",
+      },
+      {
+        q: "Why don't high-functioning addicts seek help?",
+        a: "The identity threat is larger (admitting addiction undermines a self-concept built on control), the stereotypes don't fit (recovery narratives center on crisis, not quiet erosion), privacy concerns are heightened (more professional reputation at stake), and sophisticated rationalization maintains the illusion of control.",
+      },
+    ],
     content: `You haven't lost your job. You haven't been arrested. You haven't missed a mortgage payment. Your kids are fed, your car is clean, your performance reviews are fine. And every night, after everyone's asleep, you drink a bottle of wine alone. Or you take pills you were prescribed years ago for a pain that's long gone. Or you disappear into a screen for hours doing something you'd never tell anyone about.
 
 High-functioning addiction is the version that doesn't look like addiction — not from the outside. And that's precisely what makes it so dangerous. Because the story we tell about addiction — rock bottom, lost everything, intervention, rehab — creates a template. And if your life doesn't match the template, you conclude you don't have a problem.
 
 You might not have a problem yet. But the word "yet" is doing a lot of work in that sentence.
 
-### What "high-functioning" actually means
+## What "high-functioning" actually means
 
 High-functioning addiction describes a person who meets clinical criteria for substance use disorder — compulsive use despite consequences, loss of control over quantity or frequency, continued use despite wanting to stop — while maintaining the external appearance of a functional life. Job, relationships, finances, health markers — all within normal range. At least for now.
 
@@ -22,7 +39,7 @@ This is the paradox: high-functioning addicts are protected by their competence.
 
 Managing is not the same as being okay.
 
-### Why success makes addiction worse
+## Why success makes addiction worse
 
 Conventional wisdom says that consequences motivate change — that people quit when the cost becomes too high. Lose your job, lose your marriage, lose your health, and the math changes. The [cost-benefit analysis](/articles/pleasure-pain-balance-explains-addiction) tips toward sobriety.
 
@@ -32,7 +49,7 @@ And success provides its own justification. "If I were really an addict, could I
 
 Marc Lewis describes this as a version of the [narrowing effect](/articles/narrowing-effect-addiction) operating in stealth mode. The tunnel is narrowing — pleasure from non-substance activities is diminishing, emotional range is compressing, the addiction is consuming more cognitive real estate — but the external performance metrics haven't yet reflected the internal deterioration. The dashboard looks fine. The engine is failing.
 
-### The workaholic pipeline
+## The workaholic pipeline
 
 There's a specific pattern worth naming: the high-performer who develops addiction not despite their achievement orientation but because of it.
 
@@ -42,7 +59,7 @@ The pipeline often looks like this: the person works compulsively for years, run
 
 This is why high-functioning addiction often co-occurs with workaholism, perfectionism, and type-A personality patterns. The addiction isn't a departure from the person's character. It's an extension of it — the same driven, all-or-nothing neurology applied to a destructive target.
 
-### The moment the function breaks
+## The moment the function breaks
 
 High-functioning addiction doesn't stay high-functioning forever. The neuroscience is unambiguous: tolerance increases, receptor density decreases, the [dopamine deficit](/articles/why-cant-i-feel-pleasure-dopamine-deficit) deepens. The amount that "worked" at 35 doesn't work at 42. The management strategies that kept everything together develop cracks.
 
@@ -54,7 +71,7 @@ Performance starts to slip — not dramatically, not in ways that trigger HR, bu
 
 This is the "functional" part eroding. And by the time it becomes visible to others, the internal deterioration is already severe.
 
-### Why high-functioning addicts don't seek help
+## Why high-functioning addicts don't seek help
 
 **The identity threat is enormous.** For someone whose self-concept is built on competence and control, admitting addiction feels like admitting that the entire edifice is fake. The [identity crisis](/articles/who-am-i-without-addiction-identity) that all addicts face in recovery hits high-functioning addicts differently — they're not just losing the substance, they're losing the story of themselves as someone who has it together.
 
@@ -64,7 +81,7 @@ This is the "functional" part eroding. And by the time it becomes visible to oth
 
 **They're expert rationalizers.** The same intelligence that powers professional success powers sophisticated justification. "I only drink good wine." "I never drink before 6 PM." "I've never missed a day of work." "It's less than my colleague drinks." The rules create an illusion of control that the addiction operates within, continuously expanding the boundaries while maintaining the fiction that boundaries exist.
 
-### What actually works
+## What actually works
 
 **Drop the comparison.** You don't need to match someone else's bottom to have a problem. The clinical criteria for substance use disorder don't include "lost your job" or "got arrested." They include: using more than intended, wanting to cut down but failing, spending significant time obtaining/using/recovering, continuing despite negative consequences. If three or more apply, the diagnosis applies — regardless of your tax bracket.
 
@@ -78,27 +95,12 @@ This is the "functional" part eroding. And by the time it becomes visible to oth
 
 
 
-### Frequently Asked Questions
-
-**What is high-functioning addiction?**
-High-functioning addiction describes someone who meets clinical criteria for substance use disorder — compulsive use, loss of control, continued use despite consequences — while maintaining the external appearance of a functional life (job, relationships, finances). Roughly 19.5% of people with alcohol use disorder fit this profile.
-
-**How do I know if I'm a high-functioning addict?**
-The clinical markers aren't about consequences you've experienced but patterns you exhibit: using more than intended, wanting to cut down but failing, continuing despite awareness that it's causing problems. If you regularly drink or use in ways you hide from others, and you've tried to moderate without success, the pattern is significant regardless of your professional performance.
-
-**Why don't high-functioning addicts seek help?**
-The identity threat is larger (admitting addiction undermines a self-concept built on control), the stereotypes don't fit (recovery narratives center on crisis, not quiet erosion), privacy concerns are heightened (more professional reputation at stake), and sophisticated rationalization maintains the illusion of control.
-
-### Sources
+## Sources
 
 - Moss HB, Chen CM, Yi HY. "Subtypes of alcohol dependence in a nationally representative sample." *Drug Alcohol Depend*. 2007;91(2-3):149-158. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17597309/)
 - Lembke A. *Dopamine Nation*. Dutton, 2021.
 - Lewis M. *The Biology of Desire*. PublicAffairs, 2015.
 - Bettinardi-Angres K, Angres DH. "Understanding the disease of addiction." *J Nurs Regul*. 2010;1(2):31-37.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

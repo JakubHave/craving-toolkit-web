@@ -3,9 +3,27 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "30-day-dopamine-reset-week-by-week",
     title: "The 30-Day Dopamine Reset: A Week-by-Week Guide",
-    description: "Thirty days is the clinically recommended minimum for dopamine recovery. Here is exactly what to expect each week — and how to survive the hardest parts.",
+    description:
+      "Thirty days is the clinically recommended minimum for dopamine recovery. Here is exactly what to expect each week — and how to survive the hardest parts.",
     publishedAt: "2025-09-30",
+    modifiedAt: "2026-05-03",
     category: "early-recovery",
+    quickAnswer:
+      "Thirty days of complete abstinence is the clinically recommended minimum for meaningful dopamine recovery. Week 1 is the storm — withdrawal, irritability, intense cravings. Week 2 is the desert — a flat, joyless plateau where most people quit. Week 3 brings the first windows of pleasure. By week 4, normal activities feel rewarding again.",
+    faqs: [
+      {
+        q: "Why 30 days specifically?",
+        a: "Because that is roughly when the brain begins to restore normal reward function. A study by Brown and Schuckit found that 80% of depressed, alcohol-dependent men no longer met diagnostic criteria for major depression after four weeks of abstinence — without any antidepressant or therapy. The number is clinical convergence, not magic.",
+      },
+      {
+        q: "Why is week 2 the hardest part of a dopamine reset?",
+        a: "The acute withdrawal storm of week 1 is replaced by anhedonia — a flat, grey emotional landscape where nothing feels good. Most people quit here, not from a dramatic craving but from a slow grind of joylessness. The flatness is the sound of your reward system rebooting, not your new permanent state.",
+      },
+      {
+        q: "When does the dopamine reset start to feel better?",
+        a: "Around days 10–14, brief windows of genuine pleasure typically begin appearing. By week 3, those windows get more frequent. By week 4, normal activities — food, conversation, exercise, sunlight — produce real, sustained pleasure. Most people are surprised by the magnitude of the difference compared to day 1.",
+      },
+    ],
     content: `Thirty days. That is the clinically recommended minimum for meaningful [dopamine system recovery](/articles/how-long-to-reset-dopamine-timeline). Not because the number is magic, but because the research and clinical experience converge on it: roughly four weeks of sustained abstinence from a compulsive substance or behavior is what it takes for the brain to begin restoring normal reward function.
 
 This is the reset that Anna Lembke, chief of addiction medicine at Stanford, prescribes as a first-line intervention for most patients. Not medication. Not therapy (though those may follow). An experiment: stop the behavior for 30 days and see what happens.
@@ -14,7 +32,7 @@ The results, in her words, are often dramatic. Patients who entered her clinic d
 
 But getting through those 30 days is hard. Really hard. Here is what to expect and how to survive each phase.
 
-### Before you start: set the conditions
+## Before you start: set the conditions
 
 A 30-day reset is not something you stumble into. It is something you prepare for. Taking an hour before day one to set up the right conditions can make the difference between completing the experiment and abandoning it at day 6.
 
@@ -28,7 +46,7 @@ A 30-day reset is not something you stumble into. It is something you prepare fo
 
 **Lower your expectations.** You are not going to feel great during this experiment. You are going to feel worse before you feel better. Knowing this in advance is protective. The goal is not to enjoy the 30 days. The goal is to complete them and see where your brain is at the end.
 
-### Week 1 (Days 1–7): The storm
+## Week 1 (Days 1–7): The storm
 
 This is the hardest week. For most substances and behaviors, acute withdrawal symptoms — irritability, anxiety, insomnia, restlessness, intense cravings — peak during days 2–5.
 
@@ -48,7 +66,7 @@ Move your body daily. Even 20 minutes of walking. Exercise stimulates natural do
 
 Go to bed at the same time every night, even if you cannot sleep. Lying in the dark without screens is still more restorative than scrolling until 2 AM.
 
-### Week 2 (Days 8–14): The desert
+## Week 2 (Days 8–14): The desert
 
 The acute storm passes, but what replaces it is arguably worse: flatness. The emotional volatility of week one gives way to a grey, featureless emotional landscape. This is [anhedonia](/articles/anhedonia-after-quitting-how-long-it-lasts) — the inability to experience pleasure from normal activities.
 
@@ -70,7 +88,7 @@ Maintain your structure. Do not add new stimulation to compensate for the flatne
 
 Connect with your accountability person. Tell them how you feel. Say the words: "This is hard and I want to quit." Saying it out loud takes some of the power away.
 
-### Week 3 (Days 15–21): The thaw
+## Week 3 (Days 15–21): The thaw
 
 Something shifts. Not dramatically — subtly. But if you are paying attention, you will notice it.
 
@@ -90,7 +108,7 @@ Start reintroducing activities that used to bring you pleasure before the addict
 
 Be vigilant about overconfidence. Week three feels so much better than week two that there is a temptation to declare the experiment complete. It is not. The most significant neurochemical changes are still happening beneath the surface. Stay the course.
 
-### Week 4 (Days 22–30): The clearing
+## Week 4 (Days 22–30): The clearing
 
 By week four, most people experience a qualitative shift that justifies the entire experiment.
 
@@ -110,7 +128,7 @@ This is the diagnostic value of the experiment. If you feel significantly better
 
 Decide what comes next. For some people, the 30 days reveal that they can return to moderate, controlled use. For others — especially those with severe addiction — the experiment makes clear that any return to use will restart the cycle. Both are valid outcomes. The experiment gives you data you did not have before.
 
-### Day 31 and beyond
+## Day 31 and beyond
 
 The 30-day reset is not the end of recovery. It is the end of the beginning. Your dopamine system has started to heal, but full recovery — especially for heavy or long-term users who may experience [PAWS](/articles/paws-post-acute-withdrawal-month-by-month) — continues for months.
 
@@ -120,19 +138,14 @@ You proved to yourself that 30 days is survivable. That your brain heals. That t
 
 Now the question is: what do you want to build on that foundation?
 
-
-
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
 - Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit is designed to guide you through exactly this kind of structured recovery — including the emergency tools you need for the hardest days and the longer-term strategies for sustaining your progress.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are physically dependent on alcohol, benzodiazepines, or other substances where withdrawal can be medically dangerous, please consult a physician before stopping abruptly."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are physically dependent on alcohol, benzodiazepines, or other substances where withdrawal can be medically dangerous, please consult a physician before stopping abruptly.",
   };

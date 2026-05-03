@@ -5,7 +5,24 @@ export const article: Article = {
     title: "Your Phone Is a Relapse Trigger: Digital Cues",
     description: "Your phone has more triggers per square inch than any bar. Nobody tells you to audit it. Here's why you should — and how to do it.",
     publishedAt: "2025-08-25",
+    modifiedAt: "2026-05-03",
     category: "triggers-and-relapse",
+    quickAnswer:
+      "Your phone is a cue machine — old contacts, photos, location history, social media feeds, algorithmic content, ads. It serves up triggers all day, often before you're fully awake, and most recovery programs (built before smartphones) never address it. The fix isn't going off-grid. It's a recovery-specific audit: delete trigger contacts and apps, kill notifications, charge the phone outside the bedroom, and use screen-time locks as a Ulysses contract.",
+    faqs: [
+      {
+        q: "Why is my phone a relapse risk?",
+        a: "Because it stores an archaeological record of your addiction (old contacts, messages, photos, location history) and serves you algorithmically targeted content optimized for dopamine. Every scroll past a relic fires a micro-craving you may not consciously register, but your reward system does. It's the most cue-dense object you handle each day.",
+      },
+      {
+        q: "Should I quit social media in recovery?",
+        a: "Anna Lembke, who treats addiction professionally, has quit it entirely because she considers the risk too high. Total abstinence isn't realistic for everyone, but the principle stands: social media keeps your dopamine system in constant low-level stimulation that interferes with the recalibration early recovery requires.",
+      },
+      {
+        q: "How do I make my phone safer for recovery?",
+        a: "Delete contacts and apps tied to using. Turn off all non-essential notifications. Clear browser history and use content blockers for trigger sites. Charge the phone outside the bedroom so it isn't the first or last thing you interact with. Set app screen-time limits and have someone else set the passcode so you can't override them mid-craving.",
+      },
+    ],
     content: `Here is something that does not get talked about enough in recovery circles: your phone might be the most dangerous object in your house.
 
 Not because you are addicted to your phone (although you might be). But because your phone is a cue machine. It is a delivery system for the exact triggers — people, images, emotions, memories — that light up the same reward circuits your addiction exploited. And it is in your hand for hours every day, often before you are even fully awake.
@@ -14,7 +31,7 @@ Recovery programs talk extensively about avoiding "people, places, and things" a
 
 But nobody tells you to audit your phone. And your phone contains more cues per square inch than any bar, any neighborhood, any social circle ever could.
 
-### Your phone remembers everything you are trying to forget
+## Your phone remembers everything you are trying to forget
 
 Think about what is stored on your phone right now.
 
@@ -26,7 +43,7 @@ This is how conditioned cues work. Your brain formed powerful associations betwe
 
 Your phone serves those triggers up constantly, algorithmically, without warning.
 
-### Social media is not neutral ground
+## Social media is not neutral ground
 
 Let us talk about Instagram, TikTok, X, Reddit, whatever your platforms are.
 
@@ -42,7 +59,7 @@ Anna Lembke, the Stanford psychiatrist who wrote *Dopamine Nation*, does not use
 
 That level of abstinence may not be realistic for everyone. But the principle — that digital platforms are not neutral and carry real recovery risks — is worth taking seriously.
 
-### The phone-craving loop nobody warns you about
+## The phone-craving loop nobody warns you about
 
 There is a pattern that shows up constantly in recovery and almost nobody identifies it as what it is.
 
@@ -56,7 +73,7 @@ This is the loop: discomfort — phone — stimulation — trigger — craving �
 
 Most people in recovery experience some version of this loop daily without identifying the phone as the entry point.
 
-### A recovery-specific phone audit
+## A recovery-specific phone audit
 
 This is not about becoming a digital minimalist or going off the grid. It is about applying the same self-binding principles you use for your substance to the device that delivers more triggers than any other single object in your life.
 
@@ -72,7 +89,7 @@ This is not about becoming a digital minimalist or going off the grid. It is abo
 
 **Screen time limits.** Use your phone's built-in screen time controls to set daily limits on social media apps. Make someone else set the passcode so you cannot override it in a weak moment. This is the digital version of a [Ulysses contract](/articles/ulysses-contract-outsmart-addiction) — Odysseus asking his crew to tie him to the mast.
 
-### The phone is not the enemy — but it is not your friend either
+## The phone is not the enemy — but it is not your friend either
 
 Your phone is a tool. Like any tool, it can be used to support your recovery or to undermine it. Recovery meeting schedules, sponsor contact info, meditation apps, mood tracking — these are genuine recovery supports that live on your phone.
 
@@ -84,14 +101,10 @@ Audit the phone. Set the boundaries. Tie yourself to the mast.
 
 
 
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
 - Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

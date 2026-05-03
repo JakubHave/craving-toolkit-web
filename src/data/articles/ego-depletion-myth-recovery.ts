@@ -5,7 +5,24 @@ export const article: Article = {
     title: "Ego Depletion and Recovery: What Science Says",
     description: "Ego depletion is more complicated than you've been told. Updated research shows willpower isn't a simple tank — and that changes recovery strategy.",
     publishedAt: "2025-11-19",
+    modifiedAt: "2026-05-03",
     category: "triggers-and-relapse",
+    quickAnswer:
+      "The original \"willpower is a tank that empties with use\" model failed two giant replication studies (2016 and 2021). The updated science: self-control depletes only under sustained, intense demand — and the effect largely disappears in people who don't believe willpower is finite, who are genuinely motivated, and whose sleep, food, and stress are managed. Recovery is not an endurance contest you're destined to lose.",
+    faqs: [
+      {
+        q: "Is ego depletion real?",
+        a: "Partially. The classic version — that brief acts of self-control deplete a shared willpower tank — failed major replication studies in 2016 and 2021. A 2025 multilab study found the effect does emerge under prolonged, intense self-control demands (30+ minutes), so the phenomenon is real but smaller and more situational than originally claimed.",
+      },
+      {
+        q: "Does this mean willpower is unlimited?",
+        a: "No. It means willpower is elastic, not fixed. Capacity is heavily shaped by your beliefs about it, your motivation level, sleep, nutrition, emotional state, and social context. People who believe willpower is self-renewing often show no depletion effect at all. The same person can have very different capacity on different days.",
+      },
+      {
+        q: "What does this change about addiction recovery?",
+        a: "It removes the fatalism. The \"you'll eventually crack because the tank always empties\" narrative isn't supported by current science. Recovery still requires effort, but motivation (running toward something compelling) and self-care infrastructure (sleep, food, connection) determine your capacity far more than gritted teeth ever will.",
+      },
+    ],
     content: `For the past two decades, a single idea has dominated how we think about willpower and addiction: self-control is a finite resource that gets used up. Resist one temptation, and you have less fuel to resist the next. The psychological term is ego depletion, and it has been used to explain everything from late-night binge eating to relapse after months of sobriety.
 
 There's just one problem. The science behind it is crumbling.
@@ -14,7 +31,7 @@ In 2016, a massive replication study involving over two thousand participants ac
 
 This matters enormously for addiction recovery. Because if ego depletion is overstated, then the entire framework of "[willpower is limited](/articles/why-willpower-fails-recovery), so you will eventually run out" needs revision. And the revised version offers something the original didn't: genuine hope.
 
-### What the original theory said
+## What the original theory said
 
 The ego depletion model, popularized by psychologist Roy Baumeister, proposed that self-control operates like a muscle with a limited energy supply. Every act of self-regulation — choosing the salad over the burger, staying calm during an argument, resisting the urge to check your phone — draws from a shared pool of mental energy. When the pool is depleted, self-control fails.
 
@@ -22,7 +39,7 @@ Applied to addiction, this was devastating. It meant that recovery was an endura
 
 This framework resonated deeply because it matched the subjective experience of people in recovery. By evening, after a day of decisions, stressors, and micro-resistances, willpower genuinely feels gone. The craving that you handled at noon becomes unmanageable at 9 PM. The explanation seemed obvious: the tank was empty.
 
-### What the new research actually shows
+## What the new research actually shows
 
 The replication crisis did not prove that self-control is unlimited. What it showed is that the "limited resource" model is too simple.
 
@@ -42,7 +59,7 @@ This isn't just positive thinking. It reflects something real about how cognitiv
 
 This means the "willpower tank" is not a fixed container. It is elastic — expandable through self-care and compressible through neglect. The practical implication is enormous: instead of accepting depletion as inevitable, you can actively maintain the conditions that keep your self-regulatory capacity high.
 
-### What this means for addiction recovery
+## What this means for addiction recovery
 
 If ego depletion is less universal than originally thought, the entire narrative of recovery-as-endurance-contest shifts.
 
@@ -56,7 +73,7 @@ If ego depletion is less universal than originally thought, the entire narrative
 
 This does not mean you should be naive about the challenges of recovery. But the framing matters. "I am building a new life and it requires effort" is neurologically different from "I am managing a chronic disease and I will always be vulnerable." The first framing mobilizes resources. The second conserves them.
 
-### The willpower paradox, revised
+## The willpower paradox, revised
 
 Willpower works best when three conditions are met:
 
@@ -68,7 +85,7 @@ Third, your biological infrastructure is maintained. Sleep, food, movement, conn
 
 When all three conditions are in place, the subjective experience of recovery shifts. Self-control stops feeling like holding back a flood and starts feeling like steering a current. The effort is still there. But it is purposeful effort — directed, sustainable, and aligned with desire rather than opposed to it.
 
-### Why this does not mean willpower is everything
+## Why this does not mean willpower is everything
 
 Nothing in the ego depletion revision suggests that willpower alone is sufficient for recovery. Environmental strategies (self-binding, trigger removal, structured routines) remain essential. Social support remains essential. Professional help remains essential for many people.
 
@@ -82,17 +99,13 @@ That is a different fight entirely. And it is one you can win.
 
 
 
-### Sources
+## Sources
 
 - Hagger MS, et al. "A multilab preregistered replication of the ego-depletion effect." *Perspect Psychol Sci*. 2016;11(4):546-573. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27474142/)
 - Vohs KD, et al. "A multisite preregistered paradigmatic test of the ego-depletion effect." *Psychol Sci*. 2021;32(10):1566-1581.
 - Dang J, et al. "Revisiting Ego Depletion: Evidence from Multi-Lab Collaborations." *Soc Psychol Personal Sci*. 2025.
 - Job V, Dweck CS, Walton GM. "Ego depletion — is it all in your head? Implicit theories about willpower affect self-regulation." *Psychol Sci*. 2010;21(11):1686-1693.
 - Lewis M. *The Biology of Desire*. PublicAffairs, 2015.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

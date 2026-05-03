@@ -3,9 +3,27 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "narrowing-effect-addiction",
     title: "The Narrowing Effect: How Addiction Shrinks Your World",
-    description: "Addiction progressively narrows what brings you pleasure. Here's the neuroscience behind the narrowing — and a protocol for widening your world back out.",
+    description:
+      "Addiction progressively narrows what brings you pleasure. The neuroscience behind the narrowing — and a protocol for widening your world back out.",
     publishedAt: "2025-11-01",
+    modifiedAt: "2026-05-03",
     category: "understanding-addiction",
+    quickAnswer:
+      "Addiction is a progressive narrowing of the things that bring you pleasure. As the brain specializes around one reward, the striatum stops registering other sources, the orbitofrontal cortex revalues everything else as less important, and the prefrontal cortex disconnects from the motivational engine. The widening — built by deliberate exposure to new rewards — uses the same neuroplasticity that built the narrowing.",
+    faqs: [
+      {
+        q: "What is the narrowing effect in addiction?",
+        a: "It is the progressive shrinking of what your brain registers as rewarding. As addiction deepens, the striatum specializes around one source of dopamine, the orbitofrontal cortex revalues everything else as less important, and your attentional system stops flagging non-addictive pleasures as worth noticing. Food, friends, hobbies — all of it fades to grey while the substance stays in high definition.",
+      },
+      {
+        q: "Why do other things stop bringing pleasure during addiction?",
+        a: "Because your brain has learned, through repeated reward, to allocate attentional and dopaminergic resources to the addictive stimulus at the expense of competing rewards. It is not that other things are objectively less enjoyable — your brain has stopped registering them. The mechanism is normal neuroplasticity carved into a destructive shape.",
+      },
+      {
+        q: "How do you reverse the narrowing?",
+        a: "By deliberately exposing your brain to varied new experiences during a period when those experiences feel flat. Diversify reward sources (schedule three different activities a week), pursue novelty (a new route, a new cuisine), practice presence in non-addictive contexts, build social connection, and develop a compelling future vision. New pathways strengthen with use; old ones weaken with disuse.",
+      },
+    ],
     content: `Addiction is a progressive narrowing of the things that bring you pleasure.
 
 That sentence, first shared by neuroscientist Andrew Huberman, went viral because it captures something that every person who has experienced addiction recognizes instantly. It describes the lived experience of watching your world get smaller — not because opportunities disappear, but because your brain stops registering them as interesting.
@@ -16,7 +34,7 @@ Food that used to taste good now tastes like nothing. Friendships that used to f
 
 This isn't a metaphor. It's a neurological process with measurable mechanisms. And understanding it — really understanding it — is the key to reversing it.
 
-### How the narrowing works in your brain
+## How the narrowing works in your brain
 
 Neuroscientist [Marc Lewis](https://memoirsofanaddictedbrain.com/) describes the narrowing as a "tunnel of attention and attraction" that gets tighter with every cycle of use. The mechanism involves three interconnected brain systems working together to create a self-reinforcing loop.
 
@@ -34,7 +52,7 @@ This is why, deep in addiction, the most obvious rational arguments fail. Your O
 
 The result: the judging system and the wanting system stop communicating effectively. Desire operates independently of judgment. The narrowing becomes self-perpetuating because the only brain system that could intervene — the prefrontal cortex — has been progressively sidelined.
 
-### The narrowing from the inside
+## The narrowing from the inside
 
 The neurological process described above produces a distinctive subjective experience that most people in addiction recognize but rarely have language for.
 
@@ -46,7 +64,7 @@ Lewis describes this as living in a "present trance" — a state where the addic
 
 This is the narrowing at its most extreme. The world has not shrunk. Your brain's ability to perceive its richness has.
 
-### Why the narrowing is the central problem
+## Why the narrowing is the central problem
 
 Many discussions of addiction focus on the substance — its chemistry, its dopamine spike, its withdrawal profile. The narrowing shifts the focus to something more fundamental: the progressive loss of alternatives.
 
@@ -56,7 +74,7 @@ It is also why removing the substance, by itself, is often insufficient. If you 
 
 Real recovery is not primarily about subtracting the substance. It is about widening the world back out.
 
-### Widening: the reverse process
+## Widening: the reverse process
 
 If the narrowing is driven by neuroplasticity — the brain's pathways strengthening with use and weakening with disuse — then widening is driven by the same mechanism in reverse. New experiences build new pathways. Repeated new experiences strengthen them. Over time, the brain's reward landscape diversifies, and the substance's monopoly on pleasure breaks.
 
@@ -76,7 +94,7 @@ But the medicine works anyway. The brain is changing even when you cannot feel i
 
 This is not "finding your passion" in the Instagram sense. It is looking at the life you have been given, seeing what needs to be done, and beginning to do it — day by day, task by task — until the accumulation of small purposeful actions creates a life that is genuinely wider than the tunnel you have been living in.
 
-### The widening is not instant
+## The widening is not instant
 
 Expect the narrowing to reverse gradually, not dramatically. The first new activities will feel forced and flat. The first social interactions will feel draining rather than rewarding. The first attempts at novelty will feel pointless.
 
@@ -86,20 +104,15 @@ But they do strengthen. The research is clear: dopamine receptor density recover
 
 The narrowing was real. The widening is real too. And it is already happening — one new experience, one new pathway, one new moment of attention at a time.
 
-
-
-### Sources
+## Sources
 
 - Lewis M. *The Biology of Desire*. PublicAffairs, 2015.
 - Lewis M. "Addiction and the Brain: Development, Not Disease." *Neuroethics*. 2017;10(1):7-18.
 - Huberman A. "Addiction is a progressive narrowing of the things that bring you pleasure." Social media post, 2022.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit includes practical tools for rebuilding the breadth of your life during recovery — from daily practices that widen your reward landscape to emergency protocols for the moments when the narrowing pulls you back toward the tunnel.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
 };

@@ -3,9 +3,27 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "paws-post-acute-withdrawal-month-by-month",
     title: "PAWS Month by Month: The Post-Acute Withdrawal Guide",
-    description: "You made it through detox. So why do you still feel wrong months later? This is PAWS — and it has a predictable month-by-month timeline nobody explains.",
+    description:
+      "You made it through detox. So why do you still feel wrong months later? This is PAWS — and it has a predictable month-by-month timeline nobody explains.",
     publishedAt: "2025-09-18",
+    modifiedAt: "2026-05-03",
     category: "early-recovery",
+    quickAnswer:
+      "PAWS — post-acute withdrawal syndrome — is the brain's longer-term adjustment after detox. It shows up after the crisis has passed, when everyone expects you to be \"better.\" Symptoms include mood swings, sleep disturbance, anhedonia, and intermittent cravings. Most people see significant improvement within 3–6 months, though heavy stimulant or opioid users may have intermittent symptoms for 12–24 months.",
+    faqs: [
+      {
+        q: "How long does PAWS last?",
+        a: "For most substances, PAWS symptoms improve significantly within 3–6 months. For heavy stimulant or opioid users, some symptoms can persist intermittently for 12–24 months, following a \"windows and waves\" pattern of improvement.",
+      },
+      {
+        q: "What are the most common PAWS symptoms?",
+        a: "Mood swings, irritability, anxiety, sleep disturbances, fatigue, poor concentration, reduced motivation, anhedonia (inability to feel pleasure), and increased sensitivity to stress.",
+      },
+      {
+        q: "Is PAWS a real diagnosis?",
+        a: "PAWS is not a formal DSM diagnosis, but it is a widely recognized clinical phenomenon. The symptoms are well-documented in recovery literature and are consistent with the brain's extended neurochemical recovery process.",
+      },
+    ],
     content: `You made it through detox. The shaking stopped. The sweats dried up. The nausea passed. You white-knuckled through the worst of it, and now — weeks or even months later — you still feel wrong.
 
 Not withdrawal-level wrong. Something more subtle. A persistent low-grade fog. Mood swings that come from nowhere. Sleep that never quite restores you. Anxiety that spikes on random Tuesdays for no reason. Days where you feel almost normal, followed by days where you feel like you are back at week one.
@@ -14,7 +32,7 @@ Welcome to PAWS — post-acute withdrawal syndrome. It is real, it is common, it
 
 Nothing is permanently broken. Your brain is doing exactly what it needs to do. It is just taking longer than you expected.
 
-### What PAWS actually is
+## What PAWS actually is
 
 Acute withdrawal is the body's immediate reaction to removing a substance it has adapted to. It involves physical symptoms — tremors, nausea, sweating, seizures (in severe cases) — and it typically resolves within days to two weeks, depending on the substance.
 
@@ -24,7 +42,7 @@ Common PAWS symptoms include mood swings, irritability, anxiety, sleep disturban
 
 Here is what makes PAWS particularly dangerous: it shows up after the crisis period, when everyone around you (and possibly you yourself) expects you to be "better." The support structures that were in place during acute withdrawal may have loosened. The urgency has faded. And yet you are still struggling — in ways that are hard to articulate and easy to dismiss.
 
-### The month-by-month reality
+## The month-by-month reality
 
 Individual experiences vary based on substance, duration of use, severity of addiction, and individual neurochemistry. But the following timeline represents the general pattern that clinicians and people in recovery consistently describe.
 
@@ -78,7 +96,7 @@ For heavy, long-term users of methamphetamine or opioids, some PAWS symptoms can
 
 This does not mean 14 months of misery. It means 14 months of gradual, cumulative improvement with occasional setbacks. The lived experience is one of a slowly brightening landscape — not a sudden switch from dark to light.
 
-### How to survive PAWS
+## How to survive PAWS
 
 **Know the timeline.** Half the battle is knowing what to expect. When a wave hits at month 4 and you feel like month 1 again, the difference between knowing it is PAWS and believing you are broken is enormous. PAWS has a pattern. Patterns end.
 
@@ -94,7 +112,7 @@ This does not mean 14 months of misery. It means 14 months of gradual, cumulativ
 
 **Do not make major life decisions during waves.** Waves distort your perception. Everything looks worse during a wave than it actually is. Wait for a window before making significant decisions about relationships, career, or treatment changes.
 
-### The finish line is not a line
+## The finish line is not a line
 
 Recovery from PAWS is not a single moment where you wake up healed. It is a gradual accumulation of better days. The waves get smaller, the windows get bigger, and eventually the windows become your new normal with only occasional, manageable dips.
 
@@ -102,30 +120,14 @@ One of Lembke's patients described it as walking down a dark alley, lighting lam
 
 You are lighting lampposts. Keep walking.
 
-
-
-### Frequently Asked Questions
-
-**How long does PAWS last?**
-For most substances, PAWS symptoms improve significantly within 3-6 months. For heavy stimulant or opioid users, some symptoms can persist intermittently for 12-24 months, following a "windows and waves" pattern of improvement.
-
-**What are the most common PAWS symptoms?**
-Mood swings, irritability, anxiety, sleep disturbances, fatigue, poor concentration, reduced motivation, anhedonia (inability to feel pleasure), and increased sensitivity to stress.
-
-**Is PAWS a real diagnosis?**
-PAWS is not a formal DSM diagnosis, but it is a widely recognized clinical phenomenon. The symptoms are well-documented in recovery literature and are consistent with the brain's extended neurochemical recovery process.
-
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
 - Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit includes a full recovery timeline with day-by-day strategies for the hardest phases — including the PAWS period when most support structures have faded.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are experiencing severe or worsening symptoms, please consult a healthcare professional."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are experiencing severe or worsening symptoms, please consult a healthcare professional.",
   };

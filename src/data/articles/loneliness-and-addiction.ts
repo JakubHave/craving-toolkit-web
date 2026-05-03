@@ -5,7 +5,24 @@ export const article: Article = {
     title: "Loneliness and Addiction: Why Isolation Triggers Relapse",
     description: "Rat Park showed isolated rats consumed 20x more morphine. Here's why addiction creates loneliness — and how to break the isolation trap.",
     publishedAt: "2025-12-31",
+    modifiedAt: "2026-05-03",
     category: "recovery-lifestyle",
+    quickAnswer:
+      "Bruce Alexander's Rat Park experiment showed isolated rats consumed up to 20× more morphine than rats in a normal social environment — even after forced dependence, the connected rats chose plain water through withdrawal. Loneliness physically rewires reward circuitry through chronic stress and reduced dopamine function. Recovery requires lowering the bar for connection — micro-contacts, structured community, even pets count.",
+    faqs: [
+      {
+        q: "Is loneliness a cause of addiction?",
+        a: "Loneliness creates neurobiological conditions that increase addiction vulnerability: chronic stress activation, reduced dopamine function, and diminished capacity for natural reward. Bruce Alexander's Rat Park experiment showed that socially housed rats resisted morphine even after physical dependence, while isolated rats consumed up to twenty times more.",
+      },
+      {
+        q: "Why does addiction cause isolation?",
+        a: "Addiction narrows the brain's reward focus to a single source, reducing motivation for social engagement. As consequences accumulate, shame drives further withdrawal. The addiction engineers its own optimal conditions: isolation with access to the substance. Loneliness doesn't just precede addiction — addiction manufactures it.",
+      },
+      {
+        q: "How do you rebuild connections in recovery?",
+        a: "Start with low-barrier contact: daily texts, structured activities, physical proximity to others (cafés, gyms, meetings). Lower your expectations — early recovery connections will feel awkward and insufficient. That's normal. Consistency and repetition build genuine connection over time, not forced intimacy. A pet can also activate the same oxytocin/dopamine circuits as human contact.",
+      },
+    ],
     content: `There's a line in the Craving Toolkit that I almost cut because it felt too simple: "The danger here is isolation with access. That combination is brutal."
 
 I kept it because it's the truest thing in the book. Not the most scientific. Not the most nuanced. Just the most true. Every relapse I've ever had happened when I was alone, with access, and with nothing between me and the behavior except my own thoughts — which, at that point, had already switched sides.
@@ -14,7 +31,7 @@ Loneliness doesn't show up on most trigger lists the way stress or boredom do. I
 
 It counts.
 
-### Rat Park and the experiment that changed everything
+## Rat Park and the experiment that changed everything
 
 In 1981, psychologist Bruce Alexander at Simon Fraser University ran an experiment that should have reshaped the entire addiction field. It didn't — at least not immediately — but it planted a seed that Gabor Maté, Johann Hari, and others would later grow into one of the most important insights in addiction science.
 
@@ -30,7 +47,7 @@ Both groups — isolated cage rats and Rat Park rats — were given a choice bet
 
 The implication was explosive: maybe the drug isn't the primary driver of addiction. Maybe the cage is.
 
-### Connection as the opposite of addiction
+## Connection as the opposite of addiction
 
 Maté extends Alexander's insight from rats to humans. In *In the Realm of Hungry Ghosts*, he describes how isolation — both physical and emotional — creates the neurobiological conditions that make addiction more likely.
 
@@ -42,7 +59,7 @@ In humans, the data is equally stark. Loneliness is associated with increased ri
 
 Johann Hari, drawing on Alexander's work and Maté's clinical experience, famously argued that "the opposite of addiction is not sobriety. The opposite of addiction is connection." It's a line that gets quoted often because it captures something real — though, like most bumper-sticker formulations, it oversimplifies. Connection alone doesn't cure addiction. But its absence makes recovery dramatically harder.
 
-### Why addiction creates its own isolation
+## Why addiction creates its own isolation
 
 Loneliness doesn't just precede addiction. Addiction manufactures loneliness — systematically, progressively, and by design.
 
@@ -54,7 +71,7 @@ Then the shame adds another layer. As the consequences accumulate — broken pro
 
 Both are lying.
 
-### The loneliness trap in early recovery
+## The loneliness trap in early recovery
 
 Early recovery often makes loneliness worse before it makes it better. You've cut contact with your using friends (because you had to). You may have burned bridges with your non-using friends (because the addiction did). You're attending meetings or therapy, but those connections feel forced and shallow. You're not yet capable of the vulnerability that deep connection requires — your emotional armor is still welded on from years of self-protection.
 
@@ -66,7 +83,7 @@ Breaking the trap requires accepting a hard truth: the first connections in reco
 
 Do it anyway.
 
-### What helps
+## What helps
 
 **Lower the bar for connection.** You don't need deep, meaningful relationships right now. You need contact. Any contact. A daily text exchange. A weekly coffee. A meeting where you sit in the back and don't share. A gym where you nod at the same people every morning. These micro-connections are neurobiologically active — they produce small oxytocin and dopamine hits that keep the social reward system from atrophying completely.
 
@@ -80,7 +97,7 @@ Do it anyway.
 
 **Get a living thing.** This sounds trivial. It isn't. A plant, a fish, a cat, a dog — anything that depends on you showing up every day and providing care. Caregiving activates the same oxytocin and dopamine circuits that human connection does. A dog, in particular, provides structured routine (walks), social opportunity (other dog owners), unconditional positive regard (which you're not getting from anyone else right now), and a reason to get out of bed. Multiple addiction treatment programs have incorporated animal-assisted therapy for exactly these reasons.
 
-### Loneliness is not a character flaw
+## Loneliness is not a character flaw
 
 If you're in recovery and you're lonely, you're not doing it wrong. You're experiencing the natural consequence of a condition that systematically destroyed your social infrastructure. The loneliness is a wound, not a weakness. And like all wounds in recovery, it heals — slowly, unevenly, and only if you stop pretending it isn't there.
 
@@ -90,27 +107,12 @@ Connection isn't the cure. But isolation is the accelerant. Remove the acceleran
 
 
 
-### Frequently Asked Questions
-
-**Is loneliness a cause of addiction?**
-Loneliness creates neurobiological conditions that increase addiction vulnerability: chronic stress activation, reduced dopamine function, and diminished capacity for natural reward. Bruce Alexander's Rat Park experiment showed that socially housed rats resisted morphine even after physical dependence, while isolated rats consumed up to twenty times more.
-
-**Why does addiction cause isolation?**
-Addiction narrows the brain's reward focus to a single source, reducing motivation for social engagement. As consequences accumulate, shame drives further withdrawal. The addiction engineers its own optimal conditions: isolation with access to the substance.
-
-**How do you rebuild connections in recovery?**
-Start with low-barrier contact: daily texts, structured activities, physical proximity to others. Lower your expectations — early recovery connections will feel awkward and insufficient. That's normal. Consistency and repetition build genuine connection over time, not forced intimacy.
-
-### Sources
+## Sources
 
 - Alexander BK, et al. "Effect of early and later colony housing on oral ingestion of morphine in rats." *Pharmacol Biochem Behav*. 1981;15(4):571-576.
 - Maté G. *In the Realm of Hungry Ghosts*. Vintage Canada, 2008.
 - Cacioppo JT, Hawkley LC. "Perceived social isolation and cognition." *Trends Cogn Sci*. 2009;13(10):447-454. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19726219/)
 - Heilig M, et al. "Time to connect: Bringing social context into addiction neuroscience." *Nat Rev Neurosci*. 2016;17(9):592-599.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

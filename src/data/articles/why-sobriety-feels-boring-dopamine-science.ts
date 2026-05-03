@@ -3,9 +3,27 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "why-sobriety-feels-boring-dopamine-science",
     title: "Why Sobriety Feels So Boring: The Dopamine Science",
-    description: "Early sobriety feels flat because your dopamine receptors are depleted, not because life is boring. Here's the timeline and how to survive the grey phase.",
+    description:
+      "Early sobriety feels flat because your dopamine receptors are depleted, not because life is boring. Here's the timeline and how to survive the grey phase.",
     publishedAt: "2025-08-14",
+    modifiedAt: "2026-05-03",
     category: "early-recovery",
+    quickAnswer:
+      "Early sobriety feels boring not because life is boring, but because your dopamine receptors have been temporarily downregulated by chronic substance use. Normal pleasures cannot break through a recalibrated reward system. The flatness peaks in weeks 1–2, brief windows of pleasure return by week 3, and most people feel measurably better by day 30 as receptors regenerate.",
+    faqs: [
+      {
+        q: "Why does sobriety feel so boring at first?",
+        a: "Because your dopamine receptors have been downregulated by chronic substance use. Normal activities — coffee, conversation, sunsets — produce dopamine, but your reward system has been temporarily set to a level where those signals barely register. Life is not boring. Your brain is muted.",
+      },
+      {
+        q: "How long does the boring phase of sobriety last?",
+        a: "Days 1–14 are typically the worst. Days 14–21 bring brief windows of genuine pleasure. By days 21–30, most people experience normal activities feeling rewarding again. Heavy or long-term users — especially of stimulants or opioids — may take longer.",
+      },
+      {
+        q: "Should I just get a hobby to deal with sobriety boredom?",
+        a: "It is not wrong, but it misses the mechanism. In early recovery your reward system is too depleted to extract much pleasure from any activity. The fix is not more activity — it is time. While you wait for receptors to regenerate, lower the bar for what counts as enjoyable, structure your time, exercise daily, and keep stimulation low.",
+      },
+    ],
     content: `Nobody warns you about this part.
 
 They tell you about withdrawal. They tell you about cravings. They tell you about the shaky hands, the sweats, the insomnia, the emotional rollercoaster.
@@ -16,7 +34,7 @@ Saturday afternoon. The house is clean. The laundry is done. You have eaten. You
 
 It's not. But your brain doesn't know that yet.
 
-### Your reward system is broken — temporarily
+## Your reward system is broken — temporarily
 
 Here is what is actually happening in your brain.
 
@@ -30,7 +48,7 @@ A cup of good coffee that would give a normal person a small, genuine lift? Your
 
 This is not permanent. But it takes time to heal — typically 30 days minimum for most people, and sometimes much longer depending on the severity and duration of use.
 
-### Boredom is not what you think it is
+## Boredom is not what you think it is
 
 Here is the thing that makes boredom so dangerous in recovery: it is not just the absence of stimulation. It is an emotional state — and a surprisingly complex one.
 
@@ -44,7 +62,7 @@ Lembke describes a conversation with a Stanford student who spent every waking m
 
 That is what you are dealing with in recovery. Boredom is not a scheduling problem. It is not solved by getting a hobby. It is an encounter with yourself — potentially for the first time in years — without the buffer of your substance. And that encounter can be deeply uncomfortable, because buried underneath the boredom are questions you have been avoiding: Who am I without this? What do I actually want? What have I been running from?
 
-### Why "get a hobby" is terrible advice
+## Why "get a hobby" is terrible advice
 
 You have probably heard this advice a hundred times. Join a gym. Take up painting. Learn to cook. Read more books.
 
@@ -56,7 +74,7 @@ This is why the first few weeks of sobriety can feel so hopeless. You did the ha
 
 It wasn't a mistake. Your brain is healing. It just doesn't heal as fast as you want it to.
 
-### The timeline nobody talks about
+## The timeline nobody talks about
 
 Based on clinical experience and research, here is roughly what to expect:
 
@@ -68,7 +86,7 @@ Based on clinical experience and research, here is roughly what to expect:
 
 **Days 30–90:** Continued improvement, with some bad days mixed in. The trajectory is upward, but it is not linear. Some days will feel like week one again. These are normal fluctuations in a healing process, not signs of failure.
 
-### How to survive the boring phase
+## How to survive the boring phase
 
 Since boredom in early recovery is primarily a neurochemical problem, the strategies need to account for that reality.
 
@@ -82,7 +100,7 @@ Since boredom in early recovery is primarily a neurochemical problem, the strate
 
 **[Practice boredom tolerance.](/articles/boredom-tolerance-recovery-skill)** Sit with the boredom for 10 minutes without reaching for your phone. Just sit. Let the discomfort be there. Notice it without reacting to it. This is not meditation advice — it is tolerance training. You are teaching your nervous system that boredom sucks but is not dangerous.
 
-### The boredom will pass
+## The boredom will pass
 
 This is the part that matters most, and it is the hardest to believe when you are in the middle of it.
 
@@ -92,19 +110,14 @@ That is not motivational poster talk. That is dopamine receptor upregulation. Yo
 
 The price of admission is a stretch of time that feels grey and empty and boring. It is real. It is temporary. And it is the strongest evidence that your brain is doing exactly what it needs to do to heal.
 
-
-
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
 - Brewer JA. *The Craving Mind: From Cigarettes to Smartphones to Love*. Yale University Press, 2017.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit includes a full chapter on navigating early recovery, including structured protocols for the critical first 30 days when boredom and flatness are at their peak.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
   };

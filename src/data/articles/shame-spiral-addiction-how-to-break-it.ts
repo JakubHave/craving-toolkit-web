@@ -5,7 +5,24 @@ export const article: Article = {
     title: "The Shame Spiral: How Shame Traps You in Addiction",
     description: "You use. You feel shame. You use to escape the shame. Round and round. Here's how the shame spiral works — and how to break it with one conversation.",
     publishedAt: "2025-09-09",
+    modifiedAt: "2026-05-03",
     category: "triggers-and-relapse",
+    quickAnswer:
+      "Shame is emotional pain, and the addicted brain's response to emotional pain is to seek the substance for relief. So the shame from using becomes the trigger for using again — round and round. The cycle depends on secrecy. Breaking it doesn't require eliminating shame; it requires telling one trusted person the truth and discovering that the worst belief shame depends on (\"if they knew, they'd leave\") isn't true.",
+    faqs: [
+      {
+        q: "How does shame fuel addiction?",
+        a: "Shame triggers emotional pain, and the brain's response to emotional pain in addiction is to seek the substance for relief. This creates a self-reinforcing cycle: use → shame → more use → more shame. Shame also drives secrecy, which isolates you from the natural sources of dopamine and connection that compete with the addictive pathway.",
+      },
+      {
+        q: "What is the difference between shame and guilt in addiction?",
+        a: "They feel identical in the moment — both hit as a gut punch of regret and fear of being cast out. What matters is how others respond when you disclose. If they reject you, shame deepens and drives more use (destructive shame). If they hold you closer and offer a path forward, shame becomes a catalyst for change (prosocial shame).",
+      },
+      {
+        q: "How do you break the shame cycle?",
+        a: "Tell one trusted person the truth about what's happening — not the sanitized version, the real one. The shame cycle depends on secrecy. Breaking it with even one person disproves the core belief shame relies on (\"if they knew, they'd leave\") and metabolizes the emotion through connection rather than deepening it through isolation.",
+      },
+    ],
     content: `Here is a cycle that most people in recovery know by heart, even if they have never seen it written down:
 
 You use. You feel shame. The shame feels unbearable. You use to escape the shame. You feel more shame. You use again.
@@ -14,7 +31,7 @@ Round and round. Faster each time. The substance or behavior isn't just the prob
 
 Understanding how shame works — and how it differs from guilt, and why some shame helps recovery while other shame destroys it — can break the cycle. Not overnight. But visibly, concretely, one honest moment at a time.
 
-### Shame isn't what you think it is
+## Shame isn't what you think it is
 
 The psychological literature draws a neat line between shame and guilt. Guilt, they say, is about behavior: "I did a bad thing." Shame is about identity: "I am a bad person." Guilt is adaptive. Shame is toxic.
 
@@ -22,7 +39,7 @@ This distinction is useful in theory. In practice, it falls apart in the moment 
 
 What matters, Lembke argues, isn't how the emotion feels inside you. What matters is how other people respond when it surfaces.
 
-### Destructive shame vs. prosocial shame
+## Destructive shame vs. prosocial shame
 
 Here is the distinction that actually matters for recovery.
 
@@ -40,7 +57,7 @@ This response does something neurologically and psychologically powerful. It all
 
 Twelve-step programs, at their best, create exactly this dynamic. You stand up in a room of strangers, say the thing you are most ashamed of, and the room doesn't reject you. They nod. Some of them smile. Some of them say, "me too." The shame is metabolized through connection rather than deepened through isolation.
 
-### Why shame is so dangerous for addiction specifically
+## Why shame is so dangerous for addiction specifically
 
 Shame is not unique to addiction. Everyone experiences it. But shame has a particular toxicity in the context of addiction for three reasons.
 
@@ -50,7 +67,7 @@ Shame is not unique to addiction. Everyone experiences it. But shame has a parti
 
 **Shame distorts identity.** There is a difference between "I have a problem" and "I am the problem." Shame pushes you toward the second framing. And once you believe you are fundamentally broken — not someone with a treatable condition, but someone who is constitutionally defective — the motivation to recover collapses. Why bother fixing what can't be fixed?
 
-### How to break the spiral
+## How to break the spiral
 
 Breaking the shame spiral doesn't require eliminating shame. Shame is a human emotion with deep evolutionary roots — it signals that our behavior has violated a social norm, and it motivates repair. The goal is not to feel no shame. The goal is to process it through connection rather than isolation.
 
@@ -66,7 +83,7 @@ You are not looking for them to fix it. You are looking for the experience of be
 
 **[Practice small acts of honesty.](/articles/why-addicts-lie-radical-honesty-recovery)** You do not have to begin with your deepest, darkest secret. Start with smaller truths. Admit a minor mistake at work. Apologize for something you normally would have brushed off. Tell someone you are having a hard day when they ask how you are. Each small truth builds the muscle for the bigger ones.
 
-### Shame as a doorway
+## Shame as a doorway
 
 Lembke tells a story about a patient named Maria, a recovering alcoholic who caught herself opening her brother's Amazon package, lying about it, and then lying about the lie. That night she slept poorly. The next morning, she walked into the kitchen and told the truth — all of it. The package, the cover-up, the lie.
 
@@ -78,25 +95,10 @@ Shame is a doorway. If you walk through it in isolation, it leads deeper into th
 
 
 
-### Frequently Asked Questions
-
-**How does shame fuel addiction?**
-Shame triggers emotional pain, and the brain's response to emotional pain in addiction is to seek the substance for relief. This creates a self-reinforcing cycle: use → shame → more use → more shame.
-
-**What is the difference between shame and guilt in addiction?**
-They feel identical in the moment. What matters is how others respond. If they reject you, shame deepens and drives more use (destructive shame). If they hold you closer and offer a path forward, shame becomes a catalyst for change (prosocial shame).
-
-**How do you break the shame cycle?**
-Tell one trusted person the truth about what's happening. The shame cycle depends on secrecy. Breaking the secrecy — even with one person — disrupts the mechanism that keeps the cycle spinning.
-
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation*. Dutton, 2021.
 - Dearing RL, Stuewig J, Tangney JP. "On the importance of distinguishing shame from guilt." *Clin Psychol Rev*. 2005;25(8):1148-1171.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

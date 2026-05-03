@@ -5,12 +5,29 @@ export const article: Article = {
     title: "Why Addicts Lie — And How Radical Honesty Rewires the Brain",
     description: "Lying in addiction is neurological, not just moral. And honesty is a recovery tool that directly affects the same brain circuits addiction disrupts.",
     publishedAt: "2025-09-12",
+    modifiedAt: "2026-05-03",
     category: "recovery-lifestyle",
+    quickAnswer:
+      "Lying in addiction isn't a moral failure — it's a neurological survival strategy that protects access to the substance. Each lie taxes the prefrontal cortex (the same region you need to resist cravings), creates background stress that triggers more craving, and isolates you behind a self that doesn't exist. Honesty starves the loop. Start with small truths and one trusted listener.",
+    faqs: [
+      {
+        q: "Why do addicts lie so much?",
+        a: "Lying in addiction maintains access to the substance — each truth told is a potential barrier between the person and the drug. Over time the lying becomes a default mode (the \"Lying Habit\") that extends beyond the substance to small, irrelevant things. It's not character failure; it's a survival strategy the addicted brain deploys to protect what it treats as essential.",
+      },
+      {
+        q: "How does honesty help addiction recovery?",
+        a: "Honesty pulls behavior out of denial into full consciousness, closes the isolating gap between who you are and who you're pretending to be, frees up prefrontal resources that lying was consuming, and produces oxytocin through genuine connection. It's not a virtue add-on — it's the infrastructure that makes self-binding, accountability, and trigger work actually function.",
+      },
+      {
+        q: "What is radical honesty in recovery?",
+        a: "Not blurting every thought, but a commitment to not lying — especially about the things that matter most and especially when truth-telling exposes something you'd rather hide. Practically: catch reflexive small lies, tell on yourself before you get caught, find one trusted person who can hold the truth, and expect the discomfort to give way to relief.",
+      },
+    ],
     content: `Every major religion includes honesty in its core teachings. Every recovery program puts truth-telling near the center. Every therapist who treats addiction will tell you that lying is both a symptom of the disease and a fuel that keeps it burning.
 
 But here is the part most people miss: lying is not just a moral problem. It is a neurological one. And honesty is not just a virtue. It is a recovery tool — one that directly affects the same brain circuits that addiction disrupts.
 
-### Why lying and addiction travel together
+## Why lying and addiction travel together
 
 People with addiction lie. A lot. They lie about how much they are using. They lie about where they have been. They lie about how they feel. They lie about the consequences. They lie to their partners, their parents, their doctors, their sponsors, their kids.
 
@@ -26,7 +43,7 @@ One of her patients, Maria, described it clearly: "I lied to cover up my drinkin
 
 Maria's husband described how she would hide in the bathroom to drink, turning on the shower so he would not hear the beer bottles opening. She would drink a six-pack, replace the beer with water, and glue the caps back on. She did not seem to realize that he could smell the glue. The lying had become automatic — a reflex divorced from rational calculation.
 
-### The neuroscience of deception
+## The neuroscience of deception
 
 Lying is cognitively expensive. Brain imaging studies show that deception activates the prefrontal cortex — the same region responsible for impulse control, planning, and decision-making. Every lie requires the brain to simultaneously hold the truth, construct the alternative, monitor the listener's response, and remember the fabrication for future consistency.
 
@@ -36,7 +53,7 @@ Lying drains the same cognitive resources that recovery depends on. Every fabric
 
 There is also a compounding effect. The more lies you tell, the more lies you need to maintain. The cognitive load increases over time, creating a mounting background stress that the person may not even be conscious of — but that their nervous system registers as chronic threat. And chronic threat states are craving triggers.
 
-### How honesty breaks the cycle
+## How honesty breaks the cycle
 
 If lying fuels addiction, honesty starves it. And the mechanism is not just metaphorical.
 
@@ -56,7 +73,7 @@ When you tell the truth, you close that gap. You become knowable. And being know
 
 This matters because addiction distorts your personal narrative. It edits out consequences, minimizes costs, and constructs a version of events that justifies continued use. A truthful autobiography does the opposite. It holds the full picture, including the parts you would rather not see.
 
-### Radical honesty in practice
+## Radical honesty in practice
 
 Radical honesty does not mean saying every thought that crosses your mind with no filter. It means a commitment to not lying — especially about the things that matter most, and especially when telling the truth exposes something you would rather hide.
 
@@ -72,7 +89,7 @@ That moment — choosing honesty when no one was forcing it — was more signifi
 
 **Watch for the lying habit in recovery.** Even after you stop using, the lying habit can persist. Pay attention to automatic deflections, half-truths, and strategic omissions. These are not harmless — they maintain the neural patterns of deception and keep the door open for the addictive voice to operate in the dark.
 
-### Honesty is not a reward — it is infrastructure
+## Honesty is not a reward — it is infrastructure
 
 It is tempting to think of honesty as a nice-to-have. Something aspirational. A bonus feature of a good recovery.
 
@@ -84,13 +101,9 @@ Cut the oxygen, and the fire starts to die.
 
 
 
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation*. Dutton, 2021.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

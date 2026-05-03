@@ -3,9 +3,27 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "why-cant-i-feel-pleasure-dopamine-deficit",
     title: "Why Can't I Feel Pleasure? The Dopamine Deficit State",
-    description: "Sober and doing everything right, yet nothing feels good. This is the dopamine deficit state — temporary and recoverable. Here's how long it lasts.",
+    description:
+      "Sober and doing everything right, yet nothing feels good. This is the dopamine deficit state — temporary and recoverable. Here's how long it lasts.",
     publishedAt: "2025-10-03",
+    modifiedAt: "2026-05-03",
     category: "early-recovery",
+    quickAnswer:
+      "The dopamine deficit state is a temporary neurochemical condition where your reward system has been recalibrated by chronic substance use to a level where normal stimuli barely register. Food has no flavor. Music is just sound. It is one of the most common — and most misdiagnosed — experiences in recovery. The flatness peaks in weeks 1–3 and lifts as receptors regenerate.",
+    faqs: [
+      {
+        q: "Why can't I feel pleasure after getting sober?",
+        a: "Your brain's reward system has been temporarily recalibrated by chronic substance use. Dopamine receptors are downregulated and baseline production is suppressed, so normal activities cannot break through. The condition is called the dopamine deficit state, and it resolves with time.",
+      },
+      {
+        q: "How long does the dopamine deficit state last?",
+        a: "The worst typically peaks in weeks 1–3. Most alcohol and cannabis users see meaningful improvement within 30–90 days. Cocaine: 3–6 months. Methamphetamine: 6–12+ months. Opioids: dopamine recovery in 30–90 days, but endorphin-related anhedonia can extend 6–18 months.",
+      },
+      {
+        q: "Is the dopamine deficit state the same as depression?",
+        a: "They overlap significantly in symptoms but differ in mechanism. A study by Brown and Schuckit found that 80% of depressed alcohol-dependent men no longer met criteria for depression after just four weeks of abstinence — without any antidepressant treatment. Much of what looks like depression in early recovery is the dopamine deficit state.",
+      },
+    ],
     content: `You are sober. You are doing the right things. You are eating, sleeping, exercising, showing up. And yet nothing — absolutely nothing — feels good.
 
 The food has no flavor. The music is just sound. Your friends are talking and you cannot make yourself care. Somebody tells a joke and you produce a laugh because you know it is expected, but inside there is nothing. Just a flat, colorless void where feelings used to live.
@@ -14,7 +32,7 @@ You are not broken. You are not permanently damaged. And you are not losing your
 
 What you are experiencing has a name: the dopamine deficit state. It is a temporary neurochemical condition caused by chronic overstimulation of your brain's reward system. It is one of the most common experiences in recovery, one of the most frightening, and one of the most misunderstood.
 
-### What is actually happening in your brain
+## What is actually happening in your brain
 
 Your brain has a reward system built around dopamine — a neurotransmitter that signals pleasure, motivation, anticipation, and desire. Under normal conditions, everyday activities produce small, healthy amounts of dopamine. A good meal, a warm conversation, a satisfying workout — these register as mild pleasure, a quiet signal that says: this is good, do more of this.
 
@@ -24,7 +42,7 @@ The problem is that they persist after you stop using. You remove the external f
 
 This is the dopamine deficit state. You are not experiencing the absence of pleasure. You are experiencing a reward system that has been temporarily recalibrated to a level where normal stimuli cannot break through.
 
-### How it feels from the inside
+## How it feels from the inside
 
 The clinical term is [anhedonia](/articles/anhedonia-after-quitting-how-long-it-lasts) — the inability to experience pleasure. But clinical terms do not capture what it actually feels like.
 
@@ -36,7 +54,7 @@ It feels like depression, and it is often misdiagnosed as depression. The sympto
 
 The depression was not a separate condition. It was the dopamine deficit state wearing a clinical mask.
 
-### The dangerous lie it tells you
+## The dangerous lie it tells you
 
 The dopamine deficit state has a voice, and it sounds like this:
 
@@ -48,7 +66,7 @@ But it is a symptom. It is your depleted reward system interpreting reality thro
 
 This is why knowing the timeline matters. Not because knowledge makes the flatness feel better, but because it provides a counternarrative to the voice that says: this is permanent.
 
-### How long it lasts
+## How long it lasts
 
 The duration depends on what you were using, how much, and for how long.
 
@@ -58,7 +76,7 @@ For alcohol and cannabis users, meaningful recovery usually occurs within 30–9
 
 These timelines are maps, not sentences. And the trajectory on every map is upward.
 
-### What helps
+## What helps
 
 **Do not medicate the deficit prematurely.** If depressive symptoms persist beyond 30–60 days of sustained abstinence, discuss antidepressants with your doctor. But give your brain time to self-correct first. The Brown and Schuckit study suggests the majority of mood symptoms resolve with abstinence alone.
 
@@ -72,7 +90,7 @@ These timelines are maps, not sentences. And the trajectory on every map is upwa
 
 **Stay connected.** The dopamine deficit state makes isolation feel logical. Nothing is enjoyable, people are exhausting, why bother? But social connection produces oxytocin and natural dopamine that supports recovery even when you cannot feel it. One daily text exchange. One weekly coffee. Minimum viable connection.
 
-### The other side
+## The other side
 
 People who make it through the dopamine deficit state consistently describe something hard to believe when you are in the middle of it.
 
@@ -84,19 +102,14 @@ You are not heading back to where you started. You are heading somewhere better.
 
 The flatness is temporary. The recovery is real. Keep going.
 
-
-
-### Sources
+## Sources
 
 - Brown SA, Schuckit MA. "Changes in depression among abstinent alcoholics." *J Stud Alcohol*. 1988;49(5):412-417.
 - Lembke A. *Dopamine Nation*. Dutton, 2021.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit includes structured strategies for navigating every phase of recovery — including the dopamine deficit period when nothing feels worth doing.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are experiencing severe or prolonged depression, please consult a mental health professional."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are experiencing severe or prolonged depression, please consult a mental health professional.",
   };

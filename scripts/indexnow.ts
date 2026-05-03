@@ -6,6 +6,8 @@
  * Run: npx tsx scripts/indexnow.ts
  */
 
+export {};
+
 const KEY = process.env.INDEXNOW_KEY || "e2668d5eba4a4c1a";
 const HOST = "cravingtoolkit.com";
 

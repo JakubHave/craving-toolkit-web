@@ -3,9 +3,27 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "pleasure-pain-balance-explains-addiction",
     title: "The Pleasure-Pain Balance That Explains Addiction",
-    description: "Your brain processes pleasure and pain in the same place — like a seesaw. Understand this, and tolerance, withdrawal, and recovery all make sense.",
+    description:
+      "Your brain processes pleasure and pain in the same place — like a seesaw. Understand this, and tolerance, withdrawal, and recovery all make sense.",
     publishedAt: "2025-09-01",
+    modifiedAt: "2026-05-03",
     category: "understanding-addiction",
+    quickAnswer:
+      "Your brain processes pleasure and pain in the same neural real estate, on opposite sides of a balance. When pleasure tips the seesaw, the brain compensates by tipping toward pain — and overshoots. Repeated over time, the pain side gets heavier and stuck. This single mechanism explains tolerance, withdrawal, the dopamine deficit state, and why deliberate discomfort (exercise, cold) helps recovery.",
+    faqs: [
+      {
+        q: "What is the pleasure-pain balance in addiction?",
+        a: "The pleasure-pain balance is a neurological concept describing how the same brain regions process both pleasure and pain on opposing sides of a seesaw. When you experience pleasure, the brain compensates by tipping toward pain — and vice versa.",
+      },
+      {
+        q: "Who developed the pleasure-pain balance theory?",
+        a: "The underlying science (opponent-process theory) was developed by Richard Solomon and John Corbit in the 1970s. Psychiatrist Anna Lembke popularized it for a general audience in her 2021 book Dopamine Nation.",
+      },
+      {
+        q: "How do you restore the pleasure-pain balance?",
+        a: "Through sustained abstinence from the substance or behavior (minimum 30 days), reduced overall stimulation, and deliberate exposure to healthy discomfort like exercise and cold water immersion.",
+      },
+    ],
     content: `If you understand one idea from modern addiction neuroscience, make it this one.
 
 Your brain processes pleasure and pain in the same place. Not in neighboring regions. Not in related circuits. In the exact same neural real estate. And these two experiences — pleasure and pain — work like opposite sides of a balance, a seesaw, a scale.
@@ -14,7 +32,7 @@ When one side goes up, the other must come down. And your brain will fight to br
 
 This is the pleasure-pain balance. It was described most clearly by Stanford psychiatrist [Anna Lembke](https://profiles.stanford.edu/anna-lembke) in her book *Dopamine Nation*, but the underlying science — called opponent-process theory — has been studied for over fifty years. Once you see it, you can't unsee it. It explains why pleasure leads to pain, why pain can lead to pleasure, why tolerance develops, why withdrawal exists, and why recovery works the way it does.
 
-### How the balance works
+## How the balance works
 
 Imagine a seesaw balanced perfectly at center. This is your brain in its neutral, resting state — what scientists call homeostasis. You are not particularly happy or sad. You are at baseline.
 
@@ -26,15 +44,15 @@ Here is the critical part: the brain does not just bring the seesaw back to leve
 
 You have experienced this a thousand times without naming it. You finish binge-watching a show and feel a hollow restlessness. You close Instagram and feel vaguely dissatisfied. You come down from a great night out and feel a low-grade sadness. That's not a character flaw. That is your brain's balance mechanism overshooting toward pain.
 
-### The comedown is the trap
+## The comedown is the trap
 
 That post-pleasure dip — the tilt to the pain side — creates a powerful urge. Your brain's immediate, reflexive solution to pain is: seek pleasure. And the fastest available source of pleasure is the same thing you just did.
 
 So you eat another piece of chocolate. Watch another episode. Scroll another fifteen minutes. Have another drink. And each time, the same cycle repeats: pleasure, compensation, overshoot to pain, urge for more.
 
-This is the engine of compulsive consumption. Not a lack of willpower. Not a moral failure. A neurological mechanism operating exactly as designed — just in an environment it was never designed for.
+This is the engine of compulsive consumption. Not a lack of willpower. Not a moral failure. A neurological mechanism operating exactly as designed — just in an environment it was never designed for. Behaviorally, this overshoot is what powers [the cue–routine–reward loop](/articles/habit-loop-addiction-cue-routine-reward) — every comedown becomes the next cue, and the loop tightens.
 
-### What happens when you keep tilting
+## What happens when you keep tilting
 
 If you tip the balance toward pleasure once and then stop, the seesaw returns to center fairly quickly. A single glass of wine, a single episode, a single piece of cake — the pleasure-pain cycle completes and your brain restores homeostasis. No lasting damage.
 
@@ -50,7 +68,7 @@ Over time, three things happen:
 
 This is addiction. [Not a choice. Not a disease. Not a preference.](/articles/is-addiction-disease-or-learning) A balance that has been pushed so far, so often, that it can't easily return to center.
 
-### The progressive narrowing
+## The progressive narrowing
 
 There is a phrase that captures what the tilted balance feels like from the inside: addiction is a progressive narrowing of the things that bring you pleasure.
 
@@ -60,7 +78,7 @@ As the balance tilts further, the drug becomes the only thing that produces mean
 
 This narrowing is not psychological. It is neurochemical. The brain has literally recalibrated its reward thresholds so that only the strongest stimulus — the drug — can break through.
 
-### The way back: how the balance resets
+## The way back: how the balance resets
 
 Here is the good news embedded in all of this: the same mechanism that creates addiction is the mechanism that enables recovery.
 
@@ -74,7 +92,7 @@ But by week three to four, the compensatory mechanisms begin to recede. The grem
 
 People in recovery describe this moment in remarkably similar ways: "The colors came back." "Food tastes like food again." "I laughed and it was real." These are not metaphors. They are descriptions of a dopamine system coming back online.
 
-### Pressing on the pain side
+## Pressing on the pain side
 
 There is one more feature of the balance that changes everything about recovery strategy.
 
@@ -84,7 +102,7 @@ And unlike the pleasure-first pathway, the pain-first pathway produces dopamine 
 
 This is why exercise, cold exposure, meditation, and challenging physical activities are so effective in recovery — and why programs like [SMART Recovery](https://smartrecovery.org/smart-recovery-toolbox/) emphasize practical coping tools alongside emotional work. They are not distractions from the real work. They are neurological interventions that directly influence the pleasure-pain balance.
 
-### Why this matters for you
+## Why this matters for you
 
 Understanding the pleasure-pain balance gives you something that most recovery advice does not: a framework for why things work the way they do.
 
@@ -94,30 +112,14 @@ And when you know that the balance resets — that your brain will heal, that re
 
 The balance isn't broken permanently. It is tilted. And tilted things can be righted.
 
-
-
-### Frequently Asked Questions
-
-**What is the pleasure-pain balance in addiction?**
-The pleasure-pain balance is a neurological concept describing how the same brain regions process both pleasure and pain on opposing sides of a seesaw. When you experience pleasure, the brain compensates by tipping toward pain — and vice versa.
-
-**Who developed the pleasure-pain balance theory?**
-The underlying science (opponent-process theory) was developed by Richard Solomon and John Corbit in the 1970s. Psychiatrist Anna Lembke popularized it for a general audience in her 2021 book Dopamine Nation.
-
-**How do you restore the pleasure-pain balance?**
-Through sustained abstinence from the substance or behavior (minimum 30 days), reduced overall stimulation, and deliberate exposure to healthy discomfort like exercise and cold water immersion.
-
-### Sources
+## Sources
 
 - Lembke A. *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton, 2021.
 - Solomon RL, Corbit JD. "An opponent-process theory of motivation: I. Temporal dynamics of affect." *Psychol Rev*. 1974;81(2):119-145.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit applies the pleasure-pain balance framework to practical recovery tools — including delay protocols, counter-actions, and self-binding strategies that work with your brain's natural mechanics.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
   };

@@ -7,5 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
     },
     sitemap: 'https://www.cravingtoolkit.com/sitemap.xml',
+    host: 'https://www.cravingtoolkit.com',
   }
 }

@@ -5,14 +5,35 @@ export const article: Article = {
     title: "Ultra-Processed Food Addiction: The Brain Science",
     description: "Brain imaging shows compulsive overeaters have the same dopamine reductions as cocaine addicts. Here's why 'just eat less' fails and what actually works.",
     publishedAt: "2026-01-20",
+    modifiedAt: "2026-05-03",
     category: "triggers-and-relapse",
+    quickAnswer:
+      "Ultra-processed foods are engineered to hit the brain's \"bliss point\" — precise sugar/fat/salt/texture ratios that maximize reward and minimize satiety. PET scans of compulsive overeaters show the same dopamine receptor reductions as cocaine addicts. \"Just eat less\" fails for the same reason \"just drink less\" fails. Stabilize meals, remove ultra-processed cues, stop restricting, and address what the bingeing is for.",
+    faqs: [
+      {
+        q: "Is food addiction a real thing?",
+        a: "Yes. Brain imaging shows that compulsive overeaters have the same dopamine receptor reductions as cocaine and alcohol addicts. Ultra-processed food produces addiction-like patterns in animal studies — bingeing, tolerance, withdrawal, and cross-sensitization with drugs. The mechanism is identical to substance addiction; the intensity differs.",
+      },
+      {
+        q: "What foods are most addictive?",
+        a: "Ultra-processed foods engineered for maximum palatability — those combining high concentrations of sugar, fat, and salt with rapid absorption and minimal satiety signaling. Examples include chips, candy, fast food, sweetened beverages, ice cream, and packaged snacks. Whole, unprocessed foods rarely trigger addictive eating patterns.",
+      },
+      {
+        q: "How do you stop binge eating?",
+        a: "Stabilize your eating first (regular meals with protein), remove ultra-processed trigger foods from your environment, stop restricting (deprivation causes binges), apply urge surfing to cravings, and address the emotional function the bingeing serves. The restrict-binge-shame cycle is the trap — breaking it requires addressing all three components, not just willpower.",
+      },
+      {
+        q: "Is food addiction the same as an eating disorder?",
+        a: "They overlap significantly — particularly binge eating disorder (BED), which shares diagnostic features with substance use disorders: loss of control, continued use despite consequences, and marked distress. Not all disordered eating is addiction, and not all food addiction meets eating disorder criteria, but the neuroscience suggests they exist on the same spectrum.",
+      },
+    ],
     content: `Nobody calls themselves a food addict out loud. It sounds ridiculous compared to "real" addiction. You can't overdose on Doritos. You don't wake up in a hospital because of ice cream. Nobody stages an intervention over cereal.
 
 But if you've ever stood in front of the pantry at 11 PM, already full, already feeling sick, and eaten an entire bag of something while a voice in your head said "stop" and your hand kept reaching — you know exactly what compulsive loss of control feels like. You just don't have language for it that doesn't make you feel pathetic.
 
 Here's the language: ultra-processed food activates the same reward circuitry, produces the same dopamine patterns, creates the same tolerance-withdrawal-craving cycles, and responds to the same therapeutic approaches as drug addiction. That's not a metaphor. It's neuroscience.
 
-### What makes ultra-processed food different
+## What makes ultra-processed food different
 
 Not all food is addictive. An apple doesn't trigger a binge. Steamed broccoli doesn't create compulsive eating. What triggers addiction-like behavior is a specific category of food — ultra-processed products engineered to maximize palatability and consumption.
 
@@ -22,7 +43,7 @@ The engineering is deliberate. Cheetos dissolve on the tongue at a rate that pre
 
 These products don't exist in nature. No evolutionary environment contained food that delivered this concentration of reward this quickly with this little satiation feedback. Your brain's reward system — calibrated over millions of years for scarce, whole foods — can't handle the signal. It responds the way it responds to any supernormal stimulus: with escalating desire, diminishing satisfaction, and progressively compulsive consumption.
 
-### The dopamine evidence
+## The dopamine evidence
 
 The comparison to drugs isn't casual. Brain imaging studies back it up.
 
@@ -34,7 +55,7 @@ Gabor Maté, in *In the Realm of Hungry Ghosts*, places compulsive eating on the
 
 The key distinction isn't between "real" addiction and food addiction. It's between substances that produce high, fast dopamine spikes (drugs, ultra-processed food) and those that produce moderate, slow ones (whole food, natural rewards). The addiction mechanism is identical. The intensity varies.
 
-### Why "just eat less" is the equivalent of "just stop drinking"
+## Why "just eat less" is the equivalent of "just stop drinking"
 
 If food addiction activates the same circuits as drug addiction, then the standard weight-loss advice — eat less, move more, count calories — is exactly as useful as telling an alcoholic to "just drink less."
 
@@ -42,7 +63,7 @@ The problem isn't knowledge. Every person who binges on ultra-processed food kno
 
 Willpower-based approaches fail for food addiction for the same reasons they [fail for all addiction](/articles/why-willpower-fails-recovery): the desire system doesn't fatigue, but the control system does. And food addiction has an additional cruel feature that drug addiction doesn't: you can't abstain from food entirely. You have to eat every day. Imagine telling a recovering alcoholic that they need to drink three moderate glasses of wine daily but never more. That's what "moderation" asks of a food addict.
 
-### The restrict-binge cycle
+## The restrict-binge cycle
 
 This is the trap most food addicts live in, and it's made worse by diet culture.
 
@@ -52,7 +73,7 @@ Each cycle deepens the neural pathway. The binge becomes more automatic. The sha
 
 Breaking the cycle requires the same approach that breaking any addiction cycle requires: stop treating the behavior (bingeing) as the problem and start treating the system (the restrict-binge-shame loop) as the problem. The binge is a symptom. The restriction is a trigger. The shame is the fuel. Address all three, or the cycle continues.
 
-### What actually works
+## What actually works
 
 **Stabilize before you optimize.** The first priority isn't weight loss or "clean eating." It's stabilizing blood sugar and establishing regular eating patterns that prevent the physiological triggers for binge eating. Three meals and two snacks daily, with protein at every meal, at roughly the same times. This isn't exciting. It's structural — the food equivalent of [anchoring your wake time](/articles/sleep-addiction-recovery) for sleep. Stabilize first. Optimize later.
 
@@ -66,7 +87,7 @@ Breaking the cycle requires the same approach that breaking any addiction cycle 
 
 **Stop weighing yourself.** The scale is a shame-generating machine for people with food addiction. It either confirms the shame ("I gained weight") or creates false confidence ("I lost weight, I'm fine now"). Neither is useful. Recovery from food addiction is measured in behavioral patterns — did you eat three meals, did you avoid the binge, did you handle the craving — not in numbers on a scale.
 
-### You're not weak. Your food was engineered.
+## You're not weak. Your food was engineered.
 
 The shame around food addiction is enormous — often greater than the shame around drug addiction, because eating is visible, daily, and culturally loaded. People who can discuss their alcohol recovery openly will hide their relationship with food in silence.
 
@@ -76,31 +97,13 @@ You're not weak because you can't stop eating Oreos. You're a normal brain respo
 
 
 
-### Frequently Asked Questions
-
-**Is food addiction a real thing?**
-Yes. Brain imaging shows that compulsive overeaters have the same dopamine receptor reductions as cocaine and alcohol addicts. Ultra-processed food produces addiction-like patterns in animal studies — bingeing, tolerance, withdrawal, and cross-sensitization with drugs. The mechanism is identical to substance addiction; the intensity differs.
-
-**What foods are most addictive?**
-Ultra-processed foods engineered for maximum palatability — those combining high concentrations of sugar, fat, and salt with rapid absorption and minimal satiety signaling. Examples include chips, candy, fast food, sweetened beverages, ice cream, and packaged snacks. Whole, unprocessed foods rarely trigger addictive eating patterns.
-
-**How do you stop binge eating?**
-Stabilize your eating first (regular meals with protein), remove ultra-processed trigger foods from your environment, stop restricting (deprivation causes binges), apply urge surfing to cravings, and address the emotional function the bingeing serves. The restrict-binge-shame cycle is the trap — breaking it requires addressing all three components, not just willpower.
-
-**Is food addiction the same as an eating disorder?**
-They overlap significantly — particularly binge eating disorder (BED), which shares diagnostic features with substance use disorders: loss of control, continued use despite consequences, and marked distress. Not all disordered eating is addiction, and not all food addiction meets eating disorder criteria, but the neuroscience suggests they exist on the same spectrum.
-
-### Sources
+## Sources
 
 - Avena NM, Rada P, Hoebel BG. "Evidence for sugar addiction: behavioral and neurochemical effects of intermittent, excessive sugar intake." *Neurosci Biobehav Rev*. 2008;32(1):20-39. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17617461/)
 - Wang GJ, et al. "Similarity between obesity and drug addiction as assessed by neurofunctional imaging." *J Addict Dis*. 2004;23(3):39-53. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15256343/)
 - Monteiro CA, et al. "Ultra-processed foods: What they are and how to identify them." *Public Health Nutr*. 2019;22(5):936-941.
 - Maté G. *In the Realm of Hungry Ghosts*. Vintage Canada, 2008.
 - Gearhardt AN, Corbin WR, Brownell KD. "Preliminary validation of the Yale Food Addiction Scale." *Appetite*. 2009;52(2):430-436.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

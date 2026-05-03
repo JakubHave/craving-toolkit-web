@@ -5,14 +5,31 @@ export const article: Article = {
     title: "Cross-Addiction: Why Quitting One Thing Can Lead to Another",
     description: "You quit drinking and now you can't stop eating ice cream. This is cross-addiction — it has a clear neurological basis. Here's how to protect yourself.",
     publishedAt: "2025-09-16",
+    modifiedAt: "2026-05-03",
     category: "triggers-and-relapse",
+    quickAnswer:
+      "Cross-addiction happens because every addictive substance and behavior runs through the same dopamine pathway. When you quit one drug, the underlying sensitized reward system is still intact — and a new behavior (sugar, gambling, shopping, scrolling) can slot into the empty space. Watch for loss of control, escalation, and continued use despite consequences. Three or more = transferred addiction, not recovery.",
+    faqs: [
+      {
+        q: "What is cross-addiction?",
+        a: "Cross-addiction is the phenomenon where a person in recovery from one addiction develops a new compulsive relationship with a different substance or behavior — such as quitting alcohol and developing compulsive eating, gambling, scrolling, or shopping. The substance changes; the underlying compulsive pattern doesn't.",
+      },
+      {
+        q: "Why does cross-addiction happen?",
+        a: "All addictive substances and behaviors operate through the same core dopamine reward pathway. When you've been severely addicted, the neuroadaptations are system-wide, not specific to one substance. Your entire reward system stays sensitized — meaning any high-dopamine substitute can hijack the same circuitry.",
+      },
+      {
+        q: "How do I know if a new behavior is cross-addiction?",
+        a: "Look for five markers: loss of control (you can't stop when you intended to), continued use despite consequences, progressive escalation, preoccupation between sessions, and withdrawal-like discomfort when you stop. If three or more apply, the behavior has crossed from coping into compulsion and deserves the same honest assessment you gave your primary addiction.",
+      },
+    ],
     content: `You quit drinking. Six months sober. Life is getting better. And then you notice that you are eating an entire pint of ice cream every night. Or spending three hours a day scrolling your phone. Or gambling online. Or shopping compulsively. Or exercising to the point of injury.
 
 The old substance is gone. But something new has slid into its place, and it is starting to look uncomfortably familiar.
 
 This is cross-addiction — the phenomenon where a person in recovery from one addiction develops a new compulsive relationship with a different substance or behavior. It is one of the most common and least discussed risks in recovery, and understanding why it happens is essential to avoiding it.
 
-### Why it happens: the shared circuitry
+## Why it happens: the shared circuitry
 
 Cross-addiction is not a coincidence and it is not a character defect. It has a clear neurological basis.
 
@@ -24,7 +41,7 @@ When you become severely addicted to one substance, the neuroadaptations that de
 
 As Lembke explained in her conversation with neuroscientist Andrew Huberman: once you have been severely addicted to one substance, you are more vulnerable to addiction to any substance. The vulnerability is in the circuitry, not in the chemical.
 
-### The substitution trap
+## The substitution trap
 
 There is a pattern that plays out in recovery with depressing regularity.
 
@@ -45,7 +62,7 @@ Some of the most common cross-addiction patterns include:
 
 The bariatric surgery phenomenon is one of the most studied examples. Research has consistently shown that a significant percentage of patients who undergo gastric bypass surgery — which physically limits food intake — develop new addictions to alcohol, gambling, or shopping within 1–2 years after surgery. The food addiction was not eliminated. It was rerouted.
 
-### Is cross-addiction always a problem?
+## Is cross-addiction always a problem?
 
 Here is where nuance matters.
 
@@ -65,7 +82,7 @@ The question is not whether the new behavior produces dopamine. The question is 
 
 If three or more of these markers are present, the new behavior has likely crossed from coping mechanism into compulsive territory. It deserves the same honest assessment you gave your primary addiction.
 
-### Why recovery programs often miss it
+## Why recovery programs often miss it
 
 Traditional recovery programs tend to focus narrowly on the primary substance. AA focuses on alcohol. NA focuses on narcotics. Even clinical treatment programs often specialize in a single substance or substance category.
 
@@ -73,7 +90,7 @@ This creates a blind spot. A person can be celebrated for 90 days of sobriety wh
 
 Some recovery communities do address this — programs like [SMART Recovery](https://smartrecovery.org/smart-recovery-toolbox/) take a broader view, teaching tools that apply across all compulsive behaviors. The concept of "total sobriety" or "clean living" extends beyond the primary substance to include any compulsive behavior. But this is not universal, and many people in recovery are left to discover cross-addiction through painful experience rather than proactive education.
 
-### How to protect yourself
+## How to protect yourself
 
 **Acknowledge the vulnerability.** If you have been addicted to one thing, your reward system is sensitized. This is not a judgment — it is neurology. Knowing this gives you a head start. You can watch for new compulsive patterns before they become entrenched.
 
@@ -85,7 +102,7 @@ Some recovery communities do address this — programs like [SMART Recovery](htt
 
 **Talk about it.** If you notice a new behavior becoming compulsive, say something — to your sponsor, your therapist, your group, your partner. The same secrecy dynamic that protected your primary addiction will protect the new one if you let it. Cross-addiction thrives in the exact same darkness.
 
-### The deeper lesson
+## The deeper lesson
 
 Cross-addiction reveals something important about the nature of addiction itself. It is not about the substance. It never was. The substance is the delivery mechanism. The underlying condition — a reward system that has been sensitized, a brain that seeks escape from discomfort through compulsive behavior — persists after the substance is gone.
 
@@ -95,25 +112,10 @@ That is harder than quitting one thing. But it is also more durable. Because onc
 
 
 
-### Frequently Asked Questions
-
-**What is cross-addiction?**
-Cross-addiction is the phenomenon where a person in recovery from one addiction develops a new compulsive relationship with a different substance or behavior — such as quitting alcohol and developing compulsive eating or gambling.
-
-**Why does cross-addiction happen?**
-All addictive substances and behaviors operate through the same core reward pathway. When you're severely addicted, the neuroadaptations are system-wide — not specific to one substance. Your entire reward system is vulnerable, not just the part that responds to your drug of choice.
-
-**How do I know if a new behavior is cross-addiction?**
-Look for: loss of control, continued use despite negative consequences, progressive escalation, preoccupation, and withdrawal-like discomfort when you stop. If three or more are present, the behavior has likely crossed from coping into compulsion.
-
-### Sources
+## Sources
 
 - King WC, Chen JY, Mitchell JE, et al. "Prevalence of alcohol use disorders before and after bariatric surgery." *JAMA*. 2012;307(23):2516-2525. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22710289/)
 - Lembke A. *Dopamine Nation*. Dutton, 2021.
-
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
 
 ***
 

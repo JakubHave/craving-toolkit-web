@@ -3,9 +3,31 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "anhedonia-after-quitting-how-long-it-lasts",
     title: "Anhedonia After Quitting: Why Nothing Feels Good",
-    description: "You quit and nothing feels good. This is anhedonia — a neurochemical phase with a predictable timeline for alcohol, cannabis, stimulants, and opioids.",
+    description:
+      "You quit and nothing feels good. This is anhedonia — a neurochemical phase with a predictable timeline for alcohol, cannabis, stimulants, and opioids.",
     publishedAt: "2025-08-17",
+    modifiedAt: "2026-05-03",
     category: "early-recovery",
+    quickAnswer:
+      "Anhedonia — the inability to feel pleasure from normal activities — is one of the most common experiences in early recovery and one of the most dangerous, because it makes people question whether sobriety is worth it. It is a temporary neurochemical phase. Most people see significant improvement within 30–90 days as dopamine receptors regenerate.",
+    faqs: [
+      {
+        q: "Why can't I feel pleasure after getting sober?",
+        a: "This is called anhedonia — a temporary neurochemical state caused by dopamine receptor downregulation during chronic substance use. Your brain's ability to register pleasure from normal activities has been temporarily impaired, not permanently damaged.",
+      },
+      {
+        q: "Is anhedonia after quitting permanent?",
+        a: "No. Anhedonia resolves with sustained abstinence. For most substances, significant improvement occurs within 30–90 days. For heavy stimulant users, full recovery may take 6–12 months.",
+      },
+      {
+        q: "Is anhedonia the same as depression?",
+        a: "They overlap significantly in symptoms but differ in mechanism. Substance-induced anhedonia resolves with abstinence — a study by Brown and Schuckit found that 80% of depressed, alcoholic men no longer met criteria for depression after just four weeks without alcohol.",
+      },
+      {
+        q: "How long does anhedonia last after quitting different substances?",
+        a: "Alcohol-related anhedonia typically resolves in 2–6 months. Cannabis: 1–3 months for regular users, up to 6 months for daily heavy users. Cocaine: 3–6 months. Methamphetamine: 6–12 months or longer. Opioids: 6–18 months with a long tail. Behavioral addictions: usually 30–90 days.",
+      },
+    ],
     content: `You quit. You got through the withdrawal. You're doing everything right. And yet — nothing feels good. Food is tasteless. Music is noise. People are annoying. The things that used to bring you joy, even before the addiction, feel empty. You're not sad exactly. You're not anxious. You just feel... nothing.
 
 This has a name: anhedonia. It comes from the Greek *an-* (without) and *hēdonē* (pleasure). The inability to experience pleasure from activities that normally feel rewarding — the endpoint of the [narrowing effect](/articles/narrowing-effect-addiction) that addiction produces.
@@ -14,7 +36,7 @@ Anhedonia is one of the most common and least discussed experiences in recovery.
 
 The point is that anhedonia isn't your new reality. It is a phase. A neurochemical phase with a beginning, a predictable middle, and an end. Understanding the timeline — and what is happening in your brain — can be the difference between holding on and giving up. (For a broader look at [how long it takes to reset dopamine](/articles/how-long-to-reset-dopamine-timeline), see the full substance-specific breakdown.)
 
-### What causes anhedonia in recovery
+## What causes anhedonia in recovery
 
 Your brain has a reward system built around dopamine. Under normal conditions, everyday activities — food, conversation, exercise, sunlight, accomplishment — trigger small, healthy releases of dopamine that register as satisfaction or mild pleasure. When this system is chronically depleted, it produces what clinicians call a [dopamine deficit state](/articles/why-cant-i-feel-pleasure-dopamine-deficit).
 
@@ -24,7 +46,7 @@ When you stop using, the flood stops — but the adaptations remain. Your recept
 
 The result: anhedonia. Not because life is empty, but because your brain temporarily can't register that it's not.
 
-### The recovery timeline: what the research and clinical experience suggest
+## The recovery timeline: what the research and clinical experience suggest
 
 Every person is different. The timeline below is based on clinical observations, published research, and widely reported recovery patterns. It's not a guarantee — it's a map.
 
@@ -62,7 +84,7 @@ Behavioral addictions also produce measurable dopamine dysregulation, though typ
 
 The challenge with behavioral addictions is that complete abstinence from the behavior is often harder to maintain because the cues are everywhere. You can avoid a bar, but you can't avoid a screen. This can extend the recovery timeline if exposure to related stimuli keeps reactivating the reward circuits.
 
-### The "windows and waves" pattern
+## The "windows and waves" pattern
 
 Across all substances and behaviors, recovery from anhedonia rarely follows a straight upward line. Instead, it tends to follow a pattern that people in recovery call "windows and waves."
 
@@ -72,7 +94,7 @@ A wave is a return to flatness, sometimes arriving without warning. You were fee
 
 The critical thing to know about waves is that they are not relapses and they are not signs of failure. They are a normal feature of neurochemical recovery. Each wave tends to be shorter and less intense than the last, even if it doesn't feel that way in the moment.
 
-### What helps during the anhedonia phase
+## What helps during the anhedonia phase
 
 **Don't diagnose yourself with depression too quickly.** Many people in early recovery are prescribed antidepressants for what is actually substance-induced anhedonia. While antidepressants may be appropriate in some cases, it is worth giving your brain at least 30 days of abstinence before concluding that you have a standalone mood disorder. The Brown and Schuckit study showed that the majority of depressive symptoms resolved with abstinence alone.
 
@@ -86,7 +108,7 @@ The critical thing to know about waves is that they are not relapses and they ar
 
 **Tell someone what you are going through.** Anhedonia is isolating. It makes you want to withdraw, and withdrawal deepens the flatness. Even if you do not feel like socializing, maintaining minimal human connection — a daily check-in text, a weekly meeting with a group like [SMART Recovery](https://smartrecovery.org/smart-recovery-toolbox/) — provides neurochemical benefits that you will not feel in the moment but that matter for recovery.
 
-### The timeline is real — and so is the other side
+## The timeline is real — and so is the other side
 
 The hardest part of anhedonia is that it robs you of the very thing you need to keep going: hope. When nothing feels good, the promise that things will get better sounds hollow.
 
@@ -96,31 +118,15 @@ People who make it through the anhedonia phase consistently describe a quality o
 
 The flatness is the price. The other side is worth it.
 
-
-
-### Frequently Asked Questions
-
-**Why can't I feel pleasure after getting sober?**
-This is called anhedonia — a temporary neurochemical state caused by dopamine receptor downregulation during chronic substance use. Your brain's ability to register pleasure from normal activities has been temporarily impaired, not permanently damaged.
-
-**Is anhedonia after quitting permanent?**
-No. Anhedonia resolves with sustained abstinence. For most substances, significant improvement occurs within 30-90 days. For heavy stimulant users, full recovery may take 6-12 months.
-
-**Is anhedonia the same as depression?**
-They overlap significantly in symptoms but differ in mechanism. Substance-induced anhedonia resolves with abstinence — a study by Brown and Schuckit found that 80% of depressed alcoholic men no longer met criteria for depression after just four weeks without alcohol.
-
-### Sources
+## Sources
 
 - Brown SA, Schuckit MA. "Changes in depression among abstinent alcoholics." *J Stud Alcohol*. 1988;49(5):412-417. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3216643/)
 - Volkow ND, Chang L, Wang GJ, et al. "Loss of dopamine transporters in methamphetamine abusers recovers with protracted abstinence." *J Neurosci*. 2001;21(23):9414-9418. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11717374/)
 - Lembke A. *Dopamine Nation*. Dutton, 2021.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit includes practical strategies for navigating every phase of early recovery — including the anhedonia window when nothing feels worth doing.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are experiencing severe or prolonged depression, please consult a mental health professional."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are experiencing severe or prolonged depression, please consult a mental health professional.",
   };

@@ -3,9 +3,27 @@ import { Article } from "./types";
 export const article: Article = {
     slug: "trauma-and-addiction-gabor-mate",
     title: "Trauma and Addiction: Not Why the Addiction, Why the Pain",
-    description: "The ACE Study found childhood trauma increases addiction risk tenfold. Here's how trauma rewires the brain — and why recovery must address the wound first.",
+    description:
+      "Childhood trauma increases addiction risk tenfold. How trauma rewires the brain — and why recovery must address the wound, not just the substance.",
     publishedAt: "2025-12-09",
+    modifiedAt: "2026-05-03",
     category: "understanding-addiction",
+    quickAnswer:
+      "Childhood trauma — even subtle, \"small-t\" trauma like emotional neglect — physically rewires the developing brain in ways that increase addiction risk. The ACE Study found a person with five or more adverse childhood experiences has a 7-to-10× higher risk of substance abuse. The substance is the solution; the trauma is the wound. Recovery that addresses the substance without addressing the wound usually fails.",
+    faqs: [
+      {
+        q: "What is the connection between trauma and addiction?",
+        a: "Childhood trauma — including abuse, neglect, and household dysfunction — physically alters brain development in ways that increase vulnerability to addiction. The ACE Study found that each adverse childhood experience increases the risk of substance abuse by two to four times, with five or more ACEs producing a seven- to tenfold increase.",
+      },
+      {
+        q: "Can you recover from addiction without addressing trauma?",
+        a: "For people with significant trauma histories, removing the substance without addressing the underlying trauma often leads to relapse or cross-addiction. The addiction was serving a regulatory function — managing a nervous system that can't self-regulate. Trauma-informed treatment addresses the root cause, not just the symptom.",
+      },
+      {
+        q: "Does childhood trauma always lead to addiction?",
+        a: "No. Not every traumatized child becomes addicted, and not every addicted adult was traumatized. But the correlation is strong and the biological mechanism is clear: trauma disrupts the development of the stress, reward, and impulse-control systems in ways that make addiction significantly more likely.",
+      },
+    ],
     content: `Most addiction conversations start with the substance. What are you using? How much? How often? When did it start?
 
 Gabor Maté thinks that's the wrong starting point. The physician who spent over a decade working with hardcore drug users in Vancouver's Downtown Eastside asks a different question — one that changes everything about how you understand addiction:
@@ -14,7 +32,7 @@ Not *why the addiction*, but *why the pain?*
 
 It's a deceptively simple reframe. And it's backed by some of the most disturbing and clarifying research in the entire addiction field.
 
-### What the ACE Study actually found
+## What the ACE Study actually found
 
 The Adverse Childhood Experiences (ACE) Study is one of the largest investigations ever conducted into the relationship between childhood trauma and adult health outcomes. Led by Vincent Felitti and Robert Anda, it surveyed over 17,000 participants — mostly middle-class, college-educated adults with health insurance. Not a marginalized population. Not people living in shelters. Regular people with regular jobs.
 
@@ -26,7 +44,7 @@ Two-thirds. Not personality weakness. Not genetic destiny. Not bad choices made 
 
 And remember — this was a relatively stable, educated population. Among Maté's patients in the Downtown Eastside, the childhood trauma percentages ran close to 100%.
 
-### How trauma rewires the developing brain
+## How trauma rewires the developing brain
 
 The ACE Study established the correlation. The neuroscience explains the mechanism.
 
@@ -42,7 +60,7 @@ The hippocampus — responsible for memory and emotional processing — can shri
 
 In other words: childhood trauma doesn't just create emotional pain that the person later self-medicates. It physically builds a brain that is more vulnerable to addiction at the hardware level. The stress system is overactive. The reward system is underequipped. The impulse-control system is underdeveloped. The person arrives at adolescence with a nervous system that's primed for substances to fill the gaps that caregivers didn't.
 
-### Self-medication isn't weakness — it's logic
+## Self-medication isn't weakness — it's logic
 
 Once you understand the neuroscience, the "self-medication hypothesis" stops sounding like an excuse and starts sounding like an inevitability.
 
@@ -54,7 +72,7 @@ A person whose dopamine system is blunted (because chronic stress damaged the mi
 
 This isn't moral failure. It's neurochemical problem-solving. The substance does something the brain genuinely needs. The tragedy is that the solution destroys faster than it heals.
 
-### Why "just stop" doesn't work for trauma survivors
+## Why "just stop" doesn't work for trauma survivors
 
 Standard addiction treatment often focuses on the substance: stop using, attend meetings, develop coping skills, prevent relapse. For someone without significant trauma, this can work. Remove the substance, let the brain heal, build a new life.
 
@@ -62,7 +80,7 @@ For trauma survivors, removing the substance without addressing the trauma is li
 
 This is why Maté argues that trauma-informed treatment isn't a luxury — it's a prerequisite. Until the underlying wound is addressed — not just behaviorally managed, but genuinely processed — the brain's drive toward self-medication remains intact regardless of how many coping skills you teach.
 
-### It's not just "capital-T" trauma
+## It's not just "capital-T" trauma
 
 One of the most important nuances in Maté's work is the distinction between what he calls "capital-T Trauma" — obvious, dramatic events like sexual abuse, physical violence, or parental death — and "small-t trauma," which is subtler but neurologically significant.
 
@@ -72,7 +90,7 @@ These experiences don't make headlines. They don't show up in dramatic childhood
 
 This matters because many addicts — especially behavioral addicts and those with "milder" substance issues — don't identify as trauma survivors. They think trauma means beatings and sexual abuse. It can. But it can also mean a childhood where nobody was cruel and nobody was truly present either.
 
-### What trauma-informed recovery actually looks like
+## What trauma-informed recovery actually looks like
 
 If the root of addiction is often an adaptation to pain, then recovery needs to address the pain — not just the adaptation.
 
@@ -84,7 +102,7 @@ If the root of addiction is often an adaptation to pain, then recovery needs to 
 
 **Grief.** Recovery from trauma-rooted addiction almost always involves grief — for the childhood you didn't have, the caregiving you didn't receive, the years lost to the substance, the version of yourself that might have developed under better conditions. This grief isn't a detour from recovery. It's part of the path. Suppressing it guarantees the search for another anesthetic.
 
-### The question that changes everything
+## The question that changes everything
 
 Maté tells a story about a patient — a woman addicted to heroin since her teens, HIV-positive, working the streets. By every standard measure, a hopeless case. And yet, when asked the right question — not "why do you use?" but "what does the heroin do for you?" — she answered instantly: "It makes me feel like a warm, soft hug."
 
@@ -94,32 +112,16 @@ If you're in recovery and you've ever wondered why it's so hard — why the crav
 
 The question isn't why the addiction. The question is why the pain.
 
-
-
-### Frequently Asked Questions
-
-**What is the connection between trauma and addiction?**
-Childhood trauma — including abuse, neglect, and household dysfunction — physically alters brain development in ways that increase vulnerability to addiction. The ACE Study found that each adverse childhood experience increases the risk of substance abuse by two to four times, with five or more ACEs producing a seven- to tenfold increase.
-
-**Can you recover from addiction without addressing trauma?**
-For people with significant trauma histories, removing the substance without addressing the underlying trauma often leads to relapse or cross-addiction. The addiction was serving a regulatory function — managing a nervous system that can't self-regulate. Trauma-informed treatment addresses the root cause, not just the symptom.
-
-**Does childhood trauma always lead to addiction?**
-No. Not every traumatized child becomes addicted, and not every addicted adult was traumatized. But the correlation is strong and the biological mechanism is clear: trauma disrupts the development of the stress, reward, and impulse-control systems in ways that make addiction significantly more likely.
-
-### Sources
+## Sources
 
 - Felitti VJ, Anda RF, et al. "Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults." *Am J Prev Med*. 1998;14(4):245-258. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9635069/)
 - Maté G. *In the Realm of Hungry Ghosts: Close Encounters with Addiction*. Vintage Canada, 2008.
 - Teicher MH, et al. "The neurobiological consequences of early stress and childhood maltreatment." *Neurosci Biobehav Rev*. 2003;27(1-2):33-44.
 - Anda RF, et al. "The enduring effects of abuse and related adverse experiences in childhood." *Eur Arch Psychiatry Clin Neurosci*. 2006;256(3):174-186.
 
-### About the Author
-
-Jakub Havelka is a software engineer based in Europe with over a decade of personal recovery experience across multiple substances and behaviors. He built the Craving Toolkit from what actually helped — combining lived experience with research from Anna Lembke, Marc Lewis, Judson Brewer, Gabor Maté, and Charles Duhigg.
-
 ***
 
 *The Craving Toolkit includes tools for managing the acute craving — the first 10 minutes, the urge surf, the emergency card. But it also addresses the deeper patterns: the triggers rooted in emotion, the shame spiral, and the daily practices that rebuild a stable nervous system over time.*`,
-    disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are dealing with trauma, please consider working with a trauma-informed therapist."
+    disclaimer:
+      "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are dealing with trauma, please consider working with a trauma-informed therapist.",
   };
