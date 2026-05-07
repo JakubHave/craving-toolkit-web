@@ -48,6 +48,7 @@ import { article as highFunctioning } from "./high-functioning-addiction";
 import { article as helpSomeone } from "./how-to-help-someone-with-addiction";
 import { article as addictionRelationships } from "./addiction-and-relationships";
 import { article as ultraProcessedFood } from "./ultra-processed-food-addiction";
+import { article as weekendTriggers } from "./weekend-triggers-sobriety";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -100,6 +101,7 @@ export const articles: Article[] = [
   helpSomeone,
   addictionRelationships,
   ultraProcessedFood,
+  weekendTriggers,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(({ slug, title, description, publishedAt, category }) => ({
