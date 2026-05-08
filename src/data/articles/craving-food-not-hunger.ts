@@ -129,5 +129,5 @@ You are not weak for not being able to think your way out of it. You are dealing
 
 *The Craving Toolkit includes a Craving Log worksheet that helps you map cues, name the real reward, and break the cue-to-eating loop one observation at a time.*`
 ,
-  coverImage: { src: "/articles/craving-food-not-hunger.webp", alt: "I'd be happy to write alt text for your hero image! However, I need to know what the image actually shows first.\n\nCould you…" },
+  coverImage: { src: "/articles/craving-food-not-hunger.webp", alt: "Dimly lit kitchen with warm amber light, open cupboard, wooden shelves, packaged foods, empty plate." },
 };
