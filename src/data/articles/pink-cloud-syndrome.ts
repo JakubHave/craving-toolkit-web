@@ -103,5 +103,5 @@ The euphoria isn't the recovery. The work that survives the euphoria is.
 
 *The Craving Toolkit includes a printable Early-Recovery Decision Filter — a one-page worksheet for testing whether a decision made during the pink cloud is one you'd still make ninety days in.*`
 ,
-  coverImage: { src: "/articles/pink-cloud-syndrome.webp", alt: "Frosted ceramic forms in muted browns and greens, lit by golden morning light through mist." },
+  coverImage: { src: "/articles/pink-cloud-syndrome.webp", alt: "Pink and rose clouds fill a wide dawn sky with ethereal mist and warm light." },
 };
