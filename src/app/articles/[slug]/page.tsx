@@ -1,6 +1,7 @@
 import { articlesMeta, getArticleBySlug } from "@/data/articles";
 import type { Article, FAQ } from "@/data/articles/types";
 import { notFound } from "next/navigation";
+import Image from "next/image";
 import Link from "next/link";
 import { BookOpen } from "lucide-react";
 import { Metadata } from "next";
@@ -21,6 +22,24 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!article) return { title: "Article Not Found | Craving Toolkit" };
 
   const url = `${SITE_URL}/articles/${article.slug}`;
+
+  // Per-article hero image when present, otherwise the default site cover.
+  // og:image URLs are made absolute regardless of metadataBase so a stale or
+  // unset metadataBase can never silently break social previews.
+  const ogImage = article.coverImage
+    ? {
+        url: `${SITE_URL}${article.coverImage.src}`,
+        width: 1024,
+        height: 576,
+        alt: article.coverImage.alt,
+      }
+    : {
+        url: `${SITE_URL}/cover.jpg`,
+        width: 1200,
+        height: 630,
+        alt: article.title,
+      };
+
   return {
     title: { absolute: article.title },
     description: article.description,
@@ -33,14 +52,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       publishedTime: article.publishedAt,
       modifiedTime: article.modifiedAt || article.publishedAt,
       siteName: "Craving Toolkit",
-      images: [{ url: "/cover.jpg", width: 1200, height: 630, alt: article.title }],
+      images: [ogImage],
     },
     twitter: {
       card: "summary_large_image",
       title: article.title,
       description: article.description,
       creator: "@cravingtoolkit",
-      images: ["/cover.jpg"],
+      images: [ogImage.url],
     },
   };
 }
@@ -172,6 +191,18 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                 <li className="text-slate-700 truncate max-w-[300px]">{article.title}</li>
               </ol>
             </nav>
+
+            {article.coverImage && (
+              <Image
+                src={article.coverImage.src}
+                alt={article.coverImage.alt}
+                width={1024}
+                height={576}
+                priority
+                sizes="(max-width: 768px) 100vw, 768px"
+                className="rounded-xl mb-8 w-full h-auto"
+              />
+            )}
 
             <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-slate-900 mb-6 leading-tight">
               {article.title}

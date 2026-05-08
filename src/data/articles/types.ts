@@ -30,6 +30,19 @@ export interface Article {
    * and renders a visible Q/A list. 3–6 entries; each answer 40–60 words.
    */
   faqs?: FAQ[];
+  /**
+   * Optional per-article hero image. When present, the slug page renders it
+   * above the H1 and uses it as the og:image / twitter:image (overriding the
+   * default site-wide cover). seopilot writes this on new articles; existing
+   * articles without it continue to use the default cover.
+   *
+   * `src` is a path under `/public` (e.g. `/articles/<slug>.webp`).
+   * `alt` is descriptive alt text, ≤ 125 chars.
+   */
+  coverImage?: {
+    src: string;
+    alt: string;
+  };
 }
 
 export interface ArticleMeta {
