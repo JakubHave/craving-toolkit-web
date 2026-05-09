@@ -108,4 +108,6 @@ This isn't glamorous recovery advice. It doesn't make for a compelling story at 
 *The Craving Toolkit includes daily structure protocols for early recovery — including morning and evening routines designed to protect sleep, reduce nighttime craving vulnerability, and support neurochemical repair.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice. If you are experiencing severe insomnia or sleep disruption in recovery, please consult a healthcare provider.",
-  };
+  
+    coverImage: { src: "/articles/sleep-addiction-recovery.webp", alt: "Sleeping figure on side, burrowed into pillow, cool-toned bedroom, rumpled sheets, worn blankets, soft lamplight." },
+};

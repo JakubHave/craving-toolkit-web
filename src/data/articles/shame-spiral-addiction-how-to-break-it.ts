@@ -104,4 +104,6 @@ Shame is a doorway. If you walk through it in isolation, it leads deeper into th
 
 *The Craving Toolkit includes a full chapter on the shame-relapse cycle and practical exercises for building shame resilience — including a guided exercise for identifying your personal shame triggers and preparing responses in advance.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
-  };
+  ,
+    coverImage: { src: "/articles/shame-spiral-addiction-how-to-break-it.webp", alt: "Overhead view of weathered concrete spiral staircase creating concentric shadow rings in muted grey-blue tones." },
+};
