@@ -131,4 +131,6 @@ Every recovering person who has stayed sober for years knows this. The danger is
 *The Craving Toolkit includes a printable Ulysses Contract worksheet along with 5 other recovery worksheets.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
-  };
+  
+    coverImage: { src: "/articles/ulysses-contract-outsmart-addiction.webp", alt: "Adult bent over notebook at wooden table, soft morning light casting cool shadows." },
+};

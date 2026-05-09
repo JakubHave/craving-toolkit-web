@@ -110,4 +110,6 @@ You are not who you were. You are who you are becoming.
 
 *The Craving Toolkit includes practical exercises for identity reconstruction during recovery — including narrative mapping, ritual replacement, and structured daily practices that build the new self one action at a time.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+,
+    coverImage: { src: "/articles/who-am-i-without-addiction-identity.webp", alt: "Figure in profile standing in empty room with bare walls and cool gray morning light." },
 };
