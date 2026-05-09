@@ -148,4 +148,6 @@ Now the question is: what do you want to build on that foundation?
 *The Craving Toolkit is designed to guide you through exactly this kind of structured recovery — including the emergency tools you need for the hardest days and the longer-term strategies for sustaining your progress.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are physically dependent on alcohol, benzodiazepines, or other substances where withdrawal can be medically dangerous, please consult a physician before stopping abruptly.",
-  };
+  
+    coverImage: { src: "/articles/30-day-dopamine-reset-week-by-week.webp", alt: "Dark turbulent clouds and barren terrain gradually giving way to golden light." },
+};
