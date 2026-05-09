@@ -143,4 +143,6 @@ The first 30 days are the hardest and the most important. Everything after that 
 *The Craving Toolkit includes structured protocols for navigating each phase of dopamine recovery, with practical day-by-day strategies for the critical first 30 days.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
-  };
+  
+    coverImage: { src: "/articles/how-long-to-reset-dopamine-timeline.webp", alt: "Serene minimal interior bathed in cool blue-hour dawn light with clean sharp architectural forms." },
+};

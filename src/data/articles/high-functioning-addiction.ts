@@ -106,4 +106,6 @@ This is the "functional" part eroding. And by the time it becomes visible to oth
 
 *The Craving Toolkit was built for real-world recovery — including the kind that doesn't look dramatic from the outside but is quietly destroying the inside. Worksheets include the Craving Log, Cost-Benefit Check, and Emergency Card, all designed for people who need practical tools, not labels.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
-  };
+  ,
+    coverImage: { src: "/articles/high-functioning-addiction.webp", alt: "Figure in three-quarter view cradles wine glass in dimly lit professional space, hair falling forward." },
+};

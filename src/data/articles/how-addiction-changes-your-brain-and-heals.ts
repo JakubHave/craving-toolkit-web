@@ -122,4 +122,6 @@ Your brain is not permanently damaged. It is temporarily altered. And the brain 
 *The Craving Toolkit is built around the neuroscience of recovery — translating what we know about dopamine, neuroplasticity, and brain healing into practical daily tools.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
-  };
+  
+    coverImage: { src: "/articles/how-addiction-changes-your-brain-and-heals.webp", alt: "Seated person in cool interior light, three-quarter view with upper portion shadowed and cascading hair." },
+};
