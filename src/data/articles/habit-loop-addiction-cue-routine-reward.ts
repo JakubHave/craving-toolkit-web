@@ -153,4 +153,6 @@ That's not dramatic. It's not cinematic. It's not the kind of recovery story tha
 *The Craving Toolkit includes a printable Habit Loop Mapper worksheet adapted from Duhigg and Brewer's frameworks — plus a Craving Log, Emergency Card, and five other worksheets designed to turn vague struggle into usable data.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
-  };
+  
+    coverImage: { src: "/articles/habit-loop-addiction-cue-routine-reward.webp", alt: "Interconnected spiral staircases with curved forms, warm amber tones and soft shadows" },
+};

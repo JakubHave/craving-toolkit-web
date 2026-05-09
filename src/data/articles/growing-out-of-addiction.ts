@@ -120,4 +120,6 @@ Your addiction is a chapter. It is not the book.
 *The Craving Toolkit provides the practical tools to support your development — from emergency craving protocols for today to daily practices that build the neural infrastructure for the person you are becoming.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
+
+    coverImage: { src: "/articles/growing-out-of-addiction.webp", alt: "Figure walking from behind through a corridor bathed in warm golden light with soft shadows." },
 };
