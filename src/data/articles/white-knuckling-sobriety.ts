@@ -132,4 +132,6 @@ Stop holding your breath. Start building something worth breathing for.
 *The Craving Toolkit includes practical strategies for replacing white-knuckle endurance with structured, sustainable recovery — including self-binding protocols, counter-action techniques, and daily practices that build competing neural pathways.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
+
+    coverImage: { src: "/articles/white-knuckling-sobriety.webp", alt: "Adult figure hunched at bare wooden table with crumpled white sheet in darkened room." },
 };

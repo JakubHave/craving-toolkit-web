@@ -109,4 +109,6 @@ You're not weak because you can't stop eating Oreos. You're a normal brain respo
 
 *The Craving Toolkit includes a dedicated section on [overeating and binge eating patterns](/articles/sugar-addiction-binge-eating-same-circuits) — including the restrict-binge cycle, emotional trigger mapping, and the Habit Loop Mapper worksheet adapted for food-related compulsive behavior.*`,
     disclaimer: "This article is educational and is not medical or nutritional advice. If you are experiencing disordered eating, binge eating disorder, or any eating disorder, please seek support from a qualified healthcare provider or contact the National Alliance for Eating Disorders helpline."
-  };
+  ,
+    coverImage: { src: "/articles/ultra-processed-food-addiction.webp", alt: "Hunched figure at kitchen counter leaning forward toward jar in cool blue shadows." },
+};

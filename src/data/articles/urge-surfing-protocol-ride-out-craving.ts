@@ -130,4 +130,6 @@ After months of consistent urge surfing, many people report that cravings still 
 *The Craving Toolkit includes a complete set of craving management techniques — including urge surfing, delay protocols, strong counter-actions, and pre-scripted responses to the addictive voice.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
-  };
+  
+    coverImage: { src: "/articles/urge-surfing-protocol-ride-out-craving.webp", alt: "Seated figure on rough sand, head bowed with long hair falling, soft ocean waves behind." },
+};
