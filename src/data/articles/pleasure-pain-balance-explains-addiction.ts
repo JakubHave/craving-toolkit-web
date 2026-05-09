@@ -123,5 +123,5 @@ The balance isn't broken permanently. It is tilted. And tilted things can be rig
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
   
-    coverImage: { src: "/articles/pleasure-pain-balance-explains-addiction.webp", alt: "Person in worn clothes slumped by window, head turned away in cool grey-white morning light." },
+    coverImage: { src: "/articles/pleasure-pain-balance-explains-addiction.webp", alt: "Metal and wood seesaw tipped drastically, one end buried in dirt, other end raised high." },
 };

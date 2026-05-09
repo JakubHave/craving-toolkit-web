@@ -99,5 +99,5 @@ The cravings were never a sign of weakness. They were always neurochemistry. And
     disclaimer:
       "This article is educational and based on published research. It is not medical advice. Do not start, stop, or change any medication without consulting your physician. Semaglutide is not approved for addiction treatment and should only be used under medical supervision.",
   
-    coverImage: { src: "/articles/ozempic-addiction-glp1-cravings.webp", alt: "Person seated alone in ordinary home interior, head turned down, soft shadows and cool light." },
+    coverImage: { src: "/articles/ozempic-addiction-glp1-cravings.webp", alt: "Blue injector pen and glass of water on kitchen counter at dusk with clinical lighting." },
 };
