@@ -120,4 +120,6 @@ The story is not a byproduct of recovery. The story is the recovery.
 
 *The Craving Toolkit includes guided narrative exercises for every stage of recovery — from mapping the origin story of your addiction to building a vivid, compelling vision of your future self.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+,
+    coverImage: { src: "/articles/rewriting-your-story-narrative-identity.webp", alt: "Weathered open journal with handwritten text and revisions on wooden table under morning light." },
 };

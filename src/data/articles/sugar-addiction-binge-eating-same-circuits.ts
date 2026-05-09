@@ -126,4 +126,6 @@ The tools work. The brain heals. The cycle can be interrupted. Not perfectly. No
 
 *The Craving Toolkit includes a dedicated section on overeating and binge eating patterns — including the restrict-binge cycle, emotional trigger mapping, and practical strategies adapted specifically for food-related compulsive behavior.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are experiencing an eating disorder, please consult a healthcare professional or contact the National Alliance for Eating Disorders helpline at 1-866-662-1235."
-  };
+  ,
+    coverImage: { src: "/articles/sugar-addiction-binge-eating-same-circuits.webp", alt: "Scattered candy wrappers, dessert boxes, and spilled sugar across a kitchen counter, overhead view." },
+};
