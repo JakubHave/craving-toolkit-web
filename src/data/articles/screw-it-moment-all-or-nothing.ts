@@ -118,5 +118,5 @@ Nothing is lost. You are still here. The next 10 minutes are yours.
 *The Craving Toolkit includes a full chapter on the collapse spiral — including pre-scripted responses for the "screw it" moment, a shame-interruption protocol, and practical strategies for preventing a slip from becoming a relapse.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
 ,
-    coverImage: { src: "/articles/screw-it-moment-all-or-nothing.webp", alt: "Two glasses on weathered wood—one filled with dark liquid, one empty—with subtle shadows." },
+    coverImage: { src: "/articles/screw-it-moment-all-or-nothing.webp", alt: "Figure pauses where forest path divides, overcast light and mist softening muted greens and grays." },
 };
