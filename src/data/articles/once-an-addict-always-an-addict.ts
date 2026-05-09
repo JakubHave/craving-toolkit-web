@@ -121,4 +121,6 @@ Once an addict, always an addict? The neuroscience says: once a learner, always 
 *The Craving Toolkit is built for the person you are becoming — not the person you were. It provides practical tools for every stage of recovery, from the first 10 minutes of a craving to the long-term work of building a life that makes the old patterns irrelevant.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
+
+    coverImage: { src: "/articles/once-an-addict-always-an-addict.webp", alt: "Person from behind at open window, head down, cool morning backlight on worn sweater." },
 };

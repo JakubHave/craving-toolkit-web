@@ -115,4 +115,6 @@ The narrowing was real. The widening is real too. And it is already happening â€
 *The Craving Toolkit includes practical tools for rebuilding the breadth of your life during recovery â€” from daily practices that widen your reward landscape to emergency protocols for the moments when the narrowing pulls you back toward the tunnel.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
+
+    coverImage: { src: "/articles/narrowing-effect-addiction.webp", alt: "Figure in narrow hallway, three-quarter view angled away, upper silhouette lost in shadow." },
 };

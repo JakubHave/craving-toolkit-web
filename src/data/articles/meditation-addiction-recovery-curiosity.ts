@@ -141,4 +141,6 @@ But what it can do — reliably, measurably, with brain scans to prove it — is
 *The Craving Toolkit includes a full chapter on [urge surfing](/articles/urge-surfing-protocol-ride-out-craving) and curiosity-based craving management, with step-by-step scripts, a printable emergency craving card, and a daily practice protocol.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
-  };
+  
+    coverImage: { src: "/articles/meditation-addiction-recovery-curiosity.webp", alt: "Seated person in cross-legged meditation, worn everyday clothing, soft morning window light, sparse room." },
+};
