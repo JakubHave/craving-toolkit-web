@@ -124,4 +124,6 @@ The question isn't why the addiction. The question is why the pain.
 *The Craving Toolkit includes tools for managing the acute craving — the first 10 minutes, the urge surf, the emergency card. But it also addresses the deeper patterns: the triggers rooted in emotion, the shame spiral, and the daily practices that rebuild a stable nervous system over time.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are dealing with trauma, please consider working with a trauma-informed therapist.",
-  };
+  
+    coverImage: { src: "/articles/trauma-and-addiction-gabor-mate.webp", alt: "Seated alone in sparse gray room, face averted, features softly shadowed in diffused morning light." },
+};

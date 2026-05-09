@@ -138,4 +138,6 @@ Check the HALT inventory every day. Maintain your sleep, your meals, your connec
 
 *The Craving Toolkit includes a complete relapse prevention framework — including trigger mapping, HALT assessments, and pre-scripted emergency responses for each stage of the relapse process.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
-  };
+  ,
+    coverImage: { src: "/articles/three-stages-of-relapse-how-to-catch-yourself.webp", alt: "Person in bedroom profile, head bowed in shadow, worn casual clothing, soft diffuse light." },
+};

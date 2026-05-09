@@ -106,4 +106,6 @@ The cravings will ease. Your metabolism will stabilize. Your reward system will 
 *The Craving Toolkit covers the full spectrum of craving triggers and substitution patterns, including the cross-addiction dynamics that emerge in early recovery.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or nutritional counseling.",
-  };
+  
+    coverImage: { src: "/articles/sugar-cravings-after-quitting-alcohol.webp", alt: "Cluttered kitchen counter with overflowing candy bowl, scattered sweets and wrappers, empty glass, bottle." },
+};

@@ -107,4 +107,6 @@ A craving that has to argue against a prepared truth is weaker than a craving th
 ***
 
 *This article is an excerpt from Chapter 5 of the **Craving Toolkit**.*`,
-  };
+  
+    coverImage: { src: "/articles/the-addictive-voice-how-your-mind-talks-you-into-relapse.webp", alt: "Adult at kitchen counter turned away from phone, worn clothes and averted posture conveying conflict." },
+};
