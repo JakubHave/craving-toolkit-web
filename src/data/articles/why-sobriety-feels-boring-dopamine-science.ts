@@ -120,4 +120,6 @@ The price of admission is a stretch of time that feels grey and empty and boring
 *The Craving Toolkit includes a full chapter on navigating early recovery, including structured protocols for the critical first 30 days when boredom and flatness are at their peak.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
-  };
+  
+    coverImage: { src: "/articles/why-sobriety-feels-boring-dopamine-science.webp", alt: "Home office desk with untouched breakfast, closed book, phone, and coffee mug in cool light" },
+};

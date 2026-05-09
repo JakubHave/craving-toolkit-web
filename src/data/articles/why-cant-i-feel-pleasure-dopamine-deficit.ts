@@ -112,4 +112,6 @@ The flatness is temporary. The recovery is real. Keep going.
 *The Craving Toolkit includes structured strategies for navigating every phase of recovery — including the dopamine deficit period when nothing feels worth doing.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are experiencing severe or prolonged depression, please consult a mental health professional.",
-  };
+  
+    coverImage: { src: "/articles/why-cant-i-feel-pleasure-dopamine-deficit.webp", alt: "Kitchen table with partially eaten plate, fork, and water glass in cool desaturated gray-blue tones." },
+};
