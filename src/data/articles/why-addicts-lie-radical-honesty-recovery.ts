@@ -109,4 +109,6 @@ Cut the oxygen, and the fire starts to die.
 
 *The Craving Toolkit includes practical exercises for building honesty into your daily recovery practice, including a lying-habit audit and a guided truth-telling framework.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
-  };
+  ,
+    coverImage: { src: "/articles/why-addicts-lie-radical-honesty-recovery.webp", alt: "Split-frame desk: dim cluttered papers on left, sunlit organized workspace on right." },
+};

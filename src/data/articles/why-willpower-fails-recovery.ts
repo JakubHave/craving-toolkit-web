@@ -147,4 +147,6 @@ Build the system. Trust the system. Let willpower be the emergency reserve, not 
 
 *The Craving Toolkit is built around strategies, not willpower — including self-binding protocols, pre-loaded craving responses, and daily practices that reduce the cognitive load of recovery.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+,
+    coverImage: { src: "/articles/why-willpower-fails-recovery.webp", alt: "Adult in worn hoodie at kitchen counter, head bowed, shoulders hunched, conveying exhaustion and struggle." },
 };
