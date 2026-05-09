@@ -79,4 +79,6 @@ At the beginning, there will be times when you need to use this strong counterac
 ***
 
 *This article is an excerpt from Chapter 3 of the **Craving Toolkit**.*`,
-  };
+  
+    coverImage: { src: "/articles/survive-first-10-minutes-of-craving.webp", alt: "Adult mid-squat in bare concrete home gym wearing worn gray sweatpants, harsh morning light." },
+};
