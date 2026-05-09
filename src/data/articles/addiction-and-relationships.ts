@@ -113,4 +113,6 @@ If both of you are committed to staying and rebuilding, a few things make the di
 
 *The Craving Toolkit includes a chapter addressed to families and loved ones — including what helps, what doesn't, and how to support recovery without losing yourself in the process.*`,
     disclaimer: "This article is educational and is not a substitute for professional couples therapy or individual treatment. If you or your partner are in crisis, please seek professional help. If you are unsafe, please contact local emergency services."
-  };
+  ,
+    coverImage: { src: "/articles/addiction-and-relationships.webp", alt: "Two silhouetted figures, backs turned, one seated and one standing far apart in warm light." },
+};

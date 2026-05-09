@@ -117,4 +117,6 @@ The cold water is just one way to practice that principle with your whole body.
 
 *The Craving Toolkit covers multiple evidence-based strategies for rebuilding your brain's reward system during recovery.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. Consult a physician before starting cold water immersion, especially if you have heart conditions or other medical concerns."
-  };
+  ,
+    coverImage: { src: "/articles/cold-plunging-addiction-recovery-dopamine.webp", alt: "Figure from behind in icy-blue cold plunge with rising steam and soft rim-lighting on shoulders" },
+};

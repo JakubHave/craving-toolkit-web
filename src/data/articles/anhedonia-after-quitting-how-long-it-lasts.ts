@@ -129,4 +129,6 @@ The flatness is the price. The other side is worth it.
 *The Craving Toolkit includes practical strategies for navigating every phase of early recovery — including the anhedonia window when nothing feels worth doing.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are experiencing severe or prolonged depression, please consult a mental health professional.",
-  };
+  
+    coverImage: { src: "/articles/anhedonia-after-quitting-how-long-it-lasts.webp", alt: "Quiet beige and gray room with long shadows, dust, closed guitar, stacked books, coffee." },
+};

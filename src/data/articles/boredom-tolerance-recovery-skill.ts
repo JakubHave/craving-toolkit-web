@@ -126,4 +126,6 @@ Train it. Start small. Get comfortable with uncomfortable. The emptiness is not 
 *The Craving Toolkit includes practical tools for building distress tolerance, managing boredom-triggered cravings, and navigating the empty stretches of early recovery when nothing feels worth doing.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
-  };
+  
+    coverImage: { src: "/articles/boredom-tolerance-recovery-skill.webp", alt: "Person with back to camera sits in sparse room, bathed in warm window light." },
+};
