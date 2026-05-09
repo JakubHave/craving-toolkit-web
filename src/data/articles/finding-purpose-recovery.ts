@@ -111,5 +111,5 @@ That's not the end of recovery. But it's the point where recovery stops feeling 
 *The Craving Toolkit is designed for the full arc of recovery — from the acute crisis of the first 10 minutes to the daily practices that build the life worth protecting. Including a recovery card, craving log, and structured exercises that help you map what matters.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
   ,
-    coverImage: { src: "/articles/finding-purpose-recovery.webp", alt: "Back-turned silhouette walking through dimly-lit wooden corridor toward glowing golden window ahead." },
+    coverImage: { src: "/articles/finding-purpose-recovery.webp", alt: "Hiker climbing rocky trail at dawn from below, cap brim down, golden sky above." },
 };
