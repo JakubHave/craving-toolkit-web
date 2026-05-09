@@ -121,4 +121,6 @@ That is harder than quitting one thing. But it is also more durable. Because onc
 
 *The Craving Toolkit covers the full spectrum of compulsive behavior — not just substances — and includes tools for recognizing and interrupting addictive patterns regardless of what form they take.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
-  };
+  ,
+    coverImage: { src: "/articles/cross-addiction-quitting-one-leads-to-another.webp", alt: "Back-turned silhouette gazing at scattered phone, pastries, empty glass, and shopping bag." },
+};

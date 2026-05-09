@@ -111,4 +111,6 @@ That is a different fight entirely. And it is one you can win.
 
 *The Craving Toolkit is built around strategies that reduce the demand on willpower while building the conditions that sustain it — including daily practices, self-binding protocols, and structured routines for every phase of recovery.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+,
+    coverImage: { src: "/articles/ego-depletion-myth-recovery.webp", alt: "Soft golden light streams through window into sparsely furnished room, casting warm shadows on wood." },
 };

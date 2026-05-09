@@ -125,4 +125,6 @@ One ugly evening at a time. That is how this works.
 ***
 
 *The Craving Toolkit includes a printable Evening Plan worksheet — a fill-in template for mapping your danger window, identifying the rewards you were really chasing, and pre-loading the new routines that fill the slot.*`
+,
+  coverImage: { src: "/articles/evening-cravings-sober.webp", alt: "Dusk light floods through a window into an empty room, casting long amber shadows." },
 };
