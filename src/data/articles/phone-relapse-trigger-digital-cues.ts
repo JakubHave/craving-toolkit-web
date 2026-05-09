@@ -110,4 +110,6 @@ Audit the phone. Set the boundaries. Tie yourself to the mast.
 
 *The Craving Toolkit includes a full chapter on trigger mapping and self-binding strategies — including digital triggers that most recovery programs overlook.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
-  };
+  ,
+    coverImage: { src: "/articles/phone-relapse-trigger-digital-cues.webp", alt: "Figure in semi-silhouette leaning toward glowing smartphone screen casting cold blue light in darkened bedroom." },
+};
