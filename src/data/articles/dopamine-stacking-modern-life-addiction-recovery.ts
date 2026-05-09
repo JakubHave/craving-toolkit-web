@@ -100,4 +100,6 @@ This is recovery — not just from a specific substance, but from the overstimul
 *The Craving Toolkit includes a complete framework for understanding and managing your relationship with reward — including practical strategies for reducing your total dopamine load while building sustainable sources of satisfaction.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
-  };
+  
+    coverImage: { src: "/articles/dopamine-stacking-modern-life-addiction-recovery.webp", alt: "Phone, coffee cup, pastry, and alarm clock layered on wooden table in warm sunlight." },
+};

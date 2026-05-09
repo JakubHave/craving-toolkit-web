@@ -111,4 +111,6 @@ Your brain doesn't need a fast. It needs a break from the specific thing that br
 *The Craving Toolkit provides a structured framework for exactly this kind of targeted reset — including protocols for the critical first 30 days and strategies for managing the discomfort that comes with it.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
-  };
+  
+    coverImage: { src: "/articles/dopamine-fasting-does-it-work.webp", alt: "Person seated in silhouette by a window, warm morning light casting soft shadows indoors." },
+};
