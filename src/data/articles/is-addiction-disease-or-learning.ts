@@ -106,4 +106,6 @@ And if the brain learned its way into addiction, it can learn its way out. Not e
 *The Craving Toolkit is built on the principle that understanding your brain's mechanics gives you practical power over them — whether you view addiction through the disease model, the learning model, or both.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
+
+    coverImage: { src: "/articles/is-addiction-disease-or-learning.webp", alt: "Two contemplative figures in muted interior, separated, one hooded, one turned away, cool light." },
 };

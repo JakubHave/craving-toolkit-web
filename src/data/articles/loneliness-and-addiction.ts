@@ -118,4 +118,6 @@ Connection isn't the cure. But isolation is the accelerant. Remove the acceleran
 
 *The Craving Toolkit dedicates an entire section to loneliness, boredom, and emotional triggers — including practical scripts for reaching out when you don't feel like you deserve to.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are experiencing severe isolation or suicidal thoughts, please reach out to a crisis helpline or trusted person."
-  };
+  ,
+    coverImage: { src: "/articles/loneliness-and-addiction.webp", alt: "Solitary figure in gray hoodie hunched by window at dusk, pale light amid cool shadows." },
+};
