@@ -122,4 +122,6 @@ Whether you pursue that learning through a treatment program, a support group li
 
 *The Craving Toolkit is designed to provide the practical structure that supports recovery — whether you are working with a therapist, attending meetings, or navigating your own path.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are experiencing severe addiction, medically dangerous withdrawal, or suicidal thoughts, please seek professional help immediately."
+,
+    coverImage: { src: "/articles/recovery-without-rehab.webp", alt: "Pale morning light streams through apartment window illuminating worn wooden furniture in cool gray room." },
 };

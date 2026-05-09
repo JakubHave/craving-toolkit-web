@@ -122,4 +122,6 @@ The balance isn't broken permanently. It is tilted. And tilted things can be rig
 *The Craving Toolkit applies the pleasure-pain balance framework to practical recovery tools — including delay protocols, counter-actions, and self-binding strategies that work with your brain's natural mechanics.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
-  };
+  
+    coverImage: { src: "/articles/pleasure-pain-balance-explains-addiction.webp", alt: "Person in worn clothes slumped by window, head turned away in cool grey-white morning light." },
+};

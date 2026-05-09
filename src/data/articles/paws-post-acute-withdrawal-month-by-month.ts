@@ -130,4 +130,6 @@ You are lighting lampposts. Keep walking.
 *The Craving Toolkit includes a full recovery timeline with day-by-day strategies for the hardest phases — including the PAWS period when most support structures have faded.*`,
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. If you are experiencing severe or worsening symptoms, please consult a healthcare professional.",
-  };
+  
+    coverImage: { src: "/articles/paws-post-acute-withdrawal-month-by-month.webp", alt: "Figure resting on unmade bed in soft dawn light, wearing faded shirt, body angled away." },
+};
