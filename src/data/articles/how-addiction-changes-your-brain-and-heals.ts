@@ -123,5 +123,5 @@ Your brain is not permanently damaged. It is temporarily altered. And the brain 
     disclaimer:
       "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support.",
   
-    coverImage: { src: "/articles/how-addiction-changes-your-brain-and-heals.webp", alt: "Seated person in cool interior light, three-quarter view with upper portion shadowed and cascading hair." },
+    coverImage: { src: "/articles/how-addiction-changes-your-brain-and-heals.webp", alt: "Person seated indoors, head bowed in shadow, soft cool window light, wrinkled sweater, minimal setting" },
 };

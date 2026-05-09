@@ -112,5 +112,5 @@ Your brain was built to prefer now. But it was also built to learn. And what it 
 *The Craving Toolkit includes practical tools for managing the "now appeal" — from delay protocols and craving timers to future-visioning exercises that give your brain something worth waiting for.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
 ,
-    coverImage: { src: "/articles/instant-gratification-addiction.webp", alt: "Figure in profile reaching forward, head shadowed, warm red-orange tones transition to cool blue-grey background" },
+    coverImage: { src: "/articles/instant-gratification-addiction.webp", alt: "Person in profile, lowered head, desaturated cool-blue interior, dim overhead light, worn clothing, blurred background." },
 };

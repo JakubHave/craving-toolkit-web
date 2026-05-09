@@ -120,5 +120,5 @@ You can't fix them. You can refuse to break yourself trying.
 *The Craving Toolkit was written for people in recovery — but understanding how it works can help you support someone you love. The frameworks inside (habit loops, craving mechanics, the addictive voice) can give you language for conversations that feel impossible.*`,
     disclaimer: "This article is educational. It is not medical advice and is not a substitute for professional support. If you're living with someone in active addiction and feel unsafe, please contact local support services or a crisis helpline."
   ,
-    coverImage: { src: "/articles/how-to-help-someone-with-addiction.webp", alt: "Two figures indoors, heads lowered and turned away, soft gray diffused light on muted tones." },
+    coverImage: { src: "/articles/how-to-help-someone-with-addiction.webp", alt: "Person seated on worn couch, knees pulled up, head bowed, soft afternoon light, muted tones." },
 };
