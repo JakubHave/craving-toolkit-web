@@ -117,5 +117,5 @@ That anticipation — the brain rewiring itself to look forward to something hea
 *The Craving Toolkit includes daily structure protocols for early recovery — including specific guidance on physical movement as a craving management tool, not just a lifestyle recommendation.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support. Consult a physician before starting an exercise program, especially if you have been sedentary or have medical conditions."
   ,
-    coverImage: { src: "/articles/exercise-addiction-recovery.webp", alt: "Muscular athlete exercising with intense focus in bright modern gym with dramatic golden studio lighting." },
+    coverImage: { src: "/articles/exercise-addiction-recovery.webp", alt: "Solitary jogger in faded gray leaning forward mid-stride on wet urban pavement at dawn." },
 };
