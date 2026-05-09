@@ -1,5 +1,6 @@
 import { articlesMeta } from "@/data/articles";
 import type { ArticleCategory } from "@/data/articles/types";
+import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, BookOpen } from "lucide-react";
 import { Metadata } from "next";
@@ -39,6 +40,9 @@ const itemListSchema = {
     position: i + 1,
     url: `https://www.cravingtoolkit.com/articles/${a.slug}`,
     name: a.title,
+    ...(a.coverImage && {
+      image: `https://www.cravingtoolkit.com${a.coverImage.src}`,
+    }),
   })),
 };
 
@@ -86,17 +90,32 @@ export default function ArticlesPage() {
                     {cat.label}
                   </h2>
                   <div className="space-y-6">
-                    {catArticles.map((a) => (
+                    {catArticles.map((a, idx) => (
                       <article key={a.slug}>
                         <Link
                           href={`/articles/${a.slug}`}
-                          className="block group bg-white p-6 rounded-2xl shadow-sm border border-slate-100 hover:border-emerald-200 hover:shadow-md transition"
+                          className="block group bg-white rounded-2xl shadow-sm border border-slate-100 hover:border-emerald-200 hover:shadow-md transition overflow-hidden sm:flex sm:items-stretch"
                         >
-                          <h3 className="text-xl font-bold mb-2 group-hover:text-emerald-700 transition">{a.title}</h3>
-                          <p className="text-slate-600 mb-3 leading-relaxed">{a.description}</p>
-                          <span className="text-emerald-600 font-semibold text-sm flex items-center gap-2 group-hover:translate-x-1 transition-transform">
-                            Read article <ArrowRight className="w-4 h-4" />
-                          </span>
+                          {a.coverImage && (
+                            <div className="sm:w-56 sm:flex-shrink-0 sm:self-stretch relative aspect-video sm:aspect-auto">
+                              <Image
+                                src={a.coverImage.src}
+                                alt={a.coverImage.alt}
+                                width={320}
+                                height={180}
+                                sizes="(max-width: 640px) 100vw, 224px"
+                                priority={idx < 2}
+                                className="w-full h-full object-cover sm:rounded-l-2xl"
+                              />
+                            </div>
+                          )}
+                          <div className="p-6 flex-1">
+                            <h3 className="text-xl font-bold mb-2 group-hover:text-emerald-700 transition">{a.title}</h3>
+                            <p className="text-slate-600 mb-3 leading-relaxed">{a.description}</p>
+                            <span className="text-emerald-600 font-semibold text-sm flex items-center gap-2 group-hover:translate-x-1 transition-transform">
+                              Read article <ArrowRight className="w-4 h-4" />
+                            </span>
+                          </div>
                         </Link>
                       </article>
                     ))}
