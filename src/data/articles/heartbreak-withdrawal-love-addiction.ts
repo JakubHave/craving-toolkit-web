@@ -118,4 +118,6 @@ You didn't become addicted because your brain is defective. You became addicted 
 
 *The Craving Toolkit helps you redirect your brain's bonding capacity — from the substance that was destroying you to the life you are building.*`,
     disclaimer: "This article is educational and based on lived experience and modern addiction science. It is not medical advice and is not a substitute for professional treatment, therapy, or emergency support."
+,
+    coverImage: { src: "/articles/heartbreak-withdrawal-love-addiction.webp", alt: "Slumped back-turned figure on rumpled bed in golden amber light, dark window, exhausted posture." },
 };
