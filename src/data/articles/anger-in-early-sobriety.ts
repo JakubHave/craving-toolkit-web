@@ -125,5 +125,5 @@ You are not the anger. You are the person it is moving through on its way out.
 
 *The Craving Toolkit includes a full chapter on emotional regulation in early recovery — plus printable worksheets for tracking activation states, mapping resentments, and pre-committing decisions your calm self has already made for your triggered self.*`
 ,
-  coverImage: { src: "/articles/anger-in-early-sobriety.webp", alt: "Silhouetted man pacing dim hallway in dawn light, shoulders clenched, with harsh red rim-light accent" },
+  coverImage: { src: "/articles/anger-in-early-sobriety.webp", alt: "Adult man in driver seat shouting in anger, one hand raised in frustration, other gripping steering wheel." },
 };
