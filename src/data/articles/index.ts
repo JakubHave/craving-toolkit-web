@@ -51,6 +51,7 @@ import { article as ultraProcessedFood } from "./ultra-processed-food-addiction"
 import { article as cravingFoodNotHungry } from "./craving-food-not-hunger";
 import { article as pinkCloudSyndrome } from "./pink-cloud-syndrome";
 import { article as eveningCravingsSober } from "./evening-cravings-sober";
+import { article as tellFriendsQuitDrinking } from "./how-to-tell-friends-i-quit-drinking";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -106,6 +107,7 @@ export const articles: Article[] = [
   cravingFoodNotHungry,
   pinkCloudSyndrome,
   eveningCravingsSober,
+  tellFriendsQuitDrinking,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
