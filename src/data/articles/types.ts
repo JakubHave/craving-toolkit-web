@@ -51,4 +51,8 @@ export interface ArticleMeta {
   description: string;
   publishedAt: string;
   category: ArticleCategory;
+  coverImage?: {
+    src: string;
+    alt: string;
+  };
 }

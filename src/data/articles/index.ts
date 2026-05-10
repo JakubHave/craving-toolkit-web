@@ -108,13 +108,16 @@ export const articles: Article[] = [
   eveningCravingsSober,
 ];
 
-export const articlesMeta: ArticleMeta[] = articles.map(({ slug, title, description, publishedAt, category }) => ({
-  slug,
-  title,
-  description,
-  publishedAt,
-  category,
-}));
+export const articlesMeta: ArticleMeta[] = articles.map(
+  ({ slug, title, description, publishedAt, category, coverImage }) => ({
+    slug,
+    title,
+    description,
+    publishedAt,
+    category,
+    coverImage,
+  }),
+);
 
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((a) => a.slug === slug);
