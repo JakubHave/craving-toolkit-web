@@ -141,5 +141,5 @@ Close the chapter honestly. Do not burn the book.
 
 *The Craving Toolkit includes a printable Post-Slip Protocol — a one-page sheet you keep where you can find it before the next bad night, so your calm self has already prepared your triggered self.*`
 ,
-  coverImage: { src: "/articles/what-to-do-after-a-relapse.webp", alt: "Glowing phone notifications beside a water glass and crumpled paper on a dim kitchen counter at dawn." },
+  coverImage: { src: "/articles/what-to-do-after-a-relapse.webp", alt: "Woman in hoodie sitting on couch at dawn, head in hand, phone and clutter on the table in front of her." },
 };
