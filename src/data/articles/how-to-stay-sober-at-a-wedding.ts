@@ -136,5 +136,5 @@ A wedding you survived sober is a wedding you will remember clearly for the rest
 
 *The Craving Toolkit includes a printable Event Survival Plan worksheet — pre-event commitments, scripts, exit triggers, and a sober-ally protocol designed for exactly this kind of high-cue night.*`
 ,
-  coverImage: { src: "/articles/how-to-stay-sober-at-a-wedding.webp", alt: "Candlelit wedding reception hall with floral centerpieces, white linen, and champagne flute." },
+  coverImage: { src: "/articles/how-to-stay-sober-at-a-wedding.webp", alt: "Candlelit wedding reception hall with seated guests, white rose centerpieces, and chandeliers." },
 };
