@@ -53,6 +53,7 @@ import { article as pinkCloudSyndrome } from "./pink-cloud-syndrome";
 import { article as eveningCravingsSober } from "./evening-cravings-sober";
 import { article as tellFriendsQuitDrinking } from "./how-to-tell-friends-i-quit-drinking";
 import { article as angerInEarlySobriety } from "./anger-in-early-sobriety";
+import { article as brainFogAfterQuittingWeed } from "./brain-fog-after-quitting-weed";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -110,6 +111,7 @@ export const articles: Article[] = [
   eveningCravingsSober,
   tellFriendsQuitDrinking,
   angerInEarlySobriety,
+  brainFogAfterQuittingWeed,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
