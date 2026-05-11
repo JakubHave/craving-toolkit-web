@@ -124,5 +124,5 @@ You woke up sober. That is the only fact that matters.
 
 *The Craving Toolkit includes a Craving Log and Emergency Card designed to help you decode the cues that fire both daytime urges and nighttime drinking dreams.*`
 ,
-  coverImage: { src: "/articles/drinking-dreams-meaning.webp", alt: "Moonlit bedroom with rumpled sheets and empty glass on nightstand at 4 a.m." },
+  coverImage: { src: "/articles/drinking-dreams-meaning.webp", alt: "Dim bedroom with rumpled bedsheets and a glass beside a digital alarm clock showing 4:00 a.m." },
 };
