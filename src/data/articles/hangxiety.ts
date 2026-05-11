@@ -109,5 +109,5 @@ You are not weak. You are paying for borrowed calm.
 
 *The Craving Toolkit includes a Craving Log and Emergency Card designed to help you intercept the drink-to-relieve-anxiety loop before the next morning starts the cycle again.*`
 ,
-  coverImage: { src: "/articles/hangxiety.webp", alt: "Smartphone face-down on cluttered nightstand in dim pre-dawn bedroom light." },
+  coverImage: { src: "/articles/hangxiety.webp", alt: "Young man on couch with head in hands amid messy living room with empty bottle and glass on coffee table." },
 };
