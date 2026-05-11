@@ -132,5 +132,5 @@ You will think clearly again. Hold the line until then.
 
 *The Craving Toolkit includes a daily recovery tracker and a worksheet for mapping which symptoms are lifting and which are sticking — useful when the fog makes it hard to see your own progress.*`
 ,
-  coverImage: { src: "/articles/brain-fog-after-quitting-weed.webp", alt: "Foggy dim home office with glowing laptop, scattered papers, and half-empty water glass." },
+  coverImage: { src: "/articles/brain-fog-after-quitting-weed.webp", alt: "Man in dark hoodie at wooden table with head propped on hand, smoke drifting around his head, mug and notepad on the table." },
 };
