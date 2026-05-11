@@ -55,6 +55,7 @@ import { article as tellFriendsQuitDrinking } from "./how-to-tell-friends-i-quit
 import { article as angerInEarlySobriety } from "./anger-in-early-sobriety";
 import { article as brainFogAfterQuittingWeed } from "./brain-fog-after-quitting-weed";
 import { article as haltAcronymRecovery } from "./halt-acronym-recovery";
+import { article as hangxiety } from "./hangxiety";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -114,6 +115,7 @@ export const articles: Article[] = [
   angerInEarlySobriety,
   brainFogAfterQuittingWeed,
   haltAcronymRecovery,
+  hangxiety,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
