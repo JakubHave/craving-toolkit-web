@@ -62,6 +62,7 @@ import { article as whatToDoAfterARelapse } from "./what-to-do-after-a-relapse";
 import { article as howToMakeSoberFriendsAsAnAdult } from "./how-to-make-sober-friends-as-an-adult";
 import { article as firstSoberChristmas } from "./first-sober-christmas";
 import { article as nicotineWithdrawalTimeline } from "./nicotine-withdrawal-timeline";
+import { article as socialAnxietyWithoutAlcohol } from "./social-anxiety-without-alcohol";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -128,6 +129,7 @@ export const articles: Article[] = [
   howToMakeSoberFriendsAsAnAdult,
   firstSoberChristmas,
   nicotineWithdrawalTimeline,
+  socialAnxietyWithoutAlcohol,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
