@@ -60,6 +60,7 @@ import { article as drinkingDreamsMeaning } from "./drinking-dreams-meaning";
 import { article as stayingSoberAtWedding } from "./how-to-stay-sober-at-a-wedding";
 import { article as whatToDoAfterARelapse } from "./what-to-do-after-a-relapse";
 import { article as howToMakeSoberFriendsAsAnAdult } from "./how-to-make-sober-friends-as-an-adult";
+import { article as firstSoberChristmas } from "./first-sober-christmas";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -124,6 +125,7 @@ export const articles: Article[] = [
   stayingSoberAtWedding,
   whatToDoAfterARelapse,
   howToMakeSoberFriendsAsAnAdult,
+  firstSoberChristmas,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
