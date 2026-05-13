@@ -67,6 +67,7 @@ import { article as euphoricRecall } from "./euphoric-recall";
 import { article as howToForgiveYourselfAddiction } from "./how-to-forgive-yourself-addiction";
 import { article as grievingTheLossOfAlcohol } from "./grieving-the-loss-of-alcohol";
 import { article as moderationVsAbstinence } from "./moderation-vs-abstinence";
+import { article as firstSoberVacation } from "./first-sober-vacation";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -138,6 +139,7 @@ export const articles: Article[] = [
   howToForgiveYourselfAddiction,
   grievingTheLossOfAlcohol,
   moderationVsAbstinence,
+  firstSoberVacation,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
