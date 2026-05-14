@@ -75,6 +75,7 @@ import { article as griefRelapseTrigger } from "./grief-relapse-trigger";
 import { article as soberParenting } from "./sober-parenting";
 import { article as sexSoberForTheFirstTime } from "./sex-sober-for-the-first-time";
 import { article as soberCuriousVsSober } from "./sober-curious-vs-sober";
+import { article as howToMakeAmendsInRecovery } from "./how-to-make-amends-in-recovery";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -154,6 +155,7 @@ export const articles: Article[] = [
   soberParenting,
   sexSoberForTheFirstTime,
   soberCuriousVsSober,
+  howToMakeAmendsInRecovery,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
