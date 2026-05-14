@@ -72,6 +72,7 @@ import { article as firstSoberVacation } from "./first-sober-vacation";
 import { article as isNonAlcoholicBeerOkInRecovery } from "./is-non-alcoholic-beer-ok-in-recovery";
 import { article as soberDatingEarlyRecovery } from "./sober-dating-early-recovery";
 import { article as griefRelapseTrigger } from "./grief-relapse-trigger";
+import { article as soberParenting } from "./sober-parenting";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -148,6 +149,7 @@ export const articles: Article[] = [
   isNonAlcoholicBeerOkInRecovery,
   soberDatingEarlyRecovery,
   griefRelapseTrigger,
+  soberParenting,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
