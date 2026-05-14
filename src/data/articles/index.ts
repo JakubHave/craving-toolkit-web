@@ -76,6 +76,7 @@ import { article as soberParenting } from "./sober-parenting";
 import { article as sexSoberForTheFirstTime } from "./sex-sober-for-the-first-time";
 import { article as soberCuriousVsSober } from "./sober-curious-vs-sober";
 import { article as howToMakeAmendsInRecovery } from "./how-to-make-amends-in-recovery";
+import { article as chaserEffectPorn } from "./chaser-effect-porn";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -156,6 +157,7 @@ export const articles: Article[] = [
   sexSoberForTheFirstTime,
   soberCuriousVsSober,
   howToMakeAmendsInRecovery,
+  chaserEffectPorn,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
