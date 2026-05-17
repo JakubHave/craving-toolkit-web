@@ -268,7 +268,7 @@ export default function GuidePage() {
           />
           <h2 className="font-serif text-3xl md:text-4xl font-bold mb-8 text-white leading-snug">I&rsquo;m not writing this from a distance.</h2>
           <p className="text-lg leading-relaxed text-emerald-100/90 mb-6">
-            I&rsquo;m an addict — alcohol, drugs, smoking, overeating, depression, and anxiety. I spent years in treatment, rehab and psychotherapy. Today, I&rsquo;ve been clean for more than 10 years and live a stable and fulfilling life.
+            I lived through addiction and spent years in treatment and psychotherapy. I&rsquo;ve been clean for over 10 years and consider myself healed. This guide is what I wish I&rsquo;d had during the worst of it.
           </p>
           <p className="text-lg leading-relaxed text-emerald-100/90 mb-6">
             I built this guide from what actually helped — my own experience combined with modern addiction science.
