@@ -48,7 +48,7 @@ But here is what that means at five years: the old pathway is still there. Quiet
 
 This is not failure. This is biology.
 
-If you've ever quietly suspected that the "[once an addict, always an addict](/articles/grieving-the-loss-of-alcohol)" framing has a kernel of neurological truth in it, this is what people mean. Not that you are doomed. Just that the wiring stays available, and you have to keep building around it.
+If you've ever quietly suspected that the "[once an addict, always an addict](/articles/once-an-addict-always-an-addict)" framing has a kernel of neurological truth in it, this is what people mean. Not that you are doomed. Just that the wiring stays available, and you have to keep building around it.
 
 ## What is the craving actually telling you?
 
