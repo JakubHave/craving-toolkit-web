@@ -67,7 +67,7 @@ export default function AboutPage() {
 
             <h2 className="text-2xl font-bold mt-10 mb-4 text-slate-900">My story</h2>
             <p className="text-lg text-slate-700 leading-relaxed mb-6">
-              I spent years in treatment and psychotherapy. I know what it feels like when cravings take over and logic disappears. I know the shame spiral, the relapses, the feeling that nothing will ever change.
+              I spent years in treatment and I know what it feels like when cravings take over and logic disappears. I know the shame spiral, the relapses, the feeling that nothing will ever change.
             </p>
             <p className="text-lg text-slate-700 leading-relaxed mb-6">
               Today, I live a stable and fulfilling life. Not because I found a magic formula, but because I eventually found tools and frameworks that actually worked in the moments when willpower didn&rsquo;t. That&rsquo;s what the Craving Toolkit is — the distillation of everything that helped, organized for the exact moments when you need it most.

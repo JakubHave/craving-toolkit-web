@@ -57,7 +57,7 @@ If 10 minutes feels impossible, start with 3 minutes. Then do another 3. Then an
 
 ## Tool 2 - The Strong Counter-Action
 
-Another very helpful strategy, and my favorite which I learned in rehab, is to respond to an intense craving with a deliberate, strong *counter-action*. Instead of passively enduring the urge, actively interrupt the pattern and try to build a negative emotional association with the craving.
+Another very helpful strategy, and my favorite which I learned in rehab, is to respond to an intense craving with a deliberate, strong *counter-action*. Instead of passively enduring the urge, actively interrupt [the cue-routine-reward pattern](/articles/habit-loop-addiction-cue-routine-reward) and try to build a negative emotional association with the craving.
 
 For example, use short bursts of vigorous physical activity—such as push-ups, squats, or sprinting. The physical effort redirects your attention, releases tension, and creates a clear mental break.
 
@@ -65,7 +65,7 @@ But temporarily escaping a craving isn't the main goal. The real goal is to prof
 
 Choose an activity that is genuinely demanding or unpleasant at the moment. (If you already love exercise, an unpleasant chore - e.g. cleaning the toilet, may be more effective.)
 
-*Example 1:* You notice the thought, e.g. "I would like a drink." Instead of entertaining it, immediately do 20 squats while saying to yourself something like: "This shit is trying to take control of me again. I am the boss here." Don't be afraid to use harsh language — you really need to build a negative emotion toward the urge or craving. Afterward, shift into an engaging activity that requires your full attention so you stay in the present moment and stabilize your mind.
+*Example 1:* You notice the thought, e.g. "I would like a drink" — that is [the addictive voice](/articles/the-addictive-voice-how-your-mind-talks-you-into-relapse) talking. Instead of entertaining it, immediately do 20 squats while saying to yourself something like: "This shit is trying to take control of me again. I am the boss here." Don't be afraid to use harsh language — you really need to build a negative emotion toward the urge or craving. Afterward, shift into an engaging activity that requires your full attention so you stay in the present moment and stabilize your mind.
 
 If you're in public or at the office and can't do squats or some other physical activity, you can use a rubber band and squeeze it until your hand starts to feel sore.
 

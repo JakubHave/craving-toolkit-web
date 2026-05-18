@@ -252,7 +252,7 @@ export default function LandingPage() {
             className="rounded-full border-2 border-emerald-400/50 mb-8 mx-auto"
           />
           <p className="text-lg leading-relaxed text-emerald-100/90 mb-6">
-            I&rsquo;m not writing this from a distance. I lived through addiction and spent years in treatment and therapy. I&rsquo;ve been clean for over 10 years and consider myself healed. This site is what I wish I&rsquo;d had during the worst of it.
+            I&rsquo;m not writing this from a distance. I lived through addiction and spent years in therapy. I&rsquo;ve been clean for over 10 years and consider myself healed. This site is what I wish I&rsquo;d had during the worst of it.
           </p>
           <p className="text-lg leading-relaxed text-emerald-100/90">
             I built this app from what actually helped — my own experience and modern addiction science. What I care about is not sounding impressive. It&rsquo;s giving you tools that are actually usable when things get hard.

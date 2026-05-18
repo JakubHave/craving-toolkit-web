@@ -60,7 +60,7 @@ Most people report noticeable improvement in their ability to enjoy normal activ
 
 Cannabis-related anhedonia tends to last 1–3 months for regular users, though daily heavy users of high-potency products (concentrates, wax, edibles) may experience a longer recovery window of up to 6 months.
 
-The first two weeks are typically the hardest. Many cannabis users report intense boredom and irritability rather than classical "depression." This is consistent with cannabis's effect on the endocannabinoid system, which modulates dopamine release. By week 3–4, most users report brief windows of genuine pleasure returning — moments where something actually feels enjoyable rather than just tolerable.
+The first two weeks are typically the hardest. Many cannabis users report [intense boredom](/articles/why-sobriety-feels-boring-dopamine-science) and irritability rather than classical "depression." This is consistent with cannabis's effect on the endocannabinoid system, which modulates dopamine release. By week 3–4, most users report brief windows of genuine pleasure returning — moments where something actually feels enjoyable rather than just tolerable.
 
 **Stimulants (cocaine, amphetamines, methamphetamine)**
 
