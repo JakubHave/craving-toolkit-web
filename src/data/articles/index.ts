@@ -81,6 +81,7 @@ import { article as cravings5YearsSober } from "./cravings-5-years-sober";
 import { article as rebuildingFinancesAfterAddiction } from "./rebuilding-finances-after-addiction";
 import { article as howToIdentifyMyTriggers } from "./how-to-identify-my-triggers";
 import { article as perimenopauseAlcoholCravings } from "./perimenopause-alcohol-cravings";
+import { article as kratomWithdrawalTimeline } from "./kratom-withdrawal-timeline";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -166,6 +167,7 @@ export const articles: Article[] = [
   rebuildingFinancesAfterAddiction,
   howToIdentifyMyTriggers,
   perimenopauseAlcoholCravings,
+  kratomWithdrawalTimeline,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
