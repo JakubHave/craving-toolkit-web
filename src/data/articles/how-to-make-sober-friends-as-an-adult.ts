@@ -46,11 +46,11 @@ You are not. You are at the start of something most adults never have to build f
 
 Adult friendship in most Western cultures runs on alcohol. Happy hour, dinner with wine, the post-work pint, the wedding open bar, the networking event with cocktails. Anna Lembke, in *Dopamine Nation*, describes alcohol as the most socially endorsed addictive substance we have — drinking is so woven into the cultural fabric that not drinking is what requires explanation.
 
-When you stop, three things collapse at once. **Your venues collapse** — the bars and parties that were your meeting grounds no longer feel safe. **Your scripts collapse** — the small talk that alcohol smoothed over now sits awkwardly in silence. **Your social identity collapses** — "the fun one," "the closer," "the guy who knows the bartender" all evaporate.
+When you stop, three things collapse at once. **Your venues collapse** — the bars and parties that were your meeting grounds no longer feel safe. **Your scripts collapse** — the small talk that alcohol smoothed over now [sits awkwardly in silence](/articles/social-anxiety-without-alcohol). **Your social identity collapses** — "the fun one," "the closer," "the guy who knows the bartender" all evaporate.
 
 This is not weakness. This is structural. You are trying to build a social life inside a culture that defaults to the substance you can't use.
 
-The good news, which Lembke and others repeat across the recovery literature: the loneliness is acute, but it is not permanent. It belongs to a transitional phase. The new social architecture, once built, tends to be more honest than the old one.
+The good news, which Lembke and others repeat across the recovery literature: the [loneliness](/articles/loneliness-and-addiction) is acute, but it is not permanent. It belongs to a transitional phase. The new social architecture, once built, tends to be more honest than the old one.
 
 ## Where do you actually meet sober people?
 
@@ -86,7 +86,7 @@ Some yes, most no, all complicated.
 
 The friends who exist beyond the drinking — the ones who would meet you for breakfast, who text about non-bar things, who knew you before the drinking became central — those friendships survive the transition with effort. They may need a renegotiation: shorter visits, daytime activities, you driving so you can leave when you need to.
 
-The friends who only existed inside the drinking ritual usually don't survive, and trying to force them often endangers your sobriety. This is grief, not failure. The narrowing of your social circle is part of how the addiction concentrated your life. Rebuilding requires honest accounting of which connections were friendships and which were drinking partnerships.
+The friends who only existed inside the drinking ritual usually don't survive, and trying to force them often endangers your sobriety. This is grief, not failure. The narrowing of your social circle is part of how the addiction concentrated your life. Rebuilding requires honest accounting of which connections were friendships and which were [drinking partnerships](/articles/my-friends-still-drink).
 
 A useful test: invite the friend to a Saturday morning hike or a weeknight dinner with no alcohol. If they show up and it's a real conversation, the friendship has substance. If they ghost or steer it back to bars, you have your answer.
 
@@ -102,7 +102,7 @@ What accelerates it: showing up consistently, learning names, asking follow-up q
 
 What slows it: waiting to feel ready, switching venues constantly, treating each event as an audition, deciding in advance that "people don't like sober me."
 
-Marc Lewis writes about identity reconstruction as a developmental process — the new self forms gradually, through accumulated actions. The same is true of the new social life. It assembles itself out of small repeated contacts.
+Marc Lewis writes about identity reconstruction as a developmental process — the new self forms gradually, through accumulated actions. The same is true of the new social life — including [sober dating](/articles/sober-dating-early-recovery). It assembles itself out of small repeated contacts.
 
 You will feel, at points, that this isn't working. That feeling is almost always wrong. Stay in the room. Show up next week.
 
