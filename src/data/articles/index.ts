@@ -82,6 +82,7 @@ import { article as rebuildingFinancesAfterAddiction } from "./rebuilding-financ
 import { article as howToIdentifyMyTriggers } from "./how-to-identify-my-triggers";
 import { article as perimenopauseAlcoholCravings } from "./perimenopause-alcohol-cravings";
 import { article as kratomWithdrawalTimeline } from "./kratom-withdrawal-timeline";
+import { article as naltrexoneSinclairMethodExplained } from "./naltrexone-sinclair-method-explained";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -168,6 +169,7 @@ export const articles: Article[] = [
   howToIdentifyMyTriggers,
   perimenopauseAlcoholCravings,
   kratomWithdrawalTimeline,
+  naltrexoneSinclairMethodExplained,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
