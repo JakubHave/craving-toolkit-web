@@ -80,6 +80,7 @@ import { article as chaserEffectPorn } from "./chaser-effect-porn";
 import { article as cravings5YearsSober } from "./cravings-5-years-sober";
 import { article as rebuildingFinancesAfterAddiction } from "./rebuilding-finances-after-addiction";
 import { article as howToIdentifyMyTriggers } from "./how-to-identify-my-triggers";
+import { article as perimenopauseAlcoholCravings } from "./perimenopause-alcohol-cravings";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -164,6 +165,7 @@ export const articles: Article[] = [
   cravings5YearsSober,
   rebuildingFinancesAfterAddiction,
   howToIdentifyMyTriggers,
+  perimenopauseAlcoholCravings,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
