@@ -67,7 +67,7 @@ This reinterpretation reduces the power of the addictive identity. Instead of "[
 
 Lewis's subjects did not recover by simply avoiding their drug. They recovered by [developing a future](/articles/growing-out-of-addiction) that was more compelling than the drug. Natalie envisioned a life of freedom and service. Brian envisioned becoming a healer. These were not vague aspirations — they were specific, emotionally grounded visions that engaged the reward system around a long-term trajectory.
 
-Without a future vision, recovery is just endurance — holding on until you cannot hold on anymore. With one, recovery is pursuit — moving toward something that matters, powered by the same motivational engine that addiction hijacked.
+Without a future vision, recovery is just endurance — holding on until you cannot hold on anymore. With one, recovery is pursuit — moving toward [something that matters](/articles/finding-purpose-recovery), powered by the same motivational engine that addiction hijacked.
 
 ## How to build your recovery narrative
 
