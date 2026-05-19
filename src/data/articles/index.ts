@@ -83,6 +83,7 @@ import { article as howToIdentifyMyTriggers } from "./how-to-identify-my-trigger
 import { article as perimenopauseAlcoholCravings } from "./perimenopause-alcohol-cravings";
 import { article as kratomWithdrawalTimeline } from "./kratom-withdrawal-timeline";
 import { article as naltrexoneSinclairMethodExplained } from "./naltrexone-sinclair-method-explained";
+import { article as kindlingEffectAlcoholWithdrawal } from "./kindling-effect-alcohol-withdrawal";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -170,6 +171,7 @@ export const articles: Article[] = [
   perimenopauseAlcoholCravings,
   kratomWithdrawalTimeline,
   naltrexoneSinclairMethodExplained,
+  kindlingEffectAlcoholWithdrawal,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
