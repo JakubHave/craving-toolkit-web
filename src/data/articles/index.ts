@@ -90,6 +90,7 @@ import { article as weedDreamsAfterQuittingCannabis } from "./weed-dreams-after-
 import { article as quittingZynNicotinePouches } from "./quitting-zyn-nicotine-pouches";
 import { article as journalingForRecoveryPrompts } from "./journaling-for-recovery-prompts";
 import { article as cryingSpellsEarlySobriety } from "./crying-spells-early-sobriety";
+import { article as soberDay30WhatToExpect } from "./sober-day-30-what-to-expect";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -184,6 +185,7 @@ export const articles: Article[] = [
   quittingZynNicotinePouches,
   journalingForRecoveryPrompts,
   cryingSpellsEarlySobriety,
+  soberDay30WhatToExpect,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
