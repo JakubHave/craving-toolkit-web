@@ -85,6 +85,7 @@ import { article as kratomWithdrawalTimeline } from "./kratom-withdrawal-timelin
 import { article as naltrexoneSinclairMethodExplained } from "./naltrexone-sinclair-method-explained";
 import { article as kindlingEffectAlcoholWithdrawal } from "./kindling-effect-alcohol-withdrawal";
 import { article as characterAiAddictionRecovery } from "./character-ai-addiction-recovery";
+import { article as weedWithdrawalSymptomsTimeline } from "./weed-withdrawal-symptoms-timeline";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -174,6 +175,7 @@ export const articles: Article[] = [
   naltrexoneSinclairMethodExplained,
   kindlingEffectAlcoholWithdrawal,
   characterAiAddictionRecovery,
+  weedWithdrawalSymptomsTimeline,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
