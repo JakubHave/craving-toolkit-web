@@ -95,6 +95,7 @@ import { article as firstSoberBirthdaySurvival } from "./first-sober-birthday-su
 import { article as appetiteChangesEarlySobriety } from "./appetite-changes-early-sobriety";
 import { article as argumentWithPartnerCravingTrigger } from "./argument-with-partner-craving-trigger";
 import { article as adhdAndAddictionLink } from "./adhd-and-addiction-link";
+import { article as dualDiagnosisAddictionAnxiety } from "./dual-diagnosis-addiction-anxiety";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -194,6 +195,7 @@ export const articles: Article[] = [
   appetiteChangesEarlySobriety,
   argumentWithPartnerCravingTrigger,
   adhdAndAddictionLink,
+  dualDiagnosisAddictionAnxiety,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
