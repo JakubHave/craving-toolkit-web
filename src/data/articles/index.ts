@@ -100,6 +100,7 @@ import { article as addictivePersonalityMyth } from "./addictive-personality-myt
 import { article as nightSweatsQuittingDrinkingTimeline } from "./night-sweats-quitting-drinking-timeline";
 import { article as caffeineReplacingAlcoholRecovery } from "./caffeine-replacing-alcohol-recovery";
 import { article as boredomRelapseTriggerWeekends } from "./boredom-relapse-trigger-weekends";
+import { article as toleranceVsDependenceVsAddiction } from "./tolerance-vs-dependence-vs-addiction";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -204,6 +205,7 @@ export const articles: Article[] = [
   nightSweatsQuittingDrinkingTimeline,
   caffeineReplacingAlcoholRecovery,
   boredomRelapseTriggerWeekends,
+  toleranceVsDependenceVsAddiction,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
