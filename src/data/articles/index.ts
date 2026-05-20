@@ -88,6 +88,7 @@ import { article as characterAiAddictionRecovery } from "./character-ai-addictio
 import { article as weedWithdrawalSymptomsTimeline } from "./weed-withdrawal-symptoms-timeline";
 import { article as weedDreamsAfterQuittingCannabis } from "./weed-dreams-after-quitting-cannabis";
 import { article as quittingZynNicotinePouches } from "./quitting-zyn-nicotine-pouches";
+import { article as journalingForRecoveryPrompts } from "./journaling-for-recovery-prompts";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -180,6 +181,7 @@ export const articles: Article[] = [
   weedWithdrawalSymptomsTimeline,
   weedDreamsAfterQuittingCannabis,
   quittingZynNicotinePouches,
+  journalingForRecoveryPrompts,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
