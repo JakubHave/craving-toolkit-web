@@ -89,6 +89,7 @@ import { article as weedWithdrawalSymptomsTimeline } from "./weed-withdrawal-sym
 import { article as weedDreamsAfterQuittingCannabis } from "./weed-dreams-after-quitting-cannabis";
 import { article as quittingZynNicotinePouches } from "./quitting-zyn-nicotine-pouches";
 import { article as journalingForRecoveryPrompts } from "./journaling-for-recovery-prompts";
+import { article as cryingSpellsEarlySobriety } from "./crying-spells-early-sobriety";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -182,6 +183,7 @@ export const articles: Article[] = [
   weedDreamsAfterQuittingCannabis,
   quittingZynNicotinePouches,
   journalingForRecoveryPrompts,
+  cryingSpellsEarlySobriety,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
