@@ -87,6 +87,7 @@ import { article as kindlingEffectAlcoholWithdrawal } from "./kindling-effect-al
 import { article as characterAiAddictionRecovery } from "./character-ai-addiction-recovery";
 import { article as weedWithdrawalSymptomsTimeline } from "./weed-withdrawal-symptoms-timeline";
 import { article as weedDreamsAfterQuittingCannabis } from "./weed-dreams-after-quitting-cannabis";
+import { article as quittingZynNicotinePouches } from "./quitting-zyn-nicotine-pouches";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -178,6 +179,7 @@ export const articles: Article[] = [
   characterAiAddictionRecovery,
   weedWithdrawalSymptomsTimeline,
   weedDreamsAfterQuittingCannabis,
+  quittingZynNicotinePouches,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
