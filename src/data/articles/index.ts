@@ -96,6 +96,7 @@ import { article as appetiteChangesEarlySobriety } from "./appetite-changes-earl
 import { article as argumentWithPartnerCravingTrigger } from "./argument-with-partner-craving-trigger";
 import { article as adhdAndAddictionLink } from "./adhd-and-addiction-link";
 import { article as dualDiagnosisAddictionAnxiety } from "./dual-diagnosis-addiction-anxiety";
+import { article as addictivePersonalityMyth } from "./addictive-personality-myth";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -196,6 +197,7 @@ export const articles: Article[] = [
   argumentWithPartnerCravingTrigger,
   adhdAndAddictionLink,
   dualDiagnosisAddictionAnxiety,
+  addictivePersonalityMyth,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
