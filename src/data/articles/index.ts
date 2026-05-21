@@ -97,6 +97,7 @@ import { article as argumentWithPartnerCravingTrigger } from "./argument-with-pa
 import { article as adhdAndAddictionLink } from "./adhd-and-addiction-link";
 import { article as dualDiagnosisAddictionAnxiety } from "./dual-diagnosis-addiction-anxiety";
 import { article as addictivePersonalityMyth } from "./addictive-personality-myth";
+import { article as nightSweatsQuittingDrinkingTimeline } from "./night-sweats-quitting-drinking-timeline";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -198,6 +199,7 @@ export const articles: Article[] = [
   adhdAndAddictionLink,
   dualDiagnosisAddictionAnxiety,
   addictivePersonalityMyth,
+  nightSweatsQuittingDrinkingTimeline,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
