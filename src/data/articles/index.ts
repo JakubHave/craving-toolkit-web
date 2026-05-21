@@ -102,6 +102,7 @@ import { article as caffeineReplacingAlcoholRecovery } from "./caffeine-replacin
 import { article as boredomRelapseTriggerWeekends } from "./boredom-relapse-trigger-weekends";
 import { article as toleranceVsDependenceVsAddiction } from "./tolerance-vs-dependence-vs-addiction";
 import { article as incentiveSalienceWantingVsLiking } from "./incentive-salience-wanting-vs-liking";
+import { article as boxBreathingCravingsProtocol } from "./box-breathing-cravings-protocol";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -208,6 +209,7 @@ export const articles: Article[] = [
   boredomRelapseTriggerWeekends,
   toleranceVsDependenceVsAddiction,
   incentiveSalienceWantingVsLiking,
+  boxBreathingCravingsProtocol,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
