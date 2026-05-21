@@ -101,6 +101,7 @@ import { article as nightSweatsQuittingDrinkingTimeline } from "./night-sweats-q
 import { article as caffeineReplacingAlcoholRecovery } from "./caffeine-replacing-alcohol-recovery";
 import { article as boredomRelapseTriggerWeekends } from "./boredom-relapse-trigger-weekends";
 import { article as toleranceVsDependenceVsAddiction } from "./tolerance-vs-dependence-vs-addiction";
+import { article as incentiveSalienceWantingVsLiking } from "./incentive-salience-wanting-vs-liking";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -206,6 +207,7 @@ export const articles: Article[] = [
   caffeineReplacingAlcoholRecovery,
   boredomRelapseTriggerWeekends,
   toleranceVsDependenceVsAddiction,
+  incentiveSalienceWantingVsLiking,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
