@@ -105,6 +105,7 @@ import { article as incentiveSalienceWantingVsLiking } from "./incentive-salienc
 import { article as boxBreathingCravingsProtocol } from "./box-breathing-cravings-protocol";
 import { article as cravingHitsAtWorkWhatToDo } from "./craving-hits-at-work-what-to-do";
 import { article as aceScoreChildhoodTraumaAddiction } from "./ace-score-childhood-trauma-addiction";
+import { article as addictionGeneticOrEnvironmental } from "./addiction-genetic-or-environmental";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -214,6 +215,7 @@ export const articles: Article[] = [
   boxBreathingCravingsProtocol,
   cravingHitsAtWorkWhatToDo,
   aceScoreChildhoodTraumaAddiction,
+  addictionGeneticOrEnvironmental,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
