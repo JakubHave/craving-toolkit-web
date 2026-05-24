@@ -109,6 +109,7 @@ import { article as addictionGeneticOrEnvironmental } from "./addiction-genetic-
 import { article as soberCuriousGenZMindfulDrinking } from "./sober-curious-gen-z-mindful-drinking";
 import { article as airportBarFlyingSober } from "./airport-bar-flying-sober";
 import { article as summerCravingsVacationRelapseRisk } from "./summer-cravings-vacation-relapse-risk";
+import { article as socialMediaTriggerRecovery } from "./social-media-trigger-recovery";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -222,6 +223,7 @@ export const articles: Article[] = [
   soberCuriousGenZMindfulDrinking,
   airportBarFlyingSober,
   summerCravingsVacationRelapseRisk,
+  socialMediaTriggerRecovery,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
