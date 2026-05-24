@@ -104,6 +104,7 @@ import { article as toleranceVsDependenceVsAddiction } from "./tolerance-vs-depe
 import { article as incentiveSalienceWantingVsLiking } from "./incentive-salience-wanting-vs-liking";
 import { article as boxBreathingCravingsProtocol } from "./box-breathing-cravings-protocol";
 import { article as cravingHitsAtWorkWhatToDo } from "./craving-hits-at-work-what-to-do";
+import { article as aceScoreChildhoodTraumaAddiction } from "./ace-score-childhood-trauma-addiction";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -212,6 +213,7 @@ export const articles: Article[] = [
   incentiveSalienceWantingVsLiking,
   boxBreathingCravingsProtocol,
   cravingHitsAtWorkWhatToDo,
+  aceScoreChildhoodTraumaAddiction,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
