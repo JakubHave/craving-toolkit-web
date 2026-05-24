@@ -108,6 +108,7 @@ import { article as aceScoreChildhoodTraumaAddiction } from "./ace-score-childho
 import { article as addictionGeneticOrEnvironmental } from "./addiction-genetic-or-environmental";
 import { article as soberCuriousGenZMindfulDrinking } from "./sober-curious-gen-z-mindful-drinking";
 import { article as airportBarFlyingSober } from "./airport-bar-flying-sober";
+import { article as summerCravingsVacationRelapseRisk } from "./summer-cravings-vacation-relapse-risk";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -220,6 +221,7 @@ export const articles: Article[] = [
   addictionGeneticOrEnvironmental,
   soberCuriousGenZMindfulDrinking,
   airportBarFlyingSober,
+  summerCravingsVacationRelapseRisk,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
