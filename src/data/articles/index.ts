@@ -118,6 +118,7 @@ import { article as ifThenImplementationIntentionsCravings } from "./if-then-imp
 import { article as cravingAfterMealMechanism } from "./craving-after-meal-mechanism";
 import { article as soberDay90Milestone } from "./sober-day-90-milestone";
 import { article as triggeredBySmellConditionedCues } from "./triggered-by-smell-conditioned-cues";
+import { article as cravingsDuringPmsPeriodWeek } from "./cravings-during-pms-period-week";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -240,6 +241,7 @@ export const articles: Article[] = [
   cravingAfterMealMechanism,
   soberDay90Milestone,
   triggeredBySmellConditionedCues,
+  cravingsDuringPmsPeriodWeek,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
