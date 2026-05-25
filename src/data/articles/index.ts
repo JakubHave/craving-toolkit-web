@@ -116,6 +116,7 @@ import { article as videoGameAddictionQuittingAdults } from "./video-game-addict
 import { article as restlessLegsQuittingAlcohol } from "./restless-legs-quitting-alcohol";
 import { article as ifThenImplementationIntentionsCravings } from "./if-then-implementation-intentions-cravings";
 import { article as cravingAfterMealMechanism } from "./craving-after-meal-mechanism";
+import { article as soberDay90Milestone } from "./sober-day-90-milestone";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -236,6 +237,7 @@ export const articles: Article[] = [
   restlessLegsQuittingAlcohol,
   ifThenImplementationIntentionsCravings,
   cravingAfterMealMechanism,
+  soberDay90Milestone,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
