@@ -113,6 +113,7 @@ import { article as socialMediaTriggerRecovery } from "./social-media-trigger-re
 import { article as cravingJournalHowToKeepOne } from "./craving-journal-how-to-keep-one";
 import { article as fiveSensesGroundingCraving } from "./5-senses-grounding-craving";
 import { article as videoGameAddictionQuittingAdults } from "./video-game-addiction-quitting-adults";
+import { article as restlessLegsQuittingAlcohol } from "./restless-legs-quitting-alcohol";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -230,6 +231,7 @@ export const articles: Article[] = [
   cravingJournalHowToKeepOne,
   fiveSensesGroundingCraving,
   videoGameAddictionQuittingAdults,
+  restlessLegsQuittingAlcohol,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
