@@ -110,6 +110,7 @@ import { article as soberCuriousGenZMindfulDrinking } from "./sober-curious-gen-
 import { article as airportBarFlyingSober } from "./airport-bar-flying-sober";
 import { article as summerCravingsVacationRelapseRisk } from "./summer-cravings-vacation-relapse-risk";
 import { article as socialMediaTriggerRecovery } from "./social-media-trigger-recovery";
+import { article as cravingJournalHowToKeepOne } from "./craving-journal-how-to-keep-one";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -224,6 +225,7 @@ export const articles: Article[] = [
   airportBarFlyingSober,
   summerCravingsVacationRelapseRisk,
   socialMediaTriggerRecovery,
+  cravingJournalHowToKeepOne,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
