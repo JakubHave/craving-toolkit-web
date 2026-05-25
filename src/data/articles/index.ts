@@ -114,6 +114,7 @@ import { article as cravingJournalHowToKeepOne } from "./craving-journal-how-to-
 import { article as fiveSensesGroundingCraving } from "./5-senses-grounding-craving";
 import { article as videoGameAddictionQuittingAdults } from "./video-game-addiction-quitting-adults";
 import { article as restlessLegsQuittingAlcohol } from "./restless-legs-quitting-alcohol";
+import { article as ifThenImplementationIntentionsCravings } from "./if-then-implementation-intentions-cravings";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -232,6 +233,7 @@ export const articles: Article[] = [
   fiveSensesGroundingCraving,
   videoGameAddictionQuittingAdults,
   restlessLegsQuittingAlcohol,
+  ifThenImplementationIntentionsCravings,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
