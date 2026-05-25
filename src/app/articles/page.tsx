@@ -46,6 +46,11 @@ const itemListSchema = {
   })),
 };
 
+const firstRenderedSlug =
+  categories
+    .map((cat) => articlesMeta.find((a) => a.category === cat.id))
+    .find((a) => a !== undefined)?.slug ?? null;
+
 export default function ArticlesPage() {
   return (
     <>
@@ -90,7 +95,7 @@ export default function ArticlesPage() {
                     {cat.label}
                   </h2>
                   <div className="space-y-6">
-                    {catArticles.map((a, idx) => (
+                    {catArticles.map((a) => (
                       <article key={a.slug}>
                         <Link
                           href={`/articles/${a.slug}`}
@@ -104,7 +109,7 @@ export default function ArticlesPage() {
                                 width={320}
                                 height={180}
                                 sizes="(max-width: 640px) 100vw, 224px"
-                                priority={idx < 2}
+                                priority={a.slug === firstRenderedSlug}
                                 className="w-full h-full object-cover sm:rounded-l-2xl"
                               />
                             </div>
