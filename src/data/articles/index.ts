@@ -112,6 +112,7 @@ import { article as summerCravingsVacationRelapseRisk } from "./summer-cravings-
 import { article as socialMediaTriggerRecovery } from "./social-media-trigger-recovery";
 import { article as cravingJournalHowToKeepOne } from "./craving-journal-how-to-keep-one";
 import { article as fiveSensesGroundingCraving } from "./5-senses-grounding-craving";
+import { article as videoGameAddictionQuittingAdults } from "./video-game-addiction-quitting-adults";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -228,6 +229,7 @@ export const articles: Article[] = [
   socialMediaTriggerRecovery,
   cravingJournalHowToKeepOne,
   fiveSensesGroundingCraving,
+  videoGameAddictionQuittingAdults,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
