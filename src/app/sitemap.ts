@@ -69,6 +69,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
+      url: `${baseUrl}/calculators/sober-day-counter`,
+      lastModified: SITE_LAST_UPDATED,
+      changeFrequency: 'weekly',
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/about`,
       lastModified: SITE_LAST_UPDATED,
       changeFrequency: 'monthly',
