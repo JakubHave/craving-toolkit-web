@@ -87,7 +87,7 @@ The defense is unglamorous. Keep the structure. Keep the access barriers. Keep t
 
 ## What should you actually do on day 31?
 
-The most useful frame I have ever heard for the one-month mark is this: day 30 is a foundation, not a finish line. The work changes here, but it does not end here.
+The most useful frame I have ever heard for the one-month mark is this: day 30 is a foundation, not a finish line — the [day-by-day count](/calculators/sober-day-counter) climbs right past it. The work changes here, but it does not end here.
 
 A few specific moves help.
 
