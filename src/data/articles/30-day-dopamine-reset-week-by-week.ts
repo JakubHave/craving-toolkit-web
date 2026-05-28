@@ -42,7 +42,7 @@ A 30-day reset is not something you stumble into. It is something you prepare fo
 
 **Remove access.** Apply self-binding before day one. Delete apps. Throw out the substance. Block websites. Give your credit card to someone. Move the TV out of the bedroom. Whatever barriers you can create between yourself and the behavior, create them now, while your prefrontal cortex is still functioning. In the throes of a craving, you will not build barriers — you will dismantle them.
 
-**Set up a daily tracking system.** A simple notebook or notes app where you record one number each day: your mood on a scale of 1–10. This data will become invaluable during the hard weeks when your subjective experience says "nothing is improving" but the trendline shows otherwise.
+**Set up a daily tracking system.** A simple notebook or notes app where you record one number each day: your mood on a scale of 1–10, tracked next to your [count of days sober](/calculators/sober-day-counter). This data will become invaluable during the hard weeks when your subjective experience says "nothing is improving" but the trendline shows otherwise.
 
 **Lower your expectations.** You are not going to feel great during this experiment. You are going to feel worse before you feel better. Knowing this in advance is protective. The goal is not to enjoy the 30 days. The goal is to complete them and see where your brain is at the end.
 
