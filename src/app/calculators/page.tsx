@@ -23,11 +23,11 @@ const calculators = [
     status: "live" as const,
   },
   {
-    title: "Time Saved Calculator",
+    title: "Sober Day Counter",
     description:
-      "Calculate how many hours you've reclaimed since getting sober.",
-    href: "/calculators/time-saved",
-    status: "soon" as const,
+      "Find out exactly how many days, weeks, and months you've been sober — and what's your next milestone.",
+    href: "/calculators/sober-day-counter",
+    status: "live" as const,
   },
   {
     title: "Health Recovery Timeline",
