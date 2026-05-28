@@ -30,7 +30,7 @@ export const article: Article = {
       a: "Mark it with people who watched the worst of it. Choose something durable: a book, a class deposit, a piece of equipment for a new practice. Write down where you started so you do not forget. Avoid framing the milestone as having earned a break from recovery work."
     }
   ],
-  content: `Day 90 has its own particular morning. You wake up, you check the date, you realize you have made it. Then something strange happens. Instead of feeling triumphant, you feel exposed.
+  content: `Day 90 has its own particular morning. You wake up, you check your [sober day count](/calculators/sober-day-counter), you realize you have made it. Then something strange happens. Instead of feeling triumphant, you feel exposed.
 
 The number does not match the feeling. People around you treat 90 days like an achievement; inside, you are aware of how thin the structure still is, how recent the worst of it was, how loud the old voice can still get on a bad Wednesday.
 
