@@ -123,6 +123,7 @@ import { article as drinkingAfterGastricBypassCravings } from "./drinking-after-
 import { article as tiredAfterQuittingAlcohol } from "./tired-after-quitting-alcohol";
 import { article as stomachAcheAfterQuittingDrinking } from "./stomach-ache-after-quitting-drinking";
 import { article as threeDaysSober } from "./3-days-sober";
+import { article as soreThroatFromAlcoholWithdrawal } from "./sore-throat-from-alcohol-withdrawal";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -250,6 +251,7 @@ export const articles: Article[] = [
   tiredAfterQuittingAlcohol,
   stomachAcheAfterQuittingDrinking,
   threeDaysSober,
+  soreThroatFromAlcoholWithdrawal,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
