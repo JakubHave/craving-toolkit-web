@@ -120,6 +120,7 @@ import { article as soberDay90Milestone } from "./sober-day-90-milestone";
 import { article as triggeredBySmellConditionedCues } from "./triggered-by-smell-conditioned-cues";
 import { article as cravingsDuringPmsPeriodWeek } from "./cravings-during-pms-period-week";
 import { article as drinkingAfterGastricBypassCravings } from "./drinking-after-gastric-bypass-cravings";
+import { article as tiredAfterQuittingAlcohol } from "./tired-after-quitting-alcohol";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -244,6 +245,7 @@ export const articles: Article[] = [
   triggeredBySmellConditionedCues,
   cravingsDuringPmsPeriodWeek,
   drinkingAfterGastricBypassCravings,
+  tiredAfterQuittingAlcohol,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
