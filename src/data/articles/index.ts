@@ -121,6 +121,7 @@ import { article as triggeredBySmellConditionedCues } from "./triggered-by-smell
 import { article as cravingsDuringPmsPeriodWeek } from "./cravings-during-pms-period-week";
 import { article as drinkingAfterGastricBypassCravings } from "./drinking-after-gastric-bypass-cravings";
 import { article as tiredAfterQuittingAlcohol } from "./tired-after-quitting-alcohol";
+import { article as stomachAcheAfterQuittingDrinking } from "./stomach-ache-after-quitting-drinking";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -246,6 +247,7 @@ export const articles: Article[] = [
   cravingsDuringPmsPeriodWeek,
   drinkingAfterGastricBypassCravings,
   tiredAfterQuittingAlcohol,
+  stomachAcheAfterQuittingDrinking,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
