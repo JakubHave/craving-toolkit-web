@@ -128,6 +128,7 @@ import { article as sevenDaysNoAlcohol } from "./7-days-no-alcohol";
 import { article as twoWeeksNoAlcohol } from "./two-weeks-no-alcohol";
 import { article as fiveDaysSober } from "./5-days-sober";
 import { article as sixMonthsSober } from "./6-months-sober";
+import { article as sixtyDaysSober } from "./60-days-sober";
 
 import { Article, ArticleMeta } from "./types";
 
@@ -260,6 +261,7 @@ export const articles: Article[] = [
   twoWeeksNoAlcohol,
   fiveDaysSober,
   sixMonthsSober,
+  sixtyDaysSober,
 ];
 
 export const articlesMeta: ArticleMeta[] = articles.map(
